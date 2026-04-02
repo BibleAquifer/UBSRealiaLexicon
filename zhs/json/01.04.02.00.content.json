@@ -1,0 +1,234 @@
+[
+{
+"content_id": "REALIA:1.4.2",
+"reference_id": "REALIA:1.4.2",
+"version": "1.0.4",
+"title": "标题：网、网罗（net）",
+"media_type": "Text",
+"index_reference": "1.4.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.4.2\"><span class=\"thlex-key\">1.4.2</span> 标题：网、网罗（net）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חֵרֶם</span> <span class=\"thlex-translit\">(音译：cherem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Eccl7:26\">ECC 7:26</a>, <a href=\"https://ref.ly/Mic7:2\">MIC 7:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִכְמָר</span> <span class=\"thlex-translit\">(音译：mikmar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa51:20\">ISA 51:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מָצוֹד</span> <span class=\"thlex-translit\">(音译：matsod（参)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Eccl7:26\">ECC 7:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מְצוּדָה</span> <span class=\"thlex-translit\">(音译：mtsudah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps66:11\">PSA 66:11</a>, <a href=\"https://ref.ly/Ezek12:13\">EZK 12:13</a>, <a href=\"https://ref.ly/Ezek17:20\">EZK 17:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：רֶשֶׁת</span> <span class=\"thlex-translit\">(音译：resheth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job18:8\">JOB 18:8</a>, <a href=\"https://ref.ly/Ps9:16\">PSA 9:16</a>, <a href=\"https://ref.ly/Ps10:9\">PSA 10:9</a>, <a href=\"https://ref.ly/Ps25:15\">PSA 25:15</a>, <a href=\"https://ref.ly/Ps31:5\">PSA 31:5</a>, <a href=\"https://ref.ly/Ps35:7\">PSA 35:7</a>, <a href=\"https://ref.ly/Ps35:8\">PSA 35:8</a>, <a href=\"https://ref.ly/Ps57:7\">PSA 57:7</a>, <a href=\"https://ref.ly/Ps140:6\">PSA 140:6</a>, <a href=\"https://ref.ly/Prov1:17\">PRO 1:17</a>, <a href=\"https://ref.ly/Prov29:5\">PRO 29:5</a>, <a href=\"https://ref.ly/Lam1:13\">LAM 1:13</a>, <a href=\"https://ref.ly/Ezek12:13\">EZK 12:13</a>, <a href=\"https://ref.ly/Ezek17:20\">EZK 17:20</a>, <a href=\"https://ref.ly/Ezek19:8\">EZK 19:8</a>, <a href=\"https://ref.ly/Hos5:1\">HOS 5:1</a>, <a href=\"https://ref.ly/Hos7:12\">HOS 7:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：παγίς</span> <span class=\"thlex-translit\">(音译：pagis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke21:35\">LUK 21:35</a>, <a href=\"https://ref.ly/Rom11:9\">ROM 11:9</a>, <a href=\"https://ref.ly/1Tim3:7\">1TI 3:7</a>, <a href=\"https://ref.ly/1Tim6:9\">1TI 6:9</a>, <a href=\"https://ref.ly/2Tim2:26\">2TI 2:26</a>, <a href=\"https://ref.ly/Tob14:10\">TOB 14:10</a>, <a href=\"https://ref.ly/Tob14:10\">TOB 14:10</a>, <a href=\"https://ref.ly/Wis14:11\">WIS 14:11</a>, <a href=\"https://ref.ly/Sir9:3\">SIR 9:3</a>, <a href=\"https://ref.ly/Sir9:13\">SIR 9:13</a>, <a href=\"https://ref.ly/Sir27:20\">SIR 27:20</a>, <a href=\"https://ref.ly/Sir27:26\">SIR 27:26</a>, <a href=\"https://ref.ly/Sir27:29\">SIR 27:29</a>, <a href=\"https://ref.ly/Sir51:2\">SIR 51:2</a>, <a href=\"https://ref.ly/1Macc1:35\">1MA 1:35</a>, <a href=\"https://ref.ly/1Macc5:4\">1MA 5:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0339_hunting_net.jpg\" alt=\"男子用网捕鹿（亚述巴尼拔（Ashurbanipal）王狩猎狮子的浮雕，尼尼微北宫，S室，第17-18号壁板，约公元前645-635年）\"><figcaption class=\"thlex-caption\">男子用网捕鹿（亚述巴尼拔（Ashurbanipal）王狩猎狮子的浮雕，尼尼微北宫，S室，第17–18号壁板，约公元前645–635年） (© Zunkir, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>网是用绳子做成的网状物，或者是带有很大孔眼的软织物。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>网是一种狩猎工具，放置在鸟类或野兽可能会飞入或进入的地方，以将其捉获。网也常用来狩猎，例如，猎人会悄悄跟踪猎物，当足够接近时，就突然把网扔到猎物身上。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>世界各地的人都会使用陷阱来捕捉鸟类或野兽，因此找到一个合适的词语应该不难。然而，在许多语境中，翻译者无法确定经文提到的网是用来捕捉野兽，还是用来捕捉鸟类。如果目标语言不作区分，那么可以使用“网”这个统称。如果必须要进行区分，翻译者应仔细考察上下文。下述清单列出了哪些经文是指捕捉野兽（包括人类）的网，哪些经文是指捕捉鸟类的网，哪些经文并未清楚表达：</p>\n<p>野兽：<a href=\"https://ref.ly/Ps9:16\">PSA 9:16</a> （《和》9:15），<a href=\"https://ref.ly/Ps35:7\">PSA 35:7</a>; <a href=\"https://ref.ly/Ps35:8\">PSA 35:8</a> ；<a href=\"https://ref.ly/Prov29:5\">PRO 29:5</a> ；<a href=\"https://ref.ly/Isa51:20\">ISA 51:20</a> ；<a href=\"https://ref.ly/Lam1:13\">LAM 1:13</a> ；<a href=\"https://ref.ly/Ezek12:13\">EZK 12:13</a> ，<a href=\"https://ref.ly/Ezek17:20\">EZK 17:20</a> ，<a href=\"https://ref.ly/Ezek19:8\">EZK 19:8</a> ；<a href=\"https://ref.ly/1Tim3:7\">1TI 3:7</a> ；（<a href=\"https://ref.ly/Sir9:13\">SIR 9:13</a> ，<a href=\"https://ref.ly/Sir27:20\">SIR 27:20</a> ，<a href=\"https://ref.ly/Sir27:26\">SIR 27:26</a> ，<a href=\"https://ref.ly/Sir27:29\">SIR 27:29</a> ；<a href=\"https://ref.ly/1Macc1:35\">1MA 1:35</a> ，<a href=\"https://ref.ly/1Macc5:4\">1MA 5:4</a> ）</p>\n<p>鸟类：<a href=\"https://ref.ly/Prov1:17\">PRO 1:17</a> ；<a href=\"https://ref.ly/Hos7:12\">HOS 7:12</a></p>\n<p>不确定：<a href=\"https://ref.ly/Job18:8\">JOB 18:8</a> ；<a href=\"https://ref.ly/Ps10:9\">PSA 10:9</a> ，<a href=\"https://ref.ly/Ps25:15\">PSA 25:15</a> ，<a href=\"https://ref.ly/Ps31:5\">PSA 31:5</a> （《和》31:4），<a href=\"https://ref.ly/Ps57:7\">PSA 57:7</a> （《和》57:6），<a href=\"https://ref.ly/Ps140:6\">PSA 140:6</a> （《和》140:5）；<a href=\"https://ref.ly/Eccl7:26\">ECC 7:26</a> ；<a href=\"https://ref.ly/Hos5:1\">HOS 5:1</a> ；<a href=\"https://ref.ly/Luke21:35\">LUK 21:35</a> ；<a href=\"https://ref.ly/Rom11:9\">ROM 11:9</a> ；<a href=\"https://ref.ly/1Tim6:9\">1TI 6:9</a> ；<a href=\"https://ref.ly/2Tim2:26\">2TI 2:26</a> ；（<a href=\"https://ref.ly/Tob14:10\">TOB 14:10</a> ；<a href=\"https://ref.ly/Wis14:11\">WIS 14:11</a> ；<a href=\"https://ref.ly/Sir9:3\">SIR 9:3</a> ，<a href=\"https://ref.ly/Sir51:2\">SIR 51:2</a> ）</p>\n<p>在<a href=\"https://ref.ly/Luke21:35\">LUK 21:35</a> ，重点是事件出人意料地发生，而不在于实际的物品；然而，这个物品通常还是会保留在译文中。</p>\n<p>如果经文是比喻性的，那么也可以不使用网的比喻，特别是在提到网反而会误导读者的情况下；例如，<a href=\"https://ref.ly/Mic7:2\">MIC 7:2</a> d可以译作，“每个人都试图诱捕其他人”（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "21007026",
+"start_ref_usfm": "ECC 7:26",
+"end_ref": "21007026",
+"end_ref_usfm": "ECC 7:26"
+},
+{
+"start_ref": "33007002",
+"start_ref_usfm": "MIC 7:2",
+"end_ref": "33007002",
+"end_ref_usfm": "MIC 7:2"
+},
+{
+"start_ref": "23051020",
+"start_ref_usfm": "ISA 51:20",
+"end_ref": "23051020",
+"end_ref_usfm": "ISA 51:20"
+},
+{
+"start_ref": "19066011",
+"start_ref_usfm": "PSA 66:11",
+"end_ref": "19066011",
+"end_ref_usfm": "PSA 66:11"
+},
+{
+"start_ref": "26012013",
+"start_ref_usfm": "EZK 12:13",
+"end_ref": "26012013",
+"end_ref_usfm": "EZK 12:13"
+},
+{
+"start_ref": "26017020",
+"start_ref_usfm": "EZK 17:20",
+"end_ref": "26017020",
+"end_ref_usfm": "EZK 17:20"
+},
+{
+"start_ref": "18018008",
+"start_ref_usfm": "JOB 18:8",
+"end_ref": "18018008",
+"end_ref_usfm": "JOB 18:8"
+},
+{
+"start_ref": "19009016",
+"start_ref_usfm": "PSA 9:16",
+"end_ref": "19009016",
+"end_ref_usfm": "PSA 9:16"
+},
+{
+"start_ref": "19010009",
+"start_ref_usfm": "PSA 10:9",
+"end_ref": "19010009",
+"end_ref_usfm": "PSA 10:9"
+},
+{
+"start_ref": "19025015",
+"start_ref_usfm": "PSA 25:15",
+"end_ref": "19025015",
+"end_ref_usfm": "PSA 25:15"
+},
+{
+"start_ref": "19031005",
+"start_ref_usfm": "PSA 31:5",
+"end_ref": "19031005",
+"end_ref_usfm": "PSA 31:5"
+},
+{
+"start_ref": "19035007",
+"start_ref_usfm": "PSA 35:7",
+"end_ref": "19035007",
+"end_ref_usfm": "PSA 35:7"
+},
+{
+"start_ref": "19035008",
+"start_ref_usfm": "PSA 35:8",
+"end_ref": "19035008",
+"end_ref_usfm": "PSA 35:8"
+},
+{
+"start_ref": "19057007",
+"start_ref_usfm": "PSA 57:7",
+"end_ref": "19057007",
+"end_ref_usfm": "PSA 57:7"
+},
+{
+"start_ref": "19140006",
+"start_ref_usfm": "PSA 140:6",
+"end_ref": "19140006",
+"end_ref_usfm": "PSA 140:6"
+},
+{
+"start_ref": "20001017",
+"start_ref_usfm": "PRO 1:17",
+"end_ref": "20001017",
+"end_ref_usfm": "PRO 1:17"
+},
+{
+"start_ref": "20029005",
+"start_ref_usfm": "PRO 29:5",
+"end_ref": "20029005",
+"end_ref_usfm": "PRO 29:5"
+},
+{
+"start_ref": "25001013",
+"start_ref_usfm": "LAM 1:13",
+"end_ref": "25001013",
+"end_ref_usfm": "LAM 1:13"
+},
+{
+"start_ref": "26019008",
+"start_ref_usfm": "EZK 19:8",
+"end_ref": "26019008",
+"end_ref_usfm": "EZK 19:8"
+},
+{
+"start_ref": "28005001",
+"start_ref_usfm": "HOS 5:1",
+"end_ref": "28005001",
+"end_ref_usfm": "HOS 5:1"
+},
+{
+"start_ref": "28007012",
+"start_ref_usfm": "HOS 7:12",
+"end_ref": "28007012",
+"end_ref_usfm": "HOS 7:12"
+},
+{
+"start_ref": "42021035",
+"start_ref_usfm": "LUK 21:35",
+"end_ref": "42021035",
+"end_ref_usfm": "LUK 21:35"
+},
+{
+"start_ref": "45011009",
+"start_ref_usfm": "ROM 11:9",
+"end_ref": "45011009",
+"end_ref_usfm": "ROM 11:9"
+},
+{
+"start_ref": "54003007",
+"start_ref_usfm": "1TI 3:7",
+"end_ref": "54003007",
+"end_ref_usfm": "1TI 3:7"
+},
+{
+"start_ref": "54006009",
+"start_ref_usfm": "1TI 6:9",
+"end_ref": "54006009",
+"end_ref_usfm": "1TI 6:9"
+},
+{
+"start_ref": "55002026",
+"start_ref_usfm": "2TI 2:26",
+"end_ref": "55002026",
+"end_ref_usfm": "2TI 2:26"
+},
+{
+"start_ref": "68014010",
+"start_ref_usfm": "TOB 14:10",
+"end_ref": "68014010",
+"end_ref_usfm": "TOB 14:10"
+},
+{
+"start_ref": "71014011",
+"start_ref_usfm": "WIS 14:11",
+"end_ref": "71014011",
+"end_ref_usfm": "WIS 14:11"
+},
+{
+"start_ref": "72009003",
+"start_ref_usfm": "SIR 9:3",
+"end_ref": "72009003",
+"end_ref_usfm": "SIR 9:3"
+},
+{
+"start_ref": "72009013",
+"start_ref_usfm": "SIR 9:13",
+"end_ref": "72009013",
+"end_ref_usfm": "SIR 9:13"
+},
+{
+"start_ref": "72027020",
+"start_ref_usfm": "SIR 27:20",
+"end_ref": "72027020",
+"end_ref_usfm": "SIR 27:20"
+},
+{
+"start_ref": "72027026",
+"start_ref_usfm": "SIR 27:26",
+"end_ref": "72027026",
+"end_ref_usfm": "SIR 27:26"
+},
+{
+"start_ref": "72027029",
+"start_ref_usfm": "SIR 27:29",
+"end_ref": "72027029",
+"end_ref_usfm": "SIR 27:29"
+},
+{
+"start_ref": "72051002",
+"start_ref_usfm": "SIR 51:2",
+"end_ref": "72051002",
+"end_ref_usfm": "SIR 51:2"
+},
+{
+"start_ref": "78001035",
+"start_ref_usfm": "1MA 1:35",
+"end_ref": "78001035",
+"end_ref_usfm": "1MA 1:35"
+},
+{
+"start_ref": "78005004",
+"start_ref_usfm": "1MA 5:4",
+"end_ref": "78005004",
+"end_ref_usfm": "1MA 5:4"
+}
+],
+"resource": []
+}
+}
+]

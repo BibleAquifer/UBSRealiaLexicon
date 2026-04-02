@@ -1,0 +1,90 @@
+[
+{
+"content_id": "REALIA:1.2.2",
+"reference_id": "REALIA:1.2.2",
+"version": "1.0.4",
+"title": "标题：牲畜棚、牲畜围栏（animal pen, stall）",
+"media_type": "Text",
+"index_reference": "1.2.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.2\"><span class=\"thlex-key\">1.2.2</span> 标题：牲畜棚、牲畜围栏（animal pen, stall）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֻרְוָה</span> <span class=\"thlex-translit\">(音译：’awerah, ’urwah, ’uryah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs5:6\">1KI 5:6</a>, <a href=\"https://ref.ly/2Chr9:25\">2CH 9:25</a>, <a href=\"https://ref.ly/2Chr32:28\">2CH 32:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בַּיִת</span> <span class=\"thlex-translit\">(音译：bayith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam6:7\">1SA 6:7</a>, <a href=\"https://ref.ly/1Sam6:10\">1SA 6:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מַרְבֵּק</span> <span class=\"thlex-translit\">(音译：marbeq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam28:24\">1SA 28:24</a>, <a href=\"https://ref.ly/Jer46:21\">JER 46:21</a>, <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a>, <a href=\"https://ref.ly/Mal3:20\">MAL 3:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：רֶפֶת</span> <span class=\"thlex-translit\">(音译：refeth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Hab3:17\">HAB 3:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：φάτνη</span> <span class=\"thlex-translit\">(音译：fatnē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke13:15\">LUK 13:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>这种构筑物是一个畜栏，是牲口棚里面用来喂养牲畜的那块地方，或者只是一个在室外给牲畜吃食的地方，通常是个半圆形的封闭结构。一般来说，人们拥有的牲口不多，所以这些畜棚常在人们生活的房子附近，甚至是在房子里面。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>与<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.2.1 羊圈、羊栏 (sheep pen, sheepfold)&lt;REALIA:1.2.1&gt;</a> 不同，这种围栏是永久性的，并且建在羊主人的住所附近。</p>\n<p>在<a href=\"https://ref.ly/1Sam28:24\">1SA 28:24</a> 、<a href=\"https://ref.ly/Jer46:21\">JER 46:21</a> 和<a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a> 中，希伯来文短语<em>&#x27;egel marbeq</em> 的字面意思是“属于围栏的牛犊”，表示牛犊一直被养在畜棚里面直到养肥。虽然<em>marbeq</em> 通常可以不翻译，但也可以依循<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 对<a href=\"https://ref.ly/Luke15:23\">LUK 15:23</a> 中相应短语的译法，译为“best calf”（“最好的牛犊”；比较<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ，“prize calf”“上好的牛犊”）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11005006",
+"start_ref_usfm": "1KI 5:6",
+"end_ref": "11005006",
+"end_ref_usfm": "1KI 5:6"
+},
+{
+"start_ref": "14009025",
+"start_ref_usfm": "2CH 9:25",
+"end_ref": "14009025",
+"end_ref_usfm": "2CH 9:25"
+},
+{
+"start_ref": "14032028",
+"start_ref_usfm": "2CH 32:28",
+"end_ref": "14032028",
+"end_ref_usfm": "2CH 32:28"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006007",
+"end_ref_usfm": "1SA 6:7"
+},
+{
+"start_ref": "09006010",
+"start_ref_usfm": "1SA 6:10",
+"end_ref": "09006010",
+"end_ref_usfm": "1SA 6:10"
+},
+{
+"start_ref": "09028024",
+"start_ref_usfm": "1SA 28:24",
+"end_ref": "09028024",
+"end_ref_usfm": "1SA 28:24"
+},
+{
+"start_ref": "24046021",
+"start_ref_usfm": "JER 46:21",
+"end_ref": "24046021",
+"end_ref_usfm": "JER 46:21"
+},
+{
+"start_ref": "30006004",
+"start_ref_usfm": "AMO 6:4",
+"end_ref": "30006004",
+"end_ref_usfm": "AMO 6:4"
+},
+{
+"start_ref": "39003020",
+"start_ref_usfm": "MAL 3:20",
+"end_ref": "39003020",
+"end_ref_usfm": "MAL 3:20"
+},
+{
+"start_ref": "35003017",
+"start_ref_usfm": "HAB 3:17",
+"end_ref": "35003017",
+"end_ref_usfm": "HAB 3:17"
+},
+{
+"start_ref": "42013015",
+"start_ref_usfm": "LUK 13:15",
+"end_ref": "42013015",
+"end_ref_usfm": "LUK 13:15"
+},
+{
+"start_ref": "42015023",
+"start_ref_usfm": "LUK 15:23",
+"end_ref": "42015023",
+"end_ref_usfm": "LUK 15:23"
+}
+],
+"resource": []
+}
+}
+]

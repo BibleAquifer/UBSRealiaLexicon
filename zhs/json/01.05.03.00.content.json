@@ -1,0 +1,17 @@
+[
+{
+"content_id": "REALIA:1.5.3",
+"reference_id": "REALIA:1.5.3",
+"version": "1.0.4",
+"title": "标题：布料生产（cloth manufacture）",
+"media_type": "Text",
+"index_reference": "1.5.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.5.3\"><span class=\"thlex-key\">1.5.3</span> 标题：布料生产（cloth manufacture）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\" data-image-id=\"WEB-0342_weaving_hans\"><img class=\"thlex-img\" alt=\"WEB-0342_weaving_hans\"></figure>织布是制作布料的艺术。首先，把纤维纺成线。将一团纤维附着在一个短的尖木（<strong>纺锤</strong> ）上，然后转动纺锤，同时拉出纤维成为细线。这样，纺出的线就缠绕在纺锤上。在纺好线之后，将其成直角相互交织。<strong>织机</strong> 就是以这种方式编织布料的设备。在卧式织机中，将一排纱线绕在一个粗木轴上，然后系在另一个木轴上。这些线（称为经纱）稍微分开并保持绷紧状态，从经线侧面插入另一根线（称为纬线），先是放在第一根经线的上方，然后再插入下一根经线的下方。如此反复，直到纬线穿过所有的经线。为了快速完成这个动作，织布人会把纬线固定在一块小的扁平木头或骨头上，称为<strong>梭子</strong> 。带着纬纱的梭子连续不断地来回穿过经纱，形成经纬交织的布料。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+}
+]

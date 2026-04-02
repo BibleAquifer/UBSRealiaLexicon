@@ -1,0 +1,72 @@
+[
+{
+"content_id": "REALIA:11.4.1.2",
+"reference_id": "REALIA:11.4.1.2",
+"version": "1.0.4",
+"title": "标题：掌（palm）",
+"media_type": "Text",
+"index_reference": "11.4.1.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.4.1.2\"><span class=\"thlex-key\">11.4.1.2</span> 标题：掌（palm）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：טֶפַח</span> <span class=\"thlex-translit\">(音译：tefach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a>, <a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：טֹפַח</span> <span class=\"thlex-translit\">(音译：tofach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:25\">EXO 25:25</a>, <a href=\"https://ref.ly/Exod37:12\">EXO 37:12</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：טַפְחָה</span> <span class=\"thlex-translit\">(音译：tafchah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps39:6\">PSA 39:6</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>tefach</em> /<em>tofach</em> 是手在指头底部（不包括拇指）的宽度。</p>\n<p>\n            <a href=\"https://ref.ly/Exod25:25\">EXO 25:25</a>; <a href=\"https://ref.ly/Exod37:12\">EXO 37:12</a>; <a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a>; <a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a> ：许多语言可以像希伯来文本那样表达，即“手的宽度”或“掌宽”。如果不能，则可以译为“八厘米”（如<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> ）或“三英寸”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。由于某种原因，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 在《出埃及记》作“三英寸”（“three inches”），在《列王纪上》和《历代志下》作“四英寸”（“four inches”）。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>; <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a> ：这里提到的“肘”比平常的“肘”长一<em>tofach</em> 。这个量度是《以西结书》40–48章所用的量度。短肘的长度约为45厘米（18英寸），这里的长肘应为53厘米（21英寸）。有些译本想要反映出这个差异。然而，许多译本将“短肘”和“长肘”都圆整为50厘米（18英寸）。</p>\n<p>\n            <a href=\"https://ref.ly/Ps39:6\">PSA 39:6</a> （《和》39:5）：这里的<em>tefach</em> （<em>tapchah</em> ）一词是一个象征性的数字，表示人生短暂。耶稣在<a href=\"https://ref.ly/Matt6:27\">MAT 6:27</a> 所说的话可能就是源自这节经文。参下文关于“贝库司”的讨论。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007026",
+"start_ref_usfm": "1KI 7:26",
+"end_ref": "11007026",
+"end_ref_usfm": "1KI 7:26"
+},
+{
+"start_ref": "14004005",
+"start_ref_usfm": "2CH 4:5",
+"end_ref": "14004005",
+"end_ref_usfm": "2CH 4:5"
+},
+{
+"start_ref": "02025025",
+"start_ref_usfm": "EXO 25:25",
+"end_ref": "02025025",
+"end_ref_usfm": "EXO 25:25"
+},
+{
+"start_ref": "02037012",
+"start_ref_usfm": "EXO 37:12",
+"end_ref": "02037012",
+"end_ref_usfm": "EXO 37:12"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26040043",
+"start_ref_usfm": "EZK 40:43",
+"end_ref": "26040043",
+"end_ref_usfm": "EZK 40:43"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+},
+{
+"start_ref": "19039006",
+"start_ref_usfm": "PSA 39:6",
+"end_ref": "19039006",
+"end_ref_usfm": "PSA 39:6"
+},
+{
+"start_ref": "40006027",
+"start_ref_usfm": "MAT 6:27",
+"end_ref": "40006027",
+"end_ref_usfm": "MAT 6:27"
+}
+],
+"resource": []
+}
+}
+]

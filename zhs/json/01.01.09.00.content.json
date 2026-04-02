@@ -1,0 +1,30 @@
+[
+{
+"content_id": "REALIA:1.1.9",
+"reference_id": "REALIA:1.1.9",
+"version": "1.0.4",
+"title": "标题：铁器、铁制工具（iron tools）",
+"media_type": "Text",
+"index_reference": "1.1.9",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9\"><span class=\"thlex-key\">1.1.9</span> 标题：铁器、铁制工具（iron tools）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> 给翻译者带来一个很特别的问题；这里的希伯来文本有些含糊，根据具体的解释，不同译本可能会列出五到七种不同的工具。下述讨论依据<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 的翻译顺序：</p>\n<p>“犁”（“Plowshare”；<em>macharesheth</em> ）：有些解经家认为，清单中的第一个词语是一个统称，意思是“犁地的工具”。后面的词语是几种工具，包括<em>machareshah</em> ；在希伯来文中，<em>machareshah</em> 与<em>macharesheth</em> 的辅音完全相同，只有加上表示元音的点之后才能区别开来。然而，该解释仅仅只是一种猜测。</p>\n<p>“鹤嘴锄”（“Mattock”；<em>’eth</em> ）：这个词可能是指“犁”（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.5 犁、犁头 (Plow and plowshare)&lt;REALIA:1.1.5&gt;</a> ），虽然古时的鹤嘴锄（一种锄头）已被发现。</p>\n<p>“斧”（“Axe”；<em>qardom</em> ）：《七十士译本》也将这个词译为“斧”（希腊文<em>axinē</em> ）。更准确地说，这可能是一种类似斧头的工具，刃部与手柄垂直。这种工具可以像锄头那样松土，或者像锛那样砍削木头（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9.3 斧头、锛 (axe, adze)&lt;REALIA:1.1.9.3&gt;</a> ）。</p>\n<p>“镰”（“Sickle”；<em>machareshah</em> ）：<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 再次按照《七十士译本》将这个词译为“sickle”（“镰刀”；参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.6 镰刀 (sickle)&lt;REALIA:1.1.6&gt;</a> ）。然而，另一位古代的翻译者将该词译为一种用来松土和除草的小型花园锄头。本手册倾向于后面这种解法（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9.1 锄头(hoe)&lt;REALIA:1.1.9.1&gt;</a> ）。</p>\n<p>“价钱是一个pim”（<em>haptsirah fim</em> ）：参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.1.3 三分之二舍客勒（pim）&lt;REALIA:11.1.3&gt;</a> 中关于<em>pim</em> 的讨论。</p>\n<p>“三分之一舍客勒”（<em>shlosh qilshon</em> ）：这个希伯来文短语的含义不明。许多译本认为这是第二个（并且较低的）价格，是磨利这些工具中两种较小工具的费用。这样翻译需要假定希伯来文本中的字母顺序已被颠倒（参《希伯来文旧约文本项目初步和中期报告》，<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> ）。许多解经家和翻译者认为这里提到的是另一种农具，一种带木柄的三齿耙或叉子。如果这是耙子，那么就是用它来把散落一地的枝叶拢在一起。不过它更有可能是一个叉子，叉齿需要经常磨尖。这种叉子用来叉起枝叶堆。</p>\n<p>“尖头棒”（“Goad”；<em>darvan</em> ）：参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.2 刺棒、尖头棒 (goad)&lt;REALIA:1.1.2&gt;</a> 。</p>\n<p>这段经文要表达的要点是：以色列人被迫把他们用钝了的农具带到非利士人那里去磨利。如果目标语言没有表示这几种农具的对应词语，翻译者可以用一般性的说法来表达这个意思，第20—21节可以这样翻译：“以色列人不得不去非利士人那里磨快他们的铁制农具。不同农具的价格不同。”另外也可以译成：“以色列人不得不去非利士人那里把他们已经用钝的铁制农具磨快。不同农具的价格不同。”另参《〈撒母耳记〉手册》（<em>A Handbook on the First and Second Books of Samuel</em> ）第267—269页对于这段经文的注解。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+}
+],
+"resource": []
+}
+}
+]
