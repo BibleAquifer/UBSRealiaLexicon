@@ -1,0 +1,42 @@
+[
+{
+"content_id": "REALIA:1.7.3",
+"reference_id": "REALIA:1.7.3",
+"version": "1.0.4",
+"title": "标题：笔（pen）",
+"media_type": "Text",
+"index_reference": "1.7.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.7.3\"><span class=\"thlex-key\">1.7.3</span> 标题：笔（pen）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עֵט, סֹטֵר</span> <span class=\"thlex-translit\">(音译：‘et, ‘et sofer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps45:2\">PSA 45:2</a>, <a href=\"https://ref.ly/Jer8:8\">JER 8:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κάλαμος</span> <span class=\"thlex-translit\">(音译：kalamos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/3John1:13\">3JN 1:13</a>, <a href=\"https://ref.ly/3Macc4:20\">3MA 4:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>将芦苇以特别的方式切割，就成为了笔，然后蘸着墨在书写材料上留下记号。笔长约20厘米（8英寸），一端磨尖并略微劈开，从而形成笔尖。有时也可以用灯心草来做笔，按照某个角度将其切断然后研磨，形成一把细刷子。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.7.2 墨 (ink)&lt;REALIA:1.7.2&gt;</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "19045002",
+"start_ref_usfm": "PSA 45:2",
+"end_ref": "19045002",
+"end_ref_usfm": "PSA 45:2"
+},
+{
+"start_ref": "24008008",
+"start_ref_usfm": "JER 8:8",
+"end_ref": "24008008",
+"end_ref_usfm": "JER 8:8"
+},
+{
+"start_ref": "64001013",
+"start_ref_usfm": "3JN 1:13",
+"end_ref": "64001013",
+"end_ref_usfm": "3JN 1:13"
+},
+{
+"start_ref": "80004020",
+"start_ref_usfm": "3MA 4:20",
+"end_ref": "80004020",
+"end_ref_usfm": "3MA 4:20"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,108 @@
+[
+{
+"content_id": "REALIA:11.6.2.5",
+"reference_id": "REALIA:11.6.2.5",
+"version": "1.0.4",
+"title": "标题：得拿利（denarius）",
+"media_type": "Text",
+"index_reference": "11.6.2.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.6.2.5\"><span class=\"thlex-key\">11.6.2.5</span> 标题：得拿利（denarius）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：δηνάριον</span> <span class=\"thlex-translit\">(音译：dēnarion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt18:28\">MAT 18:28</a>, <a href=\"https://ref.ly/Matt20:2\">MAT 20:2</a>, <a href=\"https://ref.ly/Matt20:9\">MAT 20:9</a>, <a href=\"https://ref.ly/Matt20:10\">MAT 20:10</a>, <a href=\"https://ref.ly/Matt20:13\">MAT 20:13</a>, <a href=\"https://ref.ly/Matt22:19\">MAT 22:19</a>, <a href=\"https://ref.ly/Mark6:37\">MRK 6:37</a>, <a href=\"https://ref.ly/Mark12:15\">MRK 12:15</a>, <a href=\"https://ref.ly/Mark14:5\">MRK 14:5</a>, <a href=\"https://ref.ly/Luke7:41\">LUK 7:41</a>, <a href=\"https://ref.ly/Luke10:35\">LUK 10:35</a>, <a href=\"https://ref.ly/Luke20:24\">LUK 20:24</a>, <a href=\"https://ref.ly/John6:7\">JHN 6:7</a>, <a href=\"https://ref.ly/John12:5\">JHN 12:5</a>, <a href=\"https://ref.ly/Rev6:6\">REV 6:6</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0001_denarius.jpg\" alt=\"在银币上的提庇留皇帝头像\"><figcaption class=\"thlex-caption\">在银币上的提庇留皇帝头像 (© Kwo-Wei Peng by United Bible Societies)</figcaption></figure>由于全球近期通货快速膨胀，金银铜等铸币金属的购买力相对于古时大大降低，因此许多翻译者试图将货币与购买力或薪资水平联系起来。因此，“得拿利”不是译成某个数额的现代货币，而是与日工资等同。例如，<a href=\"https://ref.ly/Rev6:6\">REV 6:6</a> 的原文字面意为“两百得拿利”，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 采用了直译，然而也可以译成“相当于两百天的工资”，甚至“一个工人八个月的工资”。在大多数情况下，这都是一个很好的译法，不过也有一些例外：（1）有些经文不容易换算成日工资；例如在<a href=\"https://ref.ly/Mark6:37\">MRK 6:37</a> ，第二个仆人的债务差不多是4个月的工资，这个数字人们比较容易想象，但是第一个仆人的债务差不多相当于1000个人20年的工资，如果译文这样表达就很笨拙了。（2）在有些文化中，村庄中的每个人或每个家庭独自狩猎、采摘或种地，因此没有按天雇用工人的概念，此时“日工资”可能就没有什么意义。</p>\n<p>在计算日工资时，翻译者不要忘记，犹太人和古代世界的其他族群不一样，他们在七天中有一天是不工作的。因此，工作周有六个工作日，工作月约有25天。<a href=\"https://ref.ly/Matt18:28\">MAT 18:28</a> 所述100得拿利等于四个月的工资，而不是三个月的工资；有些通俗译本就译成了三个月。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40018028",
+"start_ref_usfm": "MAT 18:28",
+"end_ref": "40018028",
+"end_ref_usfm": "MAT 18:28"
+},
+{
+"start_ref": "40020002",
+"start_ref_usfm": "MAT 20:2",
+"end_ref": "40020002",
+"end_ref_usfm": "MAT 20:2"
+},
+{
+"start_ref": "40020009",
+"start_ref_usfm": "MAT 20:9",
+"end_ref": "40020009",
+"end_ref_usfm": "MAT 20:9"
+},
+{
+"start_ref": "40020010",
+"start_ref_usfm": "MAT 20:10",
+"end_ref": "40020010",
+"end_ref_usfm": "MAT 20:10"
+},
+{
+"start_ref": "40020013",
+"start_ref_usfm": "MAT 20:13",
+"end_ref": "40020013",
+"end_ref_usfm": "MAT 20:13"
+},
+{
+"start_ref": "40022019",
+"start_ref_usfm": "MAT 22:19",
+"end_ref": "40022019",
+"end_ref_usfm": "MAT 22:19"
+},
+{
+"start_ref": "41006037",
+"start_ref_usfm": "MRK 6:37",
+"end_ref": "41006037",
+"end_ref_usfm": "MRK 6:37"
+},
+{
+"start_ref": "41012015",
+"start_ref_usfm": "MRK 12:15",
+"end_ref": "41012015",
+"end_ref_usfm": "MRK 12:15"
+},
+{
+"start_ref": "41014005",
+"start_ref_usfm": "MRK 14:5",
+"end_ref": "41014005",
+"end_ref_usfm": "MRK 14:5"
+},
+{
+"start_ref": "42007041",
+"start_ref_usfm": "LUK 7:41",
+"end_ref": "42007041",
+"end_ref_usfm": "LUK 7:41"
+},
+{
+"start_ref": "42010035",
+"start_ref_usfm": "LUK 10:35",
+"end_ref": "42010035",
+"end_ref_usfm": "LUK 10:35"
+},
+{
+"start_ref": "42020024",
+"start_ref_usfm": "LUK 20:24",
+"end_ref": "42020024",
+"end_ref_usfm": "LUK 20:24"
+},
+{
+"start_ref": "43006007",
+"start_ref_usfm": "JHN 6:7",
+"end_ref": "43006007",
+"end_ref_usfm": "JHN 6:7"
+},
+{
+"start_ref": "43012005",
+"start_ref_usfm": "JHN 12:5",
+"end_ref": "43012005",
+"end_ref_usfm": "JHN 12:5"
+},
+{
+"start_ref": "66006006",
+"start_ref_usfm": "REV 6:6",
+"end_ref": "66006006",
+"end_ref_usfm": "REV 6:6"
+}
+],
+"resource": []
+}
+}
+]

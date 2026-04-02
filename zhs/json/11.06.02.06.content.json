@@ -1,0 +1,66 @@
+[
+{
+"content_id": "REALIA:11.6.2.6",
+"reference_id": "REALIA:11.6.2.6",
+"version": "1.0.4",
+"title": "标题：德拉克马（drachma）",
+"media_type": "Text",
+"index_reference": "11.6.2.6",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.6.2.6\"><span class=\"thlex-key\">11.6.2.6</span> 标题：德拉克马（drachma）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：δραχμή</span> <span class=\"thlex-translit\">(音译：drachmē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt18:28\">MAT 18:28</a>, <a href=\"https://ref.ly/Luke15:8\">LUK 15:8</a>, <a href=\"https://ref.ly/Luke15:9\">LUK 15:9</a>, <a href=\"https://ref.ly/Tob5:15\">TOB 5:15</a>, <a href=\"https://ref.ly/2Macc4:19\">2MA 4:19</a>, <a href=\"https://ref.ly/2Macc10:20\">2MA 10:20</a>, <a href=\"https://ref.ly/2Macc12:43\">2MA 12:43</a>, <a href=\"https://ref.ly/3Macc3:28\">3MA 3:28</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>德拉克马的价值与得拿利相同，即一天的工资。参上文<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.6.2.6 德拉克马（drachma）&lt;REALIA:11.6.2.6&gt;</a> 关于得拿利的注解。</p>\n<p>\n            <a href=\"https://ref.ly/Luke15:8\">LUK 15:8</a>; <a href=\"https://ref.ly/Luke15:8\">LUK 15:8</a>; <a href=\"https://ref.ly/Luke15:9\">LUK 15:9</a> ：这里所记妇人丢失的金钱似乎不是很多，只是一天的工资，然而译文不应显得这个数额无关紧要，否则就与比喻的主旨不符。许多译本（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）出现的“银子”一词源自“德拉克马”一词（这是一种银币）。译文中包含“银子”这个信息，可以避免读者误以为丢失的钱极少。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40018028",
+"start_ref_usfm": "MAT 18:28",
+"end_ref": "40018028",
+"end_ref_usfm": "MAT 18:28"
+},
+{
+"start_ref": "42015008",
+"start_ref_usfm": "LUK 15:8",
+"end_ref": "42015008",
+"end_ref_usfm": "LUK 15:8"
+},
+{
+"start_ref": "42015009",
+"start_ref_usfm": "LUK 15:9",
+"end_ref": "42015009",
+"end_ref_usfm": "LUK 15:9"
+},
+{
+"start_ref": "68005015",
+"start_ref_usfm": "TOB 5:15",
+"end_ref": "68005015",
+"end_ref_usfm": "TOB 5:15"
+},
+{
+"start_ref": "79004019",
+"start_ref_usfm": "2MA 4:19",
+"end_ref": "79004019",
+"end_ref_usfm": "2MA 4:19"
+},
+{
+"start_ref": "79010020",
+"start_ref_usfm": "2MA 10:20",
+"end_ref": "79010020",
+"end_ref_usfm": "2MA 10:20"
+},
+{
+"start_ref": "79012043",
+"start_ref_usfm": "2MA 12:43",
+"end_ref": "79012043",
+"end_ref_usfm": "2MA 12:43"
+},
+{
+"start_ref": "80003028",
+"start_ref_usfm": "3MA 3:28",
+"end_ref": "80003028",
+"end_ref_usfm": "3MA 3:28"
+}
+],
+"resource": []
+}
+}
+]

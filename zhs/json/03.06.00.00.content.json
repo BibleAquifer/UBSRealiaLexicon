@@ -1,0 +1,330 @@
+[
+{
+"content_id": "REALIA:3.6",
+"reference_id": "REALIA:3.6",
+"version": "1.0.4",
+"title": "标题：边界墙、围墙、围栏、栅栏（boundary wall, fence）",
+"media_type": "Text",
+"index_reference": "3.6",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.6\"><span class=\"thlex-key\">3.6</span> 标题：边界墙、围墙、围栏、栅栏（boundary wall, fence）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：גְּבוּל</span> <span class=\"thlex-translit\">(音译：gvul)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a>, <a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>, <a href=\"https://ref.ly/Ezek43:17\">EZK 43:17</a>, <a href=\"https://ref.ly/Ezek43:20\">EZK 43:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：גדר, גָּדֵר, גֶּדֶר, גְּדֵרָה, גְּדֶרֶת</span> <span class=\"thlex-translit\">(音译：gadar（动词）, gader, geder, gderah, gdereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num22:24\">NUM 22:24</a>, <a href=\"https://ref.ly/Num22:24\">NUM 22:24</a>, <a href=\"https://ref.ly/Ezra9:9\">EZR 9:9</a>, <a href=\"https://ref.ly/Job19:8\">JOB 19:8</a>, <a href=\"https://ref.ly/Ps62:4\">PSA 62:4</a>, <a href=\"https://ref.ly/Ps80:13\">PSA 80:13</a>, <a href=\"https://ref.ly/Ps89:41\">PSA 89:41</a>, <a href=\"https://ref.ly/Prov24:31\">PRO 24:31</a>, <a href=\"https://ref.ly/Eccl10:8\">ECC 10:8</a>, <a href=\"https://ref.ly/Isa5:5\">ISA 5:5</a>, <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>, <a href=\"https://ref.ly/Lam3:7\">LAM 3:7</a>, <a href=\"https://ref.ly/Lam3:9\">LAM 3:9</a>, <a href=\"https://ref.ly/Ezek13:5\">EZK 13:5</a>, <a href=\"https://ref.ly/Ezek13:5\">EZK 13:5</a>, <a href=\"https://ref.ly/Ezek22:30\">EZK 22:30</a>, <a href=\"https://ref.ly/Ezek22:30\">EZK 22:30</a>, <a href=\"https://ref.ly/Ezek42:7\">EZK 42:7</a>, <a href=\"https://ref.ly/Ezek42:10\">EZK 42:10</a>, <a href=\"https://ref.ly/Ezek42:12\">EZK 42:12</a>, <a href=\"https://ref.ly/Hos2:8\">HOS 2:8</a>, <a href=\"https://ref.ly/Hos2:8\">HOS 2:8</a>, <a href=\"https://ref.ly/Mic7:11\">MIC 7:11</a>, <a href=\"https://ref.ly/Nah3:17\">NAM 3:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חוֹמָה</span> <span class=\"thlex-translit\">(音译：chomah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lam2:7\">LAM 2:7</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek42:20\">EZK 42:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חַיִץ</span> <span class=\"thlex-translit\">(音译：chayits)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מְסוּכָה, מְשֻׂכָה, מְשׂוּכָּה</span> <span class=\"thlex-translit\">(音译：msukah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov15:19\">PRO 15:19</a>, <a href=\"https://ref.ly/Isa5:5\">ISA 5:5</a>, <a href=\"https://ref.ly/Mic7:4\">MIC 7:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：קִיר</span> <span class=\"thlex-translit\">(音译：qir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps62:4\">PSA 62:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שׂוך</span> <span class=\"thlex-translit\">(音译：suk（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job1:10\">JOB 1:10</a>, <a href=\"https://ref.ly/Hos2:8\">HOS 2:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שׁוּר, שׁוּרָה</span> <span class=\"thlex-translit\">(音译：shur, shurah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:22\">GEN 49:22</a>, <a href=\"https://ref.ly/Job24:11\">JOB 24:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἀνάλημμα</span> <span class=\"thlex-translit\">(音译：analēmma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir50:2\">SIR 50:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：μεσότοιχον</span> <span class=\"thlex-translit\">(音译：mesotoichon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Eph2:14\">EPH 2:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：τεῖχος</span> <span class=\"thlex-translit\">(音译：teichos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc4:60\">1MA 4:60</a>, <a href=\"https://ref.ly/1Macc6:7\">1MA 6:7</a>, <a href=\"https://ref.ly/1Macc6:62\">1MA 6:62</a>, <a href=\"https://ref.ly/1Macc9:54\">1MA 9:54</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：τοῖχος</span> <span class=\"thlex-translit\">(音译：toichos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a>, <a href=\"https://ref.ly/Tob2:9\">TOB 2:9</a>, <a href=\"https://ref.ly/Tob2:10\">TOB 2:10</a>, <a href=\"https://ref.ly/Wis13:15\">WIS 13:15</a>, <a href=\"https://ref.ly/Sir14:24\">SIR 14:24</a>, <a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a>, <a href=\"https://ref.ly/Sir23:18\">SIR 23:18</a>, <a href=\"https://ref.ly/1Esd6:8\">1ES 6:8</a>, <a href=\"https://ref.ly/Odes10:5\">ODA 10:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：φραγμός</span> <span class=\"thlex-translit\">(音译：fragmos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>, <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>, <a href=\"https://ref.ly/Luke14:23\">LUK 14:23</a>, <a href=\"https://ref.ly/Eph2:14\">EPH 2:14</a>, <a href=\"https://ref.ly/Sir36:25\">SIR 36:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0415_fence.jpg\" alt=\"石围栏\"><figcaption class=\"thlex-caption\">石围栏 (© بدارين, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>围栏是用来围住某个区域的构筑物。在以色列地，围栏通常是用石头做的，少数是用树枝和灌木做的（仅作临时构筑物）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>许多社会都用某种类型的篱笆、围墙或障碍物来把田地围起来。在某些情况下，篱笆是由原木或树枝堆砌而成，还有些情况是由夯实的泥土或堆叠的石头做成。然而，这里的重点不是“篱笆”的形式，而是它的功能，因此翻译者可能常常要使用描述性的短语；例如，“围住田地的障碍物”，或“防止动物进入田地的障碍物”。由于石头在以色列地很常见，那里的篱笆通常是用一些松散放置的石块堆成的。在许多文化中，这种石头构筑物被称为“墙”，而不是“篱笆”。</p>\n<p>希伯来文<em>gvul</em> 通常是指“边界”（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.7 地界、界标 (boundary marker)&lt;REALIA:3.7&gt;</a> ），这个词在《以西结书》中出现过几次，意思略有不同。在<a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a> 中，它似乎指的是“矮墙”（“low wall”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）、“栏杆”（“railing”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ），或仅仅是指“障碍物”（“barrier[s]”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）。在<a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>; <a href=\"https://ref.ly/Ezek43:17\">EZK 43:17</a>; <a href=\"https://ref.ly/Ezek43:20\">EZK 43:20</a> 中，该词是指祭坛底部及各层周围的某种“边”（“rim”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）。</p>\n<p>有些语言会用不同的词语表示建筑物的外墙与分隔房间的内墙。希伯来文<em>chomah</em> 通常指外墙，尤其是城墙（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.13.3.1 城墙、外郭、城垛 (city wall, rampart, battlement)&lt;REALIA:3.13.3.1&gt;</a> ），但本条目列出的经文除外。其他希伯来文词语既可指内墙，也可指外墙，翻译者要根据上下文来确定词语正确的意思。希腊文<em>toichos</em> 指内墙。在翻译时，房子的外墙可称为“房子的侧面”，而内墙则可称为“房子里面的隔墙”。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a> ：在这节经文中，希伯来文<em>chayits</em> 表示“分隔物”，是一面临时的、不太坚固的墙。很多译本通过添加修饰语来指出这一点，比如“摇晃的”（如<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）、“不结实的”（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> ）、“脆弱的”（如<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）、“不稳的”（如<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> ），或“松散石块堆砌的”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> ）。</p>\n<p>人们对希伯来文<em>shur</em> 和<em>shurah</em> 这两个词有多种理解。词语的字面意思是“行列”，可以指一排石头、一堵墙，或一道篱笆。在<a href=\"https://ref.ly/Gen49:22\">GEN 49:22</a> 中，大多数译本都译为“墙”（“wall”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> ）。然而，在<a href=\"https://ref.ly/Job24:11\">JOB 24:11</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 把<em>shurah</em> 译为“olive rows”（“一排排橄榄树”）。如《〈约伯记〉手册》（<em>A Handbook on The Book of Job</em> ）所指出的，这可能不是文本的意思。在中东，橄榄树通常生长在特别开垦的梯田上。梯田本身用挡土墙来支撑，<em>shurah</em> 在这里可能就是指挡土墙。<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 没有采用<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 的译法，而是译成“梯田”（“terraces”；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 同）。<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 译为“花园”，<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 译为“墙”（“walls”）。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 和<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 选择不翻译这个词。</p>\n<p>在<a href=\"https://ref.ly/Eph2:14\">EPH 2:14</a> 中，希腊文<em>mesotoichon</em> 和<em>fragmos</em> 喻指律法，它是犹太人和外邦人之间的屏障，是“分隔的墙”（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直译）。在本节经文中，这两个词可以译为“隔断的墙”或“分开的墙”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "26040012",
+"start_ref_usfm": "EZK 40:12",
+"end_ref": "26040012",
+"end_ref_usfm": "EZK 40:12"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+},
+{
+"start_ref": "26043017",
+"start_ref_usfm": "EZK 43:17",
+"end_ref": "26043017",
+"end_ref_usfm": "EZK 43:17"
+},
+{
+"start_ref": "26043020",
+"start_ref_usfm": "EZK 43:20",
+"end_ref": "26043020",
+"end_ref_usfm": "EZK 43:20"
+},
+{
+"start_ref": "04022024",
+"start_ref_usfm": "NUM 22:24",
+"end_ref": "04022024",
+"end_ref_usfm": "NUM 22:24"
+},
+{
+"start_ref": "15009009",
+"start_ref_usfm": "EZR 9:9",
+"end_ref": "15009009",
+"end_ref_usfm": "EZR 9:9"
+},
+{
+"start_ref": "18019008",
+"start_ref_usfm": "JOB 19:8",
+"end_ref": "18019008",
+"end_ref_usfm": "JOB 19:8"
+},
+{
+"start_ref": "19062004",
+"start_ref_usfm": "PSA 62:4",
+"end_ref": "19062004",
+"end_ref_usfm": "PSA 62:4"
+},
+{
+"start_ref": "19080013",
+"start_ref_usfm": "PSA 80:13",
+"end_ref": "19080013",
+"end_ref_usfm": "PSA 80:13"
+},
+{
+"start_ref": "19089041",
+"start_ref_usfm": "PSA 89:41",
+"end_ref": "19089041",
+"end_ref_usfm": "PSA 89:41"
+},
+{
+"start_ref": "20024031",
+"start_ref_usfm": "PRO 24:31",
+"end_ref": "20024031",
+"end_ref_usfm": "PRO 24:31"
+},
+{
+"start_ref": "21010008",
+"start_ref_usfm": "ECC 10:8",
+"end_ref": "21010008",
+"end_ref_usfm": "ECC 10:8"
+},
+{
+"start_ref": "23005005",
+"start_ref_usfm": "ISA 5:5",
+"end_ref": "23005005",
+"end_ref_usfm": "ISA 5:5"
+},
+{
+"start_ref": "24049003",
+"start_ref_usfm": "JER 49:3",
+"end_ref": "24049003",
+"end_ref_usfm": "JER 49:3"
+},
+{
+"start_ref": "25003007",
+"start_ref_usfm": "LAM 3:7",
+"end_ref": "25003007",
+"end_ref_usfm": "LAM 3:7"
+},
+{
+"start_ref": "25003009",
+"start_ref_usfm": "LAM 3:9",
+"end_ref": "25003009",
+"end_ref_usfm": "LAM 3:9"
+},
+{
+"start_ref": "26013005",
+"start_ref_usfm": "EZK 13:5",
+"end_ref": "26013005",
+"end_ref_usfm": "EZK 13:5"
+},
+{
+"start_ref": "26022030",
+"start_ref_usfm": "EZK 22:30",
+"end_ref": "26022030",
+"end_ref_usfm": "EZK 22:30"
+},
+{
+"start_ref": "26042007",
+"start_ref_usfm": "EZK 42:7",
+"end_ref": "26042007",
+"end_ref_usfm": "EZK 42:7"
+},
+{
+"start_ref": "26042010",
+"start_ref_usfm": "EZK 42:10",
+"end_ref": "26042010",
+"end_ref_usfm": "EZK 42:10"
+},
+{
+"start_ref": "26042012",
+"start_ref_usfm": "EZK 42:12",
+"end_ref": "26042012",
+"end_ref_usfm": "EZK 42:12"
+},
+{
+"start_ref": "28002008",
+"start_ref_usfm": "HOS 2:8",
+"end_ref": "28002008",
+"end_ref_usfm": "HOS 2:8"
+},
+{
+"start_ref": "33007011",
+"start_ref_usfm": "MIC 7:11",
+"end_ref": "33007011",
+"end_ref_usfm": "MIC 7:11"
+},
+{
+"start_ref": "34003017",
+"start_ref_usfm": "NAM 3:17",
+"end_ref": "34003017",
+"end_ref_usfm": "NAM 3:17"
+},
+{
+"start_ref": "25002007",
+"start_ref_usfm": "LAM 2:7",
+"end_ref": "25002007",
+"end_ref_usfm": "LAM 2:7"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26042020",
+"start_ref_usfm": "EZK 42:20",
+"end_ref": "26042020",
+"end_ref_usfm": "EZK 42:20"
+},
+{
+"start_ref": "26013010",
+"start_ref_usfm": "EZK 13:10",
+"end_ref": "26013010",
+"end_ref_usfm": "EZK 13:10"
+},
+{
+"start_ref": "20015019",
+"start_ref_usfm": "PRO 15:19",
+"end_ref": "20015019",
+"end_ref_usfm": "PRO 15:19"
+},
+{
+"start_ref": "33007004",
+"start_ref_usfm": "MIC 7:4",
+"end_ref": "33007004",
+"end_ref_usfm": "MIC 7:4"
+},
+{
+"start_ref": "18001010",
+"start_ref_usfm": "JOB 1:10",
+"end_ref": "18001010",
+"end_ref_usfm": "JOB 1:10"
+},
+{
+"start_ref": "01049022",
+"start_ref_usfm": "GEN 49:22",
+"end_ref": "01049022",
+"end_ref_usfm": "GEN 49:22"
+},
+{
+"start_ref": "18024011",
+"start_ref_usfm": "JOB 24:11",
+"end_ref": "18024011",
+"end_ref_usfm": "JOB 24:11"
+},
+{
+"start_ref": "72050002",
+"start_ref_usfm": "SIR 50:2",
+"end_ref": "72050002",
+"end_ref_usfm": "SIR 50:2"
+},
+{
+"start_ref": "49002014",
+"start_ref_usfm": "EPH 2:14",
+"end_ref": "49002014",
+"end_ref_usfm": "EPH 2:14"
+},
+{
+"start_ref": "78004060",
+"start_ref_usfm": "1MA 4:60",
+"end_ref": "78004060",
+"end_ref_usfm": "1MA 4:60"
+},
+{
+"start_ref": "78006007",
+"start_ref_usfm": "1MA 6:7",
+"end_ref": "78006007",
+"end_ref_usfm": "1MA 6:7"
+},
+{
+"start_ref": "78006062",
+"start_ref_usfm": "1MA 6:62",
+"end_ref": "78006062",
+"end_ref_usfm": "1MA 6:62"
+},
+{
+"start_ref": "78009054",
+"start_ref_usfm": "1MA 9:54",
+"end_ref": "78009054",
+"end_ref_usfm": "1MA 9:54"
+},
+{
+"start_ref": "44023003",
+"start_ref_usfm": "ACT 23:3",
+"end_ref": "44023003",
+"end_ref_usfm": "ACT 23:3"
+},
+{
+"start_ref": "68002009",
+"start_ref_usfm": "TOB 2:9",
+"end_ref": "68002009",
+"end_ref_usfm": "TOB 2:9"
+},
+{
+"start_ref": "68002010",
+"start_ref_usfm": "TOB 2:10",
+"end_ref": "68002010",
+"end_ref_usfm": "TOB 2:10"
+},
+{
+"start_ref": "71013015",
+"start_ref_usfm": "WIS 13:15",
+"end_ref": "71013015",
+"end_ref_usfm": "WIS 13:15"
+},
+{
+"start_ref": "72014024",
+"start_ref_usfm": "SIR 14:24",
+"end_ref": "72014024",
+"end_ref_usfm": "SIR 14:24"
+},
+{
+"start_ref": "72022017",
+"start_ref_usfm": "SIR 22:17",
+"end_ref": "72022017",
+"end_ref_usfm": "SIR 22:17"
+},
+{
+"start_ref": "72023018",
+"start_ref_usfm": "SIR 23:18",
+"end_ref": "72023018",
+"end_ref_usfm": "SIR 23:18"
+},
+{
+"start_ref": "82006008",
+"start_ref_usfm": "1ES 6:8",
+"end_ref": "82006008",
+"end_ref_usfm": "1ES 6:8"
+},
+{
+"start_ref": "86010005",
+"start_ref_usfm": "ODA 10:5",
+"end_ref": "86010005",
+"end_ref_usfm": "ODA 10:5"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021033",
+"end_ref_usfm": "MAT 21:33"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012001",
+"end_ref_usfm": "MRK 12:1"
+},
+{
+"start_ref": "42014023",
+"start_ref_usfm": "LUK 14:23",
+"end_ref": "42014023",
+"end_ref_usfm": "LUK 14:23"
+},
+{
+"start_ref": "72036025",
+"start_ref_usfm": "SIR 36:25",
+"end_ref": "72036025",
+"end_ref_usfm": "SIR 36:25"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,450 @@
+[
+{
+"content_id": "REALIA:3.13.3.3",
+"reference_id": "REALIA:3.13.3.3",
+"version": "1.0.4",
+"title": "标题：瞭望塔、塔楼、塔（watchtower, tower）",
+"media_type": "Text",
+"index_reference": "3.13.3.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.13.3.3\"><span class=\"thlex-key\">3.13.3.3</span> 标题：瞭望塔、塔楼、塔（watchtower, tower）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אַלְמָן</span> <span class=\"thlex-translit\">(音译：’alman)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa13:22\">ISA 13:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בַּחַן</span> <span class=\"thlex-translit\">(音译：bachan)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa32:14\">ISA 32:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִגְדָּל, מִגְדֹּל</span> <span class=\"thlex-translit\">(音译：migdal, migdol)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg8:9\">JDG 8:9</a>, <a href=\"https://ref.ly/Judg8:17\">JDG 8:17</a>, <a href=\"https://ref.ly/Judg9:51\">JDG 9:51</a>, <a href=\"https://ref.ly/Judg9:51\">JDG 9:51</a>, <a href=\"https://ref.ly/Judg9:52\">JDG 9:52</a>, <a href=\"https://ref.ly/Judg9:52\">JDG 9:52</a>, <a href=\"https://ref.ly/2Kgs9:17\">2KI 9:17</a>, <a href=\"https://ref.ly/2Kgs17:9\">2KI 17:9</a>, <a href=\"https://ref.ly/2Kgs18:8\">2KI 18:8</a>, <a href=\"https://ref.ly/1Chr27:25\">1CH 27:25</a>, <a href=\"https://ref.ly/2Chr14:6\">2CH 14:6</a>, <a href=\"https://ref.ly/2Chr26:9\">2CH 26:9</a>, <a href=\"https://ref.ly/2Chr26:15\">2CH 26:15</a>, <a href=\"https://ref.ly/2Chr27:4\">2CH 27:4</a>, <a href=\"https://ref.ly/2Chr32:5\">2CH 32:5</a>, <a href=\"https://ref.ly/Neh3:1\">NEH 3:1</a>, <a href=\"https://ref.ly/Neh3:1\">NEH 3:1</a>, <a href=\"https://ref.ly/Neh3:11\">NEH 3:11</a>, <a href=\"https://ref.ly/Neh3:25\">NEH 3:25</a>, <a href=\"https://ref.ly/Neh3:26\">NEH 3:26</a>, <a href=\"https://ref.ly/Neh3:27\">NEH 3:27</a>, <a href=\"https://ref.ly/Neh12:38\">NEH 12:38</a>, <a href=\"https://ref.ly/Neh12:39\">NEH 12:39</a>, <a href=\"https://ref.ly/Neh12:39\">NEH 12:39</a>, <a href=\"https://ref.ly/Ps48:13\">PSA 48:13</a>, <a href=\"https://ref.ly/Ps61:4\">PSA 61:4</a>, <a href=\"https://ref.ly/Prov18:10\">PRO 18:10</a>, <a href=\"https://ref.ly/Song4:4\">SNG 4:4</a>, <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a>, <a href=\"https://ref.ly/Song7:5\">SNG 7:5</a>, <a href=\"https://ref.ly/Song7:5\">SNG 7:5</a>, <a href=\"https://ref.ly/Song8:10\">SNG 8:10</a>, <a href=\"https://ref.ly/Isa2:15\">ISA 2:15</a>, <a href=\"https://ref.ly/Isa30:25\">ISA 30:25</a>, <a href=\"https://ref.ly/Isa33:18\">ISA 33:18</a>, <a href=\"https://ref.ly/Jer31:38\">JER 31:38</a>, <a href=\"https://ref.ly/Ezek26:4\">EZK 26:4</a>, <a href=\"https://ref.ly/Ezek26:9\">EZK 26:9</a>, <a href=\"https://ref.ly/Ezek27:11\">EZK 27:11</a>, <a href=\"https://ref.ly/Zech14:10\">ZEC 14:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מָצוֹר</span> <span class=\"thlex-translit\">(音译：matsor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Hab2:1\">HAB 2:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִצְפֶּה</span> <span class=\"thlex-translit\">(音译：mitspeh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa21:8\">ISA 21:8</a>, <a href=\"https://ref.ly/2Chr20:24\">2CH 20:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：פִּנָּה</span> <span class=\"thlex-translit\">(音译：pinah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr26:15\">2CH 26:15</a>, <a href=\"https://ref.ly/Zeph1:16\">ZEP 1:16</a>, <a href=\"https://ref.ly/Zeph3:6\">ZEP 3:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שֶׁמֶשׁ</span> <span class=\"thlex-translit\">(音译：shemesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa54:12\">ISA 54:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：πύργος</span> <span class=\"thlex-translit\">(音译：purgos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>, <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>, <a href=\"https://ref.ly/Luke13:4\">LUK 13:4</a>, <a href=\"https://ref.ly/Luke14:28\">LUK 14:28</a>, <a href=\"https://ref.ly/Tob13:14\">TOB 13:14</a>, <a href=\"https://ref.ly/Tob13:17\">TOB 13:17</a>, <a href=\"https://ref.ly/Jdt1:3\">JDT 1:3</a>, <a href=\"https://ref.ly/Jdt1:14\">JDT 1:14</a>, <a href=\"https://ref.ly/Jdt7:5\">JDT 7:5</a>, <a href=\"https://ref.ly/Jdt7:32\">JDT 7:32</a>, <a href=\"https://ref.ly/1Macc1:33\">1MA 1:33</a>, <a href=\"https://ref.ly/1Macc4:60\">1MA 4:60</a>, <a href=\"https://ref.ly/1Macc5:5\">1MA 5:5</a>, <a href=\"https://ref.ly/1Macc5:5\">1MA 5:5</a>, <a href=\"https://ref.ly/1Macc5:65\">1MA 5:65</a>, <a href=\"https://ref.ly/1Macc13:33\">1MA 13:33</a>, <a href=\"https://ref.ly/1Macc13:43\">1MA 13:43</a>, <a href=\"https://ref.ly/1Macc16:10\">1MA 16:10</a>, <a href=\"https://ref.ly/2Macc10:18\">2MA 10:18</a>, <a href=\"https://ref.ly/2Macc10:20\">2MA 10:20</a>, <a href=\"https://ref.ly/2Macc10:22\">2MA 10:22</a>, <a href=\"https://ref.ly/2Macc10:36\">2MA 10:36</a>, <a href=\"https://ref.ly/2Macc13:5\">2MA 13:5</a>, <a href=\"https://ref.ly/2Macc14:41\">2MA 14:41</a>, <a href=\"https://ref.ly/3Macc2:27\">3MA 2:27</a>, <a href=\"https://ref.ly/4Macc13:6\">4MA 13:6</a>, <a href=\"https://ref.ly/1Esd1:52\">1ES 1:52</a>, <a href=\"https://ref.ly/1Esd4:4\">1ES 4:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：σκοπή</span> <span class=\"thlex-translit\">(音译：skopē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir37:14\">SIR 37:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0069_watchtower_model.jpg\" alt=\"城墙上的守望塔模型\"><figcaption class=\"thlex-caption\">城墙上的守望塔模型 (© Ray Pritz by United Bible Societies)</figcaption></figure>瞭望塔是一座很高的建筑物，顶部有一个瞭望台。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>城墙每隔一段距离就建有一个瞭望塔，用来戒备靠近的敌人。城中的守军还可以从瞭望塔上对进攻者的侧面进行攻击。有时，私人产业也建有塔楼作为保护。另参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.19.3 射击台、攻城塔 (firing platform, siege tower)&lt;REALIA:2.19.3&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在许多语言中，“塔楼”一词仅仅是指“很高的建筑”（当然不是指摩天大楼）。在其他情况下，把它译为“很高的平台”或“很高的瞭望台”可能更合适。</p>\n<p>在<a href=\"https://ref.ly/Isa13:22\">ISA 13:22</a> 中，希伯来文<em>’alman</em> 的字面意思是“他的寡妇”。这个词与意为“宫殿”的希伯来文词语非常相像（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.4 宫殿 (palace)&lt;REALIA:3.4&gt;</a> 中的<em>’armon</em> ）。我们不清楚是这里的文本出现了问题，还是作者有意互换了两个字母，以表示“荒凉”的意思（参瓦尔德［de Waard］，《〈以赛亚书手册〉》（<em>A Handbook on Isaiah</em> ），第61页）。</p>\n<p>\n            <a href=\"https://ref.ly/2Chr20:24\">2CH 20:24</a> ：虽然有些译本把希伯来文<em>mitspeh</em> 译为“塔楼”或“瞭望塔”（如<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ），但<em>mitspeh</em> 可能只是一个天然形成的、视野开阔的高点，因此可译为“旷野的瞭望塔”（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）、“俯瞰旷野的地方”（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）、“他们可以看到旷野的一个地方”（如 <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ），<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 将这个词译为“一座小山，从山上面可以看到旷野”。</p>\n<p>希伯来文<em>pinah</em> 的字面意思是“角落”。在本词条的参考经文中，该词不一定指某个独立的构筑物，而仅仅是城墙的一个转角。在<a href=\"https://ref.ly/Zeph1:16\">ZEP 1:16</a> 中，有些译本将这个词译为“角楼”（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ），还有译本的译法比较笼统，作“高耸的城垛”（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直译；<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 的译法类似）。</p>\n<p>有些较早的译本把<a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a> 中的希伯来文<em>tsafith</em> 译为“瞭望塔”（“watchtower”；<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ）。现在，学者普遍认为这个词的意思是“地毯”（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.17 地毯、毯子 (carpet, rug)&lt;REALIA:5.17&gt;</a> ）。</p>\n<p>在新约中，希腊文<em>purgos</em> 可以指任何类型的塔，包括用于军事目的或者供守望者保护收成的塔（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.11 瞭望楼 (watchtower)&lt;REALIA:1.1.11&gt;</a> ）。<a href=\"https://ref.ly/Luke13:4\">LUK 13:4</a> 中的塔可能是耶路撒冷古城墙的一部分。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23013022",
+"start_ref_usfm": "ISA 13:22",
+"end_ref": "23013022",
+"end_ref_usfm": "ISA 13:22"
+},
+{
+"start_ref": "23032014",
+"start_ref_usfm": "ISA 32:14",
+"end_ref": "23032014",
+"end_ref_usfm": "ISA 32:14"
+},
+{
+"start_ref": "07008009",
+"start_ref_usfm": "JDG 8:9",
+"end_ref": "07008009",
+"end_ref_usfm": "JDG 8:9"
+},
+{
+"start_ref": "07008017",
+"start_ref_usfm": "JDG 8:17",
+"end_ref": "07008017",
+"end_ref_usfm": "JDG 8:17"
+},
+{
+"start_ref": "07009051",
+"start_ref_usfm": "JDG 9:51",
+"end_ref": "07009051",
+"end_ref_usfm": "JDG 9:51"
+},
+{
+"start_ref": "07009052",
+"start_ref_usfm": "JDG 9:52",
+"end_ref": "07009052",
+"end_ref_usfm": "JDG 9:52"
+},
+{
+"start_ref": "12009017",
+"start_ref_usfm": "2KI 9:17",
+"end_ref": "12009017",
+"end_ref_usfm": "2KI 9:17"
+},
+{
+"start_ref": "12017009",
+"start_ref_usfm": "2KI 17:9",
+"end_ref": "12017009",
+"end_ref_usfm": "2KI 17:9"
+},
+{
+"start_ref": "12018008",
+"start_ref_usfm": "2KI 18:8",
+"end_ref": "12018008",
+"end_ref_usfm": "2KI 18:8"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027025",
+"end_ref_usfm": "1CH 27:25"
+},
+{
+"start_ref": "14014006",
+"start_ref_usfm": "2CH 14:6",
+"end_ref": "14014006",
+"end_ref_usfm": "2CH 14:6"
+},
+{
+"start_ref": "14026009",
+"start_ref_usfm": "2CH 26:9",
+"end_ref": "14026009",
+"end_ref_usfm": "2CH 26:9"
+},
+{
+"start_ref": "14026015",
+"start_ref_usfm": "2CH 26:15",
+"end_ref": "14026015",
+"end_ref_usfm": "2CH 26:15"
+},
+{
+"start_ref": "14027004",
+"start_ref_usfm": "2CH 27:4",
+"end_ref": "14027004",
+"end_ref_usfm": "2CH 27:4"
+},
+{
+"start_ref": "14032005",
+"start_ref_usfm": "2CH 32:5",
+"end_ref": "14032005",
+"end_ref_usfm": "2CH 32:5"
+},
+{
+"start_ref": "16003001",
+"start_ref_usfm": "NEH 3:1",
+"end_ref": "16003001",
+"end_ref_usfm": "NEH 3:1"
+},
+{
+"start_ref": "16003011",
+"start_ref_usfm": "NEH 3:11",
+"end_ref": "16003011",
+"end_ref_usfm": "NEH 3:11"
+},
+{
+"start_ref": "16003025",
+"start_ref_usfm": "NEH 3:25",
+"end_ref": "16003025",
+"end_ref_usfm": "NEH 3:25"
+},
+{
+"start_ref": "16003026",
+"start_ref_usfm": "NEH 3:26",
+"end_ref": "16003026",
+"end_ref_usfm": "NEH 3:26"
+},
+{
+"start_ref": "16003027",
+"start_ref_usfm": "NEH 3:27",
+"end_ref": "16003027",
+"end_ref_usfm": "NEH 3:27"
+},
+{
+"start_ref": "16012038",
+"start_ref_usfm": "NEH 12:38",
+"end_ref": "16012038",
+"end_ref_usfm": "NEH 12:38"
+},
+{
+"start_ref": "16012039",
+"start_ref_usfm": "NEH 12:39",
+"end_ref": "16012039",
+"end_ref_usfm": "NEH 12:39"
+},
+{
+"start_ref": "19048013",
+"start_ref_usfm": "PSA 48:13",
+"end_ref": "19048013",
+"end_ref_usfm": "PSA 48:13"
+},
+{
+"start_ref": "19061004",
+"start_ref_usfm": "PSA 61:4",
+"end_ref": "19061004",
+"end_ref_usfm": "PSA 61:4"
+},
+{
+"start_ref": "20018010",
+"start_ref_usfm": "PRO 18:10",
+"end_ref": "20018010",
+"end_ref_usfm": "PRO 18:10"
+},
+{
+"start_ref": "22004004",
+"start_ref_usfm": "SNG 4:4",
+"end_ref": "22004004",
+"end_ref_usfm": "SNG 4:4"
+},
+{
+"start_ref": "22005013",
+"start_ref_usfm": "SNG 5:13",
+"end_ref": "22005013",
+"end_ref_usfm": "SNG 5:13"
+},
+{
+"start_ref": "22007005",
+"start_ref_usfm": "SNG 7:5",
+"end_ref": "22007005",
+"end_ref_usfm": "SNG 7:5"
+},
+{
+"start_ref": "22008010",
+"start_ref_usfm": "SNG 8:10",
+"end_ref": "22008010",
+"end_ref_usfm": "SNG 8:10"
+},
+{
+"start_ref": "23002015",
+"start_ref_usfm": "ISA 2:15",
+"end_ref": "23002015",
+"end_ref_usfm": "ISA 2:15"
+},
+{
+"start_ref": "23030025",
+"start_ref_usfm": "ISA 30:25",
+"end_ref": "23030025",
+"end_ref_usfm": "ISA 30:25"
+},
+{
+"start_ref": "23033018",
+"start_ref_usfm": "ISA 33:18",
+"end_ref": "23033018",
+"end_ref_usfm": "ISA 33:18"
+},
+{
+"start_ref": "24031038",
+"start_ref_usfm": "JER 31:38",
+"end_ref": "24031038",
+"end_ref_usfm": "JER 31:38"
+},
+{
+"start_ref": "26026004",
+"start_ref_usfm": "EZK 26:4",
+"end_ref": "26026004",
+"end_ref_usfm": "EZK 26:4"
+},
+{
+"start_ref": "26026009",
+"start_ref_usfm": "EZK 26:9",
+"end_ref": "26026009",
+"end_ref_usfm": "EZK 26:9"
+},
+{
+"start_ref": "26027011",
+"start_ref_usfm": "EZK 27:11",
+"end_ref": "26027011",
+"end_ref_usfm": "EZK 27:11"
+},
+{
+"start_ref": "38014010",
+"start_ref_usfm": "ZEC 14:10",
+"end_ref": "38014010",
+"end_ref_usfm": "ZEC 14:10"
+},
+{
+"start_ref": "35002001",
+"start_ref_usfm": "HAB 2:1",
+"end_ref": "35002001",
+"end_ref_usfm": "HAB 2:1"
+},
+{
+"start_ref": "23021008",
+"start_ref_usfm": "ISA 21:8",
+"end_ref": "23021008",
+"end_ref_usfm": "ISA 21:8"
+},
+{
+"start_ref": "14020024",
+"start_ref_usfm": "2CH 20:24",
+"end_ref": "14020024",
+"end_ref_usfm": "2CH 20:24"
+},
+{
+"start_ref": "36001016",
+"start_ref_usfm": "ZEP 1:16",
+"end_ref": "36001016",
+"end_ref_usfm": "ZEP 1:16"
+},
+{
+"start_ref": "36003006",
+"start_ref_usfm": "ZEP 3:6",
+"end_ref": "36003006",
+"end_ref_usfm": "ZEP 3:6"
+},
+{
+"start_ref": "23054012",
+"start_ref_usfm": "ISA 54:12",
+"end_ref": "23054012",
+"end_ref_usfm": "ISA 54:12"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021033",
+"end_ref_usfm": "MAT 21:33"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012001",
+"end_ref_usfm": "MRK 12:1"
+},
+{
+"start_ref": "42013004",
+"start_ref_usfm": "LUK 13:4",
+"end_ref": "42013004",
+"end_ref_usfm": "LUK 13:4"
+},
+{
+"start_ref": "42014028",
+"start_ref_usfm": "LUK 14:28",
+"end_ref": "42014028",
+"end_ref_usfm": "LUK 14:28"
+},
+{
+"start_ref": "68013014",
+"start_ref_usfm": "TOB 13:14",
+"end_ref": "68013014",
+"end_ref_usfm": "TOB 13:14"
+},
+{
+"start_ref": "68013017",
+"start_ref_usfm": "TOB 13:17",
+"end_ref": "68013017",
+"end_ref_usfm": "TOB 13:17"
+},
+{
+"start_ref": "69001003",
+"start_ref_usfm": "JDT 1:3",
+"end_ref": "69001003",
+"end_ref_usfm": "JDT 1:3"
+},
+{
+"start_ref": "69001014",
+"start_ref_usfm": "JDT 1:14",
+"end_ref": "69001014",
+"end_ref_usfm": "JDT 1:14"
+},
+{
+"start_ref": "69007005",
+"start_ref_usfm": "JDT 7:5",
+"end_ref": "69007005",
+"end_ref_usfm": "JDT 7:5"
+},
+{
+"start_ref": "69007032",
+"start_ref_usfm": "JDT 7:32",
+"end_ref": "69007032",
+"end_ref_usfm": "JDT 7:32"
+},
+{
+"start_ref": "78001033",
+"start_ref_usfm": "1MA 1:33",
+"end_ref": "78001033",
+"end_ref_usfm": "1MA 1:33"
+},
+{
+"start_ref": "78004060",
+"start_ref_usfm": "1MA 4:60",
+"end_ref": "78004060",
+"end_ref_usfm": "1MA 4:60"
+},
+{
+"start_ref": "78005005",
+"start_ref_usfm": "1MA 5:5",
+"end_ref": "78005005",
+"end_ref_usfm": "1MA 5:5"
+},
+{
+"start_ref": "78005065",
+"start_ref_usfm": "1MA 5:65",
+"end_ref": "78005065",
+"end_ref_usfm": "1MA 5:65"
+},
+{
+"start_ref": "78013033",
+"start_ref_usfm": "1MA 13:33",
+"end_ref": "78013033",
+"end_ref_usfm": "1MA 13:33"
+},
+{
+"start_ref": "78013043",
+"start_ref_usfm": "1MA 13:43",
+"end_ref": "78013043",
+"end_ref_usfm": "1MA 13:43"
+},
+{
+"start_ref": "78016010",
+"start_ref_usfm": "1MA 16:10",
+"end_ref": "78016010",
+"end_ref_usfm": "1MA 16:10"
+},
+{
+"start_ref": "79010018",
+"start_ref_usfm": "2MA 10:18",
+"end_ref": "79010018",
+"end_ref_usfm": "2MA 10:18"
+},
+{
+"start_ref": "79010020",
+"start_ref_usfm": "2MA 10:20",
+"end_ref": "79010020",
+"end_ref_usfm": "2MA 10:20"
+},
+{
+"start_ref": "79010022",
+"start_ref_usfm": "2MA 10:22",
+"end_ref": "79010022",
+"end_ref_usfm": "2MA 10:22"
+},
+{
+"start_ref": "79010036",
+"start_ref_usfm": "2MA 10:36",
+"end_ref": "79010036",
+"end_ref_usfm": "2MA 10:36"
+},
+{
+"start_ref": "79013005",
+"start_ref_usfm": "2MA 13:5",
+"end_ref": "79013005",
+"end_ref_usfm": "2MA 13:5"
+},
+{
+"start_ref": "79014041",
+"start_ref_usfm": "2MA 14:41",
+"end_ref": "79014041",
+"end_ref_usfm": "2MA 14:41"
+},
+{
+"start_ref": "80002027",
+"start_ref_usfm": "3MA 2:27",
+"end_ref": "80002027",
+"end_ref_usfm": "3MA 2:27"
+},
+{
+"start_ref": "81013006",
+"start_ref_usfm": "4MA 13:6",
+"end_ref": "81013006",
+"end_ref_usfm": "4MA 13:6"
+},
+{
+"start_ref": "82001052",
+"start_ref_usfm": "1ES 1:52",
+"end_ref": "82001052",
+"end_ref_usfm": "1ES 1:52"
+},
+{
+"start_ref": "82004004",
+"start_ref_usfm": "1ES 4:4",
+"end_ref": "82004004",
+"end_ref_usfm": "1ES 4:4"
+},
+{
+"start_ref": "72037014",
+"start_ref_usfm": "SIR 37:14",
+"end_ref": "72037014",
+"end_ref_usfm": "SIR 37:14"
+},
+{
+"start_ref": "23021005",
+"start_ref_usfm": "ISA 21:5",
+"end_ref": "23021005",
+"end_ref_usfm": "ISA 21:5"
+}
+],
+"resource": []
+}
+}
+]
