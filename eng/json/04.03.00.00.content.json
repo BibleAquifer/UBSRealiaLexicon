@@ -1,0 +1,24 @@
+[
+{
+"content_id": "REALIA:4.3",
+"reference_id": "REALIA:4.3",
+"version": "1.0.4",
+"title": "Furniture of the Tabernacle and Temple",
+"media_type": "Text",
+"index_reference": "4.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3\"><span class=\"thlex-key\">4.3</span> Furniture of the Tabernacle and Temple</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Some of the Tabernacle furniture was preserved or duplicated in the Temple built by Solomon. Items like the Ark of the Covenant and the lampstand were preserved, so they remained unchanged from the temporary sanctuary to the permanent one. However, one object in particular underwent a significant change, one that can be rather confusing to the reader and the translator. A large washbasin stood between the sacrificial altar and the Holy Place in the Tabernacle. It served the dual purpose of (1) washing the hands and feet of those about to offer sacrifices or to enter the Holy Place and (2) washing the bodies of animals about to be sacrificed.</h2>\n<div class=\"thlex-paragraphs\">\n<p>The single standing washbasin of the Tabernacle is not found in the description of Solomon’s Temple, which contained two different objects for the two kinds of washing. They are described in <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>: “He also made ten lavers in which to wash, and set five on the south side, and five on the north side. In these they were to rinse off what was used for the burnt offering, and the sea was for the priests to wash in” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). The water with which the priests washed was contained in a large tank called a “sea.” The water for washing the many sacrifices was held in ten tubs set in movable stands.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+}
+],
+"resource": []
+}
+}
+]

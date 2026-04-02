@@ -1,0 +1,666 @@
+[
+{
+"content_id": "REALIA:1.2.4",
+"reference_id": "REALIA:1.2.4",
+"version": "1.0.4",
+"title": "Rod, club, shepherd’s staff",
+"media_type": "Text",
+"index_reference": "1.2.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.4\"><span class=\"thlex-key\">1.2.4</span> Rod, club, shepherd’s staff</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַטֶּה</span> <span class=\"thlex-translit\">(mateh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen38:18\">GEN 38:18</a>, <a href=\"https://ref.ly/Gen38:25\">GEN 38:25</a>, <a href=\"https://ref.ly/Exod4:2\">EXO 4:2</a>, <a href=\"https://ref.ly/Exod4:4\">EXO 4:4</a>, <a href=\"https://ref.ly/Exod4:17\">EXO 4:17</a>, <a href=\"https://ref.ly/Exod4:20\">EXO 4:20</a>, <a href=\"https://ref.ly/Exod7:9\">EXO 7:9</a>, <a href=\"https://ref.ly/Exod7:10\">EXO 7:10</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Exod7:15\">EXO 7:15</a>, <a href=\"https://ref.ly/Exod7:17\">EXO 7:17</a>, <a href=\"https://ref.ly/Exod7:19\">EXO 7:19</a>, <a href=\"https://ref.ly/Exod7:20\">EXO 7:20</a>, <a href=\"https://ref.ly/Exod8:1\">EXO 8:1</a>, <a href=\"https://ref.ly/Exod8:12\">EXO 8:12</a>, <a href=\"https://ref.ly/Exod8:13\">EXO 8:13</a>, <a href=\"https://ref.ly/Exod9:23\">EXO 9:23</a>, <a href=\"https://ref.ly/Exod10:13\">EXO 10:13</a>, <a href=\"https://ref.ly/Exod14:16\">EXO 14:16</a>, <a href=\"https://ref.ly/Exod17:5\">EXO 17:5</a>, <a href=\"https://ref.ly/Exod17:9\">EXO 17:9</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:18\">NUM 17:18</a>, <a href=\"https://ref.ly/Num17:18\">NUM 17:18</a>, <a href=\"https://ref.ly/Num17:20\">NUM 17:20</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:22\">NUM 17:22</a>, <a href=\"https://ref.ly/Num17:23\">NUM 17:23</a>, <a href=\"https://ref.ly/Num17:24\">NUM 17:24</a>, <a href=\"https://ref.ly/Num17:24\">NUM 17:24</a>, <a href=\"https://ref.ly/Num17:25\">NUM 17:25</a>, <a href=\"https://ref.ly/Num20:8\">NUM 20:8</a>, <a href=\"https://ref.ly/Num20:9\">NUM 20:9</a>, <a href=\"https://ref.ly/Num20:11\">NUM 20:11</a>, <a href=\"https://ref.ly/1Sam14:27\">1SA 14:27</a>, <a href=\"https://ref.ly/1Sam14:43\">1SA 14:43</a>, <a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a>, <a href=\"https://ref.ly/Isa10:5\">ISA 10:5</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a>, <a href=\"https://ref.ly/Isa10:24\">ISA 10:24</a>, <a href=\"https://ref.ly/Isa10:26\">ISA 10:26</a>, <a href=\"https://ref.ly/Isa14:5\">ISA 14:5</a>, <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa30:32\">ISA 30:32</a>, <a href=\"https://ref.ly/Ezek7:10\">EZK 7:10</a>, <a href=\"https://ref.ly/Ezek7:11\">EZK 7:11</a>, <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek19:12\">EZK 19:12</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Hab3:14\">HAB 3:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַקֵּל</span> <span class=\"thlex-translit\">(maqel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen32:11\">GEN 32:11</a>, <a href=\"https://ref.ly/Exod12:11\">EXO 12:11</a>, <a href=\"https://ref.ly/Num22:27\">NUM 22:27</a>, <a href=\"https://ref.ly/1Sam17:40\">1SA 17:40</a>, <a href=\"https://ref.ly/1Sam17:43\">1SA 17:43</a>, <a href=\"https://ref.ly/Hos4:12\">HOS 4:12</a>, <a href=\"https://ref.ly/Zech11:7\">ZEC 11:7</a>, <a href=\"https://ref.ly/Zech11:10\">ZEC 11:10</a>, <a href=\"https://ref.ly/Zech11:14\">ZEC 11:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִשְׁעֶנֶת</span> <span class=\"thlex-translit\">(mash‘enah, mish‘eneth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod21:19\">EXO 21:19</a>, <a href=\"https://ref.ly/Num21:18\">NUM 21:18</a>, <a href=\"https://ref.ly/Judg6:21\">JDG 6:21</a>, <a href=\"https://ref.ly/2Kgs4:29\">2KI 4:29</a>, <a href=\"https://ref.ly/2Kgs4:29\">2KI 4:29</a>, <a href=\"https://ref.ly/2Kgs4:31\">2KI 4:31</a>, <a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a>, <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>, <a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a>, <a href=\"https://ref.ly/Ezek29:6\">EZK 29:6</a>, <a href=\"https://ref.ly/Zech8:4\">ZEC 8:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֵׁבֶט</span> <span class=\"thlex-translit\">(shevet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod21:20\">EXO 21:20</a>, <a href=\"https://ref.ly/Lev27:32\">LEV 27:32</a>, <a href=\"https://ref.ly/2Sam7:14\">2SA 7:14</a>, <a href=\"https://ref.ly/2Sam23:21\">2SA 23:21</a>, <a href=\"https://ref.ly/1Chr11:23\">1CH 11:23</a>, <a href=\"https://ref.ly/Job9:34\">JOB 9:34</a>, <a href=\"https://ref.ly/Job21:9\">JOB 21:9</a>, <a href=\"https://ref.ly/Job37:13\">JOB 37:13</a>, <a href=\"https://ref.ly/Ps2:9\">PSA 2:9</a>, <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>, <a href=\"https://ref.ly/Ps89:33\">PSA 89:33</a>, <a href=\"https://ref.ly/Prov10:13\">PRO 10:13</a>, <a href=\"https://ref.ly/Prov13:24\">PRO 13:24</a>, <a href=\"https://ref.ly/Prov22:8\">PRO 22:8</a>, <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov23:13\">PRO 23:13</a>, <a href=\"https://ref.ly/Prov23:14\">PRO 23:14</a>, <a href=\"https://ref.ly/Prov26:3\">PRO 26:3</a>, <a href=\"https://ref.ly/Prov29:15\">PRO 29:15</a>, <a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a>, <a href=\"https://ref.ly/Isa10:5\">ISA 10:5</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a>, <a href=\"https://ref.ly/Isa10:24\">ISA 10:24</a>, <a href=\"https://ref.ly/Isa11:4\">ISA 11:4</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa30:31\">ISA 30:31</a>, <a href=\"https://ref.ly/Lam3:1\">LAM 3:1</a>, <a href=\"https://ref.ly/Ezek20:37\">EZK 20:37</a>, <a href=\"https://ref.ly/Ezek21:15\">EZK 21:15</a>, <a href=\"https://ref.ly/Ezek21:18\">EZK 21:18</a>, <a href=\"https://ref.ly/Mic4:14\">MIC 4:14</a>, <a href=\"https://ref.ly/Mic7:14\">MIC 7:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ῥάβδος</span> <span class=\"thlex-translit\">(rhabdos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt10:10\">MAT 10:10</a>, <a href=\"https://ref.ly/Mark6:8\">MRK 6:8</a>, <a href=\"https://ref.ly/Luke9:3\">LUK 9:3</a>, <a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>, <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a>, <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a>, <a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>, <a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a>, <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>, <a href=\"https://ref.ly/Tob5:18\">TOB 5:18</a>, <a href=\"https://ref.ly/Sir33:25\">SIR 33:25</a>, <a href=\"https://ref.ly/Bel1:25\">BEL 1:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0013_shepherd_staff.png\" alt=\"Shepherd holding a staff\"><figcaption class=\"thlex-caption\">Shepherd holding a staff (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The rod was a straight stick about 1–2 meters (3–6 feet) in length. Its diameter allowed it to fit comfortably in a person’s hand.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The rod was, first of all, just a walking stick, and in some of the references above that is its primary purpose. However, it could serve many other purposes, including herding animals, fighting off wild animals, beating people, or even for divining (<a href=\"https://ref.ly/Hos4:12\">HOS 4:12</a>). In the hands of a shepherd, the rod extended the shepherd’s reach, enabling him to direct stray sheep back to the flock.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Translators must pay special attention to the context when rendering the Hebrew and Greek words listed above. The rod in the hand of the shepherd or traveler could serve multiple purposes. Sometimes it simply helped to maintain balance while walking over rough ground. It could also be wielded as an offensive or defensive weapon. On offense, it is probably best rendered “club” (see also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.7 Club, war club, mace, shattering weapon&lt;REALIA:2.7&gt;</a>). The Hebrew words are similar in meaning, and in several places they are used in poetic parallelism (<em>mateh</em> and <em>shevet</em> in <a href=\"https://ref.ly/Lev27:32\">LEV 27:32</a>; <a href=\"https://ref.ly/Isa10:5\">ISA 10:5</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a>, <a href=\"https://ref.ly/Isa10:24\">ISA 10:24</a>; <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>; <a href=\"https://ref.ly/Isa30:31\">ISA 30:31</a>; <a href=\"https://ref.ly/Isa30:32\">ISA 30:32</a>).</p>\n<p>Some cultures will have a special word for a staff carried by a shepherd or someone who herds other animals. In other contexts the best rendering will be something like “walking stick” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> in <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a>). However, in most passages translators should avoid using a word that gives the impression that the user of the stick was somehow feeble or crippled or injured. Such a staff was carried by men of all ages and states of health.</p>\n<p>\n            <a href=\"https://ref.ly/Lev27:32\">LEV 27:32</a>: The phrase “every tenth animal of all that pass under the herdsman’s staff” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) is probably an allusion to the way in which animals were selected for the tithe. The animals were counted as they passed single file under the staff of the herdsman. Every tenth animal was marked with a red colored stick to show that it had been chosen for the tithe. If this image can be retained in the receptor-language translation while at the same time clearly conveying the idea of counting, then this will probably be better. But the details of the actual procedure are less important than the fact that one of every ten animals was to be designated as belonging to the LORD. One possible model for the whole verse is “When you count your animals, cattle, sheep or goats, every tenth animal must be marked as belonging to the LORD.”</p>\n<p>\n            <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>: The Hebrew words <em>shevet</em> and <em>mish‘eneth</em> are used together in this verse as if they are distinguishable objects. We may quote from <em>A Handbook on Psalms</em>: “The <strong>\\+u rod\\+u*</strong> was a club used to drive away wild animals; the <strong>\\+u staff\\+u*</strong> was a long stick used for support in walking. Kirkpatrick takes the two words to be a poetic description of the shepherd’s crook, using two names for the one instrument. So <abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> ‘your shepherd’s rod, that is what reassures me.’ Most translations, however, have two different words. <abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr> [that is, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>] has used the traditional ‘<strong>rod and staff</strong> ’; but since there will be many readers who will not know what these are, <abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr> qualifies them with ‘<strong>Your shepherd’s rod and staff</strong> ’ ” (page 234).</p>\n<p>\n            <a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>: This is the only place where Paul uses the Greek word <em>rhabdos</em>, and its meaning must be determined from the context. It is very unlikely that Paul thinks of a literal stick with which he is threatening to beat his converts. It is also very unlikely that he thinks of himself as a ruler. His authority is “in Christ” (verses 15, 17), and he describes it as the authority of a father (verse 15) or a teacher. Both fathers and teachers had the acknowledged right to correct their children or pupils, if necessary, by using force. This idea is difficult to convey in the setting of many modern societies. Paul’s language also seems to have irony in it. Translators have found different ways of explaining or bringing out the meaning of the word <em>rhabdos</em>. Some maintain the image of the instrument of punishment (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> and <abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr> “a rod in my hand”; Moffatt [<abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr>] and Barclay [Brc] “rod of discipline”). Others focus on the element of punishment; for example, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> begins the second question of this verse with “Do you want me to be hard on you,” and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> has “that I come to you with punishment.” <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has replaced the rod with a whip by saying “Shall I come to you with a whip.” This has been done presumably because a whip or strap is more familiar in English as an instrument of punishment. Some translators will want to follow this model and substitute an instrument better known in their society.</p>\n<p>\n            <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a>: In <a href=\"https://ref.ly/Gen47:31\">GEN 47:31</a> the Hebrew word <em>m-t-h</em> can mean either “staff” or “bed,” depending on what vowels are given to the word (see the discussion at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.5 Bed, sleeping mat&lt;REALIA:5.5&gt;</a>). Most translations render it “bed.” <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> is an exception with “staff,” and it gives “bed” in the margin. The writer of Hebrews has followed the Septuagint, which has “staff.” The translator of Hebrews must not try to harmonize these verses but should translate the Greek of this verse, which can only mean “staff.”</p>\n<p>\n            <a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>; <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a>; <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>: The literal phrase “to rule … with a rod of iron” appears in these three verses (compare <a href=\"https://ref.ly/Ps2:9\">PSA 2:9</a>). This means to rule completely, ruthlessly, crushing all opposition. The “iron rod” was probably a heavy wooden club capped with iron, not a club made of iron. When translating this expression, some cultural adjustment may have to be made. If there is no local equivalent to “a rod of iron,” the translation may say “to rule with complete authority.”</p>\n<p>The “staff” is often used in Scripture in a figurative sense, and the figures may not correspond to something known in the receptor language. In such cases it will be preferable to translate the sense.</p>\n<p>In <a href=\"https://ref.ly/Tob5:18\">TOB 5:18</a> Tobit’s parents speak of him as “the staff of our hand” (<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>), meaning that they are dependent on his help. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has found a good English idiom to convey the meaning: “He’s our only means of support.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01038018",
+"start_ref_usfm": "GEN 38:18",
+"end_ref": "01038018",
+"end_ref_usfm": "GEN 38:18"
+},
+{
+"start_ref": "01038025",
+"start_ref_usfm": "GEN 38:25",
+"end_ref": "01038025",
+"end_ref_usfm": "GEN 38:25"
+},
+{
+"start_ref": "02004002",
+"start_ref_usfm": "EXO 4:2",
+"end_ref": "02004002",
+"end_ref_usfm": "EXO 4:2"
+},
+{
+"start_ref": "02004004",
+"start_ref_usfm": "EXO 4:4",
+"end_ref": "02004004",
+"end_ref_usfm": "EXO 4:4"
+},
+{
+"start_ref": "02004017",
+"start_ref_usfm": "EXO 4:17",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02004020",
+"start_ref_usfm": "EXO 4:20",
+"end_ref": "02004020",
+"end_ref_usfm": "EXO 4:20"
+},
+{
+"start_ref": "02007009",
+"start_ref_usfm": "EXO 7:9",
+"end_ref": "02007009",
+"end_ref_usfm": "EXO 7:9"
+},
+{
+"start_ref": "02007010",
+"start_ref_usfm": "EXO 7:10",
+"end_ref": "02007010",
+"end_ref_usfm": "EXO 7:10"
+},
+{
+"start_ref": "02007012",
+"start_ref_usfm": "EXO 7:12",
+"end_ref": "02007012",
+"end_ref_usfm": "EXO 7:12"
+},
+{
+"start_ref": "02007015",
+"start_ref_usfm": "EXO 7:15",
+"end_ref": "02007015",
+"end_ref_usfm": "EXO 7:15"
+},
+{
+"start_ref": "02007017",
+"start_ref_usfm": "EXO 7:17",
+"end_ref": "02007017",
+"end_ref_usfm": "EXO 7:17"
+},
+{
+"start_ref": "02007019",
+"start_ref_usfm": "EXO 7:19",
+"end_ref": "02007019",
+"end_ref_usfm": "EXO 7:19"
+},
+{
+"start_ref": "02007020",
+"start_ref_usfm": "EXO 7:20",
+"end_ref": "02007020",
+"end_ref_usfm": "EXO 7:20"
+},
+{
+"start_ref": "02008001",
+"start_ref_usfm": "EXO 8:1",
+"end_ref": "02008001",
+"end_ref_usfm": "EXO 8:1"
+},
+{
+"start_ref": "02008012",
+"start_ref_usfm": "EXO 8:12",
+"end_ref": "02008012",
+"end_ref_usfm": "EXO 8:12"
+},
+{
+"start_ref": "02008013",
+"start_ref_usfm": "EXO 8:13",
+"end_ref": "02008013",
+"end_ref_usfm": "EXO 8:13"
+},
+{
+"start_ref": "02009023",
+"start_ref_usfm": "EXO 9:23",
+"end_ref": "02009023",
+"end_ref_usfm": "EXO 9:23"
+},
+{
+"start_ref": "02010013",
+"start_ref_usfm": "EXO 10:13",
+"end_ref": "02010013",
+"end_ref_usfm": "EXO 10:13"
+},
+{
+"start_ref": "02014016",
+"start_ref_usfm": "EXO 14:16",
+"end_ref": "02014016",
+"end_ref_usfm": "EXO 14:16"
+},
+{
+"start_ref": "02017005",
+"start_ref_usfm": "EXO 17:5",
+"end_ref": "02017005",
+"end_ref_usfm": "EXO 17:5"
+},
+{
+"start_ref": "02017009",
+"start_ref_usfm": "EXO 17:9",
+"end_ref": "02017009",
+"end_ref_usfm": "EXO 17:9"
+},
+{
+"start_ref": "04017017",
+"start_ref_usfm": "NUM 17:17",
+"end_ref": "04017017",
+"end_ref_usfm": "NUM 17:17"
+},
+{
+"start_ref": "04017018",
+"start_ref_usfm": "NUM 17:18",
+"end_ref": "04017018",
+"end_ref_usfm": "NUM 17:18"
+},
+{
+"start_ref": "04017020",
+"start_ref_usfm": "NUM 17:20",
+"end_ref": "04017020",
+"end_ref_usfm": "NUM 17:20"
+},
+{
+"start_ref": "04017021",
+"start_ref_usfm": "NUM 17:21",
+"end_ref": "04017021",
+"end_ref_usfm": "NUM 17:21"
+},
+{
+"start_ref": "04017022",
+"start_ref_usfm": "NUM 17:22",
+"end_ref": "04017022",
+"end_ref_usfm": "NUM 17:22"
+},
+{
+"start_ref": "04017023",
+"start_ref_usfm": "NUM 17:23",
+"end_ref": "04017023",
+"end_ref_usfm": "NUM 17:23"
+},
+{
+"start_ref": "04017024",
+"start_ref_usfm": "NUM 17:24",
+"end_ref": "04017024",
+"end_ref_usfm": "NUM 17:24"
+},
+{
+"start_ref": "04017025",
+"start_ref_usfm": "NUM 17:25",
+"end_ref": "04017025",
+"end_ref_usfm": "NUM 17:25"
+},
+{
+"start_ref": "04020008",
+"start_ref_usfm": "NUM 20:8",
+"end_ref": "04020008",
+"end_ref_usfm": "NUM 20:8"
+},
+{
+"start_ref": "04020009",
+"start_ref_usfm": "NUM 20:9",
+"end_ref": "04020009",
+"end_ref_usfm": "NUM 20:9"
+},
+{
+"start_ref": "04020011",
+"start_ref_usfm": "NUM 20:11",
+"end_ref": "04020011",
+"end_ref_usfm": "NUM 20:11"
+},
+{
+"start_ref": "09014027",
+"start_ref_usfm": "1SA 14:27",
+"end_ref": "09014027",
+"end_ref_usfm": "1SA 14:27"
+},
+{
+"start_ref": "09014043",
+"start_ref_usfm": "1SA 14:43",
+"end_ref": "09014043",
+"end_ref_usfm": "1SA 14:43"
+},
+{
+"start_ref": "23009003",
+"start_ref_usfm": "ISA 9:3",
+"end_ref": "23009003",
+"end_ref_usfm": "ISA 9:3"
+},
+{
+"start_ref": "23010005",
+"start_ref_usfm": "ISA 10:5",
+"end_ref": "23010005",
+"end_ref_usfm": "ISA 10:5"
+},
+{
+"start_ref": "23010015",
+"start_ref_usfm": "ISA 10:15",
+"end_ref": "23010015",
+"end_ref_usfm": "ISA 10:15"
+},
+{
+"start_ref": "23010024",
+"start_ref_usfm": "ISA 10:24",
+"end_ref": "23010024",
+"end_ref_usfm": "ISA 10:24"
+},
+{
+"start_ref": "23010026",
+"start_ref_usfm": "ISA 10:26",
+"end_ref": "23010026",
+"end_ref_usfm": "ISA 10:26"
+},
+{
+"start_ref": "23014005",
+"start_ref_usfm": "ISA 14:5",
+"end_ref": "23014005",
+"end_ref_usfm": "ISA 14:5"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028027",
+"end_ref_usfm": "ISA 28:27"
+},
+{
+"start_ref": "23030032",
+"start_ref_usfm": "ISA 30:32",
+"end_ref": "23030032",
+"end_ref_usfm": "ISA 30:32"
+},
+{
+"start_ref": "26007010",
+"start_ref_usfm": "EZK 7:10",
+"end_ref": "26007010",
+"end_ref_usfm": "EZK 7:10"
+},
+{
+"start_ref": "26007011",
+"start_ref_usfm": "EZK 7:11",
+"end_ref": "26007011",
+"end_ref_usfm": "EZK 7:11"
+},
+{
+"start_ref": "26019011",
+"start_ref_usfm": "EZK 19:11",
+"end_ref": "26019011",
+"end_ref_usfm": "EZK 19:11"
+},
+{
+"start_ref": "26019012",
+"start_ref_usfm": "EZK 19:12",
+"end_ref": "26019012",
+"end_ref_usfm": "EZK 19:12"
+},
+{
+"start_ref": "26019014",
+"start_ref_usfm": "EZK 19:14",
+"end_ref": "26019014",
+"end_ref_usfm": "EZK 19:14"
+},
+{
+"start_ref": "35003014",
+"start_ref_usfm": "HAB 3:14",
+"end_ref": "35003014",
+"end_ref_usfm": "HAB 3:14"
+},
+{
+"start_ref": "01032011",
+"start_ref_usfm": "GEN 32:11",
+"end_ref": "01032011",
+"end_ref_usfm": "GEN 32:11"
+},
+{
+"start_ref": "02012011",
+"start_ref_usfm": "EXO 12:11",
+"end_ref": "02012011",
+"end_ref_usfm": "EXO 12:11"
+},
+{
+"start_ref": "04022027",
+"start_ref_usfm": "NUM 22:27",
+"end_ref": "04022027",
+"end_ref_usfm": "NUM 22:27"
+},
+{
+"start_ref": "09017040",
+"start_ref_usfm": "1SA 17:40",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017043",
+"start_ref_usfm": "1SA 17:43",
+"end_ref": "09017043",
+"end_ref_usfm": "1SA 17:43"
+},
+{
+"start_ref": "28004012",
+"start_ref_usfm": "HOS 4:12",
+"end_ref": "28004012",
+"end_ref_usfm": "HOS 4:12"
+},
+{
+"start_ref": "38011007",
+"start_ref_usfm": "ZEC 11:7",
+"end_ref": "38011007",
+"end_ref_usfm": "ZEC 11:7"
+},
+{
+"start_ref": "38011010",
+"start_ref_usfm": "ZEC 11:10",
+"end_ref": "38011010",
+"end_ref_usfm": "ZEC 11:10"
+},
+{
+"start_ref": "38011014",
+"start_ref_usfm": "ZEC 11:14",
+"end_ref": "38011014",
+"end_ref_usfm": "ZEC 11:14"
+},
+{
+"start_ref": "02021019",
+"start_ref_usfm": "EXO 21:19",
+"end_ref": "02021019",
+"end_ref_usfm": "EXO 21:19"
+},
+{
+"start_ref": "04021018",
+"start_ref_usfm": "NUM 21:18",
+"end_ref": "04021018",
+"end_ref_usfm": "NUM 21:18"
+},
+{
+"start_ref": "07006021",
+"start_ref_usfm": "JDG 6:21",
+"end_ref": "07006021",
+"end_ref_usfm": "JDG 6:21"
+},
+{
+"start_ref": "12004029",
+"start_ref_usfm": "2KI 4:29",
+"end_ref": "12004029",
+"end_ref_usfm": "2KI 4:29"
+},
+{
+"start_ref": "12004031",
+"start_ref_usfm": "2KI 4:31",
+"end_ref": "12004031",
+"end_ref_usfm": "2KI 4:31"
+},
+{
+"start_ref": "12018021",
+"start_ref_usfm": "2KI 18:21",
+"end_ref": "12018021",
+"end_ref_usfm": "2KI 18:21"
+},
+{
+"start_ref": "19023004",
+"start_ref_usfm": "PSA 23:4",
+"end_ref": "19023004",
+"end_ref_usfm": "PSA 23:4"
+},
+{
+"start_ref": "23036006",
+"start_ref_usfm": "ISA 36:6",
+"end_ref": "23036006",
+"end_ref_usfm": "ISA 36:6"
+},
+{
+"start_ref": "26029006",
+"start_ref_usfm": "EZK 29:6",
+"end_ref": "26029006",
+"end_ref_usfm": "EZK 29:6"
+},
+{
+"start_ref": "38008004",
+"start_ref_usfm": "ZEC 8:4",
+"end_ref": "38008004",
+"end_ref_usfm": "ZEC 8:4"
+},
+{
+"start_ref": "02021020",
+"start_ref_usfm": "EXO 21:20",
+"end_ref": "02021020",
+"end_ref_usfm": "EXO 21:20"
+},
+{
+"start_ref": "03027032",
+"start_ref_usfm": "LEV 27:32",
+"end_ref": "03027032",
+"end_ref_usfm": "LEV 27:32"
+},
+{
+"start_ref": "10007014",
+"start_ref_usfm": "2SA 7:14",
+"end_ref": "10007014",
+"end_ref_usfm": "2SA 7:14"
+},
+{
+"start_ref": "10023021",
+"start_ref_usfm": "2SA 23:21",
+"end_ref": "10023021",
+"end_ref_usfm": "2SA 23:21"
+},
+{
+"start_ref": "13011023",
+"start_ref_usfm": "1CH 11:23",
+"end_ref": "13011023",
+"end_ref_usfm": "1CH 11:23"
+},
+{
+"start_ref": "18009034",
+"start_ref_usfm": "JOB 9:34",
+"end_ref": "18009034",
+"end_ref_usfm": "JOB 9:34"
+},
+{
+"start_ref": "18021009",
+"start_ref_usfm": "JOB 21:9",
+"end_ref": "18021009",
+"end_ref_usfm": "JOB 21:9"
+},
+{
+"start_ref": "18037013",
+"start_ref_usfm": "JOB 37:13",
+"end_ref": "18037013",
+"end_ref_usfm": "JOB 37:13"
+},
+{
+"start_ref": "19002009",
+"start_ref_usfm": "PSA 2:9",
+"end_ref": "19002009",
+"end_ref_usfm": "PSA 2:9"
+},
+{
+"start_ref": "19089033",
+"start_ref_usfm": "PSA 89:33",
+"end_ref": "19089033",
+"end_ref_usfm": "PSA 89:33"
+},
+{
+"start_ref": "20010013",
+"start_ref_usfm": "PRO 10:13",
+"end_ref": "20010013",
+"end_ref_usfm": "PRO 10:13"
+},
+{
+"start_ref": "20013024",
+"start_ref_usfm": "PRO 13:24",
+"end_ref": "20013024",
+"end_ref_usfm": "PRO 13:24"
+},
+{
+"start_ref": "20022008",
+"start_ref_usfm": "PRO 22:8",
+"end_ref": "20022008",
+"end_ref_usfm": "PRO 22:8"
+},
+{
+"start_ref": "20022015",
+"start_ref_usfm": "PRO 22:15",
+"end_ref": "20022015",
+"end_ref_usfm": "PRO 22:15"
+},
+{
+"start_ref": "20023013",
+"start_ref_usfm": "PRO 23:13",
+"end_ref": "20023013",
+"end_ref_usfm": "PRO 23:13"
+},
+{
+"start_ref": "20023014",
+"start_ref_usfm": "PRO 23:14",
+"end_ref": "20023014",
+"end_ref_usfm": "PRO 23:14"
+},
+{
+"start_ref": "20026003",
+"start_ref_usfm": "PRO 26:3",
+"end_ref": "20026003",
+"end_ref_usfm": "PRO 26:3"
+},
+{
+"start_ref": "20029015",
+"start_ref_usfm": "PRO 29:15",
+"end_ref": "20029015",
+"end_ref_usfm": "PRO 29:15"
+},
+{
+"start_ref": "23011004",
+"start_ref_usfm": "ISA 11:4",
+"end_ref": "23011004",
+"end_ref_usfm": "ISA 11:4"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "23030031",
+"start_ref_usfm": "ISA 30:31",
+"end_ref": "23030031",
+"end_ref_usfm": "ISA 30:31"
+},
+{
+"start_ref": "25003001",
+"start_ref_usfm": "LAM 3:1",
+"end_ref": "25003001",
+"end_ref_usfm": "LAM 3:1"
+},
+{
+"start_ref": "26020037",
+"start_ref_usfm": "EZK 20:37",
+"end_ref": "26020037",
+"end_ref_usfm": "EZK 20:37"
+},
+{
+"start_ref": "26021015",
+"start_ref_usfm": "EZK 21:15",
+"end_ref": "26021015",
+"end_ref_usfm": "EZK 21:15"
+},
+{
+"start_ref": "26021018",
+"start_ref_usfm": "EZK 21:18",
+"end_ref": "26021018",
+"end_ref_usfm": "EZK 21:18"
+},
+{
+"start_ref": "33004014",
+"start_ref_usfm": "MIC 4:14",
+"end_ref": "33004014",
+"end_ref_usfm": "MIC 4:14"
+},
+{
+"start_ref": "33007014",
+"start_ref_usfm": "MIC 7:14",
+"end_ref": "33007014",
+"end_ref_usfm": "MIC 7:14"
+},
+{
+"start_ref": "40010010",
+"start_ref_usfm": "MAT 10:10",
+"end_ref": "40010010",
+"end_ref_usfm": "MAT 10:10"
+},
+{
+"start_ref": "41006008",
+"start_ref_usfm": "MRK 6:8",
+"end_ref": "41006008",
+"end_ref_usfm": "MRK 6:8"
+},
+{
+"start_ref": "42009003",
+"start_ref_usfm": "LUK 9:3",
+"end_ref": "42009003",
+"end_ref_usfm": "LUK 9:3"
+},
+{
+"start_ref": "46004021",
+"start_ref_usfm": "1CO 4:21",
+"end_ref": "46004021",
+"end_ref_usfm": "1CO 4:21"
+},
+{
+"start_ref": "58009004",
+"start_ref_usfm": "HEB 9:4",
+"end_ref": "58009004",
+"end_ref_usfm": "HEB 9:4"
+},
+{
+"start_ref": "58011021",
+"start_ref_usfm": "HEB 11:21",
+"end_ref": "58011021",
+"end_ref_usfm": "HEB 11:21"
+},
+{
+"start_ref": "66002027",
+"start_ref_usfm": "REV 2:27",
+"end_ref": "66002027",
+"end_ref_usfm": "REV 2:27"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66012005",
+"start_ref_usfm": "REV 12:5",
+"end_ref": "66012005",
+"end_ref_usfm": "REV 12:5"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "68005018",
+"start_ref_usfm": "TOB 5:18",
+"end_ref": "68005018",
+"end_ref_usfm": "TOB 5:18"
+},
+{
+"start_ref": "72033025",
+"start_ref_usfm": "SIR 33:25",
+"end_ref": "72033025",
+"end_ref_usfm": "SIR 33:25"
+},
+{
+"start_ref": "77001025",
+"start_ref_usfm": "BEL 1:25",
+"end_ref": "77001025",
+"end_ref_usfm": "BEL 1:25"
+},
+{
+"start_ref": "01047031",
+"start_ref_usfm": "GEN 47:31",
+"end_ref": "01047031",
+"end_ref_usfm": "GEN 47:31"
+}
+],
+"resource": []
+}
+}
+]

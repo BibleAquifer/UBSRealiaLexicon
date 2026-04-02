@@ -1,0 +1,84 @@
+[
+{
+"content_id": "REALIA:3.2.1",
+"reference_id": "REALIA:3.2.1",
+"version": "1.0.4",
+"title": "Door of tent, dividing curtain",
+"media_type": "Text",
+"index_reference": "3.2.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.2.1\"><span class=\"thlex-key\">3.2.1</span> Door of tent, dividing curtain</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">דֹּק</span> <span class=\"thlex-translit\">(doq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa40:22\">ISA 40:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יְרִיעָה</span> <span class=\"thlex-translit\">(yri‘ah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps104:2\">PSA 104:2</a>, <a href=\"https://ref.ly/Song1:5\">SNG 1:5</a>, <a href=\"https://ref.ly/Isa54:2\">ISA 54:2</a>, <a href=\"https://ref.ly/Jer4:20\">JER 4:20</a>, <a href=\"https://ref.ly/Jer10:20\">JER 10:20</a>, <a href=\"https://ref.ly/Jer49:29\">JER 49:29</a>, <a href=\"https://ref.ly/Hab3:7\">HAB 3:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">αὐλαία</span> <span class=\"thlex-translit\">(aulaia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt14:14\">JDT 14:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Curtains divided different parts of a large tent.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>yri‘ah</em> is first used for the cloth strips that covered the Tabernacle (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.6.1 Linen cloth strips&lt;REALIA:3.15.2.3.6.1&gt;</a>). In most of the passages listed above this word appears in parallelism with a word meaning “tent,” and for that reason it sometimes seems to be a metonym for tent (compare “the ark of God dwells in the <em>yri‘ah</em> ” in <a href=\"https://ref.ly/2Sam7:2\">2SA 7:2</a> with “the ark of the covenant of the LORD is under a <em>yri‘ah</em> ” in <a href=\"https://ref.ly/1Chr17:1\">1CH 17:1</a>). In <a href=\"https://ref.ly/Ps104:2\">PSA 104:2</a> the visual imagery “stretched out the heavens like a <em>yri‘ah</em> ” comes from the curtains in the Tabernacle stretched out above the ark.</p>\n<p>\n            <a href=\"https://ref.ly/Jdt14:14\">JDT 14:14</a> says “Bagoas went in and knocked at the door of the tent” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). This will sound as strange in some languages as it does in English. <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> and <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> try to solve the problem by changing “door” (<em>aulaia</em> in Greek) to “entry.” <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> goes even farther by rendering “Bagoas went in and clapped his hands in front of the sleeping quarters of the tent.” <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> is closer to the literal meaning of <em>aulaia</em>, saying “Bagoas went inside and struck the curtain dividing the tent.” The point of the story is that Bagoas thought Holofernes was in bed with Judith and made noise so as not to surprise them in an indecent position.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23040022",
+"start_ref_usfm": "ISA 40:22",
+"end_ref": "23040022",
+"end_ref_usfm": "ISA 40:22"
+},
+{
+"start_ref": "19104002",
+"start_ref_usfm": "PSA 104:2",
+"end_ref": "19104002",
+"end_ref_usfm": "PSA 104:2"
+},
+{
+"start_ref": "22001005",
+"start_ref_usfm": "SNG 1:5",
+"end_ref": "22001005",
+"end_ref_usfm": "SNG 1:5"
+},
+{
+"start_ref": "23054002",
+"start_ref_usfm": "ISA 54:2",
+"end_ref": "23054002",
+"end_ref_usfm": "ISA 54:2"
+},
+{
+"start_ref": "24004020",
+"start_ref_usfm": "JER 4:20",
+"end_ref": "24004020",
+"end_ref_usfm": "JER 4:20"
+},
+{
+"start_ref": "24010020",
+"start_ref_usfm": "JER 10:20",
+"end_ref": "24010020",
+"end_ref_usfm": "JER 10:20"
+},
+{
+"start_ref": "24049029",
+"start_ref_usfm": "JER 49:29",
+"end_ref": "24049029",
+"end_ref_usfm": "JER 49:29"
+},
+{
+"start_ref": "35003007",
+"start_ref_usfm": "HAB 3:7",
+"end_ref": "35003007",
+"end_ref_usfm": "HAB 3:7"
+},
+{
+"start_ref": "69014014",
+"start_ref_usfm": "JDT 14:14",
+"end_ref": "69014014",
+"end_ref_usfm": "JDT 14:14"
+},
+{
+"start_ref": "10007002",
+"start_ref_usfm": "2SA 7:2",
+"end_ref": "10007002",
+"end_ref_usfm": "2SA 7:2"
+},
+{
+"start_ref": "13017001",
+"start_ref_usfm": "1CH 17:1",
+"end_ref": "13017001",
+"end_ref_usfm": "1CH 17:1"
+}
+],
+"resource": []
+}
+}
+]

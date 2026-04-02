@@ -1,0 +1,114 @@
+[
+{
+"content_id": "REALIA:3.1.2.1",
+"reference_id": "REALIA:3.1.2.1",
+"version": "1.0.4",
+"title": "Lock",
+"media_type": "Text",
+"index_reference": "3.1.2.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.1.2.1\"><span class=\"thlex-key\">3.1.2.1</span> Lock</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כַּף, מַנְעוּל</span> <span class=\"thlex-translit\">(kaf man‘ul)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song5:5\">SNG 5:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נעל</span> <span class=\"thlex-translit\">(na‘al)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg3:23\">JDG 3:23</a>, <a href=\"https://ref.ly/Judg3:24\">JDG 3:24</a>, <a href=\"https://ref.ly/2Sam13:17\">2SA 13:17</a>, <a href=\"https://ref.ly/2Sam13:18\">2SA 13:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">סגר</span> <span class=\"thlex-translit\">(sagar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg9:51\">JDG 9:51</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κλεῖθρον</span> <span class=\"thlex-translit\">(kleithron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EpJer1:17\">LJE 1:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κλείω</span> <span class=\"thlex-translit\">(kleiō)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt25:10\">MAT 25:10</a>, <a href=\"https://ref.ly/Luke11:7\">LUK 11:7</a>, <a href=\"https://ref.ly/John20:19\">JHN 20:19</a>, <a href=\"https://ref.ly/John20:26\">JHN 20:26</a>, <a href=\"https://ref.ly/Acts5:23\">ACT 5:23</a>, <a href=\"https://ref.ly/Acts21:30\">ACT 21:30</a>, <a href=\"https://ref.ly/Sir42:6\">SIR 42:6</a>, <a href=\"https://ref.ly/Bel1:14\">BEL 1:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0403_lock_en.png\" alt=\"Diagram of an ancient Egyptian lock mechanism for a door\"><figcaption class=\"thlex-caption\">Diagram of an ancient Egyptian lock mechanism for a door (© Willh26, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>The lock was a device that fastened a door in such a way that it could only be opened by a special key (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.1.2.2 Key&lt;REALIA:3.1.2.2&gt;</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew expression <em>kaf man‘ul</em> in <a href=\"https://ref.ly/Song5:5\">SNG 5:5</a> probably refers to a wooden protrusion or a cord used to pull back the door bar to allow the door to open. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “handle of the door,” while others say “handles of the bolt” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr>) or “handles of the lock” (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>). <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> has simply “door.”</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0081_door_locked_with_bar.png\" alt=\"OAI-0081_door_locked_with_bar\"></figure>The unusual Greek word used in <a href=\"https://ref.ly/EpJer1:18\">LJE 1:18</a> can mean either a lock (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) or a bar drawn across a door to secure it (so <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "22005005",
+"start_ref_usfm": "SNG 5:5",
+"end_ref": "22005005",
+"end_ref_usfm": "SNG 5:5"
+},
+{
+"start_ref": "07003023",
+"start_ref_usfm": "JDG 3:23",
+"end_ref": "07003023",
+"end_ref_usfm": "JDG 3:23"
+},
+{
+"start_ref": "07003024",
+"start_ref_usfm": "JDG 3:24",
+"end_ref": "07003024",
+"end_ref_usfm": "JDG 3:24"
+},
+{
+"start_ref": "10013017",
+"start_ref_usfm": "2SA 13:17",
+"end_ref": "10013017",
+"end_ref_usfm": "2SA 13:17"
+},
+{
+"start_ref": "10013018",
+"start_ref_usfm": "2SA 13:18",
+"end_ref": "10013018",
+"end_ref_usfm": "2SA 13:18"
+},
+{
+"start_ref": "07009051",
+"start_ref_usfm": "JDG 9:51",
+"end_ref": "07009051",
+"end_ref_usfm": "JDG 9:51"
+},
+{
+"start_ref": "74001017",
+"start_ref_usfm": "LJE 1:17",
+"end_ref": "74001017",
+"end_ref_usfm": "LJE 1:17"
+},
+{
+"start_ref": "40025010",
+"start_ref_usfm": "MAT 25:10",
+"end_ref": "40025010",
+"end_ref_usfm": "MAT 25:10"
+},
+{
+"start_ref": "42011007",
+"start_ref_usfm": "LUK 11:7",
+"end_ref": "42011007",
+"end_ref_usfm": "LUK 11:7"
+},
+{
+"start_ref": "43020019",
+"start_ref_usfm": "JHN 20:19",
+"end_ref": "43020019",
+"end_ref_usfm": "JHN 20:19"
+},
+{
+"start_ref": "43020026",
+"start_ref_usfm": "JHN 20:26",
+"end_ref": "43020026",
+"end_ref_usfm": "JHN 20:26"
+},
+{
+"start_ref": "44005023",
+"start_ref_usfm": "ACT 5:23",
+"end_ref": "44005023",
+"end_ref_usfm": "ACT 5:23"
+},
+{
+"start_ref": "44021030",
+"start_ref_usfm": "ACT 21:30",
+"end_ref": "44021030",
+"end_ref_usfm": "ACT 21:30"
+},
+{
+"start_ref": "72042006",
+"start_ref_usfm": "SIR 42:6",
+"end_ref": "72042006",
+"end_ref_usfm": "SIR 42:6"
+},
+{
+"start_ref": "77001014",
+"start_ref_usfm": "BEL 1:14",
+"end_ref": "77001014",
+"end_ref_usfm": "BEL 1:14"
+},
+{
+"start_ref": "74001018",
+"start_ref_usfm": "LJE 1:18",
+"end_ref": "74001018",
+"end_ref_usfm": "LJE 1:18"
+}
+],
+"resource": []
+}
+}
+]

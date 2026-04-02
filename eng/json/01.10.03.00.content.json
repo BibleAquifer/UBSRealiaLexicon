@@ -1,0 +1,180 @@
+[
+{
+"content_id": "REALIA:1.10.3",
+"reference_id": "REALIA:1.10.3",
+"version": "1.0.4",
+"title": "Scepter",
+"media_type": "Text",
+"index_reference": "1.10.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.10.3\"><span class=\"thlex-key\">1.10.3</span> Scepter</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חקק</span> <span class=\"thlex-translit\">(mchoqeq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a>, <a href=\"https://ref.ly/Num21:18\">NUM 21:18</a>, <a href=\"https://ref.ly/Ps60:9\">PSA 60:9</a>, <a href=\"https://ref.ly/Ps108:9\">PSA 108:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַטֶּה</span> <span class=\"thlex-translit\">(mateh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps110:2\">PSA 110:2</a>, <a href=\"https://ref.ly/Jer48:17\">JER 48:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַקֵּל</span> <span class=\"thlex-translit\">(maqel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer48:17\">JER 48:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֵׁבֶט</span> <span class=\"thlex-translit\">(shevet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a>, <a href=\"https://ref.ly/Num24:17\">NUM 24:17</a>, <a href=\"https://ref.ly/Judg5:14\">JDG 5:14</a>, <a href=\"https://ref.ly/Ps45:7\">PSA 45:7</a>, <a href=\"https://ref.ly/Ps45:7\">PSA 45:7</a>, <a href=\"https://ref.ly/Ps125:3\">PSA 125:3</a>, <a href=\"https://ref.ly/Isa14:5\">ISA 14:5</a>, <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Amos1:5\">AMO 1:5</a>, <a href=\"https://ref.ly/Amos1:8\">AMO 1:8</a>, <a href=\"https://ref.ly/Zech10:11\">ZEC 10:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שַׁרְבִיט</span> <span class=\"thlex-translit\">(sharvit)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Esth4:11\">EST 4:11</a>, <a href=\"https://ref.ly/Esth5:2\">EST 5:2</a>, <a href=\"https://ref.ly/Esth5:2\">EST 5:2</a>, <a href=\"https://ref.ly/Esth8:4\">EST 8:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ῥάβδος</span> <span class=\"thlex-translit\">(rhabdos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb1:8\">HEB 1:8</a>, <a href=\"https://ref.ly/Heb1:8\">HEB 1:8</a>, <a href=\"https://ref.ly/EsthGr5:2\">ESG 5:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σκῆπτρον</span> <span class=\"thlex-translit\">(skēptron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr4:17\">ESG 4:17</a>, <a href=\"https://ref.ly/Wis6:21\">WIS 6:21</a>, <a href=\"https://ref.ly/Wis7:8\">WIS 7:8</a>, <a href=\"https://ref.ly/Wis10:14\">WIS 10:14</a>, <a href=\"https://ref.ly/Sir35:21\">SIR 35:21</a>, <a href=\"https://ref.ly/EpJer1:12\">LJE 1:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0364_scepter.jpg\" alt=\"Head of a scepter\"><figcaption class=\"thlex-caption\">Head of a scepter (Gary Todd, Israel Museum, CC0, via Wikimedia Commons)</figcaption></figure>The scepter was a decorated rod, often made at least partially of a precious metal, symbolizing the authority of the ruler. The ruler held the scepter when he was engaged in certain aspects of his office. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.2.4 Rod, club, shepherd’s staff&lt;REALIA:1.2.4&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In languages where a chief’s authority is symbolized by an object associated with him (such as a cane, stool, or scepter), such symbols of authority can often be used in translation; for example, <a href=\"https://ref.ly/Ps45:7\">PSA 45:7</a> may be rendered “Your ceremonial staff shows that you rule your people fairly.”</p>\n<p>The Hebrew words <em>mateh</em> and <em>maqel</em> are parallel to each other in <a href=\"https://ref.ly/Jer48:17\">JER 48:17</a>. It is not always necessary to reproduce the parallelism with two similar words; for example, for the last half of this verse <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> has “How the mighty scepter is broken, the glorious staff,” but <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “Its powerful rule has been broken; its glory and might are no more.” This passage is metaphorical, so the focus here is not on the scepter as a physical object but on authority.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01049010",
+"start_ref_usfm": "GEN 49:10",
+"end_ref": "01049010",
+"end_ref_usfm": "GEN 49:10"
+},
+{
+"start_ref": "04021018",
+"start_ref_usfm": "NUM 21:18",
+"end_ref": "04021018",
+"end_ref_usfm": "NUM 21:18"
+},
+{
+"start_ref": "19060009",
+"start_ref_usfm": "PSA 60:9",
+"end_ref": "19060009",
+"end_ref_usfm": "PSA 60:9"
+},
+{
+"start_ref": "19108009",
+"start_ref_usfm": "PSA 108:9",
+"end_ref": "19108009",
+"end_ref_usfm": "PSA 108:9"
+},
+{
+"start_ref": "19110002",
+"start_ref_usfm": "PSA 110:2",
+"end_ref": "19110002",
+"end_ref_usfm": "PSA 110:2"
+},
+{
+"start_ref": "24048017",
+"start_ref_usfm": "JER 48:17",
+"end_ref": "24048017",
+"end_ref_usfm": "JER 48:17"
+},
+{
+"start_ref": "04024017",
+"start_ref_usfm": "NUM 24:17",
+"end_ref": "04024017",
+"end_ref_usfm": "NUM 24:17"
+},
+{
+"start_ref": "07005014",
+"start_ref_usfm": "JDG 5:14",
+"end_ref": "07005014",
+"end_ref_usfm": "JDG 5:14"
+},
+{
+"start_ref": "19045007",
+"start_ref_usfm": "PSA 45:7",
+"end_ref": "19045007",
+"end_ref_usfm": "PSA 45:7"
+},
+{
+"start_ref": "19125003",
+"start_ref_usfm": "PSA 125:3",
+"end_ref": "19125003",
+"end_ref_usfm": "PSA 125:3"
+},
+{
+"start_ref": "23014005",
+"start_ref_usfm": "ISA 14:5",
+"end_ref": "23014005",
+"end_ref_usfm": "ISA 14:5"
+},
+{
+"start_ref": "26019011",
+"start_ref_usfm": "EZK 19:11",
+"end_ref": "26019011",
+"end_ref_usfm": "EZK 19:11"
+},
+{
+"start_ref": "26019014",
+"start_ref_usfm": "EZK 19:14",
+"end_ref": "26019014",
+"end_ref_usfm": "EZK 19:14"
+},
+{
+"start_ref": "30001005",
+"start_ref_usfm": "AMO 1:5",
+"end_ref": "30001005",
+"end_ref_usfm": "AMO 1:5"
+},
+{
+"start_ref": "30001008",
+"start_ref_usfm": "AMO 1:8",
+"end_ref": "30001008",
+"end_ref_usfm": "AMO 1:8"
+},
+{
+"start_ref": "38010011",
+"start_ref_usfm": "ZEC 10:11",
+"end_ref": "38010011",
+"end_ref_usfm": "ZEC 10:11"
+},
+{
+"start_ref": "17004011",
+"start_ref_usfm": "EST 4:11",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
+},
+{
+"start_ref": "17005002",
+"start_ref_usfm": "EST 5:2",
+"end_ref": "17005002",
+"end_ref_usfm": "EST 5:2"
+},
+{
+"start_ref": "17008004",
+"start_ref_usfm": "EST 8:4",
+"end_ref": "17008004",
+"end_ref_usfm": "EST 8:4"
+},
+{
+"start_ref": "58001008",
+"start_ref_usfm": "HEB 1:8",
+"end_ref": "58001008",
+"end_ref_usfm": "HEB 1:8"
+},
+{
+"start_ref": "70005002",
+"start_ref_usfm": "ESG 5:2",
+"end_ref": "70005002",
+"end_ref_usfm": "ESG 5:2"
+},
+{
+"start_ref": "70004017",
+"start_ref_usfm": "ESG 4:17",
+"end_ref": "70004017",
+"end_ref_usfm": "ESG 4:17"
+},
+{
+"start_ref": "71006021",
+"start_ref_usfm": "WIS 6:21",
+"end_ref": "71006021",
+"end_ref_usfm": "WIS 6:21"
+},
+{
+"start_ref": "71007008",
+"start_ref_usfm": "WIS 7:8",
+"end_ref": "71007008",
+"end_ref_usfm": "WIS 7:8"
+},
+{
+"start_ref": "71010014",
+"start_ref_usfm": "WIS 10:14",
+"end_ref": "71010014",
+"end_ref_usfm": "WIS 10:14"
+},
+{
+"start_ref": "72035021",
+"start_ref_usfm": "SIR 35:21",
+"end_ref": "72035021",
+"end_ref_usfm": "SIR 35:21"
+},
+{
+"start_ref": "74001012",
+"start_ref_usfm": "LJE 1:12",
+"end_ref": "74001012",
+"end_ref_usfm": "LJE 1:12"
+}
+],
+"resource": []
+}
+}
+]
