@@ -1,0 +1,756 @@
+[
+{
+"content_id": "REALIA:3.13.3.2",
+"reference_id": "REALIA:3.13.3.2",
+"version": "1.0.4",
+"title": "Fortress, stronghold, castle, citadel, fort",
+"media_type": "Text",
+"index_reference": "3.13.3.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.13.3.2\"><span class=\"thlex-key\">3.13.3.2</span> Fortress, stronghold, castle, citadel, fort</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בִּירָה</span> <span class=\"thlex-translit\">(birah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr17:12\">2CH 17:12</a>, <a href=\"https://ref.ly/2Chr27:4\">2CH 27:4</a>, <a href=\"https://ref.ly/Neh2:8\">NEH 2:8</a>, <a href=\"https://ref.ly/Neh7:2\">NEH 7:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִבְצָר</span> <span class=\"thlex-translit\">(mivtsar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam24:7\">2SA 24:7</a>, <a href=\"https://ref.ly/2Kgs8:12\">2KI 8:12</a>, <a href=\"https://ref.ly/Ps89:41\">PSA 89:41</a>, <a href=\"https://ref.ly/Isa17:3\">ISA 17:3</a>, <a href=\"https://ref.ly/Isa34:13\">ISA 34:13</a>, <a href=\"https://ref.ly/Jer48:18\">JER 48:18</a>, <a href=\"https://ref.ly/Lam2:2\">LAM 2:2</a>, <a href=\"https://ref.ly/Lam2:5\">LAM 2:5</a>, <a href=\"https://ref.ly/Dan11:39\">DAN 11:39</a>, <a href=\"https://ref.ly/Hos10:14\">HOS 10:14</a>, <a href=\"https://ref.ly/Amos5:9\">AMO 5:9</a>, <a href=\"https://ref.ly/Mic5:10\">MIC 5:10</a>, <a href=\"https://ref.ly/Nah3:12\">NAM 3:12</a>, <a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a>, <a href=\"https://ref.ly/Hab1:10\">HAB 1:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִגְדַּל־שְׁכֶם</span> <span class=\"thlex-translit\">(migdal shkem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg9:46\">JDG 9:46</a>, <a href=\"https://ref.ly/Judg9:47\">JDG 9:47</a>, <a href=\"https://ref.ly/Judg9:49\">JDG 9:49</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִסְגֶּרֶת</span> <span class=\"thlex-translit\">(misgereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam22:46\">2SA 22:46</a>, <a href=\"https://ref.ly/Ps18:46\">PSA 18:46</a>, <a href=\"https://ref.ly/Mic7:17\">MIC 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מָעוֹז</span> <span class=\"thlex-translit\">(ma‘oz)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa23:11\">ISA 23:11</a>, <a href=\"https://ref.ly/Dan11:7\">DAN 11:7</a>, <a href=\"https://ref.ly/Dan11:10\">DAN 11:10</a>, <a href=\"https://ref.ly/Dan11:10\">DAN 11:10</a>, <a href=\"https://ref.ly/Dan11:19\">DAN 11:19</a>, <a href=\"https://ref.ly/Dan11:31\">DAN 11:31</a>, <a href=\"https://ref.ly/Dan11:38\">DAN 11:38</a>, <a href=\"https://ref.ly/Dan11:39\">DAN 11:39</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְצָד, מְצוּדָה</span> <span class=\"thlex-translit\">(mtsad, mtsudah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam5:7\">2SA 5:7</a>, <a href=\"https://ref.ly/2Sam5:9\">2SA 5:9</a>, <a href=\"https://ref.ly/1Chr11:5\">1CH 11:5</a>, <a href=\"https://ref.ly/1Chr11:7\">1CH 11:7</a>, <a href=\"https://ref.ly/Jer48:41\">JER 48:41</a>, <a href=\"https://ref.ly/Jer51:30\">JER 51:30</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מָצוֹר</span> <span class=\"thlex-translit\">(matsor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Zech9:3\">ZEC 9:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְצוּרָה</span> <span class=\"thlex-translit\">(mtsurah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr11:11\">2CH 11:11</a>, <a href=\"https://ref.ly/2Chr11:23\">2CH 11:23</a>, <a href=\"https://ref.ly/2Chr12:4\">2CH 12:4</a>, <a href=\"https://ref.ly/2Chr14:5\">2CH 14:5</a>, <a href=\"https://ref.ly/2Chr21:3\">2CH 21:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִשְׂגָּב</span> <span class=\"thlex-translit\">(misgav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a>, <a href=\"https://ref.ly/Ps9:10\">PSA 9:10</a>, <a href=\"https://ref.ly/Ps9:10\">PSA 9:10</a>, <a href=\"https://ref.ly/Ps18:3\">PSA 18:3</a>, <a href=\"https://ref.ly/Ps46:8\">PSA 46:8</a>, <a href=\"https://ref.ly/Ps46:12\">PSA 46:12</a>, <a href=\"https://ref.ly/Ps48:4\">PSA 48:4</a>, <a href=\"https://ref.ly/Ps59:10\">PSA 59:10</a>, <a href=\"https://ref.ly/Ps59:17\">PSA 59:17</a>, <a href=\"https://ref.ly/Ps59:18\">PSA 59:18</a>, <a href=\"https://ref.ly/Ps62:3\">PSA 62:3</a>, <a href=\"https://ref.ly/Ps62:7\">PSA 62:7</a>, <a href=\"https://ref.ly/Ps94:22\">PSA 94:22</a>, <a href=\"https://ref.ly/Ps144:2\">PSA 144:2</a>, <a href=\"https://ref.ly/Isa25:12\">ISA 25:12</a>, <a href=\"https://ref.ly/Isa33:16\">ISA 33:16</a>, <a href=\"https://ref.ly/Jer48:1\">JER 48:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צְרִיחַ</span> <span class=\"thlex-translit\">(tsariach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg9:46\">JDG 9:46</a>, <a href=\"https://ref.ly/Judg9:49\">JDG 9:49</a>, <a href=\"https://ref.ly/Judg9:49\">JDG 9:49</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀκρόπολις</span> <span class=\"thlex-translit\">(akropolis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc4:12\">2MA 4:12</a>, <a href=\"https://ref.ly/2Macc4:28\">2MA 4:28</a>, <a href=\"https://ref.ly/2Macc5:5\">2MA 5:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἄκρα</span> <span class=\"thlex-translit\">(akra)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc1:33\">1MA 1:33</a>, <a href=\"https://ref.ly/1Macc3:45\">1MA 3:45</a>, <a href=\"https://ref.ly/1Macc4:2\">1MA 4:2</a>, <a href=\"https://ref.ly/1Macc4:41\">1MA 4:41</a>, <a href=\"https://ref.ly/1Macc6:18\">1MA 6:18</a>, <a href=\"https://ref.ly/1Macc6:26\">1MA 6:26</a>, <a href=\"https://ref.ly/1Macc6:32\">1MA 6:32</a>, <a href=\"https://ref.ly/1Macc9:52\">1MA 9:52</a>, <a href=\"https://ref.ly/1Macc9:53\">1MA 9:53</a>, <a href=\"https://ref.ly/1Macc10:7\">1MA 10:7</a>, <a href=\"https://ref.ly/1Macc10:7\">1MA 10:7</a>, <a href=\"https://ref.ly/1Macc10:9\">1MA 10:9</a>, <a href=\"https://ref.ly/1Macc10:32\">1MA 10:32</a>, <a href=\"https://ref.ly/1Macc11:21\">1MA 11:21</a>, <a href=\"https://ref.ly/1Macc11:21\">1MA 11:21</a>, <a href=\"https://ref.ly/1Macc11:41\">1MA 11:41</a>, <a href=\"https://ref.ly/1Macc12:36\">1MA 12:36</a>, <a href=\"https://ref.ly/1Macc13:21\">1MA 13:21</a>, <a href=\"https://ref.ly/1Macc13:50\">1MA 13:50</a>, <a href=\"https://ref.ly/1Macc13:50\">1MA 13:50</a>, <a href=\"https://ref.ly/1Macc13:52\">1MA 13:52</a>, <a href=\"https://ref.ly/1Macc14:7\">1MA 14:7</a>, <a href=\"https://ref.ly/1Macc14:36\">1MA 14:36</a>, <a href=\"https://ref.ly/1Macc15:28\">1MA 15:28</a>, <a href=\"https://ref.ly/2Macc15:31\">2MA 15:31</a>, <a href=\"https://ref.ly/2Macc15:35\">2MA 15:35</a>, <a href=\"https://ref.ly/4Macc4:20\">4MA 4:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">βάρις</span> <span class=\"thlex-translit\">(baris)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:22\">1ES 6:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὀχύρωμα, ὀχυρωμάτιον</span> <span class=\"thlex-translit\">(ochurōma, ochurōmation)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Cor10:4\">2CO 10:4</a>, <a href=\"https://ref.ly/1Macc1:2\">1MA 1:2</a>, <a href=\"https://ref.ly/1Macc4:61\">1MA 4:61</a>, <a href=\"https://ref.ly/1Macc5:9\">1MA 5:9</a>, <a href=\"https://ref.ly/1Macc5:11\">1MA 5:11</a>, <a href=\"https://ref.ly/1Macc5:27\">1MA 5:27</a>, <a href=\"https://ref.ly/1Macc5:29\">1MA 5:29</a>, <a href=\"https://ref.ly/1Macc5:30\">1MA 5:30</a>, <a href=\"https://ref.ly/1Macc5:65\">1MA 5:65</a>, <a href=\"https://ref.ly/1Macc6:61\">1MA 6:61</a>, <a href=\"https://ref.ly/1Macc6:62\">1MA 6:62</a>, <a href=\"https://ref.ly/1Macc8:10\">1MA 8:10</a>, <a href=\"https://ref.ly/1Macc9:50\">1MA 9:50</a>, <a href=\"https://ref.ly/1Macc10:12\">1MA 10:12</a>, <a href=\"https://ref.ly/1Macc10:37\">1MA 10:37</a>, <a href=\"https://ref.ly/1Macc11:18\">1MA 11:18</a>, <a href=\"https://ref.ly/1Macc11:18\">1MA 11:18</a>, <a href=\"https://ref.ly/1Macc11:41\">1MA 11:41</a>, <a href=\"https://ref.ly/1Macc12:33\">1MA 12:33</a>, <a href=\"https://ref.ly/1Macc12:34\">1MA 12:34</a>, <a href=\"https://ref.ly/1Macc12:35\">1MA 12:35</a>, <a href=\"https://ref.ly/1Macc12:45\">1MA 12:45</a>, <a href=\"https://ref.ly/1Macc13:33\">1MA 13:33</a>, <a href=\"https://ref.ly/1Macc13:33\">1MA 13:33</a>, <a href=\"https://ref.ly/1Macc13:38\">1MA 13:38</a>, <a href=\"https://ref.ly/1Macc14:42\">1MA 14:42</a>, <a href=\"https://ref.ly/1Macc15:7\">1MA 15:7</a>, <a href=\"https://ref.ly/1Macc16:8\">1MA 16:8</a>, <a href=\"https://ref.ly/1Macc16:15\">1MA 16:15</a>, <a href=\"https://ref.ly/2Macc8:30\">2MA 8:30</a>, <a href=\"https://ref.ly/2Macc10:15\">2MA 10:15</a>, <a href=\"https://ref.ly/2Macc10:16\">2MA 10:16</a>, <a href=\"https://ref.ly/2Macc10:23\">2MA 10:23</a>, <a href=\"https://ref.ly/2Macc10:32\">2MA 10:32</a>, <a href=\"https://ref.ly/2Macc11:6\">2MA 11:6</a>, <a href=\"https://ref.ly/2Macc12:19\">2MA 12:19</a>, <a href=\"https://ref.ly/3Macc6:25\">3MA 6:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">φρούριον</span> <span class=\"thlex-translit\">(frourion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc10:32\">2MA 10:32</a>, <a href=\"https://ref.ly/2Macc10:33\">2MA 10:33</a>, <a href=\"https://ref.ly/2Macc13:19\">2MA 13:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0066_antonia_fortress_model.jpg\" alt=\"Model of the Antonia fortress in Jerusalem\"><figcaption class=\"thlex-caption\">Model of the Antonia fortress in Jerusalem (© Ray Pritz by United Bible Societies)</figcaption></figure>The fortress was a large fortification, often part of the defense of a town. In the Middle East such fortifications were built of stone. A fortress could consist of one extra strong building or of a complex of buildings surrounded by its own strong wall.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In some languages the word “fortress” may be rendered in terms of its function, for example, “place for protection” or “place to defend oneself.” Often, however, a fortress is described in terms of its construction, for example, “strong-walled place.”</p>\n<p>The Hebrew word <em>birah</em> in <a href=\"https://ref.ly/Neh2:8\">NEH 2:8</a>; <a href=\"https://ref.ly/Neh7:2\">NEH 7:2</a> refers to a fortified enclosure that stood on the northwest corner of the Temple complex in Jerusalem to guard the Temple on the northern side, from which attacks were most likely to come. It was later expanded and strengthened by Herod the Great and named the Antonia (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.20.1 Pavement, The Pavement&lt;REALIA:3.20.1&gt;</a>). In <a href=\"https://ref.ly/Neh2:8\">NEH 2:8</a><abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> renders the literal phrase “the fortress of the Temple” as “the fortress near the temple”; <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “the fort that guards the Temple”; <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> says “the citadel, which adjoins the temple.”</p>\n<p>The Hebrew phrase <em>migdal shkem</em> in <a href=\"https://ref.ly/Judg9:47\">JDG 9:47</a>; <a href=\"https://ref.ly/Judg9:47\">JDG 9:47</a>; <a href=\"https://ref.ly/Judg9:49\">JDG 9:49</a> is understood in various ways. Most English translations consulted have “tower of Shechem” or “fortress of Shechem”; some capitalize “Tower” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), suggesting that it could be a place name. Many non-English translations (for example, <abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr>, <abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr>, <abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr>, <abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr>) take it to be a place name and simply transliterate it (<abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr> “Migdal-Sichem”).</p>\n<p>In the New Testament the Greek term <em>ochurōma</em> occurs only in <a href=\"https://ref.ly/2Cor10:4\">2CO 10:4</a>, where it is used figuratively of the strength of false arguments. In a number of languages it may be more satisfactory to render the word in a simile in order to mark this figurative usage; for example, the verse may be rendered “The weapons we use in our fight are not the world’s weapons but God’s powerful weapons with which to destroy false arguments in the same way that people would destroy fortresses.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "14017012",
+"start_ref_usfm": "2CH 17:12",
+"end_ref": "14017012",
+"end_ref_usfm": "2CH 17:12"
+},
+{
+"start_ref": "14027004",
+"start_ref_usfm": "2CH 27:4",
+"end_ref": "14027004",
+"end_ref_usfm": "2CH 27:4"
+},
+{
+"start_ref": "16002008",
+"start_ref_usfm": "NEH 2:8",
+"end_ref": "16002008",
+"end_ref_usfm": "NEH 2:8"
+},
+{
+"start_ref": "16007002",
+"start_ref_usfm": "NEH 7:2",
+"end_ref": "16007002",
+"end_ref_usfm": "NEH 7:2"
+},
+{
+"start_ref": "10024007",
+"start_ref_usfm": "2SA 24:7",
+"end_ref": "10024007",
+"end_ref_usfm": "2SA 24:7"
+},
+{
+"start_ref": "12008012",
+"start_ref_usfm": "2KI 8:12",
+"end_ref": "12008012",
+"end_ref_usfm": "2KI 8:12"
+},
+{
+"start_ref": "19089041",
+"start_ref_usfm": "PSA 89:41",
+"end_ref": "19089041",
+"end_ref_usfm": "PSA 89:41"
+},
+{
+"start_ref": "23017003",
+"start_ref_usfm": "ISA 17:3",
+"end_ref": "23017003",
+"end_ref_usfm": "ISA 17:3"
+},
+{
+"start_ref": "23034013",
+"start_ref_usfm": "ISA 34:13",
+"end_ref": "23034013",
+"end_ref_usfm": "ISA 34:13"
+},
+{
+"start_ref": "24048018",
+"start_ref_usfm": "JER 48:18",
+"end_ref": "24048018",
+"end_ref_usfm": "JER 48:18"
+},
+{
+"start_ref": "25002002",
+"start_ref_usfm": "LAM 2:2",
+"end_ref": "25002002",
+"end_ref_usfm": "LAM 2:2"
+},
+{
+"start_ref": "25002005",
+"start_ref_usfm": "LAM 2:5",
+"end_ref": "25002005",
+"end_ref_usfm": "LAM 2:5"
+},
+{
+"start_ref": "27011039",
+"start_ref_usfm": "DAN 11:39",
+"end_ref": "27011039",
+"end_ref_usfm": "DAN 11:39"
+},
+{
+"start_ref": "28010014",
+"start_ref_usfm": "HOS 10:14",
+"end_ref": "28010014",
+"end_ref_usfm": "HOS 10:14"
+},
+{
+"start_ref": "30005009",
+"start_ref_usfm": "AMO 5:9",
+"end_ref": "30005009",
+"end_ref_usfm": "AMO 5:9"
+},
+{
+"start_ref": "33005010",
+"start_ref_usfm": "MIC 5:10",
+"end_ref": "33005010",
+"end_ref_usfm": "MIC 5:10"
+},
+{
+"start_ref": "34003012",
+"start_ref_usfm": "NAM 3:12",
+"end_ref": "34003012",
+"end_ref_usfm": "NAM 3:12"
+},
+{
+"start_ref": "34003014",
+"start_ref_usfm": "NAM 3:14",
+"end_ref": "34003014",
+"end_ref_usfm": "NAM 3:14"
+},
+{
+"start_ref": "35001010",
+"start_ref_usfm": "HAB 1:10",
+"end_ref": "35001010",
+"end_ref_usfm": "HAB 1:10"
+},
+{
+"start_ref": "07009046",
+"start_ref_usfm": "JDG 9:46",
+"end_ref": "07009046",
+"end_ref_usfm": "JDG 9:46"
+},
+{
+"start_ref": "07009047",
+"start_ref_usfm": "JDG 9:47",
+"end_ref": "07009047",
+"end_ref_usfm": "JDG 9:47"
+},
+{
+"start_ref": "07009049",
+"start_ref_usfm": "JDG 9:49",
+"end_ref": "07009049",
+"end_ref_usfm": "JDG 9:49"
+},
+{
+"start_ref": "10022046",
+"start_ref_usfm": "2SA 22:46",
+"end_ref": "10022046",
+"end_ref_usfm": "2SA 22:46"
+},
+{
+"start_ref": "19018046",
+"start_ref_usfm": "PSA 18:46",
+"end_ref": "19018046",
+"end_ref_usfm": "PSA 18:46"
+},
+{
+"start_ref": "33007017",
+"start_ref_usfm": "MIC 7:17",
+"end_ref": "33007017",
+"end_ref_usfm": "MIC 7:17"
+},
+{
+"start_ref": "23023011",
+"start_ref_usfm": "ISA 23:11",
+"end_ref": "23023011",
+"end_ref_usfm": "ISA 23:11"
+},
+{
+"start_ref": "27011007",
+"start_ref_usfm": "DAN 11:7",
+"end_ref": "27011007",
+"end_ref_usfm": "DAN 11:7"
+},
+{
+"start_ref": "27011010",
+"start_ref_usfm": "DAN 11:10",
+"end_ref": "27011010",
+"end_ref_usfm": "DAN 11:10"
+},
+{
+"start_ref": "27011019",
+"start_ref_usfm": "DAN 11:19",
+"end_ref": "27011019",
+"end_ref_usfm": "DAN 11:19"
+},
+{
+"start_ref": "27011031",
+"start_ref_usfm": "DAN 11:31",
+"end_ref": "27011031",
+"end_ref_usfm": "DAN 11:31"
+},
+{
+"start_ref": "27011038",
+"start_ref_usfm": "DAN 11:38",
+"end_ref": "27011038",
+"end_ref_usfm": "DAN 11:38"
+},
+{
+"start_ref": "10005007",
+"start_ref_usfm": "2SA 5:7",
+"end_ref": "10005007",
+"end_ref_usfm": "2SA 5:7"
+},
+{
+"start_ref": "10005009",
+"start_ref_usfm": "2SA 5:9",
+"end_ref": "10005009",
+"end_ref_usfm": "2SA 5:9"
+},
+{
+"start_ref": "13011005",
+"start_ref_usfm": "1CH 11:5",
+"end_ref": "13011005",
+"end_ref_usfm": "1CH 11:5"
+},
+{
+"start_ref": "13011007",
+"start_ref_usfm": "1CH 11:7",
+"end_ref": "13011007",
+"end_ref_usfm": "1CH 11:7"
+},
+{
+"start_ref": "24048041",
+"start_ref_usfm": "JER 48:41",
+"end_ref": "24048041",
+"end_ref_usfm": "JER 48:41"
+},
+{
+"start_ref": "24051030",
+"start_ref_usfm": "JER 51:30",
+"end_ref": "24051030",
+"end_ref_usfm": "JER 51:30"
+},
+{
+"start_ref": "38009003",
+"start_ref_usfm": "ZEC 9:3",
+"end_ref": "38009003",
+"end_ref_usfm": "ZEC 9:3"
+},
+{
+"start_ref": "14011011",
+"start_ref_usfm": "2CH 11:11",
+"end_ref": "14011011",
+"end_ref_usfm": "2CH 11:11"
+},
+{
+"start_ref": "14011023",
+"start_ref_usfm": "2CH 11:23",
+"end_ref": "14011023",
+"end_ref_usfm": "2CH 11:23"
+},
+{
+"start_ref": "14012004",
+"start_ref_usfm": "2CH 12:4",
+"end_ref": "14012004",
+"end_ref_usfm": "2CH 12:4"
+},
+{
+"start_ref": "14014005",
+"start_ref_usfm": "2CH 14:5",
+"end_ref": "14014005",
+"end_ref_usfm": "2CH 14:5"
+},
+{
+"start_ref": "14021003",
+"start_ref_usfm": "2CH 21:3",
+"end_ref": "14021003",
+"end_ref_usfm": "2CH 21:3"
+},
+{
+"start_ref": "10022003",
+"start_ref_usfm": "2SA 22:3",
+"end_ref": "10022003",
+"end_ref_usfm": "2SA 22:3"
+},
+{
+"start_ref": "19009010",
+"start_ref_usfm": "PSA 9:10",
+"end_ref": "19009010",
+"end_ref_usfm": "PSA 9:10"
+},
+{
+"start_ref": "19018003",
+"start_ref_usfm": "PSA 18:3",
+"end_ref": "19018003",
+"end_ref_usfm": "PSA 18:3"
+},
+{
+"start_ref": "19046008",
+"start_ref_usfm": "PSA 46:8",
+"end_ref": "19046008",
+"end_ref_usfm": "PSA 46:8"
+},
+{
+"start_ref": "19046012",
+"start_ref_usfm": "PSA 46:12",
+"end_ref": "19046012",
+"end_ref_usfm": "PSA 46:12"
+},
+{
+"start_ref": "19048004",
+"start_ref_usfm": "PSA 48:4",
+"end_ref": "19048004",
+"end_ref_usfm": "PSA 48:4"
+},
+{
+"start_ref": "19059010",
+"start_ref_usfm": "PSA 59:10",
+"end_ref": "19059010",
+"end_ref_usfm": "PSA 59:10"
+},
+{
+"start_ref": "19059017",
+"start_ref_usfm": "PSA 59:17",
+"end_ref": "19059017",
+"end_ref_usfm": "PSA 59:17"
+},
+{
+"start_ref": "19059018",
+"start_ref_usfm": "PSA 59:18",
+"end_ref": "19059018",
+"end_ref_usfm": "PSA 59:18"
+},
+{
+"start_ref": "19062003",
+"start_ref_usfm": "PSA 62:3",
+"end_ref": "19062003",
+"end_ref_usfm": "PSA 62:3"
+},
+{
+"start_ref": "19062007",
+"start_ref_usfm": "PSA 62:7",
+"end_ref": "19062007",
+"end_ref_usfm": "PSA 62:7"
+},
+{
+"start_ref": "19094022",
+"start_ref_usfm": "PSA 94:22",
+"end_ref": "19094022",
+"end_ref_usfm": "PSA 94:22"
+},
+{
+"start_ref": "19144002",
+"start_ref_usfm": "PSA 144:2",
+"end_ref": "19144002",
+"end_ref_usfm": "PSA 144:2"
+},
+{
+"start_ref": "23025012",
+"start_ref_usfm": "ISA 25:12",
+"end_ref": "23025012",
+"end_ref_usfm": "ISA 25:12"
+},
+{
+"start_ref": "23033016",
+"start_ref_usfm": "ISA 33:16",
+"end_ref": "23033016",
+"end_ref_usfm": "ISA 33:16"
+},
+{
+"start_ref": "24048001",
+"start_ref_usfm": "JER 48:1",
+"end_ref": "24048001",
+"end_ref_usfm": "JER 48:1"
+},
+{
+"start_ref": "79004012",
+"start_ref_usfm": "2MA 4:12",
+"end_ref": "79004012",
+"end_ref_usfm": "2MA 4:12"
+},
+{
+"start_ref": "79004028",
+"start_ref_usfm": "2MA 4:28",
+"end_ref": "79004028",
+"end_ref_usfm": "2MA 4:28"
+},
+{
+"start_ref": "79005005",
+"start_ref_usfm": "2MA 5:5",
+"end_ref": "79005005",
+"end_ref_usfm": "2MA 5:5"
+},
+{
+"start_ref": "78001033",
+"start_ref_usfm": "1MA 1:33",
+"end_ref": "78001033",
+"end_ref_usfm": "1MA 1:33"
+},
+{
+"start_ref": "78003045",
+"start_ref_usfm": "1MA 3:45",
+"end_ref": "78003045",
+"end_ref_usfm": "1MA 3:45"
+},
+{
+"start_ref": "78004002",
+"start_ref_usfm": "1MA 4:2",
+"end_ref": "78004002",
+"end_ref_usfm": "1MA 4:2"
+},
+{
+"start_ref": "78004041",
+"start_ref_usfm": "1MA 4:41",
+"end_ref": "78004041",
+"end_ref_usfm": "1MA 4:41"
+},
+{
+"start_ref": "78006018",
+"start_ref_usfm": "1MA 6:18",
+"end_ref": "78006018",
+"end_ref_usfm": "1MA 6:18"
+},
+{
+"start_ref": "78006026",
+"start_ref_usfm": "1MA 6:26",
+"end_ref": "78006026",
+"end_ref_usfm": "1MA 6:26"
+},
+{
+"start_ref": "78006032",
+"start_ref_usfm": "1MA 6:32",
+"end_ref": "78006032",
+"end_ref_usfm": "1MA 6:32"
+},
+{
+"start_ref": "78009052",
+"start_ref_usfm": "1MA 9:52",
+"end_ref": "78009052",
+"end_ref_usfm": "1MA 9:52"
+},
+{
+"start_ref": "78009053",
+"start_ref_usfm": "1MA 9:53",
+"end_ref": "78009053",
+"end_ref_usfm": "1MA 9:53"
+},
+{
+"start_ref": "78010007",
+"start_ref_usfm": "1MA 10:7",
+"end_ref": "78010007",
+"end_ref_usfm": "1MA 10:7"
+},
+{
+"start_ref": "78010009",
+"start_ref_usfm": "1MA 10:9",
+"end_ref": "78010009",
+"end_ref_usfm": "1MA 10:9"
+},
+{
+"start_ref": "78010032",
+"start_ref_usfm": "1MA 10:32",
+"end_ref": "78010032",
+"end_ref_usfm": "1MA 10:32"
+},
+{
+"start_ref": "78011021",
+"start_ref_usfm": "1MA 11:21",
+"end_ref": "78011021",
+"end_ref_usfm": "1MA 11:21"
+},
+{
+"start_ref": "78011041",
+"start_ref_usfm": "1MA 11:41",
+"end_ref": "78011041",
+"end_ref_usfm": "1MA 11:41"
+},
+{
+"start_ref": "78012036",
+"start_ref_usfm": "1MA 12:36",
+"end_ref": "78012036",
+"end_ref_usfm": "1MA 12:36"
+},
+{
+"start_ref": "78013021",
+"start_ref_usfm": "1MA 13:21",
+"end_ref": "78013021",
+"end_ref_usfm": "1MA 13:21"
+},
+{
+"start_ref": "78013050",
+"start_ref_usfm": "1MA 13:50",
+"end_ref": "78013050",
+"end_ref_usfm": "1MA 13:50"
+},
+{
+"start_ref": "78013052",
+"start_ref_usfm": "1MA 13:52",
+"end_ref": "78013052",
+"end_ref_usfm": "1MA 13:52"
+},
+{
+"start_ref": "78014007",
+"start_ref_usfm": "1MA 14:7",
+"end_ref": "78014007",
+"end_ref_usfm": "1MA 14:7"
+},
+{
+"start_ref": "78014036",
+"start_ref_usfm": "1MA 14:36",
+"end_ref": "78014036",
+"end_ref_usfm": "1MA 14:36"
+},
+{
+"start_ref": "78015028",
+"start_ref_usfm": "1MA 15:28",
+"end_ref": "78015028",
+"end_ref_usfm": "1MA 15:28"
+},
+{
+"start_ref": "79015031",
+"start_ref_usfm": "2MA 15:31",
+"end_ref": "79015031",
+"end_ref_usfm": "2MA 15:31"
+},
+{
+"start_ref": "79015035",
+"start_ref_usfm": "2MA 15:35",
+"end_ref": "79015035",
+"end_ref_usfm": "2MA 15:35"
+},
+{
+"start_ref": "81004020",
+"start_ref_usfm": "4MA 4:20",
+"end_ref": "81004020",
+"end_ref_usfm": "4MA 4:20"
+},
+{
+"start_ref": "82006022",
+"start_ref_usfm": "1ES 6:22",
+"end_ref": "82006022",
+"end_ref_usfm": "1ES 6:22"
+},
+{
+"start_ref": "47010004",
+"start_ref_usfm": "2CO 10:4",
+"end_ref": "47010004",
+"end_ref_usfm": "2CO 10:4"
+},
+{
+"start_ref": "78001002",
+"start_ref_usfm": "1MA 1:2",
+"end_ref": "78001002",
+"end_ref_usfm": "1MA 1:2"
+},
+{
+"start_ref": "78004061",
+"start_ref_usfm": "1MA 4:61",
+"end_ref": "78004061",
+"end_ref_usfm": "1MA 4:61"
+},
+{
+"start_ref": "78005009",
+"start_ref_usfm": "1MA 5:9",
+"end_ref": "78005009",
+"end_ref_usfm": "1MA 5:9"
+},
+{
+"start_ref": "78005011",
+"start_ref_usfm": "1MA 5:11",
+"end_ref": "78005011",
+"end_ref_usfm": "1MA 5:11"
+},
+{
+"start_ref": "78005027",
+"start_ref_usfm": "1MA 5:27",
+"end_ref": "78005027",
+"end_ref_usfm": "1MA 5:27"
+},
+{
+"start_ref": "78005029",
+"start_ref_usfm": "1MA 5:29",
+"end_ref": "78005029",
+"end_ref_usfm": "1MA 5:29"
+},
+{
+"start_ref": "78005030",
+"start_ref_usfm": "1MA 5:30",
+"end_ref": "78005030",
+"end_ref_usfm": "1MA 5:30"
+},
+{
+"start_ref": "78005065",
+"start_ref_usfm": "1MA 5:65",
+"end_ref": "78005065",
+"end_ref_usfm": "1MA 5:65"
+},
+{
+"start_ref": "78006061",
+"start_ref_usfm": "1MA 6:61",
+"end_ref": "78006061",
+"end_ref_usfm": "1MA 6:61"
+},
+{
+"start_ref": "78006062",
+"start_ref_usfm": "1MA 6:62",
+"end_ref": "78006062",
+"end_ref_usfm": "1MA 6:62"
+},
+{
+"start_ref": "78008010",
+"start_ref_usfm": "1MA 8:10",
+"end_ref": "78008010",
+"end_ref_usfm": "1MA 8:10"
+},
+{
+"start_ref": "78009050",
+"start_ref_usfm": "1MA 9:50",
+"end_ref": "78009050",
+"end_ref_usfm": "1MA 9:50"
+},
+{
+"start_ref": "78010012",
+"start_ref_usfm": "1MA 10:12",
+"end_ref": "78010012",
+"end_ref_usfm": "1MA 10:12"
+},
+{
+"start_ref": "78010037",
+"start_ref_usfm": "1MA 10:37",
+"end_ref": "78010037",
+"end_ref_usfm": "1MA 10:37"
+},
+{
+"start_ref": "78011018",
+"start_ref_usfm": "1MA 11:18",
+"end_ref": "78011018",
+"end_ref_usfm": "1MA 11:18"
+},
+{
+"start_ref": "78012033",
+"start_ref_usfm": "1MA 12:33",
+"end_ref": "78012033",
+"end_ref_usfm": "1MA 12:33"
+},
+{
+"start_ref": "78012034",
+"start_ref_usfm": "1MA 12:34",
+"end_ref": "78012034",
+"end_ref_usfm": "1MA 12:34"
+},
+{
+"start_ref": "78012035",
+"start_ref_usfm": "1MA 12:35",
+"end_ref": "78012035",
+"end_ref_usfm": "1MA 12:35"
+},
+{
+"start_ref": "78012045",
+"start_ref_usfm": "1MA 12:45",
+"end_ref": "78012045",
+"end_ref_usfm": "1MA 12:45"
+},
+{
+"start_ref": "78013033",
+"start_ref_usfm": "1MA 13:33",
+"end_ref": "78013033",
+"end_ref_usfm": "1MA 13:33"
+},
+{
+"start_ref": "78013038",
+"start_ref_usfm": "1MA 13:38",
+"end_ref": "78013038",
+"end_ref_usfm": "1MA 13:38"
+},
+{
+"start_ref": "78014042",
+"start_ref_usfm": "1MA 14:42",
+"end_ref": "78014042",
+"end_ref_usfm": "1MA 14:42"
+},
+{
+"start_ref": "78015007",
+"start_ref_usfm": "1MA 15:7",
+"end_ref": "78015007",
+"end_ref_usfm": "1MA 15:7"
+},
+{
+"start_ref": "78016008",
+"start_ref_usfm": "1MA 16:8",
+"end_ref": "78016008",
+"end_ref_usfm": "1MA 16:8"
+},
+{
+"start_ref": "78016015",
+"start_ref_usfm": "1MA 16:15",
+"end_ref": "78016015",
+"end_ref_usfm": "1MA 16:15"
+},
+{
+"start_ref": "79008030",
+"start_ref_usfm": "2MA 8:30",
+"end_ref": "79008030",
+"end_ref_usfm": "2MA 8:30"
+},
+{
+"start_ref": "79010015",
+"start_ref_usfm": "2MA 10:15",
+"end_ref": "79010015",
+"end_ref_usfm": "2MA 10:15"
+},
+{
+"start_ref": "79010016",
+"start_ref_usfm": "2MA 10:16",
+"end_ref": "79010016",
+"end_ref_usfm": "2MA 10:16"
+},
+{
+"start_ref": "79010023",
+"start_ref_usfm": "2MA 10:23",
+"end_ref": "79010023",
+"end_ref_usfm": "2MA 10:23"
+},
+{
+"start_ref": "79010032",
+"start_ref_usfm": "2MA 10:32",
+"end_ref": "79010032",
+"end_ref_usfm": "2MA 10:32"
+},
+{
+"start_ref": "79011006",
+"start_ref_usfm": "2MA 11:6",
+"end_ref": "79011006",
+"end_ref_usfm": "2MA 11:6"
+},
+{
+"start_ref": "79012019",
+"start_ref_usfm": "2MA 12:19",
+"end_ref": "79012019",
+"end_ref_usfm": "2MA 12:19"
+},
+{
+"start_ref": "80006025",
+"start_ref_usfm": "3MA 6:25",
+"end_ref": "80006025",
+"end_ref_usfm": "3MA 6:25"
+},
+{
+"start_ref": "79010033",
+"start_ref_usfm": "2MA 10:33",
+"end_ref": "79010033",
+"end_ref_usfm": "2MA 10:33"
+},
+{
+"start_ref": "79013019",
+"start_ref_usfm": "2MA 13:19",
+"end_ref": "79013019",
+"end_ref_usfm": "2MA 13:19"
+}
+],
+"resource": []
+}
+}
+]

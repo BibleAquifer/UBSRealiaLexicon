@@ -1,0 +1,282 @@
+[
+{
+"content_id": "REALIA:4.5.4",
+"reference_id": "REALIA:4.5.4",
+"version": "1.0.4",
+"title": "Ephod",
+"media_type": "Text",
+"index_reference": "4.5.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.5.4\"><span class=\"thlex-key\">4.5.4</span> Ephod</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֵפֹד, אֲפֻדָּה</span> <span class=\"thlex-translit\">(’efod, ’afudah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:7\">EXO 25:7</a>, <a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a>, <a href=\"https://ref.ly/Exod28:6\">EXO 28:6</a>, <a href=\"https://ref.ly/Exod28:8\">EXO 28:8</a>, <a href=\"https://ref.ly/Exod28:12\">EXO 28:12</a>, <a href=\"https://ref.ly/Exod28:15\">EXO 28:15</a>, <a href=\"https://ref.ly/Exod28:25\">EXO 28:25</a>, <a href=\"https://ref.ly/Exod28:26\">EXO 28:26</a>, <a href=\"https://ref.ly/Exod28:27\">EXO 28:27</a>, <a href=\"https://ref.ly/Exod28:27\">EXO 28:27</a>, <a href=\"https://ref.ly/Exod28:28\">EXO 28:28</a>, <a href=\"https://ref.ly/Exod28:28\">EXO 28:28</a>, <a href=\"https://ref.ly/Exod28:28\">EXO 28:28</a>, <a href=\"https://ref.ly/Exod28:31\">EXO 28:31</a>, <a href=\"https://ref.ly/Exod29:5\">EXO 29:5</a>, <a href=\"https://ref.ly/Exod29:5\">EXO 29:5</a>, <a href=\"https://ref.ly/Exod29:5\">EXO 29:5</a>, <a href=\"https://ref.ly/Exod35:9\">EXO 35:9</a>, <a href=\"https://ref.ly/Exod35:27\">EXO 35:27</a>, <a href=\"https://ref.ly/Exod39:2\">EXO 39:2</a>, <a href=\"https://ref.ly/Exod39:5\">EXO 39:5</a>, <a href=\"https://ref.ly/Exod39:7\">EXO 39:7</a>, <a href=\"https://ref.ly/Exod39:8\">EXO 39:8</a>, <a href=\"https://ref.ly/Exod39:18\">EXO 39:18</a>, <a href=\"https://ref.ly/Exod39:19\">EXO 39:19</a>, <a href=\"https://ref.ly/Exod39:20\">EXO 39:20</a>, <a href=\"https://ref.ly/Exod39:20\">EXO 39:20</a>, <a href=\"https://ref.ly/Exod39:21\">EXO 39:21</a>, <a href=\"https://ref.ly/Exod39:21\">EXO 39:21</a>, <a href=\"https://ref.ly/Exod39:21\">EXO 39:21</a>, <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a>, <a href=\"https://ref.ly/Lev8:7\">LEV 8:7</a>, <a href=\"https://ref.ly/Lev8:7\">LEV 8:7</a>, <a href=\"https://ref.ly/Num34:23\">NUM 34:23</a>, <a href=\"https://ref.ly/Judg8:27\">JDG 8:27</a>, <a href=\"https://ref.ly/Judg17:5\">JDG 17:5</a>, <a href=\"https://ref.ly/Judg18:14\">JDG 18:14</a>, <a href=\"https://ref.ly/Judg18:17\">JDG 18:17</a>, <a href=\"https://ref.ly/Judg18:18\">JDG 18:18</a>, <a href=\"https://ref.ly/Judg18:20\">JDG 18:20</a>, <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a>, <a href=\"https://ref.ly/1Sam2:28\">1SA 2:28</a>, <a href=\"https://ref.ly/1Sam14:3\">1SA 14:3</a>, <a href=\"https://ref.ly/1Sam21:10\">1SA 21:10</a>, <a href=\"https://ref.ly/1Sam22:18\">1SA 22:18</a>, <a href=\"https://ref.ly/1Sam23:6\">1SA 23:6</a>, <a href=\"https://ref.ly/1Sam23:9\">1SA 23:9</a>, <a href=\"https://ref.ly/1Sam30:7\">1SA 30:7</a>, <a href=\"https://ref.ly/1Sam30:7\">1SA 30:7</a>, <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a>, <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, <a href=\"https://ref.ly/Isa30:22\">ISA 30:22</a>, <a href=\"https://ref.ly/Hos3:4\">HOS 3:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἐπωμίς</span> <span class=\"thlex-translit\">(epōmis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir45:8\">SIR 45:8</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0040_highpriest_clothing_en.jpg\" alt=\"A drawing of the clothing of the high priest\"><figcaption class=\"thlex-caption\">A drawing of the clothing of the high priest (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The ephod of the High Priest was a kind of apron or vest with shoulder straps and a belt. The belt was an integral part of the ephod; it was wrapped around the waist and tied either in the front or the back (see also the discussion below). The top of the ephod was at about the bottom of the ribcage. According to a tradition preserved by Josephus (<em>Antiquities</em> III 7, 5), the ephod had a length of one cubit (about 50 centimeters or 20 inches). This would mean that it extended approximately to the middle of the upper leg. The dimensions of the ephod are not given in Scripture.</p>\n<p>In order to gain a better picture of the structure of this ephod, it is helpful to consider it together with the breastpiece (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5.5 Sacred pocket, breastpiece&lt;REALIA:4.5.5&gt;</a>). According to one interpretation, the shoulder straps of the ephod were attached in the back and in the front of the ephod, and the breastpiece was attached to these straps in the front by gold rings. This is demonstrated in the illustration at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5 High Priest’s clothing&lt;REALIA:4.5&gt;</a>. According to another interpretation, the shoulder straps of the ephod did not reach the belt at the top of the ephod. The space between the end of the straps and the belt (about 25 centimeters or 10 inches) was taken up by the breastpiece. On the four corners of the breastpiece were sewn gold rings. The lower two rings were tied with a blue thread to corresponding rings in the belt of the ephod. The upper rings of the breastpiece were connected to the ends of the shoulder straps by means of small gold chains. On the end of each shoulder strap was a kind of clasp consisting of a precious stone in a gold setting. Engraved on these stones were the names of the twelve tribes of Israel. It was to these devices that the other ends of the gold chains were attached. See the illustrations here and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5.5 Sacred pocket, breastpiece&lt;REALIA:4.5.5&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>“Ephod” is a transliteration of the Hebrew word <em>’efod</em> and is perhaps the most difficult piece of the priestly clothing to translate. In some languages there will be a word for an item of clothing corresponding in design (if not in purpose) to the ephod. However, in some cases the word may not be usable because it designates something used only by women. In other cases a word for a workman’s apron may be inappropriate because its primary purpose is to protect the clothing. This was not the purpose of the ephod, which was the most elaborate and expensive item in the High Priest’s wardrobe. Almost all English versions transliterate <em>’efod</em>, but <abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr> has simply “apron” and <abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr> translates “[sacred] apron.” In other languages it may be possible to say “priestly apron.”</p>\n<p>In <a href=\"https://ref.ly/Exod28:8\">EXO 28:8</a> and <a href=\"https://ref.ly/Exod39:5\">EXO 39:5</a><abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> has the phrase “the skilfully woven band.” This band or belt seems to have been made with the same material as the ephod and attached to its corners so that it could be tied. The use of the singular does not necessarily mean that there was only one belt. The term may have been used in a collective sense. The Hebrew word here simply means “girdle,” “waistband,” or “belt.” The idea of “skilfully woven” is therefore omitted in <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> and <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> as well as in many non-English versions, and may also be left out of the receptor-language rendering. <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> has “The waistband on the <em>ephod</em>.”</p>\n<p>\n            <em>Other meanings of ’efod</em>: In a number of the passages listed above, the word <em>’efod</em> describes something other than an item of the High Priest’s clothing. In most (some would say all) cases it still indicates an item of clothing, probably a kind of vest or apron tied around the upper abdomen. See <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a>; <a href=\"https://ref.ly/1Sam22:18\">1SA 22:18</a>; <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a>; and <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, where the Hebrew phrase <em>’efod bad</em> is used; this phrase is literally “linen ephod” or “cloth ephod.” The renderings of <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> at <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a> (“sacred linen apron”) and <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a> (“linen cloth around his waist”) may serve as models.</p>\n<p>\n            <a href=\"https://ref.ly/Judg8:27\">JDG 8:27</a>: The exact nature of the “ephod” made by Gideon remains uncertain. Because he collected a large quantity of gold before he made it, many have thought it to be a kind of “idol” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, International Children’s Bible, <abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr>). However, even here it is possible that a copy of the priestly apron is intended; gold was a major component of the priestly garment, and some of Gideon’s gold could have been used to pay the skilled workers to make the ephod. <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> says “holy vest,” but most versions simply have the transliteration “ephod” (for example, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>). If no explanation is given, however, the average reader will probably associate it with the object of the same name first mentioned in Exodus. It seems best, then, to decide between “idol/image/statue” and “priestly apron”; or, if “ephod” is kept, to include a footnote indicating the possible meanings. The <abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> note on this verse is a good model: “The <em>ephod</em> may designate here either a receptacle for the sacred lots, used for divination, or the statue of a god.”</p>\n<p>In <a href=\"https://ref.ly/Judg17:5\">JDG 17:5</a>; <a href=\"https://ref.ly/Judg18:14\">JDG 18:14</a>; <a href=\"https://ref.ly/Judg18:18\">JDG 18:18</a>; <a href=\"https://ref.ly/Judg18:18\">JDG 18:18</a>; <a href=\"https://ref.ly/Judg18:20\">JDG 18:20</a>; and <a href=\"https://ref.ly/Hos3:4\">HOS 3:4</a>, the ephods mentioned may well have been sacred clothing similar in purpose and perhaps in form to the ephod of the High Priest. However, both Micah’s ephod in Judges and the one mentioned in <a href=\"https://ref.ly/Hos3:4\">HOS 3:4</a> were not the High Priest’ ephod. These ephods are associated in their contexts with illicit worship.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025007",
+"start_ref_usfm": "EXO 25:7",
+"end_ref": "02025007",
+"end_ref_usfm": "EXO 25:7"
+},
+{
+"start_ref": "02028004",
+"start_ref_usfm": "EXO 28:4",
+"end_ref": "02028004",
+"end_ref_usfm": "EXO 28:4"
+},
+{
+"start_ref": "02028006",
+"start_ref_usfm": "EXO 28:6",
+"end_ref": "02028006",
+"end_ref_usfm": "EXO 28:6"
+},
+{
+"start_ref": "02028008",
+"start_ref_usfm": "EXO 28:8",
+"end_ref": "02028008",
+"end_ref_usfm": "EXO 28:8"
+},
+{
+"start_ref": "02028012",
+"start_ref_usfm": "EXO 28:12",
+"end_ref": "02028012",
+"end_ref_usfm": "EXO 28:12"
+},
+{
+"start_ref": "02028015",
+"start_ref_usfm": "EXO 28:15",
+"end_ref": "02028015",
+"end_ref_usfm": "EXO 28:15"
+},
+{
+"start_ref": "02028025",
+"start_ref_usfm": "EXO 28:25",
+"end_ref": "02028025",
+"end_ref_usfm": "EXO 28:25"
+},
+{
+"start_ref": "02028026",
+"start_ref_usfm": "EXO 28:26",
+"end_ref": "02028026",
+"end_ref_usfm": "EXO 28:26"
+},
+{
+"start_ref": "02028027",
+"start_ref_usfm": "EXO 28:27",
+"end_ref": "02028027",
+"end_ref_usfm": "EXO 28:27"
+},
+{
+"start_ref": "02028028",
+"start_ref_usfm": "EXO 28:28",
+"end_ref": "02028028",
+"end_ref_usfm": "EXO 28:28"
+},
+{
+"start_ref": "02028031",
+"start_ref_usfm": "EXO 28:31",
+"end_ref": "02028031",
+"end_ref_usfm": "EXO 28:31"
+},
+{
+"start_ref": "02029005",
+"start_ref_usfm": "EXO 29:5",
+"end_ref": "02029005",
+"end_ref_usfm": "EXO 29:5"
+},
+{
+"start_ref": "02035009",
+"start_ref_usfm": "EXO 35:9",
+"end_ref": "02035009",
+"end_ref_usfm": "EXO 35:9"
+},
+{
+"start_ref": "02035027",
+"start_ref_usfm": "EXO 35:27",
+"end_ref": "02035027",
+"end_ref_usfm": "EXO 35:27"
+},
+{
+"start_ref": "02039002",
+"start_ref_usfm": "EXO 39:2",
+"end_ref": "02039002",
+"end_ref_usfm": "EXO 39:2"
+},
+{
+"start_ref": "02039005",
+"start_ref_usfm": "EXO 39:5",
+"end_ref": "02039005",
+"end_ref_usfm": "EXO 39:5"
+},
+{
+"start_ref": "02039007",
+"start_ref_usfm": "EXO 39:7",
+"end_ref": "02039007",
+"end_ref_usfm": "EXO 39:7"
+},
+{
+"start_ref": "02039008",
+"start_ref_usfm": "EXO 39:8",
+"end_ref": "02039008",
+"end_ref_usfm": "EXO 39:8"
+},
+{
+"start_ref": "02039018",
+"start_ref_usfm": "EXO 39:18",
+"end_ref": "02039018",
+"end_ref_usfm": "EXO 39:18"
+},
+{
+"start_ref": "02039019",
+"start_ref_usfm": "EXO 39:19",
+"end_ref": "02039019",
+"end_ref_usfm": "EXO 39:19"
+},
+{
+"start_ref": "02039020",
+"start_ref_usfm": "EXO 39:20",
+"end_ref": "02039020",
+"end_ref_usfm": "EXO 39:20"
+},
+{
+"start_ref": "02039021",
+"start_ref_usfm": "EXO 39:21",
+"end_ref": "02039021",
+"end_ref_usfm": "EXO 39:21"
+},
+{
+"start_ref": "02039022",
+"start_ref_usfm": "EXO 39:22",
+"end_ref": "02039022",
+"end_ref_usfm": "EXO 39:22"
+},
+{
+"start_ref": "03008007",
+"start_ref_usfm": "LEV 8:7",
+"end_ref": "03008007",
+"end_ref_usfm": "LEV 8:7"
+},
+{
+"start_ref": "04034023",
+"start_ref_usfm": "NUM 34:23",
+"end_ref": "04034023",
+"end_ref_usfm": "NUM 34:23"
+},
+{
+"start_ref": "07008027",
+"start_ref_usfm": "JDG 8:27",
+"end_ref": "07008027",
+"end_ref_usfm": "JDG 8:27"
+},
+{
+"start_ref": "07017005",
+"start_ref_usfm": "JDG 17:5",
+"end_ref": "07017005",
+"end_ref_usfm": "JDG 17:5"
+},
+{
+"start_ref": "07018014",
+"start_ref_usfm": "JDG 18:14",
+"end_ref": "07018014",
+"end_ref_usfm": "JDG 18:14"
+},
+{
+"start_ref": "07018017",
+"start_ref_usfm": "JDG 18:17",
+"end_ref": "07018017",
+"end_ref_usfm": "JDG 18:17"
+},
+{
+"start_ref": "07018018",
+"start_ref_usfm": "JDG 18:18",
+"end_ref": "07018018",
+"end_ref_usfm": "JDG 18:18"
+},
+{
+"start_ref": "07018020",
+"start_ref_usfm": "JDG 18:20",
+"end_ref": "07018020",
+"end_ref_usfm": "JDG 18:20"
+},
+{
+"start_ref": "09002018",
+"start_ref_usfm": "1SA 2:18",
+"end_ref": "09002018",
+"end_ref_usfm": "1SA 2:18"
+},
+{
+"start_ref": "09002028",
+"start_ref_usfm": "1SA 2:28",
+"end_ref": "09002028",
+"end_ref_usfm": "1SA 2:28"
+},
+{
+"start_ref": "09014003",
+"start_ref_usfm": "1SA 14:3",
+"end_ref": "09014003",
+"end_ref_usfm": "1SA 14:3"
+},
+{
+"start_ref": "09021010",
+"start_ref_usfm": "1SA 21:10",
+"end_ref": "09021010",
+"end_ref_usfm": "1SA 21:10"
+},
+{
+"start_ref": "09022018",
+"start_ref_usfm": "1SA 22:18",
+"end_ref": "09022018",
+"end_ref_usfm": "1SA 22:18"
+},
+{
+"start_ref": "09023006",
+"start_ref_usfm": "1SA 23:6",
+"end_ref": "09023006",
+"end_ref_usfm": "1SA 23:6"
+},
+{
+"start_ref": "09023009",
+"start_ref_usfm": "1SA 23:9",
+"end_ref": "09023009",
+"end_ref_usfm": "1SA 23:9"
+},
+{
+"start_ref": "09030007",
+"start_ref_usfm": "1SA 30:7",
+"end_ref": "09030007",
+"end_ref_usfm": "1SA 30:7"
+},
+{
+"start_ref": "10006014",
+"start_ref_usfm": "2SA 6:14",
+"end_ref": "10006014",
+"end_ref_usfm": "2SA 6:14"
+},
+{
+"start_ref": "13015027",
+"start_ref_usfm": "1CH 15:27",
+"end_ref": "13015027",
+"end_ref_usfm": "1CH 15:27"
+},
+{
+"start_ref": "23030022",
+"start_ref_usfm": "ISA 30:22",
+"end_ref": "23030022",
+"end_ref_usfm": "ISA 30:22"
+},
+{
+"start_ref": "28003004",
+"start_ref_usfm": "HOS 3:4",
+"end_ref": "28003004",
+"end_ref_usfm": "HOS 3:4"
+},
+{
+"start_ref": "72045008",
+"start_ref_usfm": "SIR 45:8",
+"end_ref": "72045008",
+"end_ref_usfm": "SIR 45:8"
+}
+],
+"resource": []
+}
+}
+]

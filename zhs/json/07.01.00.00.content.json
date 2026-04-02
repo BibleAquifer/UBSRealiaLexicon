@@ -1,0 +1,156 @@
+[
+{
+"content_id": "REALIA:7.1",
+"reference_id": "REALIA:7.1",
+"version": "1.0.4",
+"title": "标题：乐器（统称）（musical instruments [generic]）",
+"media_type": "Text",
+"index_reference": "7.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.1\"><span class=\"thlex-key\">7.1</span> 标题：乐器（统称）（musical instruments [generic]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כְּלִי</span> <span class=\"thlex-translit\">(音译：kli)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr16:5\">1CH 16:5</a>, <a href=\"https://ref.ly/1Chr23:5\">1CH 23:5</a>, <a href=\"https://ref.ly/Ps71:22\">PSA 71:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כְּלִי</span> <span class=\"thlex-translit\">(音译：kle david)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr29:26\">2CH 29:26</a>, <a href=\"https://ref.ly/2Chr29:27\">2CH 29:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כְּלִי, עֹז</span> <span class=\"thlex-translit\">(音译：kle ‘oz)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr30:21\">2CH 30:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כְּלִי, שִׁיר</span> <span class=\"thlex-translit\">(音译：kle shir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr15:16\">1CH 15:16</a>, <a href=\"https://ref.ly/1Chr16:42\">1CH 16:42</a>, <a href=\"https://ref.ly/2Chr5:13\">2CH 5:13</a>, <a href=\"https://ref.ly/2Chr7:6\">2CH 7:6</a>, <a href=\"https://ref.ly/2Chr23:13\">2CH 23:13</a>, <a href=\"https://ref.ly/2Chr34:12\">2CH 34:12</a>, <a href=\"https://ref.ly/Neh12:36\">NEH 12:36</a>, <a href=\"https://ref.ly/Amos6:5\">AMO 6:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מֵן</span> <span class=\"thlex-translit\">(音译：men)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a>, <a href=\"https://ref.ly/Ps150:4\">PSA 150:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>以上所列词语均为乐器的统称。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/2Chr29:26\">2CH 29:26</a>; <a href=\"https://ref.ly/2Chr29:27\">2CH 29:27</a> 中，希伯来文<em>kledavid</em> 把某些乐器与大卫王联系在一起。有些译本保留了希伯来文本的含糊，作“大卫的乐器”（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 直译）。<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 英文意为“属于大卫的乐器”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意为“如大卫王曾经使用过的那些乐器”，这个译法并不是说大卫用过的乐器在三百年之后还可以演奏。</p>\n<p>学者对<a href=\"https://ref.ly/2Chr30:21\">2CH 30:21</a> 中的希伯来文<em>kle ‘oz</em> 有不同的理解。有些人认为这个词语是指乐器，如“响亮的乐器”（“powerful instruments”，<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）、“乐器”（“instruments”，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ；比较<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ，“loud music”“高声的音乐”）。还有人认为这个词语是在描写颂赞的气氛，如译为“奔放的热情”（“unrestrained fervour”，<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）、“他们的全力”（“all their strength”，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。后一种解释对文本进行了一个微小的修订，好与<a href=\"https://ref.ly/1Chr13:8\">1CH 13:8</a> 相符，但<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 并不推荐这个修订。</p>\n<p>\n            <a href=\"https://ref.ly/Ps150:3\">PSA 150:3</a>; <a href=\"https://ref.ly/Ps150:4\">PSA 150:4</a>; <a href=\"https://ref.ly/Ps150:5\">PSA 150:5</a> 列出了几种乐器。祭司吹角，利未人弹琴、鼓瑟、敲钹，百姓则演奏其他乐器（4节）。第4节中的希伯来文<em>men</em> 可能是指“弦乐器”。翻译者通常有三种方法来翻译这些表示乐器的希伯来文词语：（a）使用描述性的短语；（b）使用当地乐器的名称；（c）使用含有外来词语的统称。第一种方法的例子是将“钹”译为“互相敲击的扁平金属片”。第三种译法可作“名叫钹的打击乐器”。</p>\n<p>在<a href=\"https://ref.ly/Dan3:5\">DAN 3:5</a>; <a href=\"https://ref.ly/Dan3:7\">DAN 3:7</a>; <a href=\"https://ref.ly/Dan3:10\">DAN 3:10</a>; <a href=\"https://ref.ly/Dan3:15\">DAN 3:15</a> 中，作者列出了六种不同的乐器。许多文化并不知晓全部这些乐器，从而给翻译者带来很大的翻译问题。如果无法找到与经文一样多的乐器名称，那么可以减少乐器的数目（有些抄本只有五种乐器的名称）；然而，罗列物品是《但以理书》的一个重要特征，我们建议在这里保留乐器清单，而不是用一个概括性的表达来替代；例如，不建议译成“乐队”（“the band”；<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "13016005",
+"start_ref_usfm": "1CH 16:5",
+"end_ref": "13016005",
+"end_ref_usfm": "1CH 16:5"
+},
+{
+"start_ref": "13023005",
+"start_ref_usfm": "1CH 23:5",
+"end_ref": "13023005",
+"end_ref_usfm": "1CH 23:5"
+},
+{
+"start_ref": "19071022",
+"start_ref_usfm": "PSA 71:22",
+"end_ref": "19071022",
+"end_ref_usfm": "PSA 71:22"
+},
+{
+"start_ref": "14029026",
+"start_ref_usfm": "2CH 29:26",
+"end_ref": "14029026",
+"end_ref_usfm": "2CH 29:26"
+},
+{
+"start_ref": "14029027",
+"start_ref_usfm": "2CH 29:27",
+"end_ref": "14029027",
+"end_ref_usfm": "2CH 29:27"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030021",
+"end_ref_usfm": "2CH 30:21"
+},
+{
+"start_ref": "13015016",
+"start_ref_usfm": "1CH 15:16",
+"end_ref": "13015016",
+"end_ref_usfm": "1CH 15:16"
+},
+{
+"start_ref": "13016042",
+"start_ref_usfm": "1CH 16:42",
+"end_ref": "13016042",
+"end_ref_usfm": "1CH 16:42"
+},
+{
+"start_ref": "14005013",
+"start_ref_usfm": "2CH 5:13",
+"end_ref": "14005013",
+"end_ref_usfm": "2CH 5:13"
+},
+{
+"start_ref": "14007006",
+"start_ref_usfm": "2CH 7:6",
+"end_ref": "14007006",
+"end_ref_usfm": "2CH 7:6"
+},
+{
+"start_ref": "14023013",
+"start_ref_usfm": "2CH 23:13",
+"end_ref": "14023013",
+"end_ref_usfm": "2CH 23:13"
+},
+{
+"start_ref": "14034012",
+"start_ref_usfm": "2CH 34:12",
+"end_ref": "14034012",
+"end_ref_usfm": "2CH 34:12"
+},
+{
+"start_ref": "16012036",
+"start_ref_usfm": "NEH 12:36",
+"end_ref": "16012036",
+"end_ref_usfm": "NEH 12:36"
+},
+{
+"start_ref": "30006005",
+"start_ref_usfm": "AMO 6:5",
+"end_ref": "30006005",
+"end_ref_usfm": "AMO 6:5"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+},
+{
+"start_ref": "19150004",
+"start_ref_usfm": "PSA 150:4",
+"end_ref": "19150004",
+"end_ref_usfm": "PSA 150:4"
+},
+{
+"start_ref": "13013008",
+"start_ref_usfm": "1CH 13:8",
+"end_ref": "13013008",
+"end_ref_usfm": "1CH 13:8"
+},
+{
+"start_ref": "19150003",
+"start_ref_usfm": "PSA 150:3",
+"end_ref": "19150003",
+"end_ref_usfm": "PSA 150:3"
+},
+{
+"start_ref": "19150005",
+"start_ref_usfm": "PSA 150:5",
+"end_ref": "19150005",
+"end_ref_usfm": "PSA 150:5"
+},
+{
+"start_ref": "27003005",
+"start_ref_usfm": "DAN 3:5",
+"end_ref": "27003005",
+"end_ref_usfm": "DAN 3:5"
+},
+{
+"start_ref": "27003007",
+"start_ref_usfm": "DAN 3:7",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003010",
+"start_ref_usfm": "DAN 3:10",
+"end_ref": "27003010",
+"end_ref_usfm": "DAN 3:10"
+},
+{
+"start_ref": "27003015",
+"start_ref_usfm": "DAN 3:15",
+"end_ref": "27003015",
+"end_ref_usfm": "DAN 3:15"
+}
+],
+"resource": []
+}
+}
+]

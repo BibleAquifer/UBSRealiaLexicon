@@ -1,0 +1,84 @@
+[
+{
+"content_id": "REALIA:3.1.5.3",
+"reference_id": "REALIA:3.1.5.3",
+"version": "1.0.4",
+"title": "Crossbeam, rafter",
+"media_type": "Text",
+"index_reference": "3.1.5.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.1.5.3\"><span class=\"thlex-key\">3.1.5.3</span> Crossbeam, rafter</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">אָע</span> <span class=\"thlex-translit\">(’a‘)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezra6:11\">EZR 6:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֵּב</span> <span class=\"thlex-translit\">(gev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:9\">1KI 6:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כָּפִיס</span> <span class=\"thlex-translit\">(kafis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Hab2:11\">HAB 2:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קרה, קוֹרָה</span> <span class=\"thlex-translit\">(qarah (verb), qorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr3:7\">2CH 3:7</a>, <a href=\"https://ref.ly/Song1:17\">SNG 1:17</a>, <a href=\"https://ref.ly/2Chr34:11\">2CH 34:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">רָהִיט</span> <span class=\"thlex-translit\">(rachit)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song1:17\">SNG 1:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שְׂדֵרָה</span> <span class=\"thlex-translit\">(sderah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:9\">1KI 6:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">δοκός</span> <span class=\"thlex-translit\">(dokos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir29:22\">SIR 29:22</a>, <a href=\"https://ref.ly/EpJer1:19\">LJE 1:19</a>, <a href=\"https://ref.ly/EpJer1:54\">LJE 1:54</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἱμάντωσις</span> <span class=\"thlex-translit\">(himantōsis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir22:16\">SIR 22:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ξύλον</span> <span class=\"thlex-translit\">(xulon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:31\">1ES 6:31</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0408_roof_beam_en.jpg\" alt=\"Roof beams in a house\"><figcaption class=\"thlex-caption\">Roof beams in a house (© Hagit Baldar, CC BY, via Wikimedia Commons)</figcaption></figure>The roof of an Israelite house was made of three or even four layers. First thick wooden poles were laid between two walls at the top and along the length of the house. These were inserted in the top of the wall and were part of the wall structure. If they were removed, the wall would be heavily damaged. These “crossbeams” or “rafters” were separated from each other at a distance about the length of a man’s forearm. On top of these crossbeams and perpendicular to them was laid a layer of smaller poles, roughly 3–4 centimeters (1–2 inches) in diameter. These poles were laid side by side to create a platform. They are probably mentioned in <a href=\"https://ref.ly/1Kgs6:9\">1KI 6:9</a> as <em>sderoth</em> (plural of <em>sderah</em>). On top of the smaller poles there was a layer of dirt and sometimes on top of the dirt a layer of tiles.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>While the meaning of the Hebrew word <em>gev</em> is uncertain in <a href=\"https://ref.ly/1Kgs6:9\">1KI 6:9</a>, all the translations consulted render it “beams.” See also the discussion on this word at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.1.6 Room&lt;REALIA:3.1.6&gt;</a>.</p>\n<p>In <a href=\"https://ref.ly/Song1:17\">SNG 1:17</a> the Hebrew word <em>rachit</em> is used figuratively, and there is also a textual problem. See the discussion of this verse in <em>A Handbook on Song of Songs</em>, page 49.</p>\n<p>\n            <a href=\"https://ref.ly/Hab2:11\">HAB 2:11</a>: The Hebrew word <em>kafis</em> appears only here in Scripture, but most translations agree that it refers to a rafter or crossbeam in a house. <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> differs by rendering the last line of this verse as “and the plaster will respond from the woodwork.” Babylonian houses were usually built with brick rather than stone, and the prophet is describing Babylonian homes in terms of the building materials he was familiar with in the land of Israel. In a similar way some translators may have to speak of building materials in common use in their own areas (such as clay and wood, or wood and thatch), rather than try to describe “crossbeams” or “rafters”; for example, they may say “and the wood [or, thatch/clay] in the roof cries back [or, echoes the cry].” In some languages it may not be possible to speak of building materials crying out like people. In such cases it may be possible to use a simile and render the whole verse as “It will be as if even the stones and woodwork of your houses bore witness against your evil deeds.”</p>\n<p>The crossbeam provided essential support for the building. In <a href=\"https://ref.ly/Ezra6:11\">EZR 6:11</a> and <a href=\"https://ref.ly/1Esd6:31\">1ES 6:31</a> the act of removing a beam from a person’s house will certainly cause it to fall. So an alternative rendering for the middle of these verses is “his house will be destroyed, and one of its wooden beams will be driven through his body.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "15006011",
+"start_ref_usfm": "EZR 6:11",
+"end_ref": "15006011",
+"end_ref_usfm": "EZR 6:11"
+},
+{
+"start_ref": "11006009",
+"start_ref_usfm": "1KI 6:9",
+"end_ref": "11006009",
+"end_ref_usfm": "1KI 6:9"
+},
+{
+"start_ref": "35002011",
+"start_ref_usfm": "HAB 2:11",
+"end_ref": "35002011",
+"end_ref_usfm": "HAB 2:11"
+},
+{
+"start_ref": "14003007",
+"start_ref_usfm": "2CH 3:7",
+"end_ref": "14003007",
+"end_ref_usfm": "2CH 3:7"
+},
+{
+"start_ref": "22001017",
+"start_ref_usfm": "SNG 1:17",
+"end_ref": "22001017",
+"end_ref_usfm": "SNG 1:17"
+},
+{
+"start_ref": "14034011",
+"start_ref_usfm": "2CH 34:11",
+"end_ref": "14034011",
+"end_ref_usfm": "2CH 34:11"
+},
+{
+"start_ref": "72029022",
+"start_ref_usfm": "SIR 29:22",
+"end_ref": "72029022",
+"end_ref_usfm": "SIR 29:22"
+},
+{
+"start_ref": "74001019",
+"start_ref_usfm": "LJE 1:19",
+"end_ref": "74001019",
+"end_ref_usfm": "LJE 1:19"
+},
+{
+"start_ref": "74001054",
+"start_ref_usfm": "LJE 1:54",
+"end_ref": "74001054",
+"end_ref_usfm": "LJE 1:54"
+},
+{
+"start_ref": "72022016",
+"start_ref_usfm": "SIR 22:16",
+"end_ref": "72022016",
+"end_ref_usfm": "SIR 22:16"
+},
+{
+"start_ref": "82006031",
+"start_ref_usfm": "1ES 6:31",
+"end_ref": "82006031",
+"end_ref_usfm": "1ES 6:31"
+}
+],
+"resource": []
+}
+}
+]

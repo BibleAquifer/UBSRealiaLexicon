@@ -1,0 +1,108 @@
+[
+{
+"content_id": "REALIA:1.8.4",
+"reference_id": "REALIA:1.8.4",
+"version": "1.0.4",
+"title": "標題：建築用方石（squared stones for building）",
+"media_type": "Text",
+"index_reference": "1.8.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.4\"><span class=\"thlex-key\">1.8.4</span> 標題：建築用方石（squared stones for building）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֶבֶן, גָּזִית</span> <span class=\"thlex-translit\">(音譯： gazith, ’even gazith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod20:25\">EXO 20:25</a>, <a href=\"https://ref.ly/1Kgs5:31\">1KI 5:31</a>, <a href=\"https://ref.ly/1Kgs6:36\">1KI 6:36</a>, <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>, <a href=\"https://ref.ly/1Kgs7:11\">1KI 7:11</a>, <a href=\"https://ref.ly/1Kgs7:12\">1KI 7:12</a>, <a href=\"https://ref.ly/1Chr22:2\">1CH 22:2</a>, <a href=\"https://ref.ly/Isa9:9\">ISA 9:9</a>, <a href=\"https://ref.ly/Lam3:9\">LAM 3:9</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Amos5:11\">AMO 5:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος, λαξεύω</span> <span class=\"thlex-translit\">(音譯： lithos lelaxeumenos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt1:2\">JDT 1:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος, ξυστός</span> <span class=\"thlex-translit\">(音譯： lithos xustos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:8\">1ES 6:8</a>, <a href=\"https://ref.ly/1Esd6:24\">1ES 6:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος, τετράποδος</span> <span class=\"thlex-translit\">(音譯： lithos tetrapodos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc10:11\">1MA 10:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0359_squared_stone.jpg\" alt=\"耶路撒冷西牆的希律時期方形石塊\"><figcaption class=\"thlex-caption\">耶路撒冷西牆的希律時期方形石塊 (© Gilabrand, CC BY 3.0, via Wikimedia Commons)</figcaption></figure>方石是切成方形的石塊，使其能夠堆砌起來，建成牆或建築物。這些石頭通常從基岩中開採。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>建築用石的大小差別很大，從一個人可以搬起來的石頭，一直到長達幾米、重達數十噸的大石頭都有。翻譯者應避免使用表示磚塊或小石塊的詞語，可以說「非常大的、切成方塊的石頭」。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0054_ceiling_wall_hant.jpg\" alt=\"天花板，牆壁和牆頂裝飾\"><figcaption class=\"thlex-caption\">天花板，牆壁和牆頂裝飾 (© Ray Pritz by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a> ：這節經文描述了前後都修鑿整齊的建築石材。這些石材用來建造每一面牆壁，從底部到頂部。對於牆的頂部，希伯來文本使用了<em>tfachoth</em> 一詞，通常譯為「屋簷」（“eaves”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）或「壓頂板」（“coping”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）。許多語言沒有這些建築術語，或者不為人熟知（如日常英文中不太常用“eaves”和“coping”）。然而，最近有學者提出，<em>tfachoth</em> 實際上是牆頂的一種裝飾，就像是在天花板和牆壁之間有兩個或三個倒置的臺階。</p>\n<p>一般來說，翻譯者不必使用準確的建築術語來翻譯這種不確定的詞語；整節經文可以像<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 那樣翻譯，英文直譯為：「從地基一直到頂部，這些建築物和庭院所用的石頭，都是品質最好的，並準確切割成所需要的大小，然後用鋸子將每一面都鋸齊。」或者借鑒<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ，英文直譯為：「所有這些建築物都是用貴重的石塊建成。先把石塊準確切割成型。然後用鋸修整正面和背面。從建築物的地基到牆壁的頂部，都使用了這種貴重的石塊。甚至庭院也是用石塊建成的。」</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0019_building_stone.png\" alt=\"搬運建築石材的人\"><figcaption class=\"thlex-caption\">搬運建築石材的人 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>\n            <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a> 中提到的「桌子」（希伯來文<em>shulchan</em> ）是用石頭做成的。參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.3.6 預備祭牲的桌子 (tables for preparing sacrificial victims)&lt;REALIA:4.3.6&gt;</a> 中的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020025",
+"start_ref_usfm": "EXO 20:25",
+"end_ref": "02020025",
+"end_ref_usfm": "EXO 20:25"
+},
+{
+"start_ref": "11005031",
+"start_ref_usfm": "1KI 5:31",
+"end_ref": "11005031",
+"end_ref_usfm": "1KI 5:31"
+},
+{
+"start_ref": "11006036",
+"start_ref_usfm": "1KI 6:36",
+"end_ref": "11006036",
+"end_ref_usfm": "1KI 6:36"
+},
+{
+"start_ref": "11007009",
+"start_ref_usfm": "1KI 7:9",
+"end_ref": "11007009",
+"end_ref_usfm": "1KI 7:9"
+},
+{
+"start_ref": "11007011",
+"start_ref_usfm": "1KI 7:11",
+"end_ref": "11007011",
+"end_ref_usfm": "1KI 7:11"
+},
+{
+"start_ref": "11007012",
+"start_ref_usfm": "1KI 7:12",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "13022002",
+"start_ref_usfm": "1CH 22:2",
+"end_ref": "13022002",
+"end_ref_usfm": "1CH 22:2"
+},
+{
+"start_ref": "23009009",
+"start_ref_usfm": "ISA 9:9",
+"end_ref": "23009009",
+"end_ref_usfm": "ISA 9:9"
+},
+{
+"start_ref": "25003009",
+"start_ref_usfm": "LAM 3:9",
+"end_ref": "25003009",
+"end_ref_usfm": "LAM 3:9"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "30005011",
+"start_ref_usfm": "AMO 5:11",
+"end_ref": "30005011",
+"end_ref_usfm": "AMO 5:11"
+},
+{
+"start_ref": "69001002",
+"start_ref_usfm": "JDT 1:2",
+"end_ref": "69001002",
+"end_ref_usfm": "JDT 1:2"
+},
+{
+"start_ref": "82006008",
+"start_ref_usfm": "1ES 6:8",
+"end_ref": "82006008",
+"end_ref_usfm": "1ES 6:8"
+},
+{
+"start_ref": "82006024",
+"start_ref_usfm": "1ES 6:24",
+"end_ref": "82006024",
+"end_ref_usfm": "1ES 6:24"
+},
+{
+"start_ref": "78010011",
+"start_ref_usfm": "1MA 10:11",
+"end_ref": "78010011",
+"end_ref_usfm": "1MA 10:11"
+}
+],
+"resource": []
+}
+}
+]

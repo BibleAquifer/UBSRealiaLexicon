@@ -1,0 +1,180 @@
+[
+{
+"content_id": "REALIA:1.1.10",
+"reference_id": "REALIA:1.1.10",
+"version": "1.0.4",
+"title": "Wine press",
+"media_type": "Text",
+"index_reference": "1.1.10",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.10\"><span class=\"thlex-key\">1.1.10</span> Wine press</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גַּת</span> <span class=\"thlex-translit\">(gath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>, <a href=\"https://ref.ly/Neh13:15\">NEH 13:15</a>, <a href=\"https://ref.ly/Isa63:2\">ISA 63:2</a>, <a href=\"https://ref.ly/Lam1:15\">LAM 1:15</a>, <a href=\"https://ref.ly/Joel4:13\">JOL 4:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יֶקֶב</span> <span class=\"thlex-translit\">(yeqev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num18:27\">NUM 18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>, <a href=\"https://ref.ly/Deut15:14\">DEU 15:14</a>, <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a>, <a href=\"https://ref.ly/Judg7:25\">JDG 7:25</a>, <a href=\"https://ref.ly/2Kgs6:27\">2KI 6:27</a>, <a href=\"https://ref.ly/Job24:11\">JOB 24:11</a>, <a href=\"https://ref.ly/Prov3:10\">PRO 3:10</a>, <a href=\"https://ref.ly/Isa5:2\">ISA 5:2</a>, <a href=\"https://ref.ly/Isa16:10\">ISA 16:10</a>, <a href=\"https://ref.ly/Jer48:33\">JER 48:33</a>, <a href=\"https://ref.ly/Hos9:2\">HOS 9:2</a>, <a href=\"https://ref.ly/Joel2:24\">JOL 2:24</a>, <a href=\"https://ref.ly/Joel4:13\">JOL 4:13</a>, <a href=\"https://ref.ly/Hag2:16\">HAG 2:16</a>, <a href=\"https://ref.ly/Zech14:10\">ZEC 14:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פּוּרָה</span> <span class=\"thlex-translit\">(purah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa63:3\">ISA 63:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ληνός</span> <span class=\"thlex-translit\">(lēnos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>, <a href=\"https://ref.ly/Rev14:19\">REV 14:19</a>, <a href=\"https://ref.ly/Rev14:20\">REV 14:20</a>, <a href=\"https://ref.ly/Rev14:20\">REV 14:20</a>, <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>, <a href=\"https://ref.ly/Sir33:17\">SIR 33:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὑπολήνιον</span> <span class=\"thlex-translit\">(hupolēnion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">The Greek word <em>hupolēnion</em> in <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a> refers to the wine trough/vat.</h2>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0968_winepress_en.jpg\" alt=\"Man in a winepress\"><figcaption class=\"thlex-caption\">Man in a winepress (© James Emery - Wikimedia Commons)</figcaption></figure>The wine press was a place for pressing out the juice of grapes for the making of wine (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">9.1 Wine&lt;REALIA:9.1&gt;</a>), vinegar, and grape honey. Ancient wine presses consisted of large treading floors on which the grapes were trampled in order to extract the juice. Depending on the topography, a wine press floor could be larger and shallower than the one depicted in the illustration below. Beneath the wine press floor was placed (or cut out of the rock) a trough or vat into which flowed the grape juice that had just been pressed out.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>gath</em> usually indicates the treading floor or the entire installation, while <em>yeqev</em> is the collecting vat.</p>\n<p>A descriptive equivalent of “wine press” may be “place where the juice of grapes was squeezed out” or “… pressed out” (similarly <em>Parole de Vie</em> [PV] in <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>). The Spanish common language translation (<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr>) has “place where wine is made” (<a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>). For “wine trough,” translators may use a descriptive phrase, such as “place where the juice of the grapes was collected.”</p>\n<p>The Hebrew word <em>purah</em> may refer to a measure of pressed juice or the act of pressing out the juice in a wine press. In <a href=\"https://ref.ly/Isa63:3\">ISA 63:3</a> most translations render it “wine press.” For the first line of this verse the New Jewish Publication Society Version (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>) is more accurate with “I trod out a vintage alone.” Good models are <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “I have trampled the nations like grapes” and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “I alone stomped the grapes!”</p>\n<p>The Greek word <em>lēnos</em> means a depression, hole, trough, or pit. The operation of pressing grapes involved more than one such depression; there was one (in the land of Israel it was a flat surface) in which the grapes were placed and tread, and one or more into which the juice flowed. <em>Lēnos</em> can refer to either of these, and it will usually be sufficient to render it something like “pit to crush the grapes in” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>; <a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>).</p>\n<p>\n            <em>Lēnos</em> is the word used in <a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>. In the parallel passage in <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a> a different Greek word is used (<em>hupolēnion</em>), a word that means a pit which lies below the <em>lēnos</em>, that is, a “collection pit” into which the juice flowed from the upper surface where the grapes were crushed. translations render both words the same, usually “wine press” or its equivalent. Some translations (<em>Traduction œcuménique de la Bible</em> [<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr>], <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, New International Version [<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>], New American Standard Bible [<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr>]) use a different word or expression in Mark; for example, <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> has “vat under the wine press.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006011",
+"end_ref_usfm": "JDG 6:11"
+},
+{
+"start_ref": "16013015",
+"start_ref_usfm": "NEH 13:15",
+"end_ref": "16013015",
+"end_ref_usfm": "NEH 13:15"
+},
+{
+"start_ref": "23063002",
+"start_ref_usfm": "ISA 63:2",
+"end_ref": "23063002",
+"end_ref_usfm": "ISA 63:2"
+},
+{
+"start_ref": "25001015",
+"start_ref_usfm": "LAM 1:15",
+"end_ref": "25001015",
+"end_ref_usfm": "LAM 1:15"
+},
+{
+"start_ref": "29004013",
+"start_ref_usfm": "JOL 4:13",
+"end_ref": "29004013",
+"end_ref_usfm": "JOL 4:13"
+},
+{
+"start_ref": "04018027",
+"start_ref_usfm": "NUM 18:27",
+"end_ref": "04018027",
+"end_ref_usfm": "NUM 18:27"
+},
+{
+"start_ref": "04018030",
+"start_ref_usfm": "NUM 18:30",
+"end_ref": "04018030",
+"end_ref_usfm": "NUM 18:30"
+},
+{
+"start_ref": "05015014",
+"start_ref_usfm": "DEU 15:14",
+"end_ref": "05015014",
+"end_ref_usfm": "DEU 15:14"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016013",
+"end_ref_usfm": "DEU 16:13"
+},
+{
+"start_ref": "07007025",
+"start_ref_usfm": "JDG 7:25",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "12006027",
+"start_ref_usfm": "2KI 6:27",
+"end_ref": "12006027",
+"end_ref_usfm": "2KI 6:27"
+},
+{
+"start_ref": "18024011",
+"start_ref_usfm": "JOB 24:11",
+"end_ref": "18024011",
+"end_ref_usfm": "JOB 24:11"
+},
+{
+"start_ref": "20003010",
+"start_ref_usfm": "PRO 3:10",
+"end_ref": "20003010",
+"end_ref_usfm": "PRO 3:10"
+},
+{
+"start_ref": "23005002",
+"start_ref_usfm": "ISA 5:2",
+"end_ref": "23005002",
+"end_ref_usfm": "ISA 5:2"
+},
+{
+"start_ref": "23016010",
+"start_ref_usfm": "ISA 16:10",
+"end_ref": "23016010",
+"end_ref_usfm": "ISA 16:10"
+},
+{
+"start_ref": "24048033",
+"start_ref_usfm": "JER 48:33",
+"end_ref": "24048033",
+"end_ref_usfm": "JER 48:33"
+},
+{
+"start_ref": "28009002",
+"start_ref_usfm": "HOS 9:2",
+"end_ref": "28009002",
+"end_ref_usfm": "HOS 9:2"
+},
+{
+"start_ref": "29002024",
+"start_ref_usfm": "JOL 2:24",
+"end_ref": "29002024",
+"end_ref_usfm": "JOL 2:24"
+},
+{
+"start_ref": "37002016",
+"start_ref_usfm": "HAG 2:16",
+"end_ref": "37002016",
+"end_ref_usfm": "HAG 2:16"
+},
+{
+"start_ref": "38014010",
+"start_ref_usfm": "ZEC 14:10",
+"end_ref": "38014010",
+"end_ref_usfm": "ZEC 14:10"
+},
+{
+"start_ref": "23063003",
+"start_ref_usfm": "ISA 63:3",
+"end_ref": "23063003",
+"end_ref_usfm": "ISA 63:3"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021033",
+"end_ref_usfm": "MAT 21:33"
+},
+{
+"start_ref": "66014019",
+"start_ref_usfm": "REV 14:19",
+"end_ref": "66014019",
+"end_ref_usfm": "REV 14:19"
+},
+{
+"start_ref": "66014020",
+"start_ref_usfm": "REV 14:20",
+"end_ref": "66014020",
+"end_ref_usfm": "REV 14:20"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "72033017",
+"start_ref_usfm": "SIR 33:17",
+"end_ref": "72033017",
+"end_ref_usfm": "SIR 33:17"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012001",
+"end_ref_usfm": "MRK 12:1"
+}
+],
+"resource": []
+}
+}
+]

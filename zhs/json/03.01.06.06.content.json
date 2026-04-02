@@ -1,0 +1,72 @@
+[
+{
+"content_id": "REALIA:3.1.6.6",
+"reference_id": "REALIA:3.1.6.6",
+"version": "1.0.4",
+"title": "标题：内室（inner room）",
+"media_type": "Text",
+"index_reference": "3.1.6.6",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.1.6.6\"><span class=\"thlex-key\">3.1.6.6</span> 标题：内室（inner room）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חֶדֶר</span> <span class=\"thlex-translit\">(音译：cheder bcheder)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs20:30\">1KI 20:30</a>, <a href=\"https://ref.ly/1Kgs22:25\">1KI 22:25</a>, <a href=\"https://ref.ly/2Kgs9:2\">2KI 9:2</a>, <a href=\"https://ref.ly/2Chr18:24\">2CH 18:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חֶדֶר, פְּנִימִי</span> <span class=\"thlex-translit\">(音译：cheder pnimi)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr28:11\">1CH 28:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：μυχός</span> <span class=\"thlex-translit\">(音译：muchos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis17:4\">WIS 17:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ταμεῖον</span> <span class=\"thlex-translit\">(音译：tameion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt6:6\">MAT 6:6</a>, <a href=\"https://ref.ly/Matt24:26\">MAT 24:26</a>, <a href=\"https://ref.ly/Luke12:3\">LUK 12:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>内室是房子内部的一个房间，通常没有通向室外的窗户。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Luke12:3\">LUK 12:3</a> 的重点是：内室处于完全私密的位置。在这样的语境中，翻译者可以译为：“一间完全私密的房间”，或“在房子最里面的一个小房间”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11020030",
+"start_ref_usfm": "1KI 20:30",
+"end_ref": "11020030",
+"end_ref_usfm": "1KI 20:30"
+},
+{
+"start_ref": "11022025",
+"start_ref_usfm": "1KI 22:25",
+"end_ref": "11022025",
+"end_ref_usfm": "1KI 22:25"
+},
+{
+"start_ref": "12009002",
+"start_ref_usfm": "2KI 9:2",
+"end_ref": "12009002",
+"end_ref_usfm": "2KI 9:2"
+},
+{
+"start_ref": "14018024",
+"start_ref_usfm": "2CH 18:24",
+"end_ref": "14018024",
+"end_ref_usfm": "2CH 18:24"
+},
+{
+"start_ref": "13028011",
+"start_ref_usfm": "1CH 28:11",
+"end_ref": "13028011",
+"end_ref_usfm": "1CH 28:11"
+},
+{
+"start_ref": "71017004",
+"start_ref_usfm": "WIS 17:4",
+"end_ref": "71017004",
+"end_ref_usfm": "WIS 17:4"
+},
+{
+"start_ref": "40006006",
+"start_ref_usfm": "MAT 6:6",
+"end_ref": "40006006",
+"end_ref_usfm": "MAT 6:6"
+},
+{
+"start_ref": "40024026",
+"start_ref_usfm": "MAT 24:26",
+"end_ref": "40024026",
+"end_ref_usfm": "MAT 24:26"
+},
+{
+"start_ref": "42012003",
+"start_ref_usfm": "LUK 12:3",
+"end_ref": "42012003",
+"end_ref_usfm": "LUK 12:3"
+}
+],
+"resource": []
+}
+}
+]

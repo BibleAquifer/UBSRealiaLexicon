@@ -1,0 +1,414 @@
+[
+{
+"content_id": "REALIA:5.18.2",
+"reference_id": "REALIA:5.18.2",
+"version": "1.0.4",
+"title": "標題：筐子、籃子、伊法（basket）",
+"media_type": "Text",
+"index_reference": "5.18.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.2\"><span class=\"thlex-key\">5.18.2</span> 標題：筐子、籃子、伊法（basket）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֵיפָה</span> <span class=\"thlex-translit\">(音譯： ’eyfah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod16:36\">EXO 16:36</a>, <a href=\"https://ref.ly/Lev5:11\">LEV 5:11</a>, <a href=\"https://ref.ly/Lev6:13\">LEV 6:13</a>, <a href=\"https://ref.ly/Lev19:36\">LEV 19:36</a>, <a href=\"https://ref.ly/Num5:15\">NUM 5:15</a>, <a href=\"https://ref.ly/Num28:5\">NUM 28:5</a>, <a href=\"https://ref.ly/Deut25:14\">DEU 25:14</a>, <a href=\"https://ref.ly/Deut25:14\">DEU 25:14</a>, <a href=\"https://ref.ly/Deut25:15\">DEU 25:15</a>, <a href=\"https://ref.ly/Judg6:19\">JDG 6:19</a>, <a href=\"https://ref.ly/Ruth2:17\">RUT 2:17</a>, <a href=\"https://ref.ly/1Sam1:24\">1SA 1:24</a>, <a href=\"https://ref.ly/1Sam17:17\">1SA 17:17</a>, <a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a>, <a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a>, <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a>, <a href=\"https://ref.ly/Ezek45:10\">EZK 45:10</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>, <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek46:5\">EZK 46:5</a>, <a href=\"https://ref.ly/Ezek46:5\">EZK 46:5</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:14\">EZK 46:14</a>, <a href=\"https://ref.ly/Amos8:5\">AMO 8:5</a>, <a href=\"https://ref.ly/Mic6:10\">MIC 6:10</a>, <a href=\"https://ref.ly/Zech5:6\">ZEC 5:6</a>, <a href=\"https://ref.ly/Zech5:7\">ZEC 5:7</a>, <a href=\"https://ref.ly/Zech5:8\">ZEC 5:8</a>, <a href=\"https://ref.ly/Zech5:9\">ZEC 5:9</a>, <a href=\"https://ref.ly/Zech5:10\">ZEC 5:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： דּוּד</span> <span class=\"thlex-translit\">(音譯： dud, dudai)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs10:7\">2KI 10:7</a>, <a href=\"https://ref.ly/Ps81:7\">PSA 81:7</a>, <a href=\"https://ref.ly/Jer24:1\">JER 24:1</a>, <a href=\"https://ref.ly/Jer24:2\">JER 24:2</a>, <a href=\"https://ref.ly/Jer24:2\">JER 24:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： טֶנֶא</span> <span class=\"thlex-translit\">(音譯： tene’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut26:2\">DEU 26:2</a>, <a href=\"https://ref.ly/Deut26:4\">DEU 26:4</a>, <a href=\"https://ref.ly/Deut28:5\">DEU 28:5</a>, <a href=\"https://ref.ly/Deut28:17\">DEU 28:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כְּלוּב</span> <span class=\"thlex-translit\">(音譯： kluv)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer5:27\">JER 5:27</a>, <a href=\"https://ref.ly/Amos8:1\">AMO 8:1</a>, <a href=\"https://ref.ly/Amos8:2\">AMO 8:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： סַל</span> <span class=\"thlex-translit\">(音譯： sal, salsiloth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen40:16\">GEN 40:16</a>, <a href=\"https://ref.ly/Gen40:17\">GEN 40:17</a>, <a href=\"https://ref.ly/Gen40:17\">GEN 40:17</a>, <a href=\"https://ref.ly/Gen40:18\">GEN 40:18</a>, <a href=\"https://ref.ly/Exod29:3\">EXO 29:3</a>, <a href=\"https://ref.ly/Exod29:3\">EXO 29:3</a>, <a href=\"https://ref.ly/Exod29:23\">EXO 29:23</a>, <a href=\"https://ref.ly/Exod29:32\">EXO 29:32</a>, <a href=\"https://ref.ly/Lev8:2\">LEV 8:2</a>, <a href=\"https://ref.ly/Lev8:26\">LEV 8:26</a>, <a href=\"https://ref.ly/Lev8:31\">LEV 8:31</a>, <a href=\"https://ref.ly/Num6:15\">NUM 6:15</a>, <a href=\"https://ref.ly/Num6:17\">NUM 6:17</a>, <a href=\"https://ref.ly/Num6:19\">NUM 6:19</a>, <a href=\"https://ref.ly/Judg6:19\">JDG 6:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תֵּבָה</span> <span class=\"thlex-translit\">(音譯： tevah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>, <a href=\"https://ref.ly/Exod2:5\">EXO 2:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κόφινος</span> <span class=\"thlex-translit\">(音譯： kofinos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt14:20\">MAT 14:20</a>, <a href=\"https://ref.ly/Matt16:9\">MAT 16:9</a>, <a href=\"https://ref.ly/Mark6:43\">MRK 6:43</a>, <a href=\"https://ref.ly/Mark8:19\">MRK 8:19</a>, <a href=\"https://ref.ly/Luke9:17\">LUK 9:17</a>, <a href=\"https://ref.ly/John6:13\">JHN 6:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σαργάνη</span> <span class=\"thlex-translit\">(音譯： sarganē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Cor11:33\">2CO 11:33</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σπυρίς</span> <span class=\"thlex-translit\">(音譯： spuris)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt15:37\">MAT 15:37</a>, <a href=\"https://ref.ly/Matt16:10\">MAT 16:10</a>, <a href=\"https://ref.ly/Mark8:8\">MRK 8:8</a>, <a href=\"https://ref.ly/Mark8:20\">MRK 8:20</a>, <a href=\"https://ref.ly/Acts9:25\">ACT 9:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0495_basket.jpg\" alt=\"用於儲存和運輸貨物的大型編織籃\"><figcaption class=\"thlex-caption\">用於儲存和運輸貨物的大型編織籃 (© Habib M’henni, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>籃子是用草或蘆葦等編織材料做成的一種容器。根據用途的不同，籃子的大小也有很大的不同。籃子可以盛裝各種各樣的東西，包括食物和農產品，甚至可以用來搬運泥土。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>’eyfah</em> 有時指一個體積單位（伊法），有時指具有該容量的籃子。翻譯者要特別注意語境。</p>\n<p>\n            <a href=\"https://ref.ly/Zech5:7\">ZEC 5:7</a> 提到一種用來蓋籃子（希伯來文<em>kikar</em> ）的東西。經文記載這個物品是用鉛做的，並且籃子通常沒有它。大多數譯本將這個詞譯為「鉛做的蓋子」（“lid made of lead”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）或「鉛蓋」（“lead cover”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> ）。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0082_basket_with_fruits.png\" alt=\"OAI-0082_basket_with_fruits\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>在<a href=\"https://ref.ly/Jer5:27\">JER 5:27</a> 中，希伯來文<em>kluv</em> 似乎指的是一種非常特別的籃子；實際上，這是一種用來裝鳥的籠子。<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 把這節經文的開頭譯為“Like a basket full of birds”（「像裝滿鳥的籃子」），這暗示鳥已經死了。然而，大多數其他譯本並沒有譯為「籃子」，而是譯成「籠子」，似乎更好地保留了前一節經文的比喻。另一方面，在<a href=\"https://ref.ly/Amos8:1\">AMO 8:1</a>; <a href=\"https://ref.ly/Amos8:2\">AMO 8:2</a> 中，<em>kluv</em> 一詞毫無疑問是「容器」的統稱，譯文應該盡量使用一般性的詞語，該詞語所表示的物品應該適合用來在市場售賣、攜帶或存放水果。如果目標語言沒有適合的籃子，那麼可以譯作任何作此用途的容器。</p>\n<p>對於上文所列三個在新約中表示籃子的詞語，我們無法準確說明它們的意思有什麼區別。希臘文<em>sarganē</em> 一詞僅出現在<a href=\"https://ref.ly/2Cor11:33\">2CO 11:33</a> ，這顯然是一個相當大的籃子，因為保羅就是坐在裡面從大馬士革的城牆縋下來的。在<a href=\"https://ref.ly/Acts9:25\">ACT 9:25</a> 中，希臘文<em>spuris</em> 也指同一種籃子。</p>\n<p>對於希臘文<em>spuris</em> 和<em>kofinos</em> ，翻譯者通常很難找到令人滿意的對等詞，因為在不同的目標語言中，特定類型的籃子有非常具體的名稱；籃子的結構和大小不同，名稱也不同。遺憾的是，我們無法從希臘文本中準確地知道籃子的大小或類型。翻譯者要注意，選定的詞語不能表示由塑料或橡膠等現代材料製成的容器。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02016036",
+"start_ref_usfm": "EXO 16:36",
+"end_ref": "02016036",
+"end_ref_usfm": "EXO 16:36"
+},
+{
+"start_ref": "03005011",
+"start_ref_usfm": "LEV 5:11",
+"end_ref": "03005011",
+"end_ref_usfm": "LEV 5:11"
+},
+{
+"start_ref": "03006013",
+"start_ref_usfm": "LEV 6:13",
+"end_ref": "03006013",
+"end_ref_usfm": "LEV 6:13"
+},
+{
+"start_ref": "03019036",
+"start_ref_usfm": "LEV 19:36",
+"end_ref": "03019036",
+"end_ref_usfm": "LEV 19:36"
+},
+{
+"start_ref": "04005015",
+"start_ref_usfm": "NUM 5:15",
+"end_ref": "04005015",
+"end_ref_usfm": "NUM 5:15"
+},
+{
+"start_ref": "04028005",
+"start_ref_usfm": "NUM 28:5",
+"end_ref": "04028005",
+"end_ref_usfm": "NUM 28:5"
+},
+{
+"start_ref": "05025014",
+"start_ref_usfm": "DEU 25:14",
+"end_ref": "05025014",
+"end_ref_usfm": "DEU 25:14"
+},
+{
+"start_ref": "05025015",
+"start_ref_usfm": "DEU 25:15",
+"end_ref": "05025015",
+"end_ref_usfm": "DEU 25:15"
+},
+{
+"start_ref": "07006019",
+"start_ref_usfm": "JDG 6:19",
+"end_ref": "07006019",
+"end_ref_usfm": "JDG 6:19"
+},
+{
+"start_ref": "08002017",
+"start_ref_usfm": "RUT 2:17",
+"end_ref": "08002017",
+"end_ref_usfm": "RUT 2:17"
+},
+{
+"start_ref": "09001024",
+"start_ref_usfm": "1SA 1:24",
+"end_ref": "09001024",
+"end_ref_usfm": "1SA 1:24"
+},
+{
+"start_ref": "09017017",
+"start_ref_usfm": "1SA 17:17",
+"end_ref": "09017017",
+"end_ref_usfm": "1SA 17:17"
+},
+{
+"start_ref": "20020010",
+"start_ref_usfm": "PRO 20:10",
+"end_ref": "20020010",
+"end_ref_usfm": "PRO 20:10"
+},
+{
+"start_ref": "23005010",
+"start_ref_usfm": "ISA 5:10",
+"end_ref": "23005010",
+"end_ref_usfm": "ISA 5:10"
+},
+{
+"start_ref": "26045010",
+"start_ref_usfm": "EZK 45:10",
+"end_ref": "26045010",
+"end_ref_usfm": "EZK 45:10"
+},
+{
+"start_ref": "26045011",
+"start_ref_usfm": "EZK 45:11",
+"end_ref": "26045011",
+"end_ref_usfm": "EZK 45:11"
+},
+{
+"start_ref": "26045013",
+"start_ref_usfm": "EZK 45:13",
+"end_ref": "26045013",
+"end_ref_usfm": "EZK 45:13"
+},
+{
+"start_ref": "26045024",
+"start_ref_usfm": "EZK 45:24",
+"end_ref": "26045024",
+"end_ref_usfm": "EZK 45:24"
+},
+{
+"start_ref": "26046005",
+"start_ref_usfm": "EZK 46:5",
+"end_ref": "26046005",
+"end_ref_usfm": "EZK 46:5"
+},
+{
+"start_ref": "26046007",
+"start_ref_usfm": "EZK 46:7",
+"end_ref": "26046007",
+"end_ref_usfm": "EZK 46:7"
+},
+{
+"start_ref": "26046011",
+"start_ref_usfm": "EZK 46:11",
+"end_ref": "26046011",
+"end_ref_usfm": "EZK 46:11"
+},
+{
+"start_ref": "26046014",
+"start_ref_usfm": "EZK 46:14",
+"end_ref": "26046014",
+"end_ref_usfm": "EZK 46:14"
+},
+{
+"start_ref": "30008005",
+"start_ref_usfm": "AMO 8:5",
+"end_ref": "30008005",
+"end_ref_usfm": "AMO 8:5"
+},
+{
+"start_ref": "33006010",
+"start_ref_usfm": "MIC 6:10",
+"end_ref": "33006010",
+"end_ref_usfm": "MIC 6:10"
+},
+{
+"start_ref": "38005006",
+"start_ref_usfm": "ZEC 5:6",
+"end_ref": "38005006",
+"end_ref_usfm": "ZEC 5:6"
+},
+{
+"start_ref": "38005007",
+"start_ref_usfm": "ZEC 5:7",
+"end_ref": "38005007",
+"end_ref_usfm": "ZEC 5:7"
+},
+{
+"start_ref": "38005008",
+"start_ref_usfm": "ZEC 5:8",
+"end_ref": "38005008",
+"end_ref_usfm": "ZEC 5:8"
+},
+{
+"start_ref": "38005009",
+"start_ref_usfm": "ZEC 5:9",
+"end_ref": "38005009",
+"end_ref_usfm": "ZEC 5:9"
+},
+{
+"start_ref": "38005010",
+"start_ref_usfm": "ZEC 5:10",
+"end_ref": "38005010",
+"end_ref_usfm": "ZEC 5:10"
+},
+{
+"start_ref": "12010007",
+"start_ref_usfm": "2KI 10:7",
+"end_ref": "12010007",
+"end_ref_usfm": "2KI 10:7"
+},
+{
+"start_ref": "19081007",
+"start_ref_usfm": "PSA 81:7",
+"end_ref": "19081007",
+"end_ref_usfm": "PSA 81:7"
+},
+{
+"start_ref": "24024001",
+"start_ref_usfm": "JER 24:1",
+"end_ref": "24024001",
+"end_ref_usfm": "JER 24:1"
+},
+{
+"start_ref": "24024002",
+"start_ref_usfm": "JER 24:2",
+"end_ref": "24024002",
+"end_ref_usfm": "JER 24:2"
+},
+{
+"start_ref": "05026002",
+"start_ref_usfm": "DEU 26:2",
+"end_ref": "05026002",
+"end_ref_usfm": "DEU 26:2"
+},
+{
+"start_ref": "05026004",
+"start_ref_usfm": "DEU 26:4",
+"end_ref": "05026004",
+"end_ref_usfm": "DEU 26:4"
+},
+{
+"start_ref": "05028005",
+"start_ref_usfm": "DEU 28:5",
+"end_ref": "05028005",
+"end_ref_usfm": "DEU 28:5"
+},
+{
+"start_ref": "05028017",
+"start_ref_usfm": "DEU 28:17",
+"end_ref": "05028017",
+"end_ref_usfm": "DEU 28:17"
+},
+{
+"start_ref": "24005027",
+"start_ref_usfm": "JER 5:27",
+"end_ref": "24005027",
+"end_ref_usfm": "JER 5:27"
+},
+{
+"start_ref": "30008001",
+"start_ref_usfm": "AMO 8:1",
+"end_ref": "30008001",
+"end_ref_usfm": "AMO 8:1"
+},
+{
+"start_ref": "30008002",
+"start_ref_usfm": "AMO 8:2",
+"end_ref": "30008002",
+"end_ref_usfm": "AMO 8:2"
+},
+{
+"start_ref": "01040016",
+"start_ref_usfm": "GEN 40:16",
+"end_ref": "01040016",
+"end_ref_usfm": "GEN 40:16"
+},
+{
+"start_ref": "01040017",
+"start_ref_usfm": "GEN 40:17",
+"end_ref": "01040017",
+"end_ref_usfm": "GEN 40:17"
+},
+{
+"start_ref": "01040018",
+"start_ref_usfm": "GEN 40:18",
+"end_ref": "01040018",
+"end_ref_usfm": "GEN 40:18"
+},
+{
+"start_ref": "02029003",
+"start_ref_usfm": "EXO 29:3",
+"end_ref": "02029003",
+"end_ref_usfm": "EXO 29:3"
+},
+{
+"start_ref": "02029023",
+"start_ref_usfm": "EXO 29:23",
+"end_ref": "02029023",
+"end_ref_usfm": "EXO 29:23"
+},
+{
+"start_ref": "02029032",
+"start_ref_usfm": "EXO 29:32",
+"end_ref": "02029032",
+"end_ref_usfm": "EXO 29:32"
+},
+{
+"start_ref": "03008002",
+"start_ref_usfm": "LEV 8:2",
+"end_ref": "03008002",
+"end_ref_usfm": "LEV 8:2"
+},
+{
+"start_ref": "03008026",
+"start_ref_usfm": "LEV 8:26",
+"end_ref": "03008026",
+"end_ref_usfm": "LEV 8:26"
+},
+{
+"start_ref": "03008031",
+"start_ref_usfm": "LEV 8:31",
+"end_ref": "03008031",
+"end_ref_usfm": "LEV 8:31"
+},
+{
+"start_ref": "04006015",
+"start_ref_usfm": "NUM 6:15",
+"end_ref": "04006015",
+"end_ref_usfm": "NUM 6:15"
+},
+{
+"start_ref": "04006017",
+"start_ref_usfm": "NUM 6:17",
+"end_ref": "04006017",
+"end_ref_usfm": "NUM 6:17"
+},
+{
+"start_ref": "04006019",
+"start_ref_usfm": "NUM 6:19",
+"end_ref": "04006019",
+"end_ref_usfm": "NUM 6:19"
+},
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "02002005",
+"start_ref_usfm": "EXO 2:5",
+"end_ref": "02002005",
+"end_ref_usfm": "EXO 2:5"
+},
+{
+"start_ref": "40014020",
+"start_ref_usfm": "MAT 14:20",
+"end_ref": "40014020",
+"end_ref_usfm": "MAT 14:20"
+},
+{
+"start_ref": "40016009",
+"start_ref_usfm": "MAT 16:9",
+"end_ref": "40016009",
+"end_ref_usfm": "MAT 16:9"
+},
+{
+"start_ref": "41006043",
+"start_ref_usfm": "MRK 6:43",
+"end_ref": "41006043",
+"end_ref_usfm": "MRK 6:43"
+},
+{
+"start_ref": "41008019",
+"start_ref_usfm": "MRK 8:19",
+"end_ref": "41008019",
+"end_ref_usfm": "MRK 8:19"
+},
+{
+"start_ref": "42009017",
+"start_ref_usfm": "LUK 9:17",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "43006013",
+"start_ref_usfm": "JHN 6:13",
+"end_ref": "43006013",
+"end_ref_usfm": "JHN 6:13"
+},
+{
+"start_ref": "47011033",
+"start_ref_usfm": "2CO 11:33",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
+},
+{
+"start_ref": "40015037",
+"start_ref_usfm": "MAT 15:37",
+"end_ref": "40015037",
+"end_ref_usfm": "MAT 15:37"
+},
+{
+"start_ref": "40016010",
+"start_ref_usfm": "MAT 16:10",
+"end_ref": "40016010",
+"end_ref_usfm": "MAT 16:10"
+},
+{
+"start_ref": "41008008",
+"start_ref_usfm": "MRK 8:8",
+"end_ref": "41008008",
+"end_ref_usfm": "MRK 8:8"
+},
+{
+"start_ref": "41008020",
+"start_ref_usfm": "MRK 8:20",
+"end_ref": "41008020",
+"end_ref_usfm": "MRK 8:20"
+},
+{
+"start_ref": "44009025",
+"start_ref_usfm": "ACT 9:25",
+"end_ref": "44009025",
+"end_ref_usfm": "ACT 9:25"
+}
+],
+"resource": []
+}
+}
+]

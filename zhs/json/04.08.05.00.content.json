@@ -1,0 +1,396 @@
+[
+{
+"content_id": "REALIA:4.8.5",
+"reference_id": "REALIA:4.8.5",
+"version": "1.0.4",
+"title": "标题：麻布、麻衣、丧服（sackcloth, mourning clothes）",
+"media_type": "Text",
+"index_reference": "4.8.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.5\"><span class=\"thlex-key\">4.8.5</span> 标题：麻布、麻衣、丧服（sackcloth, mourning clothes）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בֶּגֶד, אֵבֶל</span> <span class=\"thlex-translit\">(音译：bigdey ’evel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שַׂק</span> <span class=\"thlex-translit\">(音译：saq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a>, <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a>, <a href=\"https://ref.ly/2Sam21:10\">2SA 21:10</a>, <a href=\"https://ref.ly/1Kgs20:31\">1KI 20:31</a>, <a href=\"https://ref.ly/1Kgs20:32\">1KI 20:32</a>, <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>, <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>, <a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a>, <a href=\"https://ref.ly/2Kgs19:1\">2KI 19:1</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a>, <a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a>, <a href=\"https://ref.ly/Neh9:1\">NEH 9:1</a>, <a href=\"https://ref.ly/Esth4:1\">EST 4:1</a>, <a href=\"https://ref.ly/Esth4:2\">EST 4:2</a>, <a href=\"https://ref.ly/Esth4:3\">EST 4:3</a>, <a href=\"https://ref.ly/Esth4:4\">EST 4:4</a>, <a href=\"https://ref.ly/Job16:15\">JOB 16:15</a>, <a href=\"https://ref.ly/Ps30:12\">PSA 30:12</a>, <a href=\"https://ref.ly/Ps35:13\">PSA 35:13</a>, <a href=\"https://ref.ly/Ps69:12\">PSA 69:12</a>, <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa15:3\">ISA 15:3</a>, <a href=\"https://ref.ly/Isa20:2\">ISA 20:2</a>, <a href=\"https://ref.ly/Isa22:12\">ISA 22:12</a>, <a href=\"https://ref.ly/Isa37:1\">ISA 37:1</a>, <a href=\"https://ref.ly/Isa37:2\">ISA 37:2</a>, <a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>, <a href=\"https://ref.ly/Jer4:8\">JER 4:8</a>, <a href=\"https://ref.ly/Jer6:26\">JER 6:26</a>, <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a>, <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>, <a href=\"https://ref.ly/Lam2:10\">LAM 2:10</a>, <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>, <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>, <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>, <a href=\"https://ref.ly/Joel1:8\">JOL 1:8</a>, <a href=\"https://ref.ly/Joel1:13\">JOL 1:13</a>, <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>, <a href=\"https://ref.ly/Jonah3:5\">JON 3:5</a>, <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>, <a href=\"https://ref.ly/Jonah3:8\">JON 3:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：σάκκος</span> <span class=\"thlex-translit\">(音译：sakkos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a>, <a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a>, <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev11:3\">REV 11:3</a>, <a href=\"https://ref.ly/Jdt4:10\">JDT 4:10</a>, <a href=\"https://ref.ly/Jdt4:11\">JDT 4:11</a>, <a href=\"https://ref.ly/Jdt4:12\">JDT 4:12</a>, <a href=\"https://ref.ly/Jdt4:14\">JDT 4:14</a>, <a href=\"https://ref.ly/Jdt8:5\">JDT 8:5</a>, <a href=\"https://ref.ly/Jdt9:1\">JDT 9:1</a>, <a href=\"https://ref.ly/Jdt10:3\">JDT 10:3</a>, <a href=\"https://ref.ly/EsthGr4:1\">ESG 4:1</a>, <a href=\"https://ref.ly/EsthGr4:2\">ESG 4:2</a>, <a href=\"https://ref.ly/EsthGr4:3\">ESG 4:3</a>, <a href=\"https://ref.ly/EsthGr4:4\">ESG 4:4</a>, <a href=\"https://ref.ly/Bar4:20\">BAR 4:20</a>, <a href=\"https://ref.ly/1Macc2:14\">1MA 2:14</a>, <a href=\"https://ref.ly/1Macc3:47\">1MA 3:47</a>, <a href=\"https://ref.ly/2Macc3:19\">2MA 3:19</a>, <a href=\"https://ref.ly/2Macc10:25\">2MA 10:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：saccus</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd16:2\">2ES 16:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>麻布是一种粗糙的深色布料，用山羊毛或骆驼毛制成。人们贴身穿着麻布衣，表示哀悼或悔改（<a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a> ）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>不同文化的服丧习俗千差万别，在有些文化中，穿什么或不穿什么并不重要。在大多数语言中，“麻布”可描述为“粗布”，有时也可描述为“厚布”。一般来说，最好明确指出这些衣服和哀悼之间的关系，例如说“表示某人为哀悼死者而穿的衣服”。</p>\n<p>有些文化可能存在与以色列人服丧相似的哀悼行为，如涂画身体，在脸上或胸前抹灰，背着包裹之类的东西（象征一个贫困寡妇的哀悼），或在脖子上戴一根哀悼绳。这种文化对等翻译既有优点也有危险，因为以色列文化的某些特殊方面丢失了，而当地习俗可能会有我们想要避免的含意。如果采取文化对等翻译，那么译文的所有隐含意思都要仔细审查。一般来说，最好译出以色列人的习俗，并在脚注中解释其含义或说明相应的习俗。脚注可以是：“丧服是用山羊毛或骆驼毛织成的粗布缝制而成的。”</p>\n<p>\n            <a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a> 没有明确说是麻衣，但使用了“丧服”一词。撕裂外袍以示绝望或悲伤是犹太人的习俗之一。然而，这节经文所表达的不仅仅是撕裂衣服。对于字面意为“穿上丧服”的这个分句，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 英文意为“穿上葬礼的衣服”。如果目标语言的文化没有特别的习俗，或者已知的习俗不适合这个故事的语境，那么可将这个分句扩展译为：“穿上特别的衣服，让大卫以为你因为某人死去而难过。”</p>\n<p>\n            <a href=\"https://ref.ly/Job16:15\">JOB 16:15</a> ：这节经文的前半部分字面意为，“我把麻布缝在皮肤上”（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 同）。这可能表示约伯要长期穿着麻衣，或者他贴身穿着麻衣。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意为“我哀悼并身穿麻衣”，没有表达上述任何一种意思。然而，<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 意为“丧服是我的第二层皮肤”，暗示约伯一直穿着丧服。这句话可译作：“我把丧服穿在身上”、“我给自己穿上居丧之人所穿的衣服”，或“我穿上居丧之人穿着的粗布衣”。</p>\n<p>在有些经文中，穿麻衣并不是为了哀悼死者，而是表示忧伤痛悔。参<a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>; <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>; <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a> 等例。</p>\n<p>\n            <a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a> ：这节经文最后一部分的字面意为“他们早已披麻蒙灰悔改了”（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 同；另参<a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a> ）。有些译本没有提及“披麻蒙灰”，而是直接译作：“他们早就向众人表明他们已从罪中回转了。”然而，翻译者应尽量保留经文中这些特有的文化行为，因为这些行为是圣经文化的一个常见现象。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10014002",
+"start_ref_usfm": "2SA 14:2",
+"end_ref": "10014002",
+"end_ref_usfm": "2SA 14:2"
+},
+{
+"start_ref": "01037034",
+"start_ref_usfm": "GEN 37:34",
+"end_ref": "01037034",
+"end_ref_usfm": "GEN 37:34"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003031",
+"end_ref_usfm": "2SA 3:31"
+},
+{
+"start_ref": "10021010",
+"start_ref_usfm": "2SA 21:10",
+"end_ref": "10021010",
+"end_ref_usfm": "2SA 21:10"
+},
+{
+"start_ref": "11020031",
+"start_ref_usfm": "1KI 20:31",
+"end_ref": "11020031",
+"end_ref_usfm": "1KI 20:31"
+},
+{
+"start_ref": "11020032",
+"start_ref_usfm": "1KI 20:32",
+"end_ref": "11020032",
+"end_ref_usfm": "1KI 20:32"
+},
+{
+"start_ref": "11021027",
+"start_ref_usfm": "1KI 21:27",
+"end_ref": "11021027",
+"end_ref_usfm": "1KI 21:27"
+},
+{
+"start_ref": "12006030",
+"start_ref_usfm": "2KI 6:30",
+"end_ref": "12006030",
+"end_ref_usfm": "2KI 6:30"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019001",
+"end_ref_usfm": "2KI 19:1"
+},
+{
+"start_ref": "12019002",
+"start_ref_usfm": "2KI 19:2",
+"end_ref": "12019002",
+"end_ref_usfm": "2KI 19:2"
+},
+{
+"start_ref": "13021016",
+"start_ref_usfm": "1CH 21:16",
+"end_ref": "13021016",
+"end_ref_usfm": "1CH 21:16"
+},
+{
+"start_ref": "16009001",
+"start_ref_usfm": "NEH 9:1",
+"end_ref": "16009001",
+"end_ref_usfm": "NEH 9:1"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004001",
+"end_ref_usfm": "EST 4:1"
+},
+{
+"start_ref": "17004002",
+"start_ref_usfm": "EST 4:2",
+"end_ref": "17004002",
+"end_ref_usfm": "EST 4:2"
+},
+{
+"start_ref": "17004003",
+"start_ref_usfm": "EST 4:3",
+"end_ref": "17004003",
+"end_ref_usfm": "EST 4:3"
+},
+{
+"start_ref": "17004004",
+"start_ref_usfm": "EST 4:4",
+"end_ref": "17004004",
+"end_ref_usfm": "EST 4:4"
+},
+{
+"start_ref": "18016015",
+"start_ref_usfm": "JOB 16:15",
+"end_ref": "18016015",
+"end_ref_usfm": "JOB 16:15"
+},
+{
+"start_ref": "19030012",
+"start_ref_usfm": "PSA 30:12",
+"end_ref": "19030012",
+"end_ref_usfm": "PSA 30:12"
+},
+{
+"start_ref": "19035013",
+"start_ref_usfm": "PSA 35:13",
+"end_ref": "19035013",
+"end_ref_usfm": "PSA 35:13"
+},
+{
+"start_ref": "19069012",
+"start_ref_usfm": "PSA 69:12",
+"end_ref": "19069012",
+"end_ref_usfm": "PSA 69:12"
+},
+{
+"start_ref": "23003024",
+"start_ref_usfm": "ISA 3:24",
+"end_ref": "23003024",
+"end_ref_usfm": "ISA 3:24"
+},
+{
+"start_ref": "23015003",
+"start_ref_usfm": "ISA 15:3",
+"end_ref": "23015003",
+"end_ref_usfm": "ISA 15:3"
+},
+{
+"start_ref": "23020002",
+"start_ref_usfm": "ISA 20:2",
+"end_ref": "23020002",
+"end_ref_usfm": "ISA 20:2"
+},
+{
+"start_ref": "23022012",
+"start_ref_usfm": "ISA 22:12",
+"end_ref": "23022012",
+"end_ref_usfm": "ISA 22:12"
+},
+{
+"start_ref": "23037001",
+"start_ref_usfm": "ISA 37:1",
+"end_ref": "23037001",
+"end_ref_usfm": "ISA 37:1"
+},
+{
+"start_ref": "23037002",
+"start_ref_usfm": "ISA 37:2",
+"end_ref": "23037002",
+"end_ref_usfm": "ISA 37:2"
+},
+{
+"start_ref": "23050003",
+"start_ref_usfm": "ISA 50:3",
+"end_ref": "23050003",
+"end_ref_usfm": "ISA 50:3"
+},
+{
+"start_ref": "23058005",
+"start_ref_usfm": "ISA 58:5",
+"end_ref": "23058005",
+"end_ref_usfm": "ISA 58:5"
+},
+{
+"start_ref": "24004008",
+"start_ref_usfm": "JER 4:8",
+"end_ref": "24004008",
+"end_ref_usfm": "JER 4:8"
+},
+{
+"start_ref": "24006026",
+"start_ref_usfm": "JER 6:26",
+"end_ref": "24006026",
+"end_ref_usfm": "JER 6:26"
+},
+{
+"start_ref": "24048037",
+"start_ref_usfm": "JER 48:37",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "24049003",
+"start_ref_usfm": "JER 49:3",
+"end_ref": "24049003",
+"end_ref_usfm": "JER 49:3"
+},
+{
+"start_ref": "25002010",
+"start_ref_usfm": "LAM 2:10",
+"end_ref": "25002010",
+"end_ref_usfm": "LAM 2:10"
+},
+{
+"start_ref": "26007018",
+"start_ref_usfm": "EZK 7:18",
+"end_ref": "26007018",
+"end_ref_usfm": "EZK 7:18"
+},
+{
+"start_ref": "26027031",
+"start_ref_usfm": "EZK 27:31",
+"end_ref": "26027031",
+"end_ref_usfm": "EZK 27:31"
+},
+{
+"start_ref": "27009003",
+"start_ref_usfm": "DAN 9:3",
+"end_ref": "27009003",
+"end_ref_usfm": "DAN 9:3"
+},
+{
+"start_ref": "29001008",
+"start_ref_usfm": "JOL 1:8",
+"end_ref": "29001008",
+"end_ref_usfm": "JOL 1:8"
+},
+{
+"start_ref": "29001013",
+"start_ref_usfm": "JOL 1:13",
+"end_ref": "29001013",
+"end_ref_usfm": "JOL 1:13"
+},
+{
+"start_ref": "30008010",
+"start_ref_usfm": "AMO 8:10",
+"end_ref": "30008010",
+"end_ref_usfm": "AMO 8:10"
+},
+{
+"start_ref": "32003005",
+"start_ref_usfm": "JON 3:5",
+"end_ref": "32003005",
+"end_ref_usfm": "JON 3:5"
+},
+{
+"start_ref": "32003006",
+"start_ref_usfm": "JON 3:6",
+"end_ref": "32003006",
+"end_ref_usfm": "JON 3:6"
+},
+{
+"start_ref": "32003008",
+"start_ref_usfm": "JON 3:8",
+"end_ref": "32003008",
+"end_ref_usfm": "JON 3:8"
+},
+{
+"start_ref": "40011021",
+"start_ref_usfm": "MAT 11:21",
+"end_ref": "40011021",
+"end_ref_usfm": "MAT 11:21"
+},
+{
+"start_ref": "42010013",
+"start_ref_usfm": "LUK 10:13",
+"end_ref": "42010013",
+"end_ref_usfm": "LUK 10:13"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "66011003",
+"start_ref_usfm": "REV 11:3",
+"end_ref": "66011003",
+"end_ref_usfm": "REV 11:3"
+},
+{
+"start_ref": "69004010",
+"start_ref_usfm": "JDT 4:10",
+"end_ref": "69004010",
+"end_ref_usfm": "JDT 4:10"
+},
+{
+"start_ref": "69004011",
+"start_ref_usfm": "JDT 4:11",
+"end_ref": "69004011",
+"end_ref_usfm": "JDT 4:11"
+},
+{
+"start_ref": "69004012",
+"start_ref_usfm": "JDT 4:12",
+"end_ref": "69004012",
+"end_ref_usfm": "JDT 4:12"
+},
+{
+"start_ref": "69004014",
+"start_ref_usfm": "JDT 4:14",
+"end_ref": "69004014",
+"end_ref_usfm": "JDT 4:14"
+},
+{
+"start_ref": "69008005",
+"start_ref_usfm": "JDT 8:5",
+"end_ref": "69008005",
+"end_ref_usfm": "JDT 8:5"
+},
+{
+"start_ref": "69009001",
+"start_ref_usfm": "JDT 9:1",
+"end_ref": "69009001",
+"end_ref_usfm": "JDT 9:1"
+},
+{
+"start_ref": "69010003",
+"start_ref_usfm": "JDT 10:3",
+"end_ref": "69010003",
+"end_ref_usfm": "JDT 10:3"
+},
+{
+"start_ref": "70004001",
+"start_ref_usfm": "ESG 4:1",
+"end_ref": "70004001",
+"end_ref_usfm": "ESG 4:1"
+},
+{
+"start_ref": "70004002",
+"start_ref_usfm": "ESG 4:2",
+"end_ref": "70004002",
+"end_ref_usfm": "ESG 4:2"
+},
+{
+"start_ref": "70004003",
+"start_ref_usfm": "ESG 4:3",
+"end_ref": "70004003",
+"end_ref_usfm": "ESG 4:3"
+},
+{
+"start_ref": "70004004",
+"start_ref_usfm": "ESG 4:4",
+"end_ref": "70004004",
+"end_ref_usfm": "ESG 4:4"
+},
+{
+"start_ref": "73004020",
+"start_ref_usfm": "BAR 4:20",
+"end_ref": "73004020",
+"end_ref_usfm": "BAR 4:20"
+},
+{
+"start_ref": "78002014",
+"start_ref_usfm": "1MA 2:14",
+"end_ref": "78002014",
+"end_ref_usfm": "1MA 2:14"
+},
+{
+"start_ref": "78003047",
+"start_ref_usfm": "1MA 3:47",
+"end_ref": "78003047",
+"end_ref_usfm": "1MA 3:47"
+},
+{
+"start_ref": "79003019",
+"start_ref_usfm": "2MA 3:19",
+"end_ref": "79003019",
+"end_ref_usfm": "2MA 3:19"
+},
+{
+"start_ref": "79010025",
+"start_ref_usfm": "2MA 10:25",
+"end_ref": "79010025",
+"end_ref_usfm": "2MA 10:25"
+},
+{
+"start_ref": "83016002",
+"start_ref_usfm": "2ES 16:2",
+"end_ref": "83016002",
+"end_ref_usfm": "2ES 16:2"
+}
+],
+"resource": []
+}
+}
+]

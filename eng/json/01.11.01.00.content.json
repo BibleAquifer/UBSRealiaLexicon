@@ -1,0 +1,390 @@
+[
+{
+"content_id": "REALIA:1.11.1",
+"reference_id": "REALIA:1.11.1",
+"version": "1.0.4",
+"title": "Smelting furnace, kiln",
+"media_type": "Text",
+"index_reference": "1.11.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.11.1\"><span class=\"thlex-key\">1.11.1</span> Smelting furnace, kiln</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">אַתּוּן</span> <span class=\"thlex-translit\">(’atun)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan3:6\">DAN 3:6</a>, <a href=\"https://ref.ly/Dan3:11\">DAN 3:11</a>, <a href=\"https://ref.ly/Dan3:15\">DAN 3:15</a>, <a href=\"https://ref.ly/Dan3:17\">DAN 3:17</a>, <a href=\"https://ref.ly/Dan3:19\">DAN 3:19</a>, <a href=\"https://ref.ly/Dan3:20\">DAN 3:20</a>, <a href=\"https://ref.ly/Dan3:21\">DAN 3:21</a>, <a href=\"https://ref.ly/Dan3:22\">DAN 3:22</a>, <a href=\"https://ref.ly/Dan3:23\">DAN 3:23</a>, <a href=\"https://ref.ly/Dan3:26\">DAN 3:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כִּבְשָׁן</span> <span class=\"thlex-translit\">(kivshan)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen19:28\">GEN 19:28</a>, <a href=\"https://ref.ly/Exod9:8\">EXO 9:8</a>, <a href=\"https://ref.ly/Exod9:10\">EXO 9:10</a>, <a href=\"https://ref.ly/Exod19:18\">EXO 19:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כּוּר</span> <span class=\"thlex-translit\">(kur)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut4:20\">DEU 4:20</a>, <a href=\"https://ref.ly/1Kgs8:51\">1KI 8:51</a>, <a href=\"https://ref.ly/Prov17:3\">PRO 17:3</a>, <a href=\"https://ref.ly/Prov27:21\">PRO 27:21</a>, <a href=\"https://ref.ly/Isa48:10\">ISA 48:10</a>, <a href=\"https://ref.ly/Jer11:4\">JER 11:4</a>, <a href=\"https://ref.ly/Ezek22:18\">EZK 22:18</a>, <a href=\"https://ref.ly/Ezek22:20\">EZK 22:20</a>, <a href=\"https://ref.ly/Ezek22:22\">EZK 22:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַצְרֵף</span> <span class=\"thlex-translit\">(matsref)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov17:3\">PRO 17:3</a>, <a href=\"https://ref.ly/Prov27:21\">PRO 27:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֲלִיל</span> <span class=\"thlex-translit\">(‘alil)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps12:7\">PSA 12:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κάμινος</span> <span class=\"thlex-translit\">(kaminos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt13:42\">MAT 13:42</a>, <a href=\"https://ref.ly/Matt13:50\">MAT 13:50</a>, <a href=\"https://ref.ly/Rev1:15\">REV 1:15</a>, <a href=\"https://ref.ly/Rev9:2\">REV 9:2</a>, <a href=\"https://ref.ly/Sir2:5\">SIR 2:5</a>, <a href=\"https://ref.ly/Sir22:24\">SIR 22:24</a>, <a href=\"https://ref.ly/Sir27:5\">SIR 27:5</a>, <a href=\"https://ref.ly/Sir31:26\">SIR 31:26</a>, <a href=\"https://ref.ly/Sir38:28\">SIR 38:28</a>, <a href=\"https://ref.ly/Sir38:30\">SIR 38:30</a>, <a href=\"https://ref.ly/Sir43:4\">SIR 43:4</a>, <a href=\"https://ref.ly/3Macc6:6\">3MA 6:6</a>, <a href=\"https://ref.ly/4Macc13:9\">4MA 13:9</a>, <a href=\"https://ref.ly/4Macc16:3\">4MA 16:3</a>, <a href=\"https://ref.ly/4Macc16:21\">4MA 16:21</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:6</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:11</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:15</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:17</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:19</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:20</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:21</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:22</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:23</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:46</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:47</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:48</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:49</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:49</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:50</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:51</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:88</a>, <a href=\"https://ref.ly/INVALID\">DAG 3:93</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">χωνευτήριον</span> <span class=\"thlex-translit\">(chōneutērion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis3:6\">WIS 3:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">fornax</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd4:48\">2ES 4:48</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">clibanus</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd7:36\">2ES 7:36</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0367_kiln.png\" alt=\"Cross section of a pottery kiln\"><figcaption class=\"thlex-caption\">Cross section of a pottery kiln (Encyclopaedia Biblica, 1903, Public domain, via Wikimedia Commons)</figcaption></figure>The kiln was a furnace used for the smelting of ore or the firing of ceramic ware. Such furnaces were made of hardened clay or of brick. They could vary considerably in size and shape. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.11 Oven&lt;REALIA:5.11&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0366_kiln.jpg\" alt=\"Reconstructed kiln in Revadim, Israel\"><figcaption class=\"thlex-caption\">Reconstructed kiln in Revadim, Israel (© Heritage Conservation Outside the City, Pikiwiki Israel, CC BY 2.5, via Wikimedia Commons)</figcaption></figure>Almost all metals exist in nature in combination with other minerals. To remove the other minerals requires chemical treatment combined with heating the ore to very high temperatures in kilns. Such heating chambers served also for firing bricks or pottery and for other purposes.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>When translating the word “furnace,” the emphasis should be upon the extreme heat, rather than upon the particular type of construction. However, if a particular word for “furnace” is chosen, it should be remembered that this furnace or oven was not made of metal but of brick or hardened clay.</p>\n<p>The Hebrew word <em>kur</em> is always used in metaphorical or symbolic language describing human sufferings. It will often be possible to portray the meaning of the metaphor without reference to the physical object; for example, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> renders <a href=\"https://ref.ly/Deut4:20\">DEU 4:20</a> as “But you are the LORD’s people, because he led you through fiery trials and rescued you from Egypt.”</p>\n<p>\n            <a href=\"https://ref.ly/Ps12:7\">PSA 12:7</a>: The Hebrew word <em>‘alil</em> occurs only here in the Old Testament, and its meaning is uncertain. It seems best to translate the obscure clause at the end of this verse in a general sense; for example, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “they are as genuine as silver refined seven times in the furnace,” and <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> says “like silver refined in a furnace of clay, purified seven times.” “Seven times” means “many times,” that is, as many times as needed to get rid of all the impurities.</p>\n<p>\n            <a href=\"https://ref.ly/Prov17:3\">PRO 17:3</a>; <a href=\"https://ref.ly/Prov27:21\">PRO 27:21</a>: Two instruments for heating and refining metals are mentioned in these verses: the <em>matsref</em> and the <em>kur</em>. If separate words exist in a language for these two instruments (for example, “crucible” and “furnace”), these may be used. Many translations combine the two words; for example, in <a href=\"https://ref.ly/Prov17:3\">PRO 17:3</a> a <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “Gold and silver are tested by fire,” and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> has “A hot furnace tests silver and gold.”</p>\n<p>\n            <a href=\"https://ref.ly/Dan3:0\">DAN 3:0</a>: The furnace described here probably had an opening at the top and another at ground level. It was clearly large enough for men to stand and even walk around in. The word for “furnace” here should also be used in <a href=\"https://ref.ly/INVALID\">DAG 3:23–DAG 3:28</a> and <a href=\"https://ref.ly/INVALID\">DAG 3:66</a>.</p>\n<p>In <a href=\"https://ref.ly/Matt13:42\">MAT 13:42</a>; <a href=\"https://ref.ly/Matt13:50\">MAT 13:50</a> the Greek word <em>kaminos</em> is used figuratively of hell. Alternative renderings for the literal phrase “the furnace of fire” are “the fires of hell” and “hell, which is like a great fire.” Another possibility is simply “the great fire.” Similarly, the Latin word <em>clibanus</em> is used metaphorically in <a href=\"https://ref.ly/2Esd7:36\">2ES 7:36</a> for the heat of hell.</p>\n<p>The difference between this entry and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.11 Oven&lt;REALIA:5.11&gt;</a> is primarily one of size rather than of basic design. Ovens, of course, could be put to many uses. Where a language does not have a variety of words, such as “oven,” “furnace” and “kiln” in English, a single word will normally suffice. In that case, it will sometimes be necessary to indicate the relative size of the oven according to the context. An oven in which bread was baked may be rendered “small oven,” while the one into which several people were thrown will be a “very large oven.”</p>\n<p>The fuel burned in ancient ovens was wood, the leftover flesh of pressed olives, or dried animal dung. Translators should avoid a word for “oven” that indicates a device that runs on electricity or uses a refined fuel like oil or kerosene.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27003006",
+"start_ref_usfm": "DAN 3:6",
+"end_ref": "27003006",
+"end_ref_usfm": "DAN 3:6"
+},
+{
+"start_ref": "27003011",
+"start_ref_usfm": "DAN 3:11",
+"end_ref": "27003011",
+"end_ref_usfm": "DAN 3:11"
+},
+{
+"start_ref": "27003015",
+"start_ref_usfm": "DAN 3:15",
+"end_ref": "27003015",
+"end_ref_usfm": "DAN 3:15"
+},
+{
+"start_ref": "27003017",
+"start_ref_usfm": "DAN 3:17",
+"end_ref": "27003017",
+"end_ref_usfm": "DAN 3:17"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003019",
+"end_ref_usfm": "DAN 3:19"
+},
+{
+"start_ref": "27003020",
+"start_ref_usfm": "DAN 3:20",
+"end_ref": "27003020",
+"end_ref_usfm": "DAN 3:20"
+},
+{
+"start_ref": "27003021",
+"start_ref_usfm": "DAN 3:21",
+"end_ref": "27003021",
+"end_ref_usfm": "DAN 3:21"
+},
+{
+"start_ref": "27003022",
+"start_ref_usfm": "DAN 3:22",
+"end_ref": "27003022",
+"end_ref_usfm": "DAN 3:22"
+},
+{
+"start_ref": "27003023",
+"start_ref_usfm": "DAN 3:23",
+"end_ref": "27003023",
+"end_ref_usfm": "DAN 3:23"
+},
+{
+"start_ref": "27003026",
+"start_ref_usfm": "DAN 3:26",
+"end_ref": "27003026",
+"end_ref_usfm": "DAN 3:26"
+},
+{
+"start_ref": "01019028",
+"start_ref_usfm": "GEN 19:28",
+"end_ref": "01019028",
+"end_ref_usfm": "GEN 19:28"
+},
+{
+"start_ref": "02009008",
+"start_ref_usfm": "EXO 9:8",
+"end_ref": "02009008",
+"end_ref_usfm": "EXO 9:8"
+},
+{
+"start_ref": "02009010",
+"start_ref_usfm": "EXO 9:10",
+"end_ref": "02009010",
+"end_ref_usfm": "EXO 9:10"
+},
+{
+"start_ref": "02019018",
+"start_ref_usfm": "EXO 19:18",
+"end_ref": "02019018",
+"end_ref_usfm": "EXO 19:18"
+},
+{
+"start_ref": "05004020",
+"start_ref_usfm": "DEU 4:20",
+"end_ref": "05004020",
+"end_ref_usfm": "DEU 4:20"
+},
+{
+"start_ref": "11008051",
+"start_ref_usfm": "1KI 8:51",
+"end_ref": "11008051",
+"end_ref_usfm": "1KI 8:51"
+},
+{
+"start_ref": "20017003",
+"start_ref_usfm": "PRO 17:3",
+"end_ref": "20017003",
+"end_ref_usfm": "PRO 17:3"
+},
+{
+"start_ref": "20027021",
+"start_ref_usfm": "PRO 27:21",
+"end_ref": "20027021",
+"end_ref_usfm": "PRO 27:21"
+},
+{
+"start_ref": "23048010",
+"start_ref_usfm": "ISA 48:10",
+"end_ref": "23048010",
+"end_ref_usfm": "ISA 48:10"
+},
+{
+"start_ref": "24011004",
+"start_ref_usfm": "JER 11:4",
+"end_ref": "24011004",
+"end_ref_usfm": "JER 11:4"
+},
+{
+"start_ref": "26022018",
+"start_ref_usfm": "EZK 22:18",
+"end_ref": "26022018",
+"end_ref_usfm": "EZK 22:18"
+},
+{
+"start_ref": "26022020",
+"start_ref_usfm": "EZK 22:20",
+"end_ref": "26022020",
+"end_ref_usfm": "EZK 22:20"
+},
+{
+"start_ref": "26022022",
+"start_ref_usfm": "EZK 22:22",
+"end_ref": "26022022",
+"end_ref_usfm": "EZK 22:22"
+},
+{
+"start_ref": "19012007",
+"start_ref_usfm": "PSA 12:7",
+"end_ref": "19012007",
+"end_ref_usfm": "PSA 12:7"
+},
+{
+"start_ref": "40013042",
+"start_ref_usfm": "MAT 13:42",
+"end_ref": "40013042",
+"end_ref_usfm": "MAT 13:42"
+},
+{
+"start_ref": "40013050",
+"start_ref_usfm": "MAT 13:50",
+"end_ref": "40013050",
+"end_ref_usfm": "MAT 13:50"
+},
+{
+"start_ref": "66001015",
+"start_ref_usfm": "REV 1:15",
+"end_ref": "66001015",
+"end_ref_usfm": "REV 1:15"
+},
+{
+"start_ref": "66009002",
+"start_ref_usfm": "REV 9:2",
+"end_ref": "66009002",
+"end_ref_usfm": "REV 9:2"
+},
+{
+"start_ref": "72002005",
+"start_ref_usfm": "SIR 2:5",
+"end_ref": "72002005",
+"end_ref_usfm": "SIR 2:5"
+},
+{
+"start_ref": "72022024",
+"start_ref_usfm": "SIR 22:24",
+"end_ref": "72022024",
+"end_ref_usfm": "SIR 22:24"
+},
+{
+"start_ref": "72027005",
+"start_ref_usfm": "SIR 27:5",
+"end_ref": "72027005",
+"end_ref_usfm": "SIR 27:5"
+},
+{
+"start_ref": "72031026",
+"start_ref_usfm": "SIR 31:26",
+"end_ref": "72031026",
+"end_ref_usfm": "SIR 31:26"
+},
+{
+"start_ref": "72038028",
+"start_ref_usfm": "SIR 38:28",
+"end_ref": "72038028",
+"end_ref_usfm": "SIR 38:28"
+},
+{
+"start_ref": "72038030",
+"start_ref_usfm": "SIR 38:30",
+"end_ref": "72038030",
+"end_ref_usfm": "SIR 38:30"
+},
+{
+"start_ref": "72043004",
+"start_ref_usfm": "SIR 43:4",
+"end_ref": "72043004",
+"end_ref_usfm": "SIR 43:4"
+},
+{
+"start_ref": "80006006",
+"start_ref_usfm": "3MA 6:6",
+"end_ref": "80006006",
+"end_ref_usfm": "3MA 6:6"
+},
+{
+"start_ref": "81013009",
+"start_ref_usfm": "4MA 13:9",
+"end_ref": "81013009",
+"end_ref_usfm": "4MA 13:9"
+},
+{
+"start_ref": "81016003",
+"start_ref_usfm": "4MA 16:3",
+"end_ref": "81016003",
+"end_ref_usfm": "4MA 16:3"
+},
+{
+"start_ref": "81016021",
+"start_ref_usfm": "4MA 16:21",
+"end_ref": "81016021",
+"end_ref_usfm": "4MA 16:21"
+},
+{
+"start_ref": "B2003006",
+"start_ref_usfm": "DAG 3:6",
+"end_ref": "B2003006",
+"end_ref_usfm": "DAG 3:6"
+},
+{
+"start_ref": "B2003011",
+"start_ref_usfm": "DAG 3:11",
+"end_ref": "B2003011",
+"end_ref_usfm": "DAG 3:11"
+},
+{
+"start_ref": "B2003015",
+"start_ref_usfm": "DAG 3:15",
+"end_ref": "B2003015",
+"end_ref_usfm": "DAG 3:15"
+},
+{
+"start_ref": "B2003017",
+"start_ref_usfm": "DAG 3:17",
+"end_ref": "B2003017",
+"end_ref_usfm": "DAG 3:17"
+},
+{
+"start_ref": "B2003019",
+"start_ref_usfm": "DAG 3:19",
+"end_ref": "B2003019",
+"end_ref_usfm": "DAG 3:19"
+},
+{
+"start_ref": "B2003020",
+"start_ref_usfm": "DAG 3:20",
+"end_ref": "B2003020",
+"end_ref_usfm": "DAG 3:20"
+},
+{
+"start_ref": "B2003021",
+"start_ref_usfm": "DAG 3:21",
+"end_ref": "B2003021",
+"end_ref_usfm": "DAG 3:21"
+},
+{
+"start_ref": "B2003022",
+"start_ref_usfm": "DAG 3:22",
+"end_ref": "B2003022",
+"end_ref_usfm": "DAG 3:22"
+},
+{
+"start_ref": "B2003023",
+"start_ref_usfm": "DAG 3:23",
+"end_ref": "B2003023",
+"end_ref_usfm": "DAG 3:23"
+},
+{
+"start_ref": "B2003046",
+"start_ref_usfm": "DAG 3:46",
+"end_ref": "B2003046",
+"end_ref_usfm": "DAG 3:46"
+},
+{
+"start_ref": "B2003047",
+"start_ref_usfm": "DAG 3:47",
+"end_ref": "B2003047",
+"end_ref_usfm": "DAG 3:47"
+},
+{
+"start_ref": "B2003048",
+"start_ref_usfm": "DAG 3:48",
+"end_ref": "B2003048",
+"end_ref_usfm": "DAG 3:48"
+},
+{
+"start_ref": "B2003049",
+"start_ref_usfm": "DAG 3:49",
+"end_ref": "B2003049",
+"end_ref_usfm": "DAG 3:49"
+},
+{
+"start_ref": "B2003050",
+"start_ref_usfm": "DAG 3:50",
+"end_ref": "B2003050",
+"end_ref_usfm": "DAG 3:50"
+},
+{
+"start_ref": "B2003051",
+"start_ref_usfm": "DAG 3:51",
+"end_ref": "B2003051",
+"end_ref_usfm": "DAG 3:51"
+},
+{
+"start_ref": "B2003088",
+"start_ref_usfm": "DAG 3:88",
+"end_ref": "B2003088",
+"end_ref_usfm": "DAG 3:88"
+},
+{
+"start_ref": "B2003093",
+"start_ref_usfm": "DAG 3:93",
+"end_ref": "B2003093",
+"end_ref_usfm": "DAG 3:93"
+},
+{
+"start_ref": "71003006",
+"start_ref_usfm": "WIS 3:6",
+"end_ref": "71003006",
+"end_ref_usfm": "WIS 3:6"
+},
+{
+"start_ref": "83004048",
+"start_ref_usfm": "2ES 4:48",
+"end_ref": "83004048",
+"end_ref_usfm": "2ES 4:48"
+},
+{
+"start_ref": "83007036",
+"start_ref_usfm": "2ES 7:36",
+"end_ref": "83007036",
+"end_ref_usfm": "2ES 7:36"
+},
+{
+"start_ref": "27003000",
+"start_ref_usfm": "DAN 3:0",
+"end_ref": "27003000",
+"end_ref_usfm": "DAN 3:0"
+},
+{
+"start_ref": "B2003028",
+"start_ref_usfm": "DAG 3:28",
+"end_ref": "B2003028",
+"end_ref_usfm": "DAG 3:28"
+},
+{
+"start_ref": "B2003066",
+"start_ref_usfm": "DAG 3:66",
+"end_ref": "B2003066",
+"end_ref_usfm": "DAG 3:66"
+}
+],
+"resource": []
+}
+}
+]

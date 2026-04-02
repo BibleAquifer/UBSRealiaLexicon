@@ -1,0 +1,48 @@
+[
+{
+"content_id": "REALIA:11.4.1.3",
+"reference_id": "REALIA:11.4.1.3",
+"version": "1.0.4",
+"title": "Span",
+"media_type": "Text",
+"index_reference": "11.4.1.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.4.1.3\"><span class=\"thlex-key\">11.4.1.3</span> Span</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">זֶרֶת</span> <span class=\"thlex-translit\">(zereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:16\">EXO 28:16</a>, <a href=\"https://ref.ly/Exod28:16\">EXO 28:16</a>, <a href=\"https://ref.ly/Exod39:9\">EXO 39:9</a>, <a href=\"https://ref.ly/Exod39:9\">EXO 39:9</a>, <a href=\"https://ref.ly/1Sam17:4\">1SA 17:4</a>, <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">With the fingers spread, the <em>zereth</em> is the distance from the tip of the thumb to the tip of the little finger.</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a>: The picture here is of a person stretching out his fingers and using the distance between his thumb and little finger to measure the extent of the sky. For the second clause in this verse, <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> has “Who can … determine the extent of the sky with the span of his hand.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02028016",
+"start_ref_usfm": "EXO 28:16",
+"end_ref": "02028016",
+"end_ref_usfm": "EXO 28:16"
+},
+{
+"start_ref": "02039009",
+"start_ref_usfm": "EXO 39:9",
+"end_ref": "02039009",
+"end_ref_usfm": "EXO 39:9"
+},
+{
+"start_ref": "09017004",
+"start_ref_usfm": "1SA 17:4",
+"end_ref": "09017004",
+"end_ref_usfm": "1SA 17:4"
+},
+{
+"start_ref": "23040012",
+"start_ref_usfm": "ISA 40:12",
+"end_ref": "23040012",
+"end_ref_usfm": "ISA 40:12"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+}
+],
+"resource": []
+}
+}
+]

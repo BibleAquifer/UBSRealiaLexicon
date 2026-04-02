@@ -1,0 +1,36 @@
+[
+{
+"content_id": "REALIA:1.5.3.9",
+"reference_id": "REALIA:1.5.3.9",
+"version": "1.0.4",
+"title": "Silk",
+"media_type": "Text",
+"index_reference": "1.5.3.9",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.5.3.9\"><span class=\"thlex-key\">1.5.3.9</span> Silk</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מֶשִׁי</span> <span class=\"thlex-translit\">(meshi)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σιρικόν</span> <span class=\"thlex-translit\">(sirikon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Rev18:12\">REV 18:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Silk was a fine, expensive cloth made from the fiber produced by the silkworm in making its cocoon.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Translations and commentaries vary on the translation of the Hebrew word <em>meshi</em> in <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>. The traditional translation has been “silk,” which is still followed by many versions (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>). Others consider this to be unlikely in the time of Ezekiel, when silk was not yet known in the Middle East. It has been suggested that the word indicates a kind of veil worn by the woman, hiding her face from others but allowing her to see out. Translations that reject “silk” as the proper translation usually find a more general term. Compare <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “most expensive robes,” <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> “rich fabric,” <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> “a beautiful, woven robe,” <abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> “expensive cloth,” and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> “fine linen.”</p>\n<p>In the first-century A.D. setting of <a href=\"https://ref.ly/Rev18:12\">REV 18:12</a>, it is quite possible to speak of proper silk. However, it cannot be determined from the context of this verse whether the Greek word <em>sirikos</em> refers simply to cloth or to garments made of silk.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "26016010",
+"start_ref_usfm": "EZK 16:10",
+"end_ref": "26016010",
+"end_ref_usfm": "EZK 16:10"
+},
+{
+"start_ref": "26016013",
+"start_ref_usfm": "EZK 16:13",
+"end_ref": "26016013",
+"end_ref_usfm": "EZK 16:13"
+},
+{
+"start_ref": "66018012",
+"start_ref_usfm": "REV 18:12",
+"end_ref": "66018012",
+"end_ref_usfm": "REV 18:12"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,36 @@
+[
+{
+"content_id": "REALIA:11.3.2.2",
+"reference_id": "REALIA:11.3.2.2",
+"version": "1.0.4",
+"title": "标题：罢特、歌珥（bath, kor）",
+"media_type": "Text",
+"index_reference": "11.3.2.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.2.2\"><span class=\"thlex-key\">11.3.2.2</span> 标题：罢特、歌珥（bath, kor）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：βάτος</span> <span class=\"thlex-translit\">(音译：batos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke16:6\">LUK 16:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κόρος</span> <span class=\"thlex-translit\">(音译：koros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke16:7\">LUK 16:7</a>, <a href=\"https://ref.ly/1Esd8:20\">1ES 8:20</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Luke16:6\">LUK 16:6</a>; <a href=\"https://ref.ly/Luke16:7\">LUK 16:7</a> ：这个比喻的要点是管家把账上的数目写少了，<em>batos</em> （等于旧约的罢特）和<em>koros</em> （等于旧约的歌珥）的确切数量不是核心，不过这里的数目的确很大。<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 把这两个词语简单地译成“measures”（“量器”），足以表达经文的意思。《〈路加福音〉手册》（<em>A Handbook on The Gospel of Luke</em> ，第561页）建议：“翻译者可以调整‘一百’和‘五十’的译法，使总数与原文一致。”这样累赘的处理似乎没有必要。（另参劳和奈达［Louw &amp; Nida］的注解，他们认为保留这里可能具有象征意义的数值非常重要。）通俗译本经常采用容器名称而不是具体的体积数来翻译。因此，<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 、<abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr> 、<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 译为“barrels of [olive] oil”（“桶［橄榄］油”）和“sacks of grain”（“袋麦子”）。在许多情况下，这是最好的译法。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42016006",
+"start_ref_usfm": "LUK 16:6",
+"end_ref": "42016006",
+"end_ref_usfm": "LUK 16:6"
+},
+{
+"start_ref": "42016007",
+"start_ref_usfm": "LUK 16:7",
+"end_ref": "42016007",
+"end_ref_usfm": "LUK 16:7"
+},
+{
+"start_ref": "82008020",
+"start_ref_usfm": "1ES 8:20",
+"end_ref": "82008020",
+"end_ref_usfm": "1ES 8:20"
+}
+],
+"resource": []
+}
+}
+]

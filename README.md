@@ -1,10 +1,10 @@
-# `UBSRealiaLexicon` Aquifer Resource
+# _Human-made Things in the Bible_ Aquifer Resource
 
-This repository contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
+This repository (`UBSRealiaLexicon`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
 ## License
 
-This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+Human\-made Things in the Bible © United Bible Societies, 2025\. Adapted from: *The Works of Their Hands: Man\-made Things in the Bible*, by Ray Pritz © 2009 United Bible Societies. This work is licensed under Creative Commons Attribution\-ShareAlike 4\.0 International ([https://creativecommons.org/licenses/by\-sa/4\.0/](https://creativecommons.org/licenses/by-sa/4.0/)).
 
 ## Structure
 

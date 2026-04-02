@@ -1,0 +1,324 @@
+[
+{
+"content_id": "REALIA:3.14.1.1",
+"reference_id": "REALIA:3.14.1.1",
+"version": "1.0.4",
+"title": "标题：门厅、门廊（entrance room, entrance hall）",
+"media_type": "Text",
+"index_reference": "3.14.1.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.14.1.1\"><span class=\"thlex-key\">3.14.1.1</span> 标题：门厅、门廊（entrance room, entrance hall）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֵילָם, אוּלָם</span> <span class=\"thlex-translit\">(音译：’eylam, ’elam, ’ulam)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:3\">1KI 6:3</a>, <a href=\"https://ref.ly/1Kgs7:6\">1KI 7:6</a>, <a href=\"https://ref.ly/1Kgs7:6\">1KI 7:6</a>, <a href=\"https://ref.ly/1Kgs7:7\">1KI 7:7</a>, <a href=\"https://ref.ly/1Kgs7:7\">1KI 7:7</a>, <a href=\"https://ref.ly/1Kgs7:8\">1KI 7:8</a>, <a href=\"https://ref.ly/1Kgs7:8\">1KI 7:8</a>, <a href=\"https://ref.ly/1Kgs7:12\">1KI 7:12</a>, <a href=\"https://ref.ly/1Kgs7:19\">1KI 7:19</a>, <a href=\"https://ref.ly/1Kgs7:21\">1KI 7:21</a>, <a href=\"https://ref.ly/1Chr28:11\">1CH 28:11</a>, <a href=\"https://ref.ly/2Chr3:4\">2CH 3:4</a>, <a href=\"https://ref.ly/2Chr8:12\">2CH 8:12</a>, <a href=\"https://ref.ly/2Chr15:8\">2CH 15:8</a>, <a href=\"https://ref.ly/2Chr29:7\">2CH 29:7</a>, <a href=\"https://ref.ly/2Chr29:17\">2CH 29:17</a>, <a href=\"https://ref.ly/Ezek8:16\">EZK 8:16</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>, <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:15\">EZK 40:15</a>, <a href=\"https://ref.ly/Ezek40:16\">EZK 40:16</a>, <a href=\"https://ref.ly/Ezek40:21\">EZK 40:21</a>, <a href=\"https://ref.ly/Ezek40:21\">EZK 40:21</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:24\">EZK 40:24</a>, <a href=\"https://ref.ly/Ezek40:24\">EZK 40:24</a>, <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>, <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>, <a href=\"https://ref.ly/Ezek40:26\">EZK 40:26</a>, <a href=\"https://ref.ly/Ezek40:26\">EZK 40:26</a>, <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>, <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>, <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>, <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>, <a href=\"https://ref.ly/Ezek40:30\">EZK 40:30</a>, <a href=\"https://ref.ly/Ezek40:31\">EZK 40:31</a>, <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>, <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>, <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>, <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>, <a href=\"https://ref.ly/Ezek40:34\">EZK 40:34</a>, <a href=\"https://ref.ly/Ezek40:34\">EZK 40:34</a>, <a href=\"https://ref.ly/Ezek40:36\">EZK 40:36</a>, <a href=\"https://ref.ly/Ezek40:36\">EZK 40:36</a>, <a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>, <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>, <a href=\"https://ref.ly/Ezek40:48\">EZK 40:48</a>, <a href=\"https://ref.ly/Ezek40:48\">EZK 40:48</a>, <a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a>, <a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>, <a href=\"https://ref.ly/Ezek41:25\">EZK 41:25</a>, <a href=\"https://ref.ly/Ezek41:26\">EZK 41:26</a>, <a href=\"https://ref.ly/Ezek44:3\">EZK 44:3</a>, <a href=\"https://ref.ly/Ezek46:2\">EZK 46:2</a>, <a href=\"https://ref.ly/Ezek46:8\">EZK 46:8</a>, <a href=\"https://ref.ly/Joel2:17\">JOL 2:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִסְדְּרוֹן</span> <span class=\"thlex-translit\">(音译：misdron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg3:23\">JDG 3:23</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>门厅是从大型建筑的入口延伸出来的某种前厅。圣殿的门厅比殿的其余部分要高，可能没有屋顶。虽然圣经文本认为它是圣所内部空间的一部分，但它可能就像是个前院，是从外院过渡到建筑物内部的构筑物。上面列出的几节经文并不是指圣殿的门厅。<a href=\"https://ref.ly/Judg3:23\">JDG 3:23</a> 和<a href=\"https://ref.ly/1Kgs7:6\">1KI 7:6</a>; <a href=\"https://ref.ly/1Kgs7:7\">1KI 7:7</a>; <a href=\"https://ref.ly/1Kgs7:8\">1KI 7:8</a> 指的是王宫的门厅，而《以西结书》中的一些经文（<a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>; <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>; <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:15\">EZK 40:15</a>; <a href=\"https://ref.ly/Ezek40:16\">EZK 40:16</a>; <a href=\"https://ref.ly/Ezek40:17\">EZK 40:17</a>; <a href=\"https://ref.ly/Ezek40:18\">EZK 40:18</a>; <a href=\"https://ref.ly/Ezek40:19\">EZK 40:19</a>; <a href=\"https://ref.ly/Ezek40:20\">EZK 40:20</a>; <a href=\"https://ref.ly/Ezek40:21\">EZK 40:21</a>; <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>; <a href=\"https://ref.ly/Ezek40:23\">EZK 40:23</a>; <a href=\"https://ref.ly/Ezek40:24\">EZK 40:24</a>; <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>; <a href=\"https://ref.ly/Ezek40:26\">EZK 40:26</a>; <a href=\"https://ref.ly/Ezek40:27\">EZK 40:27</a>; <a href=\"https://ref.ly/Ezek40:28\">EZK 40:28</a>; <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>; <a href=\"https://ref.ly/Ezek40:30\">EZK 40:30</a>; <a href=\"https://ref.ly/Ezek40:31\">EZK 40:31</a>; <a href=\"https://ref.ly/Ezek40:32\">EZK 40:32</a>; <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>; <a href=\"https://ref.ly/Ezek40:34\">EZK 40:34</a>; <a href=\"https://ref.ly/Ezek40:35\">EZK 40:35</a>; <a href=\"https://ref.ly/Ezek40:36\">EZK 40:36</a> ，<a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>; <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a> ，<a href=\"https://ref.ly/Ezek46:2\">EZK 46:2</a> ，<a href=\"https://ref.ly/Ezek46:8\">EZK 46:8</a> ）指的是殿门的门厅。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在许多语言中，希伯来文<em>’ulam</em> 唯一的近似对等词可能是房屋入口里面的小厅。但是，这可能会引起误解，因为这个希伯来文词语指的是一个非常大的厅，甚至比主建筑还要宽。翻译者可能要增加一个表示大小的修饰词，如“很大的门厅”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006003",
+"start_ref_usfm": "1KI 6:3",
+"end_ref": "11006003",
+"end_ref_usfm": "1KI 6:3"
+},
+{
+"start_ref": "11007006",
+"start_ref_usfm": "1KI 7:6",
+"end_ref": "11007006",
+"end_ref_usfm": "1KI 7:6"
+},
+{
+"start_ref": "11007007",
+"start_ref_usfm": "1KI 7:7",
+"end_ref": "11007007",
+"end_ref_usfm": "1KI 7:7"
+},
+{
+"start_ref": "11007008",
+"start_ref_usfm": "1KI 7:8",
+"end_ref": "11007008",
+"end_ref_usfm": "1KI 7:8"
+},
+{
+"start_ref": "11007012",
+"start_ref_usfm": "1KI 7:12",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "11007019",
+"start_ref_usfm": "1KI 7:19",
+"end_ref": "11007019",
+"end_ref_usfm": "1KI 7:19"
+},
+{
+"start_ref": "11007021",
+"start_ref_usfm": "1KI 7:21",
+"end_ref": "11007021",
+"end_ref_usfm": "1KI 7:21"
+},
+{
+"start_ref": "13028011",
+"start_ref_usfm": "1CH 28:11",
+"end_ref": "13028011",
+"end_ref_usfm": "1CH 28:11"
+},
+{
+"start_ref": "14003004",
+"start_ref_usfm": "2CH 3:4",
+"end_ref": "14003004",
+"end_ref_usfm": "2CH 3:4"
+},
+{
+"start_ref": "14008012",
+"start_ref_usfm": "2CH 8:12",
+"end_ref": "14008012",
+"end_ref_usfm": "2CH 8:12"
+},
+{
+"start_ref": "14015008",
+"start_ref_usfm": "2CH 15:8",
+"end_ref": "14015008",
+"end_ref_usfm": "2CH 15:8"
+},
+{
+"start_ref": "14029007",
+"start_ref_usfm": "2CH 29:7",
+"end_ref": "14029007",
+"end_ref_usfm": "2CH 29:7"
+},
+{
+"start_ref": "14029017",
+"start_ref_usfm": "2CH 29:17",
+"end_ref": "14029017",
+"end_ref_usfm": "2CH 29:17"
+},
+{
+"start_ref": "26008016",
+"start_ref_usfm": "EZK 8:16",
+"end_ref": "26008016",
+"end_ref_usfm": "EZK 8:16"
+},
+{
+"start_ref": "26040007",
+"start_ref_usfm": "EZK 40:7",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "26040008",
+"start_ref_usfm": "EZK 40:8",
+"end_ref": "26040008",
+"end_ref_usfm": "EZK 40:8"
+},
+{
+"start_ref": "26040009",
+"start_ref_usfm": "EZK 40:9",
+"end_ref": "26040009",
+"end_ref_usfm": "EZK 40:9"
+},
+{
+"start_ref": "26040015",
+"start_ref_usfm": "EZK 40:15",
+"end_ref": "26040015",
+"end_ref_usfm": "EZK 40:15"
+},
+{
+"start_ref": "26040016",
+"start_ref_usfm": "EZK 40:16",
+"end_ref": "26040016",
+"end_ref_usfm": "EZK 40:16"
+},
+{
+"start_ref": "26040021",
+"start_ref_usfm": "EZK 40:21",
+"end_ref": "26040021",
+"end_ref_usfm": "EZK 40:21"
+},
+{
+"start_ref": "26040022",
+"start_ref_usfm": "EZK 40:22",
+"end_ref": "26040022",
+"end_ref_usfm": "EZK 40:22"
+},
+{
+"start_ref": "26040024",
+"start_ref_usfm": "EZK 40:24",
+"end_ref": "26040024",
+"end_ref_usfm": "EZK 40:24"
+},
+{
+"start_ref": "26040025",
+"start_ref_usfm": "EZK 40:25",
+"end_ref": "26040025",
+"end_ref_usfm": "EZK 40:25"
+},
+{
+"start_ref": "26040026",
+"start_ref_usfm": "EZK 40:26",
+"end_ref": "26040026",
+"end_ref_usfm": "EZK 40:26"
+},
+{
+"start_ref": "26040029",
+"start_ref_usfm": "EZK 40:29",
+"end_ref": "26040029",
+"end_ref_usfm": "EZK 40:29"
+},
+{
+"start_ref": "26040030",
+"start_ref_usfm": "EZK 40:30",
+"end_ref": "26040030",
+"end_ref_usfm": "EZK 40:30"
+},
+{
+"start_ref": "26040031",
+"start_ref_usfm": "EZK 40:31",
+"end_ref": "26040031",
+"end_ref_usfm": "EZK 40:31"
+},
+{
+"start_ref": "26040033",
+"start_ref_usfm": "EZK 40:33",
+"end_ref": "26040033",
+"end_ref_usfm": "EZK 40:33"
+},
+{
+"start_ref": "26040034",
+"start_ref_usfm": "EZK 40:34",
+"end_ref": "26040034",
+"end_ref_usfm": "EZK 40:34"
+},
+{
+"start_ref": "26040036",
+"start_ref_usfm": "EZK 40:36",
+"end_ref": "26040036",
+"end_ref_usfm": "EZK 40:36"
+},
+{
+"start_ref": "26040039",
+"start_ref_usfm": "EZK 40:39",
+"end_ref": "26040039",
+"end_ref_usfm": "EZK 40:39"
+},
+{
+"start_ref": "26040040",
+"start_ref_usfm": "EZK 40:40",
+"end_ref": "26040040",
+"end_ref_usfm": "EZK 40:40"
+},
+{
+"start_ref": "26040048",
+"start_ref_usfm": "EZK 40:48",
+"end_ref": "26040048",
+"end_ref_usfm": "EZK 40:48"
+},
+{
+"start_ref": "26040049",
+"start_ref_usfm": "EZK 40:49",
+"end_ref": "26040049",
+"end_ref_usfm": "EZK 40:49"
+},
+{
+"start_ref": "26041015",
+"start_ref_usfm": "EZK 41:15",
+"end_ref": "26041015",
+"end_ref_usfm": "EZK 41:15"
+},
+{
+"start_ref": "26041025",
+"start_ref_usfm": "EZK 41:25",
+"end_ref": "26041025",
+"end_ref_usfm": "EZK 41:25"
+},
+{
+"start_ref": "26041026",
+"start_ref_usfm": "EZK 41:26",
+"end_ref": "26041026",
+"end_ref_usfm": "EZK 41:26"
+},
+{
+"start_ref": "26044003",
+"start_ref_usfm": "EZK 44:3",
+"end_ref": "26044003",
+"end_ref_usfm": "EZK 44:3"
+},
+{
+"start_ref": "26046002",
+"start_ref_usfm": "EZK 46:2",
+"end_ref": "26046002",
+"end_ref_usfm": "EZK 46:2"
+},
+{
+"start_ref": "26046008",
+"start_ref_usfm": "EZK 46:8",
+"end_ref": "26046008",
+"end_ref_usfm": "EZK 46:8"
+},
+{
+"start_ref": "29002017",
+"start_ref_usfm": "JOL 2:17",
+"end_ref": "29002017",
+"end_ref_usfm": "JOL 2:17"
+},
+{
+"start_ref": "07003023",
+"start_ref_usfm": "JDG 3:23",
+"end_ref": "07003023",
+"end_ref_usfm": "JDG 3:23"
+},
+{
+"start_ref": "26040017",
+"start_ref_usfm": "EZK 40:17",
+"end_ref": "26040017",
+"end_ref_usfm": "EZK 40:17"
+},
+{
+"start_ref": "26040018",
+"start_ref_usfm": "EZK 40:18",
+"end_ref": "26040018",
+"end_ref_usfm": "EZK 40:18"
+},
+{
+"start_ref": "26040019",
+"start_ref_usfm": "EZK 40:19",
+"end_ref": "26040019",
+"end_ref_usfm": "EZK 40:19"
+},
+{
+"start_ref": "26040020",
+"start_ref_usfm": "EZK 40:20",
+"end_ref": "26040020",
+"end_ref_usfm": "EZK 40:20"
+},
+{
+"start_ref": "26040023",
+"start_ref_usfm": "EZK 40:23",
+"end_ref": "26040023",
+"end_ref_usfm": "EZK 40:23"
+},
+{
+"start_ref": "26040027",
+"start_ref_usfm": "EZK 40:27",
+"end_ref": "26040027",
+"end_ref_usfm": "EZK 40:27"
+},
+{
+"start_ref": "26040028",
+"start_ref_usfm": "EZK 40:28",
+"end_ref": "26040028",
+"end_ref_usfm": "EZK 40:28"
+},
+{
+"start_ref": "26040032",
+"start_ref_usfm": "EZK 40:32",
+"end_ref": "26040032",
+"end_ref_usfm": "EZK 40:32"
+},
+{
+"start_ref": "26040035",
+"start_ref_usfm": "EZK 40:35",
+"end_ref": "26040035",
+"end_ref_usfm": "EZK 40:35"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,30 @@
+[
+{
+"content_id": "REALIA:1.16.1",
+"reference_id": "REALIA:1.16.1",
+"version": "1.0.4",
+"title": "Soap, lye",
+"media_type": "Text",
+"index_reference": "1.16.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.16.1\"><span class=\"thlex-key\">1.16.1</span> Soap, lye</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בֹּרִית</span> <span class=\"thlex-translit\">(borith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer2:22\">JER 2:22</a>, <a href=\"https://ref.ly/Mal3:2\">MAL 3:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Soap or lye was a cleansing agent made by boiling together ashes and animal fat.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In both passages the use of the Hebrew word <em>borith</em> is metaphorical, speaking of the judgment or removal (or attempted removal) of sin. Almost all cultures know some sort of cleansing agent for removing dirt.</p>\n<p>\n            <a href=\"https://ref.ly/Jer2:22\">JER 2:22</a>: Two cleansing agents are mentioned here; the first one is a mineral (soda or natrium), and the second one is soap or lye. While the use of fat-based soap for washing is not thought to have started as early as the time of Jeremiah, the meaning here seems clear. Translations vary on the rendering of the two cleansing agents (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> “cleanser” and “soap”; <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “soap” and “bleach”; <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> “lye” and “soap”). <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> combines the two by rendering the first two lines of the verse as “Even if you washed with the strongest soap.” It is also possible to render the meaning without reference to specific cleaning agents; for example, “No matter how hard you try to clean yourself,” “No matter how hard you scrub,” or “No matter how much you wash yourself.”</p>\n<p>\n            <a href=\"https://ref.ly/Mal3:2\">MAL 3:2</a>: While the <em>borith</em> in <a href=\"https://ref.ly/Jer2:22\">JER 2:22</a> was not able to remove stains, in this verse it symbolizes a strong agent that will purify all stains. The Hebrew phrase <em>borith mkabsim</em> in this verse is literally “soap of launderers.” Two models are <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “strong soap” and <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> “lye in the washing place.” The strength of the cleansing agent is in focus, so <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> “soap that washes clothes” may be too weak.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "24002022",
+"start_ref_usfm": "JER 2:22",
+"end_ref": "24002022",
+"end_ref_usfm": "JER 2:22"
+},
+{
+"start_ref": "39003002",
+"start_ref_usfm": "MAL 3:2",
+"end_ref": "39003002",
+"end_ref_usfm": "MAL 3:2"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,96 @@
+[
+{
+"content_id": "REALIA:1.3.3",
+"reference_id": "REALIA:1.3.3",
+"version": "1.0.4",
+"title": "標題：魚叉（fishing spear, harpoon）",
+"media_type": "Text",
+"index_reference": "1.3.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.3.3\"><span class=\"thlex-key\">1.3.3</span> 標題：魚叉（fishing spear, harpoon）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חָח, חוֹחַ</span> <span class=\"thlex-translit\">(音譯： chach, choach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs19:28\">2KI 19:28</a>, <a href=\"https://ref.ly/2Chr33:11\">2CH 33:11</a>, <a href=\"https://ref.ly/Job40:26\">JOB 40:26</a>, <a href=\"https://ref.ly/Isa37:29\">ISA 37:29</a>, <a href=\"https://ref.ly/Ezek19:4\">EZK 19:4</a>, <a href=\"https://ref.ly/Ezek19:9\">EZK 19:9</a>, <a href=\"https://ref.ly/Ezek29:4\">EZK 29:4</a>, <a href=\"https://ref.ly/Ezek38:4\">EZK 38:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חַכָּה</span> <span class=\"thlex-translit\">(音譯： chakah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job40:25\">JOB 40:25</a>, <a href=\"https://ref.ly/Isa19:8\">ISA 19:8</a>, <a href=\"https://ref.ly/Hab1:15\">HAB 1:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַסָּע</span> <span class=\"thlex-translit\">(音譯： masa‘)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:18\">JOB 41:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֻׂכָּה</span> <span class=\"thlex-translit\">(音譯： sukah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job40:31\">JOB 40:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צִלְצָל</span> <span class=\"thlex-translit\">(音譯： tsiltsal)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job40:31\">JOB 40:31</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0338_fishing_spear.jpg\" alt=\"捕魚叉的尖頭（青銅或銅合金，埃及，約公元前1550-1070年）\"><figcaption class=\"thlex-caption\">捕魚叉的尖頭（青銅或銅合金，埃及，約公元前1550–1070年） (Metropolitan Museum of Art, Public domain)</figcaption></figure>魚叉是一根約有一人高的木杆，一端套上用金屬或骨頭做成的、帶倒刺的尖頭，另一端很可能會繫上一根繩子，這樣投擲者就可以把投出去的魚叉再拉回來。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>漁夫瞄準魚或其他水生動物，然後用力擲出魚叉。倒鈎可防止叉頭從獵物身上脫落。連接在叉頭另一端的繩子使投擲者能夠快速收回魚叉，準備再次投擲，或者防止受傷的獵物拖著魚叉游走。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>《〈約伯記〉手冊》（<em>A Handbook on The Book of Job</em> ）指出，<a href=\"https://ref.ly/Job40:26\">JOB 40:26</a> （《和》41:2）中的希伯來文<em>choach</em> 指的是一種鈎子，但這個鈎子「比前一節中的魚鈎大得多」（第752頁）。這個詞最常出現在與對待囚犯有關的描述中，這也是<a href=\"https://ref.ly/Job40:25\">JOB 40:25</a>; <a href=\"https://ref.ly/Job40:31\">JOB 40:31</a> （《和》41:1，7）用在力威亞探身上的涵義。</p>\n<p>在<a href=\"https://ref.ly/Job41:18\">JOB 41:18</a> （《和》41:26），希伯來文<em>masa&#x27;</em> 的含義並不確定。從上下文來看，很明顯這是一種用來捕獵大型動物的武器，也許是投擲武器。希伯來文本在這節經文的末尾有三個單詞，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 將這三個詞語簡單地統譯為“spear”（「矛」）。<em>Masa&#x27;</em> 一詞最常譯為「飛鏢」（“dart”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ），不過也有譯本譯為「飛彈」（“missile”；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）、「投槍」（“javelin”；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ）和「箭」（“arrow”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。儘管英文單詞“dart”（「飛鏢」）在現代譯本中十分常見，但是對那些並不熟悉《欽定本聖經》或莎士比亞英文的現代讀者來說，這個詞僅僅指在遊戲中投擲的小而尖的羽毛飛鏢。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "12019028",
+"start_ref_usfm": "2KI 19:28",
+"end_ref": "12019028",
+"end_ref_usfm": "2KI 19:28"
+},
+{
+"start_ref": "14033011",
+"start_ref_usfm": "2CH 33:11",
+"end_ref": "14033011",
+"end_ref_usfm": "2CH 33:11"
+},
+{
+"start_ref": "18040026",
+"start_ref_usfm": "JOB 40:26",
+"end_ref": "18040026",
+"end_ref_usfm": "JOB 40:26"
+},
+{
+"start_ref": "23037029",
+"start_ref_usfm": "ISA 37:29",
+"end_ref": "23037029",
+"end_ref_usfm": "ISA 37:29"
+},
+{
+"start_ref": "26019004",
+"start_ref_usfm": "EZK 19:4",
+"end_ref": "26019004",
+"end_ref_usfm": "EZK 19:4"
+},
+{
+"start_ref": "26019009",
+"start_ref_usfm": "EZK 19:9",
+"end_ref": "26019009",
+"end_ref_usfm": "EZK 19:9"
+},
+{
+"start_ref": "26029004",
+"start_ref_usfm": "EZK 29:4",
+"end_ref": "26029004",
+"end_ref_usfm": "EZK 29:4"
+},
+{
+"start_ref": "26038004",
+"start_ref_usfm": "EZK 38:4",
+"end_ref": "26038004",
+"end_ref_usfm": "EZK 38:4"
+},
+{
+"start_ref": "18040025",
+"start_ref_usfm": "JOB 40:25",
+"end_ref": "18040025",
+"end_ref_usfm": "JOB 40:25"
+},
+{
+"start_ref": "23019008",
+"start_ref_usfm": "ISA 19:8",
+"end_ref": "23019008",
+"end_ref_usfm": "ISA 19:8"
+},
+{
+"start_ref": "35001015",
+"start_ref_usfm": "HAB 1:15",
+"end_ref": "35001015",
+"end_ref_usfm": "HAB 1:15"
+},
+{
+"start_ref": "18041018",
+"start_ref_usfm": "JOB 41:18",
+"end_ref": "18041018",
+"end_ref_usfm": "JOB 41:18"
+},
+{
+"start_ref": "18040031",
+"start_ref_usfm": "JOB 40:31",
+"end_ref": "18040031",
+"end_ref_usfm": "JOB 40:31"
+}
+],
+"resource": []
+}
+}
+]
