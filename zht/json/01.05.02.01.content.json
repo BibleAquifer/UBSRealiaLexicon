@@ -1,0 +1,192 @@
+[
+{
+"content_id": "REALIA:1.5.2.1",
+"reference_id": "REALIA:1.5.2.1",
+"version": "1.0.4",
+"title": "標題：雕刻（engraving, carving）",
+"media_type": "Text",
+"index_reference": "1.5.2.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.5.2.1\"><span class=\"thlex-key\">1.5.2.1</span> 標題：雕刻（engraving, carving）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חרשׁ, חָרָשׁ</span> <span class=\"thlex-translit\">(音譯： charash)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:11\">EXO 28:11</a>, <a href=\"https://ref.ly/Exod35:35\">EXO 35:35</a>, <a href=\"https://ref.ly/Exod38:23\">EXO 38:23</a>, <a href=\"https://ref.ly/Jer17:1\">JER 17:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חֲרֹשֶׁת</span> <span class=\"thlex-translit\">(音譯： charosheth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod31:5\">EXO 31:5</a>, <a href=\"https://ref.ly/Exod31:5\">EXO 31:5</a>, <a href=\"https://ref.ly/Exod35:33\">EXO 35:33</a>, <a href=\"https://ref.ly/Exod35:33\">EXO 35:33</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： פתח</span> <span class=\"thlex-translit\">(音譯： pathach（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:9\">EXO 28:9</a>, <a href=\"https://ref.ly/Exod28:11\">EXO 28:11</a>, <a href=\"https://ref.ly/Exod28:36\">EXO 28:36</a>, <a href=\"https://ref.ly/Exod39:6\">EXO 39:6</a>, <a href=\"https://ref.ly/1Kgs7:36\">1KI 7:36</a>, <a href=\"https://ref.ly/2Chr2:6\">2CH 2:6</a>, <a href=\"https://ref.ly/2Chr2:13\">2CH 2:13</a>, <a href=\"https://ref.ly/2Chr3:7\">2CH 3:7</a>, <a href=\"https://ref.ly/Zech3:9\">ZEC 3:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： פִּתּוּחַ</span> <span class=\"thlex-translit\">(音譯： pituach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:11\">EXO 28:11</a>, <a href=\"https://ref.ly/Exod28:21\">EXO 28:21</a>, <a href=\"https://ref.ly/Exod28:36\">EXO 28:36</a>, <a href=\"https://ref.ly/Exod39:6\">EXO 39:6</a>, <a href=\"https://ref.ly/Exod39:14\">EXO 39:14</a>, <a href=\"https://ref.ly/Exod39:30\">EXO 39:30</a>, <a href=\"https://ref.ly/2Chr2:6\">2CH 2:6</a>, <a href=\"https://ref.ly/2Chr2:13\">2CH 2:13</a>, <a href=\"https://ref.ly/Ps74:6\">PSA 74:6</a>, <a href=\"https://ref.ly/Zech3:9\">ZEC 3:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קלע, מִקְלַעַת</span> <span class=\"thlex-translit\">(音譯： qala‘（動詞）, miqla‘ath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:18\">1KI 6:18</a>, <a href=\"https://ref.ly/1Kgs6:29\">1KI 6:29</a>, <a href=\"https://ref.ly/1Kgs6:29\">1KI 6:29</a>, <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>, <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>, <a href=\"https://ref.ly/1Kgs6:35\">1KI 6:35</a>, <a href=\"https://ref.ly/1Kgs7:31\">1KI 7:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： γλύμμα</span> <span class=\"thlex-translit\">(音譯： glumma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir38:27\">SIR 38:27</a>, <a href=\"https://ref.ly/Sir45:11\">SIR 45:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： γλυφή</span> <span class=\"thlex-translit\">(音譯： glufē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis18:24\">WIS 18:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： γλύφω</span> <span class=\"thlex-translit\">(音譯： glufō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis13:13\">WIS 13:13</a>, <a href=\"https://ref.ly/Sir38:27\">SIR 38:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἐγγλύφω</span> <span class=\"thlex-translit\">(音譯： egglufō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc13:29\">1MA 13:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κολάπτω</span> <span class=\"thlex-translit\">(音譯： kolaptō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir45:11\">SIR 45:11</a>, <a href=\"https://ref.ly/3Macc2:27\">3MA 2:27</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0341_engraving_ring.jpg\" alt=\"戒指上的雕刻\"><figcaption class=\"thlex-caption\">戒指上的雕刻 (© The Portable Antiquities Scheme/ The Trustees of the British Museum, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>雕刻作品是通過在石頭、金屬或寶石等堅硬表面上刻畫線條來完成創作的圖畫或文字。木雕通常是用木頭製成的像，用刀或其他鋒利的工具削刻而成。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在有些語言中，可能需要根據雕刻表面的材質來選擇合適的「雕刻」動詞。</p>\n<p>在<a href=\"https://ref.ly/Exod31:5\">EXO 31:5</a> 和<a href=\"https://ref.ly/Exod35:33\">EXO 35:33</a> 中，希伯來文<em>charosheth</em> 指雕刻作品和木雕。</p>\n<p>\n            <a href=\"https://ref.ly/Sir38:27\">SIR 38:27</a> 中描述的具體動作是「刻印」（“engrave seals”，<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ；比較更加準確的<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 譯法，“cut the signets of seals”「雕刻印章上的印記」；另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">10.2 印、印章、印戒、打印的戒指、戒指 (seal, signet ring, ring)&lt;REALIA:10.2&gt;</a> 中的討論）。這段經文的重點是雕刻師的勤奮和精確。如果當地沒有準確對應「印」的詞語，可以參考其他需要精確做工、樣式繁多的手工藝品，以找到合適的譯詞。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02028011",
+"start_ref_usfm": "EXO 28:11",
+"end_ref": "02028011",
+"end_ref_usfm": "EXO 28:11"
+},
+{
+"start_ref": "02035035",
+"start_ref_usfm": "EXO 35:35",
+"end_ref": "02035035",
+"end_ref_usfm": "EXO 35:35"
+},
+{
+"start_ref": "02038023",
+"start_ref_usfm": "EXO 38:23",
+"end_ref": "02038023",
+"end_ref_usfm": "EXO 38:23"
+},
+{
+"start_ref": "24017001",
+"start_ref_usfm": "JER 17:1",
+"end_ref": "24017001",
+"end_ref_usfm": "JER 17:1"
+},
+{
+"start_ref": "02031005",
+"start_ref_usfm": "EXO 31:5",
+"end_ref": "02031005",
+"end_ref_usfm": "EXO 31:5"
+},
+{
+"start_ref": "02035033",
+"start_ref_usfm": "EXO 35:33",
+"end_ref": "02035033",
+"end_ref_usfm": "EXO 35:33"
+},
+{
+"start_ref": "02028009",
+"start_ref_usfm": "EXO 28:9",
+"end_ref": "02028009",
+"end_ref_usfm": "EXO 28:9"
+},
+{
+"start_ref": "02028036",
+"start_ref_usfm": "EXO 28:36",
+"end_ref": "02028036",
+"end_ref_usfm": "EXO 28:36"
+},
+{
+"start_ref": "02039006",
+"start_ref_usfm": "EXO 39:6",
+"end_ref": "02039006",
+"end_ref_usfm": "EXO 39:6"
+},
+{
+"start_ref": "11007036",
+"start_ref_usfm": "1KI 7:36",
+"end_ref": "11007036",
+"end_ref_usfm": "1KI 7:36"
+},
+{
+"start_ref": "14002006",
+"start_ref_usfm": "2CH 2:6",
+"end_ref": "14002006",
+"end_ref_usfm": "2CH 2:6"
+},
+{
+"start_ref": "14002013",
+"start_ref_usfm": "2CH 2:13",
+"end_ref": "14002013",
+"end_ref_usfm": "2CH 2:13"
+},
+{
+"start_ref": "14003007",
+"start_ref_usfm": "2CH 3:7",
+"end_ref": "14003007",
+"end_ref_usfm": "2CH 3:7"
+},
+{
+"start_ref": "38003009",
+"start_ref_usfm": "ZEC 3:9",
+"end_ref": "38003009",
+"end_ref_usfm": "ZEC 3:9"
+},
+{
+"start_ref": "02028021",
+"start_ref_usfm": "EXO 28:21",
+"end_ref": "02028021",
+"end_ref_usfm": "EXO 28:21"
+},
+{
+"start_ref": "02039014",
+"start_ref_usfm": "EXO 39:14",
+"end_ref": "02039014",
+"end_ref_usfm": "EXO 39:14"
+},
+{
+"start_ref": "02039030",
+"start_ref_usfm": "EXO 39:30",
+"end_ref": "02039030",
+"end_ref_usfm": "EXO 39:30"
+},
+{
+"start_ref": "19074006",
+"start_ref_usfm": "PSA 74:6",
+"end_ref": "19074006",
+"end_ref_usfm": "PSA 74:6"
+},
+{
+"start_ref": "11006018",
+"start_ref_usfm": "1KI 6:18",
+"end_ref": "11006018",
+"end_ref_usfm": "1KI 6:18"
+},
+{
+"start_ref": "11006029",
+"start_ref_usfm": "1KI 6:29",
+"end_ref": "11006029",
+"end_ref_usfm": "1KI 6:29"
+},
+{
+"start_ref": "11006032",
+"start_ref_usfm": "1KI 6:32",
+"end_ref": "11006032",
+"end_ref_usfm": "1KI 6:32"
+},
+{
+"start_ref": "11006035",
+"start_ref_usfm": "1KI 6:35",
+"end_ref": "11006035",
+"end_ref_usfm": "1KI 6:35"
+},
+{
+"start_ref": "11007031",
+"start_ref_usfm": "1KI 7:31",
+"end_ref": "11007031",
+"end_ref_usfm": "1KI 7:31"
+},
+{
+"start_ref": "72038027",
+"start_ref_usfm": "SIR 38:27",
+"end_ref": "72038027",
+"end_ref_usfm": "SIR 38:27"
+},
+{
+"start_ref": "72045011",
+"start_ref_usfm": "SIR 45:11",
+"end_ref": "72045011",
+"end_ref_usfm": "SIR 45:11"
+},
+{
+"start_ref": "71018024",
+"start_ref_usfm": "WIS 18:24",
+"end_ref": "71018024",
+"end_ref_usfm": "WIS 18:24"
+},
+{
+"start_ref": "71013013",
+"start_ref_usfm": "WIS 13:13",
+"end_ref": "71013013",
+"end_ref_usfm": "WIS 13:13"
+},
+{
+"start_ref": "78013029",
+"start_ref_usfm": "1MA 13:29",
+"end_ref": "78013029",
+"end_ref_usfm": "1MA 13:29"
+},
+{
+"start_ref": "80002027",
+"start_ref_usfm": "3MA 2:27",
+"end_ref": "80002027",
+"end_ref_usfm": "3MA 2:27"
+}
+],
+"resource": []
+}
+}
+]

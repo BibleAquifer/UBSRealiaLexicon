@@ -1,0 +1,822 @@
+[
+{
+"content_id": "REALIA:11.4.1.4",
+"reference_id": "REALIA:11.4.1.4",
+"version": "1.0.4",
+"title": "標題：肘（cubit）",
+"media_type": "Text",
+"index_reference": "11.4.1.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.4.1.4\"><span class=\"thlex-key\">11.4.1.4</span> 標題：肘（cubit）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אַמָּה</span> <span class=\"thlex-translit\">(音譯： ’amah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>, <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>, <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>, <a href=\"https://ref.ly/Gen6:16\">GEN 6:16</a>, <a href=\"https://ref.ly/Gen7:20\">GEN 7:20</a>, <a href=\"https://ref.ly/Exod25:10\">EXO 25:10</a>, <a href=\"https://ref.ly/Exod25:10\">EXO 25:10</a>, <a href=\"https://ref.ly/Exod25:10\">EXO 25:10</a>, <a href=\"https://ref.ly/Exod25:17\">EXO 25:17</a>, <a href=\"https://ref.ly/Exod25:17\">EXO 25:17</a>, <a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod26:2\">EXO 26:2</a>, <a href=\"https://ref.ly/Exod26:2\">EXO 26:2</a>, <a href=\"https://ref.ly/Exod26:8\">EXO 26:8</a>, <a href=\"https://ref.ly/Exod26:8\">EXO 26:8</a>, <a href=\"https://ref.ly/Exod26:13\">EXO 26:13</a>, <a href=\"https://ref.ly/Exod26:13\">EXO 26:13</a>, <a href=\"https://ref.ly/Exod26:16\">EXO 26:16</a>, <a href=\"https://ref.ly/Exod26:16\">EXO 26:16</a>, <a href=\"https://ref.ly/Exod26:16\">EXO 26:16</a>, <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>, <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>, <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>, <a href=\"https://ref.ly/Exod27:9\">EXO 27:9</a>, <a href=\"https://ref.ly/Exod27:12\">EXO 27:12</a>, <a href=\"https://ref.ly/Exod27:13\">EXO 27:13</a>, <a href=\"https://ref.ly/Exod27:14\">EXO 27:14</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod27:18\">EXO 27:18</a>, <a href=\"https://ref.ly/Exod27:18\">EXO 27:18</a>, <a href=\"https://ref.ly/Exod30:2\">EXO 30:2</a>, <a href=\"https://ref.ly/Exod30:2\">EXO 30:2</a>, <a href=\"https://ref.ly/Exod30:2\">EXO 30:2</a>, <a href=\"https://ref.ly/Exod36:9\">EXO 36:9</a>, <a href=\"https://ref.ly/Exod36:9\">EXO 36:9</a>, <a href=\"https://ref.ly/Exod36:15\">EXO 36:15</a>, <a href=\"https://ref.ly/Exod36:15\">EXO 36:15</a>, <a href=\"https://ref.ly/Exod36:21\">EXO 36:21</a>, <a href=\"https://ref.ly/Exod36:21\">EXO 36:21</a>, <a href=\"https://ref.ly/Exod36:21\">EXO 36:21</a>, <a href=\"https://ref.ly/Exod37:1\">EXO 37:1</a>, <a href=\"https://ref.ly/Exod37:1\">EXO 37:1</a>, <a href=\"https://ref.ly/Exod37:1\">EXO 37:1</a>, <a href=\"https://ref.ly/Exod37:6\">EXO 37:6</a>, <a href=\"https://ref.ly/Exod37:6\">EXO 37:6</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:25\">EXO 37:25</a>, <a href=\"https://ref.ly/Exod37:25\">EXO 37:25</a>, <a href=\"https://ref.ly/Exod37:25\">EXO 37:25</a>, <a href=\"https://ref.ly/Exod38:1\">EXO 38:1</a>, <a href=\"https://ref.ly/Exod38:1\">EXO 38:1</a>, <a href=\"https://ref.ly/Exod38:1\">EXO 38:1</a>, <a href=\"https://ref.ly/Exod38:9\">EXO 38:9</a>, <a href=\"https://ref.ly/Exod38:11\">EXO 38:11</a>, <a href=\"https://ref.ly/Exod38:12\">EXO 38:12</a>, <a href=\"https://ref.ly/Exod38:13\">EXO 38:13</a>, <a href=\"https://ref.ly/Exod38:14\">EXO 38:14</a>, <a href=\"https://ref.ly/Exod38:15\">EXO 38:15</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Num11:31\">NUM 11:31</a>, <a href=\"https://ref.ly/Num35:4\">NUM 35:4</a>, <a href=\"https://ref.ly/Num35:5\">NUM 35:5</a>, <a href=\"https://ref.ly/Num35:5\">NUM 35:5</a>, <a href=\"https://ref.ly/Num35:5\">NUM 35:5</a>, <a href=\"https://ref.ly/Num35:5\">NUM 35:5</a>, <a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a>, <a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a>, <a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a>, <a href=\"https://ref.ly/Josh3:4\">JOS 3:4</a>, <a href=\"https://ref.ly/1Sam17:4\">1SA 17:4</a>, <a href=\"https://ref.ly/2Sam2:24\">2SA 2:24</a>, <a href=\"https://ref.ly/2Sam8:1\">2SA 8:1</a>, <a href=\"https://ref.ly/1Kgs6:2\">1KI 6:2</a>, <a href=\"https://ref.ly/1Kgs6:2\">1KI 6:2</a>, <a href=\"https://ref.ly/1Kgs6:3\">1KI 6:3</a>, <a href=\"https://ref.ly/1Kgs6:3\">1KI 6:3</a>, <a href=\"https://ref.ly/1Kgs6:6\">1KI 6:6</a>, <a href=\"https://ref.ly/1Kgs6:6\">1KI 6:6</a>, <a href=\"https://ref.ly/1Kgs6:6\">1KI 6:6</a>, <a href=\"https://ref.ly/1Kgs6:10\">1KI 6:10</a>, <a href=\"https://ref.ly/1Kgs6:16\">1KI 6:16</a>, <a href=\"https://ref.ly/1Kgs6:17\">1KI 6:17</a>, <a href=\"https://ref.ly/1Kgs6:20\">1KI 6:20</a>, <a href=\"https://ref.ly/1Kgs6:20\">1KI 6:20</a>, <a href=\"https://ref.ly/1Kgs6:20\">1KI 6:20</a>, <a href=\"https://ref.ly/1Kgs6:23\">1KI 6:23</a>, <a href=\"https://ref.ly/1Kgs6:24\">1KI 6:24</a>, <a href=\"https://ref.ly/1Kgs6:24\">1KI 6:24</a>, <a href=\"https://ref.ly/1Kgs6:24\">1KI 6:24</a>, <a href=\"https://ref.ly/1Kgs6:25\">1KI 6:25</a>, <a href=\"https://ref.ly/1Kgs6:26\">1KI 6:26</a>, <a href=\"https://ref.ly/1Kgs7:2\">1KI 7:2</a>, <a href=\"https://ref.ly/1Kgs7:2\">1KI 7:2</a>, <a href=\"https://ref.ly/1Kgs7:2\">1KI 7:2</a>, <a href=\"https://ref.ly/1Kgs7:6\">1KI 7:6</a>, <a href=\"https://ref.ly/1Kgs7:6\">1KI 7:6</a>, <a href=\"https://ref.ly/1Kgs7:10\">1KI 7:10</a>, <a href=\"https://ref.ly/1Kgs7:10\">1KI 7:10</a>, <a href=\"https://ref.ly/1Kgs7:15\">1KI 7:15</a>, <a href=\"https://ref.ly/1Kgs7:15\">1KI 7:15</a>, <a href=\"https://ref.ly/1Kgs7:16\">1KI 7:16</a>, <a href=\"https://ref.ly/1Kgs7:16\">1KI 7:16</a>, <a href=\"https://ref.ly/1Kgs7:19\">1KI 7:19</a>, <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a>, <a href=\"https://ref.ly/1Kgs7:27\">1KI 7:27</a>, <a href=\"https://ref.ly/1Kgs7:27\">1KI 7:27</a>, <a href=\"https://ref.ly/1Kgs7:27\">1KI 7:27</a>, <a href=\"https://ref.ly/1Kgs7:31\">1KI 7:31</a>, <a href=\"https://ref.ly/1Kgs7:31\">1KI 7:31</a>, <a href=\"https://ref.ly/1Kgs7:31\">1KI 7:31</a>, <a href=\"https://ref.ly/1Kgs7:32\">1KI 7:32</a>, <a href=\"https://ref.ly/1Kgs7:32\">1KI 7:32</a>, <a href=\"https://ref.ly/1Kgs7:35\">1KI 7:35</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/2Kgs14:13\">2KI 14:13</a>, <a href=\"https://ref.ly/2Kgs25:17\">2KI 25:17</a>, <a href=\"https://ref.ly/2Kgs25:17\">2KI 25:17</a>, <a href=\"https://ref.ly/2Kgs25:17\">2KI 25:17</a>, <a href=\"https://ref.ly/1Chr11:23\">1CH 11:23</a>, <a href=\"https://ref.ly/2Chr3:3\">2CH 3:3</a>, <a href=\"https://ref.ly/2Chr3:3\">2CH 3:3</a>, <a href=\"https://ref.ly/2Chr3:3\">2CH 3:3</a>, <a href=\"https://ref.ly/2Chr3:4\">2CH 3:4</a>, <a href=\"https://ref.ly/2Chr3:8\">2CH 3:8</a>, <a href=\"https://ref.ly/2Chr3:8\">2CH 3:8</a>, <a href=\"https://ref.ly/2Chr3:11\">2CH 3:11</a>, <a href=\"https://ref.ly/2Chr3:11\">2CH 3:11</a>, <a href=\"https://ref.ly/2Chr3:11\">2CH 3:11</a>, <a href=\"https://ref.ly/2Chr3:12\">2CH 3:12</a>, <a href=\"https://ref.ly/2Chr3:12\">2CH 3:12</a>, <a href=\"https://ref.ly/2Chr3:13\">2CH 3:13</a>, <a href=\"https://ref.ly/2Chr3:15\">2CH 3:15</a>, <a href=\"https://ref.ly/2Chr3:15\">2CH 3:15</a>, <a href=\"https://ref.ly/2Chr4:1\">2CH 4:1</a>, <a href=\"https://ref.ly/2Chr4:1\">2CH 4:1</a>, <a href=\"https://ref.ly/2Chr4:1\">2CH 4:1</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/2Chr4:3\">2CH 4:3</a>, <a href=\"https://ref.ly/2Chr6:13\">2CH 6:13</a>, <a href=\"https://ref.ly/2Chr6:13\">2CH 6:13</a>, <a href=\"https://ref.ly/2Chr6:13\">2CH 6:13</a>, <a href=\"https://ref.ly/2Chr25:23\">2CH 25:23</a>, <a href=\"https://ref.ly/Neh3:13\">NEH 3:13</a>, <a href=\"https://ref.ly/Esth5:14\">EST 5:14</a>, <a href=\"https://ref.ly/Esth7:9\">EST 7:9</a>, <a href=\"https://ref.ly/Isa6:4\">ISA 6:4</a>, <a href=\"https://ref.ly/Jer51:13\">JER 51:13</a>, <a href=\"https://ref.ly/Jer52:21\">JER 52:21</a>, <a href=\"https://ref.ly/Jer52:21\">JER 52:21</a>, <a href=\"https://ref.ly/Jer52:22\">JER 52:22</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:11\">EZK 40:11</a>, <a href=\"https://ref.ly/Ezek40:11\">EZK 40:11</a>, <a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a>, <a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a>, <a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a>, <a href=\"https://ref.ly/Ezek40:12\">EZK 40:12</a>, <a href=\"https://ref.ly/Ezek40:13\">EZK 40:13</a>, <a href=\"https://ref.ly/Ezek40:14\">EZK 40:14</a>, <a href=\"https://ref.ly/Ezek40:15\">EZK 40:15</a>, <a href=\"https://ref.ly/Ezek40:19\">EZK 40:19</a>, <a href=\"https://ref.ly/Ezek40:21\">EZK 40:21</a>, <a href=\"https://ref.ly/Ezek40:21\">EZK 40:21</a>, <a href=\"https://ref.ly/Ezek40:23\">EZK 40:23</a>, <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>, <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>, <a href=\"https://ref.ly/Ezek40:27\">EZK 40:27</a>, <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>, <a href=\"https://ref.ly/Ezek40:29\">EZK 40:29</a>, <a href=\"https://ref.ly/Ezek40:30\">EZK 40:30</a>, <a href=\"https://ref.ly/Ezek40:30\">EZK 40:30</a>, <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>, <a href=\"https://ref.ly/Ezek40:33\">EZK 40:33</a>, <a href=\"https://ref.ly/Ezek40:36\">EZK 40:36</a>, <a href=\"https://ref.ly/Ezek40:36\">EZK 40:36</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek40:47\">EZK 40:47</a>, <a href=\"https://ref.ly/Ezek40:47\">EZK 40:47</a>, <a href=\"https://ref.ly/Ezek40:48\">EZK 40:48</a>, <a href=\"https://ref.ly/Ezek40:48\">EZK 40:48</a>, <a href=\"https://ref.ly/Ezek40:48\">EZK 40:48</a>, <a href=\"https://ref.ly/Ezek40:48\">EZK 40:48</a>, <a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a>, <a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a>, <a href=\"https://ref.ly/Ezek41:1\">EZK 41:1</a>, <a href=\"https://ref.ly/Ezek41:1\">EZK 41:1</a>, <a href=\"https://ref.ly/Ezek41:2\">EZK 41:2</a>, <a href=\"https://ref.ly/Ezek41:2\">EZK 41:2</a>, <a href=\"https://ref.ly/Ezek41:2\">EZK 41:2</a>, <a href=\"https://ref.ly/Ezek41:2\">EZK 41:2</a>, <a href=\"https://ref.ly/Ezek41:2\">EZK 41:2</a>, <a href=\"https://ref.ly/Ezek41:3\">EZK 41:3</a>, <a href=\"https://ref.ly/Ezek41:3\">EZK 41:3</a>, <a href=\"https://ref.ly/Ezek41:3\">EZK 41:3</a>, <a href=\"https://ref.ly/Ezek41:4\">EZK 41:4</a>, <a href=\"https://ref.ly/Ezek41:4\">EZK 41:4</a>, <a href=\"https://ref.ly/Ezek41:5\">EZK 41:5</a>, <a href=\"https://ref.ly/Ezek41:5\">EZK 41:5</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek41:9\">EZK 41:9</a>, <a href=\"https://ref.ly/Ezek41:10\">EZK 41:10</a>, <a href=\"https://ref.ly/Ezek41:11\">EZK 41:11</a>, <a href=\"https://ref.ly/Ezek41:12\">EZK 41:12</a>, <a href=\"https://ref.ly/Ezek41:12\">EZK 41:12</a>, <a href=\"https://ref.ly/Ezek41:12\">EZK 41:12</a>, <a href=\"https://ref.ly/Ezek41:13\">EZK 41:13</a>, <a href=\"https://ref.ly/Ezek41:13\">EZK 41:13</a>, <a href=\"https://ref.ly/Ezek41:14\">EZK 41:14</a>, <a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>, <a href=\"https://ref.ly/Ezek41:22\">EZK 41:22</a>, <a href=\"https://ref.ly/Ezek41:22\">EZK 41:22</a>, <a href=\"https://ref.ly/Ezek42:2\">EZK 42:2</a>, <a href=\"https://ref.ly/Ezek42:2\">EZK 42:2</a>, <a href=\"https://ref.ly/Ezek42:4\">EZK 42:4</a>, <a href=\"https://ref.ly/Ezek42:4\">EZK 42:4</a>, <a href=\"https://ref.ly/Ezek42:7\">EZK 42:7</a>, <a href=\"https://ref.ly/Ezek42:8\">EZK 42:8</a>, <a href=\"https://ref.ly/Ezek42:8\">EZK 42:8</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>, <a href=\"https://ref.ly/Ezek43:14\">EZK 43:14</a>, <a href=\"https://ref.ly/Ezek43:14\">EZK 43:14</a>, <a href=\"https://ref.ly/Ezek43:14\">EZK 43:14</a>, <a href=\"https://ref.ly/Ezek43:14\">EZK 43:14</a>, <a href=\"https://ref.ly/Ezek43:15\">EZK 43:15</a>, <a href=\"https://ref.ly/Ezek43:17\">EZK 43:17</a>, <a href=\"https://ref.ly/Ezek43:17\">EZK 43:17</a>, <a href=\"https://ref.ly/Ezek45:2\">EZK 45:2</a>, <a href=\"https://ref.ly/Ezek47:3\">EZK 47:3</a>, <a href=\"https://ref.ly/Zech5:2\">ZEC 5:2</a>, <a href=\"https://ref.ly/Zech5:2\">ZEC 5:2</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>’amah</em> 指肘尖到中指尖之間的距離，約50厘米或18英吋。另外，《以西結書》還提到「長肘」（參上文<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.4.1.3 虎口（span）&lt;REALIA:11.4.1.3&gt;</a> 中的「掌」）。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a> ：這裡的希伯來文本提到一個<em>’amah ’atsilah</em> ，其中<em>’atsilah</em> 一詞有些問題，也許是指長度，也許是與基礎或臺階有關的某物。各譯本一般認為這是一個長度，修飾長度「肘」，譯為「大肘」（“a long cubit”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）。還有譯本表達這一點的方法是賦予竿以超出人期望的長度，例如「十英呎加半英呎」（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直譯）。如果認為這裡使用非標準肘具有特殊的意義，那麼後面這種譯法是不可取的。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006015",
+"start_ref_usfm": "GEN 6:15",
+"end_ref": "01006015",
+"end_ref_usfm": "GEN 6:15"
+},
+{
+"start_ref": "01006016",
+"start_ref_usfm": "GEN 6:16",
+"end_ref": "01006016",
+"end_ref_usfm": "GEN 6:16"
+},
+{
+"start_ref": "01007020",
+"start_ref_usfm": "GEN 7:20",
+"end_ref": "01007020",
+"end_ref_usfm": "GEN 7:20"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025010",
+"end_ref_usfm": "EXO 25:10"
+},
+{
+"start_ref": "02025017",
+"start_ref_usfm": "EXO 25:17",
+"end_ref": "02025017",
+"end_ref_usfm": "EXO 25:17"
+},
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025023",
+"end_ref_usfm": "EXO 25:23"
+},
+{
+"start_ref": "02026002",
+"start_ref_usfm": "EXO 26:2",
+"end_ref": "02026002",
+"end_ref_usfm": "EXO 26:2"
+},
+{
+"start_ref": "02026008",
+"start_ref_usfm": "EXO 26:8",
+"end_ref": "02026008",
+"end_ref_usfm": "EXO 26:8"
+},
+{
+"start_ref": "02026013",
+"start_ref_usfm": "EXO 26:13",
+"end_ref": "02026013",
+"end_ref_usfm": "EXO 26:13"
+},
+{
+"start_ref": "02026016",
+"start_ref_usfm": "EXO 26:16",
+"end_ref": "02026016",
+"end_ref_usfm": "EXO 26:16"
+},
+{
+"start_ref": "02027001",
+"start_ref_usfm": "EXO 27:1",
+"end_ref": "02027001",
+"end_ref_usfm": "EXO 27:1"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027009",
+"end_ref_usfm": "EXO 27:9"
+},
+{
+"start_ref": "02027012",
+"start_ref_usfm": "EXO 27:12",
+"end_ref": "02027012",
+"end_ref_usfm": "EXO 27:12"
+},
+{
+"start_ref": "02027013",
+"start_ref_usfm": "EXO 27:13",
+"end_ref": "02027013",
+"end_ref_usfm": "EXO 27:13"
+},
+{
+"start_ref": "02027014",
+"start_ref_usfm": "EXO 27:14",
+"end_ref": "02027014",
+"end_ref_usfm": "EXO 27:14"
+},
+{
+"start_ref": "02027016",
+"start_ref_usfm": "EXO 27:16",
+"end_ref": "02027016",
+"end_ref_usfm": "EXO 27:16"
+},
+{
+"start_ref": "02027018",
+"start_ref_usfm": "EXO 27:18",
+"end_ref": "02027018",
+"end_ref_usfm": "EXO 27:18"
+},
+{
+"start_ref": "02030002",
+"start_ref_usfm": "EXO 30:2",
+"end_ref": "02030002",
+"end_ref_usfm": "EXO 30:2"
+},
+{
+"start_ref": "02036009",
+"start_ref_usfm": "EXO 36:9",
+"end_ref": "02036009",
+"end_ref_usfm": "EXO 36:9"
+},
+{
+"start_ref": "02036015",
+"start_ref_usfm": "EXO 36:15",
+"end_ref": "02036015",
+"end_ref_usfm": "EXO 36:15"
+},
+{
+"start_ref": "02036021",
+"start_ref_usfm": "EXO 36:21",
+"end_ref": "02036021",
+"end_ref_usfm": "EXO 36:21"
+},
+{
+"start_ref": "02037001",
+"start_ref_usfm": "EXO 37:1",
+"end_ref": "02037001",
+"end_ref_usfm": "EXO 37:1"
+},
+{
+"start_ref": "02037006",
+"start_ref_usfm": "EXO 37:6",
+"end_ref": "02037006",
+"end_ref_usfm": "EXO 37:6"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037010",
+"end_ref_usfm": "EXO 37:10"
+},
+{
+"start_ref": "02037025",
+"start_ref_usfm": "EXO 37:25",
+"end_ref": "02037025",
+"end_ref_usfm": "EXO 37:25"
+},
+{
+"start_ref": "02038001",
+"start_ref_usfm": "EXO 38:1",
+"end_ref": "02038001",
+"end_ref_usfm": "EXO 38:1"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038009",
+"end_ref_usfm": "EXO 38:9"
+},
+{
+"start_ref": "02038011",
+"start_ref_usfm": "EXO 38:11",
+"end_ref": "02038011",
+"end_ref_usfm": "EXO 38:11"
+},
+{
+"start_ref": "02038012",
+"start_ref_usfm": "EXO 38:12",
+"end_ref": "02038012",
+"end_ref_usfm": "EXO 38:12"
+},
+{
+"start_ref": "02038013",
+"start_ref_usfm": "EXO 38:13",
+"end_ref": "02038013",
+"end_ref_usfm": "EXO 38:13"
+},
+{
+"start_ref": "02038014",
+"start_ref_usfm": "EXO 38:14",
+"end_ref": "02038014",
+"end_ref_usfm": "EXO 38:14"
+},
+{
+"start_ref": "02038015",
+"start_ref_usfm": "EXO 38:15",
+"end_ref": "02038015",
+"end_ref_usfm": "EXO 38:15"
+},
+{
+"start_ref": "02038018",
+"start_ref_usfm": "EXO 38:18",
+"end_ref": "02038018",
+"end_ref_usfm": "EXO 38:18"
+},
+{
+"start_ref": "04011031",
+"start_ref_usfm": "NUM 11:31",
+"end_ref": "04011031",
+"end_ref_usfm": "NUM 11:31"
+},
+{
+"start_ref": "04035004",
+"start_ref_usfm": "NUM 35:4",
+"end_ref": "04035004",
+"end_ref_usfm": "NUM 35:4"
+},
+{
+"start_ref": "04035005",
+"start_ref_usfm": "NUM 35:5",
+"end_ref": "04035005",
+"end_ref_usfm": "NUM 35:5"
+},
+{
+"start_ref": "05003011",
+"start_ref_usfm": "DEU 3:11",
+"end_ref": "05003011",
+"end_ref_usfm": "DEU 3:11"
+},
+{
+"start_ref": "06003004",
+"start_ref_usfm": "JOS 3:4",
+"end_ref": "06003004",
+"end_ref_usfm": "JOS 3:4"
+},
+{
+"start_ref": "09017004",
+"start_ref_usfm": "1SA 17:4",
+"end_ref": "09017004",
+"end_ref_usfm": "1SA 17:4"
+},
+{
+"start_ref": "10002024",
+"start_ref_usfm": "2SA 2:24",
+"end_ref": "10002024",
+"end_ref_usfm": "2SA 2:24"
+},
+{
+"start_ref": "10008001",
+"start_ref_usfm": "2SA 8:1",
+"end_ref": "10008001",
+"end_ref_usfm": "2SA 8:1"
+},
+{
+"start_ref": "11006002",
+"start_ref_usfm": "1KI 6:2",
+"end_ref": "11006002",
+"end_ref_usfm": "1KI 6:2"
+},
+{
+"start_ref": "11006003",
+"start_ref_usfm": "1KI 6:3",
+"end_ref": "11006003",
+"end_ref_usfm": "1KI 6:3"
+},
+{
+"start_ref": "11006006",
+"start_ref_usfm": "1KI 6:6",
+"end_ref": "11006006",
+"end_ref_usfm": "1KI 6:6"
+},
+{
+"start_ref": "11006010",
+"start_ref_usfm": "1KI 6:10",
+"end_ref": "11006010",
+"end_ref_usfm": "1KI 6:10"
+},
+{
+"start_ref": "11006016",
+"start_ref_usfm": "1KI 6:16",
+"end_ref": "11006016",
+"end_ref_usfm": "1KI 6:16"
+},
+{
+"start_ref": "11006017",
+"start_ref_usfm": "1KI 6:17",
+"end_ref": "11006017",
+"end_ref_usfm": "1KI 6:17"
+},
+{
+"start_ref": "11006020",
+"start_ref_usfm": "1KI 6:20",
+"end_ref": "11006020",
+"end_ref_usfm": "1KI 6:20"
+},
+{
+"start_ref": "11006023",
+"start_ref_usfm": "1KI 6:23",
+"end_ref": "11006023",
+"end_ref_usfm": "1KI 6:23"
+},
+{
+"start_ref": "11006024",
+"start_ref_usfm": "1KI 6:24",
+"end_ref": "11006024",
+"end_ref_usfm": "1KI 6:24"
+},
+{
+"start_ref": "11006025",
+"start_ref_usfm": "1KI 6:25",
+"end_ref": "11006025",
+"end_ref_usfm": "1KI 6:25"
+},
+{
+"start_ref": "11006026",
+"start_ref_usfm": "1KI 6:26",
+"end_ref": "11006026",
+"end_ref_usfm": "1KI 6:26"
+},
+{
+"start_ref": "11007002",
+"start_ref_usfm": "1KI 7:2",
+"end_ref": "11007002",
+"end_ref_usfm": "1KI 7:2"
+},
+{
+"start_ref": "11007006",
+"start_ref_usfm": "1KI 7:6",
+"end_ref": "11007006",
+"end_ref_usfm": "1KI 7:6"
+},
+{
+"start_ref": "11007010",
+"start_ref_usfm": "1KI 7:10",
+"end_ref": "11007010",
+"end_ref_usfm": "1KI 7:10"
+},
+{
+"start_ref": "11007015",
+"start_ref_usfm": "1KI 7:15",
+"end_ref": "11007015",
+"end_ref_usfm": "1KI 7:15"
+},
+{
+"start_ref": "11007016",
+"start_ref_usfm": "1KI 7:16",
+"end_ref": "11007016",
+"end_ref_usfm": "1KI 7:16"
+},
+{
+"start_ref": "11007019",
+"start_ref_usfm": "1KI 7:19",
+"end_ref": "11007019",
+"end_ref_usfm": "1KI 7:19"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007023",
+"end_ref_usfm": "1KI 7:23"
+},
+{
+"start_ref": "11007024",
+"start_ref_usfm": "1KI 7:24",
+"end_ref": "11007024",
+"end_ref_usfm": "1KI 7:24"
+},
+{
+"start_ref": "11007027",
+"start_ref_usfm": "1KI 7:27",
+"end_ref": "11007027",
+"end_ref_usfm": "1KI 7:27"
+},
+{
+"start_ref": "11007031",
+"start_ref_usfm": "1KI 7:31",
+"end_ref": "11007031",
+"end_ref_usfm": "1KI 7:31"
+},
+{
+"start_ref": "11007032",
+"start_ref_usfm": "1KI 7:32",
+"end_ref": "11007032",
+"end_ref_usfm": "1KI 7:32"
+},
+{
+"start_ref": "11007035",
+"start_ref_usfm": "1KI 7:35",
+"end_ref": "11007035",
+"end_ref_usfm": "1KI 7:35"
+},
+{
+"start_ref": "11007038",
+"start_ref_usfm": "1KI 7:38",
+"end_ref": "11007038",
+"end_ref_usfm": "1KI 7:38"
+},
+{
+"start_ref": "12014013",
+"start_ref_usfm": "2KI 14:13",
+"end_ref": "12014013",
+"end_ref_usfm": "2KI 14:13"
+},
+{
+"start_ref": "12025017",
+"start_ref_usfm": "2KI 25:17",
+"end_ref": "12025017",
+"end_ref_usfm": "2KI 25:17"
+},
+{
+"start_ref": "13011023",
+"start_ref_usfm": "1CH 11:23",
+"end_ref": "13011023",
+"end_ref_usfm": "1CH 11:23"
+},
+{
+"start_ref": "14003003",
+"start_ref_usfm": "2CH 3:3",
+"end_ref": "14003003",
+"end_ref_usfm": "2CH 3:3"
+},
+{
+"start_ref": "14003004",
+"start_ref_usfm": "2CH 3:4",
+"end_ref": "14003004",
+"end_ref_usfm": "2CH 3:4"
+},
+{
+"start_ref": "14003008",
+"start_ref_usfm": "2CH 3:8",
+"end_ref": "14003008",
+"end_ref_usfm": "2CH 3:8"
+},
+{
+"start_ref": "14003011",
+"start_ref_usfm": "2CH 3:11",
+"end_ref": "14003011",
+"end_ref_usfm": "2CH 3:11"
+},
+{
+"start_ref": "14003012",
+"start_ref_usfm": "2CH 3:12",
+"end_ref": "14003012",
+"end_ref_usfm": "2CH 3:12"
+},
+{
+"start_ref": "14003013",
+"start_ref_usfm": "2CH 3:13",
+"end_ref": "14003013",
+"end_ref_usfm": "2CH 3:13"
+},
+{
+"start_ref": "14003015",
+"start_ref_usfm": "2CH 3:15",
+"end_ref": "14003015",
+"end_ref_usfm": "2CH 3:15"
+},
+{
+"start_ref": "14004001",
+"start_ref_usfm": "2CH 4:1",
+"end_ref": "14004001",
+"end_ref_usfm": "2CH 4:1"
+},
+{
+"start_ref": "14004002",
+"start_ref_usfm": "2CH 4:2",
+"end_ref": "14004002",
+"end_ref_usfm": "2CH 4:2"
+},
+{
+"start_ref": "14004003",
+"start_ref_usfm": "2CH 4:3",
+"end_ref": "14004003",
+"end_ref_usfm": "2CH 4:3"
+},
+{
+"start_ref": "14006013",
+"start_ref_usfm": "2CH 6:13",
+"end_ref": "14006013",
+"end_ref_usfm": "2CH 6:13"
+},
+{
+"start_ref": "14025023",
+"start_ref_usfm": "2CH 25:23",
+"end_ref": "14025023",
+"end_ref_usfm": "2CH 25:23"
+},
+{
+"start_ref": "16003013",
+"start_ref_usfm": "NEH 3:13",
+"end_ref": "16003013",
+"end_ref_usfm": "NEH 3:13"
+},
+{
+"start_ref": "17005014",
+"start_ref_usfm": "EST 5:14",
+"end_ref": "17005014",
+"end_ref_usfm": "EST 5:14"
+},
+{
+"start_ref": "17007009",
+"start_ref_usfm": "EST 7:9",
+"end_ref": "17007009",
+"end_ref_usfm": "EST 7:9"
+},
+{
+"start_ref": "23006004",
+"start_ref_usfm": "ISA 6:4",
+"end_ref": "23006004",
+"end_ref_usfm": "ISA 6:4"
+},
+{
+"start_ref": "24051013",
+"start_ref_usfm": "JER 51:13",
+"end_ref": "24051013",
+"end_ref_usfm": "JER 51:13"
+},
+{
+"start_ref": "24052021",
+"start_ref_usfm": "JER 52:21",
+"end_ref": "24052021",
+"end_ref_usfm": "JER 52:21"
+},
+{
+"start_ref": "24052022",
+"start_ref_usfm": "JER 52:22",
+"end_ref": "24052022",
+"end_ref_usfm": "JER 52:22"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26040007",
+"start_ref_usfm": "EZK 40:7",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "26040009",
+"start_ref_usfm": "EZK 40:9",
+"end_ref": "26040009",
+"end_ref_usfm": "EZK 40:9"
+},
+{
+"start_ref": "26040011",
+"start_ref_usfm": "EZK 40:11",
+"end_ref": "26040011",
+"end_ref_usfm": "EZK 40:11"
+},
+{
+"start_ref": "26040012",
+"start_ref_usfm": "EZK 40:12",
+"end_ref": "26040012",
+"end_ref_usfm": "EZK 40:12"
+},
+{
+"start_ref": "26040013",
+"start_ref_usfm": "EZK 40:13",
+"end_ref": "26040013",
+"end_ref_usfm": "EZK 40:13"
+},
+{
+"start_ref": "26040014",
+"start_ref_usfm": "EZK 40:14",
+"end_ref": "26040014",
+"end_ref_usfm": "EZK 40:14"
+},
+{
+"start_ref": "26040015",
+"start_ref_usfm": "EZK 40:15",
+"end_ref": "26040015",
+"end_ref_usfm": "EZK 40:15"
+},
+{
+"start_ref": "26040019",
+"start_ref_usfm": "EZK 40:19",
+"end_ref": "26040019",
+"end_ref_usfm": "EZK 40:19"
+},
+{
+"start_ref": "26040021",
+"start_ref_usfm": "EZK 40:21",
+"end_ref": "26040021",
+"end_ref_usfm": "EZK 40:21"
+},
+{
+"start_ref": "26040023",
+"start_ref_usfm": "EZK 40:23",
+"end_ref": "26040023",
+"end_ref_usfm": "EZK 40:23"
+},
+{
+"start_ref": "26040025",
+"start_ref_usfm": "EZK 40:25",
+"end_ref": "26040025",
+"end_ref_usfm": "EZK 40:25"
+},
+{
+"start_ref": "26040027",
+"start_ref_usfm": "EZK 40:27",
+"end_ref": "26040027",
+"end_ref_usfm": "EZK 40:27"
+},
+{
+"start_ref": "26040029",
+"start_ref_usfm": "EZK 40:29",
+"end_ref": "26040029",
+"end_ref_usfm": "EZK 40:29"
+},
+{
+"start_ref": "26040030",
+"start_ref_usfm": "EZK 40:30",
+"end_ref": "26040030",
+"end_ref_usfm": "EZK 40:30"
+},
+{
+"start_ref": "26040033",
+"start_ref_usfm": "EZK 40:33",
+"end_ref": "26040033",
+"end_ref_usfm": "EZK 40:33"
+},
+{
+"start_ref": "26040036",
+"start_ref_usfm": "EZK 40:36",
+"end_ref": "26040036",
+"end_ref_usfm": "EZK 40:36"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "26040047",
+"start_ref_usfm": "EZK 40:47",
+"end_ref": "26040047",
+"end_ref_usfm": "EZK 40:47"
+},
+{
+"start_ref": "26040048",
+"start_ref_usfm": "EZK 40:48",
+"end_ref": "26040048",
+"end_ref_usfm": "EZK 40:48"
+},
+{
+"start_ref": "26040049",
+"start_ref_usfm": "EZK 40:49",
+"end_ref": "26040049",
+"end_ref_usfm": "EZK 40:49"
+},
+{
+"start_ref": "26041001",
+"start_ref_usfm": "EZK 41:1",
+"end_ref": "26041001",
+"end_ref_usfm": "EZK 41:1"
+},
+{
+"start_ref": "26041002",
+"start_ref_usfm": "EZK 41:2",
+"end_ref": "26041002",
+"end_ref_usfm": "EZK 41:2"
+},
+{
+"start_ref": "26041003",
+"start_ref_usfm": "EZK 41:3",
+"end_ref": "26041003",
+"end_ref_usfm": "EZK 41:3"
+},
+{
+"start_ref": "26041004",
+"start_ref_usfm": "EZK 41:4",
+"end_ref": "26041004",
+"end_ref_usfm": "EZK 41:4"
+},
+{
+"start_ref": "26041005",
+"start_ref_usfm": "EZK 41:5",
+"end_ref": "26041005",
+"end_ref_usfm": "EZK 41:5"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26041009",
+"start_ref_usfm": "EZK 41:9",
+"end_ref": "26041009",
+"end_ref_usfm": "EZK 41:9"
+},
+{
+"start_ref": "26041010",
+"start_ref_usfm": "EZK 41:10",
+"end_ref": "26041010",
+"end_ref_usfm": "EZK 41:10"
+},
+{
+"start_ref": "26041011",
+"start_ref_usfm": "EZK 41:11",
+"end_ref": "26041011",
+"end_ref_usfm": "EZK 41:11"
+},
+{
+"start_ref": "26041012",
+"start_ref_usfm": "EZK 41:12",
+"end_ref": "26041012",
+"end_ref_usfm": "EZK 41:12"
+},
+{
+"start_ref": "26041013",
+"start_ref_usfm": "EZK 41:13",
+"end_ref": "26041013",
+"end_ref_usfm": "EZK 41:13"
+},
+{
+"start_ref": "26041014",
+"start_ref_usfm": "EZK 41:14",
+"end_ref": "26041014",
+"end_ref_usfm": "EZK 41:14"
+},
+{
+"start_ref": "26041015",
+"start_ref_usfm": "EZK 41:15",
+"end_ref": "26041015",
+"end_ref_usfm": "EZK 41:15"
+},
+{
+"start_ref": "26041022",
+"start_ref_usfm": "EZK 41:22",
+"end_ref": "26041022",
+"end_ref_usfm": "EZK 41:22"
+},
+{
+"start_ref": "26042002",
+"start_ref_usfm": "EZK 42:2",
+"end_ref": "26042002",
+"end_ref_usfm": "EZK 42:2"
+},
+{
+"start_ref": "26042004",
+"start_ref_usfm": "EZK 42:4",
+"end_ref": "26042004",
+"end_ref_usfm": "EZK 42:4"
+},
+{
+"start_ref": "26042007",
+"start_ref_usfm": "EZK 42:7",
+"end_ref": "26042007",
+"end_ref_usfm": "EZK 42:7"
+},
+{
+"start_ref": "26042008",
+"start_ref_usfm": "EZK 42:8",
+"end_ref": "26042008",
+"end_ref_usfm": "EZK 42:8"
+},
+{
+"start_ref": "26042016",
+"start_ref_usfm": "EZK 42:16",
+"end_ref": "26042016",
+"end_ref_usfm": "EZK 42:16"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+},
+{
+"start_ref": "26043014",
+"start_ref_usfm": "EZK 43:14",
+"end_ref": "26043014",
+"end_ref_usfm": "EZK 43:14"
+},
+{
+"start_ref": "26043015",
+"start_ref_usfm": "EZK 43:15",
+"end_ref": "26043015",
+"end_ref_usfm": "EZK 43:15"
+},
+{
+"start_ref": "26043017",
+"start_ref_usfm": "EZK 43:17",
+"end_ref": "26043017",
+"end_ref_usfm": "EZK 43:17"
+},
+{
+"start_ref": "26045002",
+"start_ref_usfm": "EZK 45:2",
+"end_ref": "26045002",
+"end_ref_usfm": "EZK 45:2"
+},
+{
+"start_ref": "26047003",
+"start_ref_usfm": "EZK 47:3",
+"end_ref": "26047003",
+"end_ref_usfm": "EZK 47:3"
+},
+{
+"start_ref": "38005002",
+"start_ref_usfm": "ZEC 5:2",
+"end_ref": "38005002",
+"end_ref_usfm": "ZEC 5:2"
+}
+],
+"resource": []
+}
+}
+]

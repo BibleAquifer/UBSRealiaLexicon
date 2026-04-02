@@ -1,0 +1,168 @@
+[
+{
+"content_id": "REALIA:5.9",
+"reference_id": "REALIA:5.9",
+"version": "1.0.4",
+"title": "標題：椅子、座位（chair, seat）",
+"media_type": "Text",
+"index_reference": "5.9",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.9\"><span class=\"thlex-key\">5.9</span> 標題：椅子、座位（chair, seat）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כִסֵּא</span> <span class=\"thlex-translit\">(音譯： kise’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg3:20\">JDG 3:20</a>, <a href=\"https://ref.ly/1Sam1:9\">1SA 1:9</a>, <a href=\"https://ref.ly/1Sam2:8\">1SA 2:8</a>, <a href=\"https://ref.ly/1Sam4:13\">1SA 4:13</a>, <a href=\"https://ref.ly/1Sam4:18\">1SA 4:18</a>, <a href=\"https://ref.ly/1Kgs2:19\">1KI 2:19</a>, <a href=\"https://ref.ly/1Kgs2:19\">1KI 2:19</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/Esth3:1\">EST 3:1</a>, <a href=\"https://ref.ly/Prov9:14\">PRO 9:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מוֹשָׁב</span> <span class=\"thlex-translit\">(音譯： moshav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam20:18\">1SA 20:18</a>, <a href=\"https://ref.ly/1Sam20:25\">1SA 20:25</a>, <a href=\"https://ref.ly/1Sam20:25\">1SA 20:25</a>, <a href=\"https://ref.ly/Job29:7\">JOB 29:7</a>, <a href=\"https://ref.ly/Ps1:1\">PSA 1:1</a>, <a href=\"https://ref.ly/Ezek8:3\">EZK 8:3</a>, <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תְּכוּנָה</span> <span class=\"thlex-translit\">(音譯： tkunah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job23:3\">JOB 23:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： καθέδρα</span> <span class=\"thlex-translit\">(音譯： kathedra)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:12\">MAT 21:12</a>, <a href=\"https://ref.ly/Matt23:2\">MAT 23:2</a>, <a href=\"https://ref.ly/Mark11:15\">MRK 11:15</a>, <a href=\"https://ref.ly/Sir7:4\">SIR 7:4</a>, <a href=\"https://ref.ly/Sir12:12\">SIR 12:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： πρωτοκαθεδρία</span> <span class=\"thlex-translit\">(音譯： prōtokathedria)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:6\">MAT 23:6</a>, <a href=\"https://ref.ly/Mark12:39\">MRK 12:39</a>, <a href=\"https://ref.ly/Luke11:43\">LUK 11:43</a>, <a href=\"https://ref.ly/Luke20:46\">LUK 20:46</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0478_chair.jpg\" alt=\"無靠背的椅（阿舒爾納斯帕爾二世（Ashurnasirpal II），伊拉克尼姆魯德（Nimrud）的牆壁浮雕，公元前9世紀，大英博物館）\"><figcaption class=\"thlex-caption\">無靠背的椅（阿舒爾納斯帕爾二世（Ashurnasirpal II），伊拉克尼姆魯德（Nimrud）的牆壁浮雕，公元前9世紀，大英博物館） (Anthony Huan, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>椅子是一種坐具，形狀和材料多種多樣。椅子的框架大多是木製或藤製的，座位用蘆葦編成或用木頭做成。有些椅子有靠背，有些則沒有。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.10.1 寶座、王位 (throne)&lt;REALIA:1.10.1&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0479_chair.jpg\" alt=\"有靠背的椅（埃及，公元前1550年至公元前1186年之間，羅浮宮）\"><figcaption class=\"thlex-caption\">有靠背的椅（埃及，公元前1550年至公元前1186年之間，羅浮宮） (© Rama, CC BY-SA 3.0 FR, via Wikimedia Commons)</figcaption></figure>所有文化都有表示人所坐地方的詞語。上面列出的經文大多沒有描述具體的坐具，因此最好選擇一個表示「座位」的統稱。</p>\n<p>\n            <a href=\"https://ref.ly/Job23:3\">JOB 23:3</a> ：希伯來文<em>tkunah</em> 的字面意思是「預備好的地方」。較早的譯本將這個詞譯為「座位」（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ；路德甚至譯為「寶座」）。大多數現代譯本傾向於譯為「（他）所在的地方」（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ），或「住所」（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）。</p>\n<p>在<a href=\"https://ref.ly/Matt23:2\">MAT 23:2</a> 中，「摩西的位」具有雙重含義。一方面，在許多猶大會堂裡，有一把樣式固定的椅子叫做「摩西的位」，通常是石頭做的。考古學家已發現了這種椅子。另一方面，這種椅子象徵做出宗教裁決的權柄。「坐在摩西的位上」是指擁有權威的地位。在耶穌的講論中，後一種意思更重要。大多數英文譯本傾向於直譯文本，但是我們推薦採用動態對等翻譯。以下的譯法就是一些動態對等翻譯的例子：</p>\n<p>「繼承了摩西的權柄」（Brc）；</p>\n<p>「憑著摩西的權柄說話」（<abbr class=\"thlex-abbr\" title=\"J.B. Phillips: The New Testament in Modern English (1958)\">Phps</abbr> ）；</p>\n<p>「憑著摩西的權柄教導」（<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> ）；</p>\n<p>「是摩西律法的權威解釋者」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）；</p>\n<p>「有權柄將摩西的律法告訴你們」（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）；</p>\n<p>「是摩西律法的專家」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）。</p>\n<p>希臘文<em>prōtokathedria</em> 指一個特別重要的位置或地方，暗示佔據該位置的人擁有特殊的地位。這裡的重點不是座位的結構，而是擁有該座位給人帶來的尊榮。許多文化都有專門的詞語來指這種尊榮的座位。只要這樣的詞語沒有異教色彩，那就可以使用。英文譯本中也有幾種恰當的譯法：「最重要的座位」（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直譯）、「最好的座位」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）、「預留的座位」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯），甚至是「前面的座位」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "07003020",
+"start_ref_usfm": "JDG 3:20",
+"end_ref": "07003020",
+"end_ref_usfm": "JDG 3:20"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001009",
+"end_ref_usfm": "1SA 1:9"
+},
+{
+"start_ref": "09002008",
+"start_ref_usfm": "1SA 2:8",
+"end_ref": "09002008",
+"end_ref_usfm": "1SA 2:8"
+},
+{
+"start_ref": "09004013",
+"start_ref_usfm": "1SA 4:13",
+"end_ref": "09004013",
+"end_ref_usfm": "1SA 4:13"
+},
+{
+"start_ref": "09004018",
+"start_ref_usfm": "1SA 4:18",
+"end_ref": "09004018",
+"end_ref_usfm": "1SA 4:18"
+},
+{
+"start_ref": "11002019",
+"start_ref_usfm": "1KI 2:19",
+"end_ref": "11002019",
+"end_ref_usfm": "1KI 2:19"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003001",
+"end_ref_usfm": "EST 3:1"
+},
+{
+"start_ref": "20009014",
+"start_ref_usfm": "PRO 9:14",
+"end_ref": "20009014",
+"end_ref_usfm": "PRO 9:14"
+},
+{
+"start_ref": "09020018",
+"start_ref_usfm": "1SA 20:18",
+"end_ref": "09020018",
+"end_ref_usfm": "1SA 20:18"
+},
+{
+"start_ref": "09020025",
+"start_ref_usfm": "1SA 20:25",
+"end_ref": "09020025",
+"end_ref_usfm": "1SA 20:25"
+},
+{
+"start_ref": "18029007",
+"start_ref_usfm": "JOB 29:7",
+"end_ref": "18029007",
+"end_ref_usfm": "JOB 29:7"
+},
+{
+"start_ref": "19001001",
+"start_ref_usfm": "PSA 1:1",
+"end_ref": "19001001",
+"end_ref_usfm": "PSA 1:1"
+},
+{
+"start_ref": "26008003",
+"start_ref_usfm": "EZK 8:3",
+"end_ref": "26008003",
+"end_ref_usfm": "EZK 8:3"
+},
+{
+"start_ref": "26028002",
+"start_ref_usfm": "EZK 28:2",
+"end_ref": "26028002",
+"end_ref_usfm": "EZK 28:2"
+},
+{
+"start_ref": "18023003",
+"start_ref_usfm": "JOB 23:3",
+"end_ref": "18023003",
+"end_ref_usfm": "JOB 23:3"
+},
+{
+"start_ref": "40021012",
+"start_ref_usfm": "MAT 21:12",
+"end_ref": "40021012",
+"end_ref_usfm": "MAT 21:12"
+},
+{
+"start_ref": "40023002",
+"start_ref_usfm": "MAT 23:2",
+"end_ref": "40023002",
+"end_ref_usfm": "MAT 23:2"
+},
+{
+"start_ref": "41011015",
+"start_ref_usfm": "MRK 11:15",
+"end_ref": "41011015",
+"end_ref_usfm": "MRK 11:15"
+},
+{
+"start_ref": "72007004",
+"start_ref_usfm": "SIR 7:4",
+"end_ref": "72007004",
+"end_ref_usfm": "SIR 7:4"
+},
+{
+"start_ref": "72012012",
+"start_ref_usfm": "SIR 12:12",
+"end_ref": "72012012",
+"end_ref_usfm": "SIR 12:12"
+},
+{
+"start_ref": "40023006",
+"start_ref_usfm": "MAT 23:6",
+"end_ref": "40023006",
+"end_ref_usfm": "MAT 23:6"
+},
+{
+"start_ref": "41012039",
+"start_ref_usfm": "MRK 12:39",
+"end_ref": "41012039",
+"end_ref_usfm": "MRK 12:39"
+},
+{
+"start_ref": "42011043",
+"start_ref_usfm": "LUK 11:43",
+"end_ref": "42011043",
+"end_ref_usfm": "LUK 11:43"
+},
+{
+"start_ref": "42020046",
+"start_ref_usfm": "LUK 20:46",
+"end_ref": "42020046",
+"end_ref_usfm": "LUK 20:46"
+}
+],
+"resource": []
+}
+}
+]

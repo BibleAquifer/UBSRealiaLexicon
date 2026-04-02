@@ -1,0 +1,30 @@
+[
+{
+"content_id": "REALIA:5.5.1",
+"reference_id": "REALIA:5.5.1",
+"version": "1.0.4",
+"title": "標題：床柱（bedpost）",
+"media_type": "Text",
+"index_reference": "5.5.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.5.1\"><span class=\"thlex-key\">5.5.1</span> 標題：床柱（bedpost）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κανών</span> <span class=\"thlex-translit\">(音譯： kanōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt13:6\">JDT 13:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： στῦλος</span> <span class=\"thlex-translit\">(音譯： stulos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt13:9\">JDT 13:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>架高床的躺臥面是由四角的床腿或柱子來支撐的。有時，這些柱子會延伸到床上方大約一個人站立的高度。有一塊薄布鋪在柱頂並垂到地上，這樣就把整個床包圍起來，可以防止蚊蟲襲擾裡面的人（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.5.2 罩篷、蚊帳 (canopy, mosquito net)&lt;REALIA:5.5.2&gt;</a> ）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>如果當地人不知道帶柱子的床，翻譯者在翻譯上面列出的經文時，可以不指出床的結構。因此，<a href=\"https://ref.ly/Jdt13:6\">JDT 13:6</a> 可譯為，「她走到床頭，從掛劍的地方拔出敖羅斐乃的劍。」<a href=\"https://ref.ly/Jdt13:9\">JDT 13:9</a> b可譯為，「她取下床的蚊帳。」</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "69013006",
+"start_ref_usfm": "JDT 13:6",
+"end_ref": "69013006",
+"end_ref_usfm": "JDT 13:6"
+},
+{
+"start_ref": "69013009",
+"start_ref_usfm": "JDT 13:9",
+"end_ref": "69013009",
+"end_ref_usfm": "JDT 13:9"
+}
+],
+"resource": []
+}
+}
+]

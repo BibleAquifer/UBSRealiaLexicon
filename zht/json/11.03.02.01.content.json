@@ -1,0 +1,30 @@
+[
+{
+"content_id": "REALIA:11.3.2.1",
+"reference_id": "REALIA:11.3.2.1",
+"version": "1.0.4",
+"title": "標題：斗、撒頓（saton）",
+"media_type": "Text",
+"index_reference": "11.3.2.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.2.1\"><span class=\"thlex-key\">11.3.2.1</span> 標題：斗、撒頓（saton）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σάτον</span> <span class=\"thlex-translit\">(音譯： saton)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt13:33\">MAT 13:33</a>, <a href=\"https://ref.ly/Luke13:21\">LUK 13:21</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Matt13:33\">MAT 13:33</a> ：這裡具體是多少麵粉並不重要，不過譯本一般會表明數量相對較大。翻譯者有時會把“three measures”（「三量器」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）譯作「三容器」或三個當地常用的對等量度，比如「三盤」。另外，翻譯者也可以選用當地大約50磅或40升麵粉的計量方式，例如「一蒲式耳」（“a bushel”； <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。通俗譯本會避免使用具體的體積數。<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 作“three big batches”（「三大團」），<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 作“a large tub”（「一大盆」），<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 和<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 僅僅說“a large amount”（「很多」）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013033",
+"start_ref_usfm": "MAT 13:33",
+"end_ref": "40013033",
+"end_ref_usfm": "MAT 13:33"
+},
+{
+"start_ref": "42013021",
+"start_ref_usfm": "LUK 13:21",
+"end_ref": "42013021",
+"end_ref_usfm": "LUK 13:21"
+}
+],
+"resource": []
+}
+}
+]
