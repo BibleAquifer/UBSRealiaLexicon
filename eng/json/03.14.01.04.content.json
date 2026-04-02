@@ -1,0 +1,450 @@
+[
+{
+"content_id": "REALIA:3.14.1.4",
+"reference_id": "REALIA:3.14.1.4",
+"version": "1.0.4",
+"title": "Treasury, strongroom",
+"media_type": "Text",
+"index_reference": "3.14.1.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.14.1.4\"><span class=\"thlex-key\">3.14.1.4</span> Treasury, strongroom</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֲרוֹן</span> <span class=\"thlex-translit\">(’aron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs12:10\">2KI 12:10</a>, <a href=\"https://ref.ly/2Kgs12:11\">2KI 12:11</a>, <a href=\"https://ref.ly/2Chr24:8\">2CH 24:8</a>, <a href=\"https://ref.ly/2Chr24:10\">2CH 24:10</a>, <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a>, <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בַּיִת, אָסֹף</span> <span class=\"thlex-translit\">((beyth) ’asupim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr26:15\">1CH 26:15</a>, <a href=\"https://ref.ly/1Chr26:17\">1CH 26:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בַּיִת, אוֹצָר</span> <span class=\"thlex-translit\">((beyth) ’otsar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut28:12\">DEU 28:12</a>, <a href=\"https://ref.ly/Deut32:34\">DEU 32:34</a>, <a href=\"https://ref.ly/Josh6:19\">JOS 6:19</a>, <a href=\"https://ref.ly/Josh6:24\">JOS 6:24</a>, <a href=\"https://ref.ly/1Kgs7:51\">1KI 7:51</a>, <a href=\"https://ref.ly/1Kgs15:18\">1KI 15:18</a>, <a href=\"https://ref.ly/1Kgs15:18\">1KI 15:18</a>, <a href=\"https://ref.ly/2Kgs12:19\">2KI 12:19</a>, <a href=\"https://ref.ly/2Kgs14:14\">2KI 14:14</a>, <a href=\"https://ref.ly/2Kgs16:8\">2KI 16:8</a>, <a href=\"https://ref.ly/2Kgs18:15\">2KI 18:15</a>, <a href=\"https://ref.ly/2Kgs20:13\">2KI 20:13</a>, <a href=\"https://ref.ly/2Kgs20:15\">2KI 20:15</a>, <a href=\"https://ref.ly/2Kgs24:13\">2KI 24:13</a>, <a href=\"https://ref.ly/2Kgs24:13\">2KI 24:13</a>, <a href=\"https://ref.ly/1Chr9:26\">1CH 9:26</a>, <a href=\"https://ref.ly/1Chr26:20\">1CH 26:20</a>, <a href=\"https://ref.ly/1Chr26:20\">1CH 26:20</a>, <a href=\"https://ref.ly/1Chr26:22\">1CH 26:22</a>, <a href=\"https://ref.ly/1Chr26:24\">1CH 26:24</a>, <a href=\"https://ref.ly/1Chr26:26\">1CH 26:26</a>, <a href=\"https://ref.ly/1Chr27:25\">1CH 27:25</a>, <a href=\"https://ref.ly/1Chr27:25\">1CH 27:25</a>, <a href=\"https://ref.ly/1Chr28:12\">1CH 28:12</a>, <a href=\"https://ref.ly/1Chr28:12\">1CH 28:12</a>, <a href=\"https://ref.ly/1Chr29:8\">1CH 29:8</a>, <a href=\"https://ref.ly/2Chr5:1\">2CH 5:1</a>, <a href=\"https://ref.ly/2Chr8:15\">2CH 8:15</a>, <a href=\"https://ref.ly/2Chr12:9\">2CH 12:9</a>, <a href=\"https://ref.ly/2Chr12:9\">2CH 12:9</a>, <a href=\"https://ref.ly/2Chr16:2\">2CH 16:2</a>, <a href=\"https://ref.ly/2Chr25:24\">2CH 25:24</a>, <a href=\"https://ref.ly/2Chr32:27\">2CH 32:27</a>, <a href=\"https://ref.ly/Ezra2:69\">EZR 2:69</a>, <a href=\"https://ref.ly/Neh7:69\">NEH 7:69</a>, <a href=\"https://ref.ly/Neh7:70\">NEH 7:70</a>, <a href=\"https://ref.ly/Neh10:39\">NEH 10:39</a>, <a href=\"https://ref.ly/Prov8:21\">PRO 8:21</a>, <a href=\"https://ref.ly/Ezek28:4\">EZK 28:4</a>, <a href=\"https://ref.ly/Dan1:2\">DAN 1:2</a>, <a href=\"https://ref.ly/Hos13:15\">HOS 13:15</a>, <a href=\"https://ref.ly/Mal3:10\">MAL 3:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בַּיִת, נְכֹאת</span> <span class=\"thlex-translit\">(beth nkoth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs20:13\">2KI 20:13</a>, <a href=\"https://ref.ly/Isa39:2\">ISA 39:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">גְּנַז</span> <span class=\"thlex-translit\">(gnaz)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezra7:20\">EZR 7:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֶּנֶז</span> <span class=\"thlex-translit\">(genez)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Esth3:9\">EST 3:9</a>, <a href=\"https://ref.ly/Esth4:7\">EST 4:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גַּנְזַךְ</span> <span class=\"thlex-translit\">(ganzak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr28:11\">1CH 28:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">γαζοφυλάκιον</span> <span class=\"thlex-translit\">(gazofulakion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark12:41\">MRK 12:41</a>, <a href=\"https://ref.ly/Mark12:41\">MRK 12:41</a>, <a href=\"https://ref.ly/Mark12:43\">MRK 12:43</a>, <a href=\"https://ref.ly/Luke21:1\">LUK 21:1</a>, <a href=\"https://ref.ly/John8:20\">JHN 8:20</a>, <a href=\"https://ref.ly/1Macc3:28\">1MA 3:28</a>, <a href=\"https://ref.ly/1Macc14:49\">1MA 14:49</a>, <a href=\"https://ref.ly/2Macc3:6\">2MA 3:6</a>, <a href=\"https://ref.ly/2Macc3:24\">2MA 3:24</a>, <a href=\"https://ref.ly/2Macc3:28\">2MA 3:28</a>, <a href=\"https://ref.ly/2Macc3:40\">2MA 3:40</a>, <a href=\"https://ref.ly/2Macc4:42\">2MA 4:42</a>, <a href=\"https://ref.ly/2Macc5:18\">2MA 5:18</a>, <a href=\"https://ref.ly/4Macc4:3\">4MA 4:3</a>, <a href=\"https://ref.ly/4Macc4:6\">4MA 4:6</a>, <a href=\"https://ref.ly/1Esd5:44\">1ES 5:44</a>, <a href=\"https://ref.ly/1Esd8:18\">1ES 8:18</a>, <a href=\"https://ref.ly/1Esd8:44\">1ES 8:44</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">θησαυρός</span> <span class=\"thlex-translit\">(thēsauros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir1:25\">SIR 1:25</a>, <a href=\"https://ref.ly/1Macc3:29\">1MA 3:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κορβανᾶς</span> <span class=\"thlex-translit\">(korbanas)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:6\">MAT 27:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ταμιεῖον</span> <span class=\"thlex-translit\">(tamieion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir29:12\">SIR 29:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">θησαυρός</span> <span class=\"thlex-translit\">(thesaurus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/4Macc4:7\">4MA 4:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">thesaurus</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd6:40\">2ES 6:40</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0075_pinnacle_en.jpg\" alt=\"Southwest corner of the temple mount (model)\"><figcaption class=\"thlex-caption\">Southwest corner of the temple mount (model) (© Ray Pritz by United Bible Societies)</figcaption></figure>The treasury was a place for storing valuables belonging to a king or other national authorities. The Temple in Jerusalem had its own treasury. There was no standard size or structure of a treasury.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>’aron</em> in <a href=\"https://ref.ly/2Kgs12:9\">2KI 12:9</a>; <a href=\"https://ref.ly/2Kgs12:10\">2KI 12:10</a> and <a href=\"https://ref.ly/2Chr24:8\">2CH 24:8</a>; <a href=\"https://ref.ly/2Chr24:10\">2CH 24:10</a>; <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a> refers to a large collection box. According to <a href=\"https://ref.ly/2Kgs12:9\">2KI 12:9</a>, a hole was cut in its “door.” This would refer to one surface of the box, presumably its top. People could bring their donations (not coins, which were not yet invented) and insert them into the box through the hole. The donations could then be removed by opening or removing the top.</p>\n<p>In some passages the Hebrew word <em>’otsar</em> refers to treasure (for example, <a href=\"https://ref.ly/2Kgs24:13\">2KI 24:13</a>; <a href=\"https://ref.ly/2Chr12:9\">2CH 12:9</a>), while in other places it indicates the place where treasure was stored, that is, a treasury (for example, <a href=\"https://ref.ly/2Kgs20:13\">2KI 20:13</a>; <a href=\"https://ref.ly/2Chr32:27\">2CH 32:27</a>). The first half of <a href=\"https://ref.ly/1Kgs15:18\">1KI 15:18</a> says literally “And Asa took all the remaining silver and gold in the treasuries of the house of the LORD and [he took] the treasures of the king’s house.” No translation consulted makes the distinction, although some render both words “treasures” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), while others render both words “treasuries” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>). In fact, in many of the references under <em>’otsar</em> it is not easy to determine if the meaning is “treasure” or “treasure storehouse.” In only three places is there specific reference in Hebrew to a “treasure house” (<a href=\"https://ref.ly/Neh10:39\">NEH 10:39</a>; <a href=\"https://ref.ly/Dan1:2\">DAN 1:2</a>; <a href=\"https://ref.ly/Mal3:10\">MAL 3:10</a>).</p>\n<p>Where a word for “treasury” is not available, it may be rendered with a descriptive phrase, such as “safe place where the king’s [or, Temple’s] valuables were kept/were guarded.” An alternative model for the last half of <a href=\"https://ref.ly/Matt27:6\">MAT 27:6</a> is “It is against our Law to put it with the money that belongs to the Temple since it is blood money.”</p>\n<p>In the New Testament the Greek word <em>gazofulakion</em> also refers to a box in which donations were collected. According to Jewish tradition, there were thirteen such offering boxes in the Temple, and the receptacles that channeled the money down to the boxes were in the form of trumpets or rams’ horns. As a result, the sound of coins falling into the boxes was rather conspicuous. In some cultures such a collection box may be unknown, or at best people know the container that is passed around to collect money in church. If possible, the translation should indicate that the offering box was in a fixed place and not something passed around. In <a href=\"https://ref.ly/Luke21:1\">LUK 21:1</a><abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> has “Temple money box” and adds this note: “A special box in the Jewish place of worship where people put their gifts to God.” PV uses a longer expression, saying “place reserved for them [gifts].”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "12012010",
+"start_ref_usfm": "2KI 12:10",
+"end_ref": "12012010",
+"end_ref_usfm": "2KI 12:10"
+},
+{
+"start_ref": "12012011",
+"start_ref_usfm": "2KI 12:11",
+"end_ref": "12012011",
+"end_ref_usfm": "2KI 12:11"
+},
+{
+"start_ref": "14024008",
+"start_ref_usfm": "2CH 24:8",
+"end_ref": "14024008",
+"end_ref_usfm": "2CH 24:8"
+},
+{
+"start_ref": "14024010",
+"start_ref_usfm": "2CH 24:10",
+"end_ref": "14024010",
+"end_ref_usfm": "2CH 24:10"
+},
+{
+"start_ref": "14024011",
+"start_ref_usfm": "2CH 24:11",
+"end_ref": "14024011",
+"end_ref_usfm": "2CH 24:11"
+},
+{
+"start_ref": "13026015",
+"start_ref_usfm": "1CH 26:15",
+"end_ref": "13026015",
+"end_ref_usfm": "1CH 26:15"
+},
+{
+"start_ref": "13026017",
+"start_ref_usfm": "1CH 26:17",
+"end_ref": "13026017",
+"end_ref_usfm": "1CH 26:17"
+},
+{
+"start_ref": "05028012",
+"start_ref_usfm": "DEU 28:12",
+"end_ref": "05028012",
+"end_ref_usfm": "DEU 28:12"
+},
+{
+"start_ref": "05032034",
+"start_ref_usfm": "DEU 32:34",
+"end_ref": "05032034",
+"end_ref_usfm": "DEU 32:34"
+},
+{
+"start_ref": "06006019",
+"start_ref_usfm": "JOS 6:19",
+"end_ref": "06006019",
+"end_ref_usfm": "JOS 6:19"
+},
+{
+"start_ref": "06006024",
+"start_ref_usfm": "JOS 6:24",
+"end_ref": "06006024",
+"end_ref_usfm": "JOS 6:24"
+},
+{
+"start_ref": "11007051",
+"start_ref_usfm": "1KI 7:51",
+"end_ref": "11007051",
+"end_ref_usfm": "1KI 7:51"
+},
+{
+"start_ref": "11015018",
+"start_ref_usfm": "1KI 15:18",
+"end_ref": "11015018",
+"end_ref_usfm": "1KI 15:18"
+},
+{
+"start_ref": "12012019",
+"start_ref_usfm": "2KI 12:19",
+"end_ref": "12012019",
+"end_ref_usfm": "2KI 12:19"
+},
+{
+"start_ref": "12014014",
+"start_ref_usfm": "2KI 14:14",
+"end_ref": "12014014",
+"end_ref_usfm": "2KI 14:14"
+},
+{
+"start_ref": "12016008",
+"start_ref_usfm": "2KI 16:8",
+"end_ref": "12016008",
+"end_ref_usfm": "2KI 16:8"
+},
+{
+"start_ref": "12018015",
+"start_ref_usfm": "2KI 18:15",
+"end_ref": "12018015",
+"end_ref_usfm": "2KI 18:15"
+},
+{
+"start_ref": "12020013",
+"start_ref_usfm": "2KI 20:13",
+"end_ref": "12020013",
+"end_ref_usfm": "2KI 20:13"
+},
+{
+"start_ref": "12020015",
+"start_ref_usfm": "2KI 20:15",
+"end_ref": "12020015",
+"end_ref_usfm": "2KI 20:15"
+},
+{
+"start_ref": "12024013",
+"start_ref_usfm": "2KI 24:13",
+"end_ref": "12024013",
+"end_ref_usfm": "2KI 24:13"
+},
+{
+"start_ref": "13009026",
+"start_ref_usfm": "1CH 9:26",
+"end_ref": "13009026",
+"end_ref_usfm": "1CH 9:26"
+},
+{
+"start_ref": "13026020",
+"start_ref_usfm": "1CH 26:20",
+"end_ref": "13026020",
+"end_ref_usfm": "1CH 26:20"
+},
+{
+"start_ref": "13026022",
+"start_ref_usfm": "1CH 26:22",
+"end_ref": "13026022",
+"end_ref_usfm": "1CH 26:22"
+},
+{
+"start_ref": "13026024",
+"start_ref_usfm": "1CH 26:24",
+"end_ref": "13026024",
+"end_ref_usfm": "1CH 26:24"
+},
+{
+"start_ref": "13026026",
+"start_ref_usfm": "1CH 26:26",
+"end_ref": "13026026",
+"end_ref_usfm": "1CH 26:26"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027025",
+"end_ref_usfm": "1CH 27:25"
+},
+{
+"start_ref": "13028012",
+"start_ref_usfm": "1CH 28:12",
+"end_ref": "13028012",
+"end_ref_usfm": "1CH 28:12"
+},
+{
+"start_ref": "13029008",
+"start_ref_usfm": "1CH 29:8",
+"end_ref": "13029008",
+"end_ref_usfm": "1CH 29:8"
+},
+{
+"start_ref": "14005001",
+"start_ref_usfm": "2CH 5:1",
+"end_ref": "14005001",
+"end_ref_usfm": "2CH 5:1"
+},
+{
+"start_ref": "14008015",
+"start_ref_usfm": "2CH 8:15",
+"end_ref": "14008015",
+"end_ref_usfm": "2CH 8:15"
+},
+{
+"start_ref": "14012009",
+"start_ref_usfm": "2CH 12:9",
+"end_ref": "14012009",
+"end_ref_usfm": "2CH 12:9"
+},
+{
+"start_ref": "14016002",
+"start_ref_usfm": "2CH 16:2",
+"end_ref": "14016002",
+"end_ref_usfm": "2CH 16:2"
+},
+{
+"start_ref": "14025024",
+"start_ref_usfm": "2CH 25:24",
+"end_ref": "14025024",
+"end_ref_usfm": "2CH 25:24"
+},
+{
+"start_ref": "14032027",
+"start_ref_usfm": "2CH 32:27",
+"end_ref": "14032027",
+"end_ref_usfm": "2CH 32:27"
+},
+{
+"start_ref": "15002069",
+"start_ref_usfm": "EZR 2:69",
+"end_ref": "15002069",
+"end_ref_usfm": "EZR 2:69"
+},
+{
+"start_ref": "16007069",
+"start_ref_usfm": "NEH 7:69",
+"end_ref": "16007069",
+"end_ref_usfm": "NEH 7:69"
+},
+{
+"start_ref": "16007070",
+"start_ref_usfm": "NEH 7:70",
+"end_ref": "16007070",
+"end_ref_usfm": "NEH 7:70"
+},
+{
+"start_ref": "16010039",
+"start_ref_usfm": "NEH 10:39",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "20008021",
+"start_ref_usfm": "PRO 8:21",
+"end_ref": "20008021",
+"end_ref_usfm": "PRO 8:21"
+},
+{
+"start_ref": "26028004",
+"start_ref_usfm": "EZK 28:4",
+"end_ref": "26028004",
+"end_ref_usfm": "EZK 28:4"
+},
+{
+"start_ref": "27001002",
+"start_ref_usfm": "DAN 1:2",
+"end_ref": "27001002",
+"end_ref_usfm": "DAN 1:2"
+},
+{
+"start_ref": "28013015",
+"start_ref_usfm": "HOS 13:15",
+"end_ref": "28013015",
+"end_ref_usfm": "HOS 13:15"
+},
+{
+"start_ref": "39003010",
+"start_ref_usfm": "MAL 3:10",
+"end_ref": "39003010",
+"end_ref_usfm": "MAL 3:10"
+},
+{
+"start_ref": "23039002",
+"start_ref_usfm": "ISA 39:2",
+"end_ref": "23039002",
+"end_ref_usfm": "ISA 39:2"
+},
+{
+"start_ref": "15007020",
+"start_ref_usfm": "EZR 7:20",
+"end_ref": "15007020",
+"end_ref_usfm": "EZR 7:20"
+},
+{
+"start_ref": "17003009",
+"start_ref_usfm": "EST 3:9",
+"end_ref": "17003009",
+"end_ref_usfm": "EST 3:9"
+},
+{
+"start_ref": "17004007",
+"start_ref_usfm": "EST 4:7",
+"end_ref": "17004007",
+"end_ref_usfm": "EST 4:7"
+},
+{
+"start_ref": "13028011",
+"start_ref_usfm": "1CH 28:11",
+"end_ref": "13028011",
+"end_ref_usfm": "1CH 28:11"
+},
+{
+"start_ref": "41012041",
+"start_ref_usfm": "MRK 12:41",
+"end_ref": "41012041",
+"end_ref_usfm": "MRK 12:41"
+},
+{
+"start_ref": "41012043",
+"start_ref_usfm": "MRK 12:43",
+"end_ref": "41012043",
+"end_ref_usfm": "MRK 12:43"
+},
+{
+"start_ref": "42021001",
+"start_ref_usfm": "LUK 21:1",
+"end_ref": "42021001",
+"end_ref_usfm": "LUK 21:1"
+},
+{
+"start_ref": "43008020",
+"start_ref_usfm": "JHN 8:20",
+"end_ref": "43008020",
+"end_ref_usfm": "JHN 8:20"
+},
+{
+"start_ref": "78003028",
+"start_ref_usfm": "1MA 3:28",
+"end_ref": "78003028",
+"end_ref_usfm": "1MA 3:28"
+},
+{
+"start_ref": "78014049",
+"start_ref_usfm": "1MA 14:49",
+"end_ref": "78014049",
+"end_ref_usfm": "1MA 14:49"
+},
+{
+"start_ref": "79003006",
+"start_ref_usfm": "2MA 3:6",
+"end_ref": "79003006",
+"end_ref_usfm": "2MA 3:6"
+},
+{
+"start_ref": "79003024",
+"start_ref_usfm": "2MA 3:24",
+"end_ref": "79003024",
+"end_ref_usfm": "2MA 3:24"
+},
+{
+"start_ref": "79003028",
+"start_ref_usfm": "2MA 3:28",
+"end_ref": "79003028",
+"end_ref_usfm": "2MA 3:28"
+},
+{
+"start_ref": "79003040",
+"start_ref_usfm": "2MA 3:40",
+"end_ref": "79003040",
+"end_ref_usfm": "2MA 3:40"
+},
+{
+"start_ref": "79004042",
+"start_ref_usfm": "2MA 4:42",
+"end_ref": "79004042",
+"end_ref_usfm": "2MA 4:42"
+},
+{
+"start_ref": "79005018",
+"start_ref_usfm": "2MA 5:18",
+"end_ref": "79005018",
+"end_ref_usfm": "2MA 5:18"
+},
+{
+"start_ref": "81004003",
+"start_ref_usfm": "4MA 4:3",
+"end_ref": "81004003",
+"end_ref_usfm": "4MA 4:3"
+},
+{
+"start_ref": "81004006",
+"start_ref_usfm": "4MA 4:6",
+"end_ref": "81004006",
+"end_ref_usfm": "4MA 4:6"
+},
+{
+"start_ref": "82005044",
+"start_ref_usfm": "1ES 5:44",
+"end_ref": "82005044",
+"end_ref_usfm": "1ES 5:44"
+},
+{
+"start_ref": "82008018",
+"start_ref_usfm": "1ES 8:18",
+"end_ref": "82008018",
+"end_ref_usfm": "1ES 8:18"
+},
+{
+"start_ref": "82008044",
+"start_ref_usfm": "1ES 8:44",
+"end_ref": "82008044",
+"end_ref_usfm": "1ES 8:44"
+},
+{
+"start_ref": "72001025",
+"start_ref_usfm": "SIR 1:25",
+"end_ref": "72001025",
+"end_ref_usfm": "SIR 1:25"
+},
+{
+"start_ref": "78003029",
+"start_ref_usfm": "1MA 3:29",
+"end_ref": "78003029",
+"end_ref_usfm": "1MA 3:29"
+},
+{
+"start_ref": "40027006",
+"start_ref_usfm": "MAT 27:6",
+"end_ref": "40027006",
+"end_ref_usfm": "MAT 27:6"
+},
+{
+"start_ref": "72029012",
+"start_ref_usfm": "SIR 29:12",
+"end_ref": "72029012",
+"end_ref_usfm": "SIR 29:12"
+},
+{
+"start_ref": "81004007",
+"start_ref_usfm": "4MA 4:7",
+"end_ref": "81004007",
+"end_ref_usfm": "4MA 4:7"
+},
+{
+"start_ref": "83006040",
+"start_ref_usfm": "2ES 6:40",
+"end_ref": "83006040",
+"end_ref_usfm": "2ES 6:40"
+},
+{
+"start_ref": "12012009",
+"start_ref_usfm": "2KI 12:9",
+"end_ref": "12012009",
+"end_ref_usfm": "2KI 12:9"
+}
+],
+"resource": []
+}
+}
+]

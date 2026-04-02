@@ -1,0 +1,828 @@
+[
+{
+"content_id": "REALIA:5.5",
+"reference_id": "REALIA:5.5",
+"version": "1.0.4",
+"title": "Bed, sleeping mat",
+"media_type": "Text",
+"index_reference": "5.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.5\"><span class=\"thlex-key\">5.5</span> Bed, sleeping mat</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יָצוּעַ</span> <span class=\"thlex-translit\">(yatsu‘a)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:4\">GEN 49:4</a>, <a href=\"https://ref.ly/1Chr5:1\">1CH 5:1</a>, <a href=\"https://ref.ly/Job17:13\">JOB 17:13</a>, <a href=\"https://ref.ly/Ps63:7\">PSA 63:7</a>, <a href=\"https://ref.ly/Ps132:3\">PSA 132:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִטָּה</span> <span class=\"thlex-translit\">(mitah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen47:31\">GEN 47:31</a>, <a href=\"https://ref.ly/Gen48:2\">GEN 48:2</a>, <a href=\"https://ref.ly/Gen49:33\">GEN 49:33</a>, <a href=\"https://ref.ly/Exod7:28\">EXO 7:28</a>, <a href=\"https://ref.ly/1Sam19:13\">1SA 19:13</a>, <a href=\"https://ref.ly/1Sam19:15\">1SA 19:15</a>, <a href=\"https://ref.ly/1Sam19:16\">1SA 19:16</a>, <a href=\"https://ref.ly/1Sam28:23\">1SA 28:23</a>, <a href=\"https://ref.ly/2Sam4:7\">2SA 4:7</a>, <a href=\"https://ref.ly/1Kgs17:19\">1KI 17:19</a>, <a href=\"https://ref.ly/1Kgs21:4\">1KI 21:4</a>, <a href=\"https://ref.ly/2Kgs1:4\">2KI 1:4</a>, <a href=\"https://ref.ly/2Kgs1:6\">2KI 1:6</a>, <a href=\"https://ref.ly/2Kgs1:16\">2KI 1:16</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/2Kgs4:21\">2KI 4:21</a>, <a href=\"https://ref.ly/2Kgs4:32\">2KI 4:32</a>, <a href=\"https://ref.ly/2Kgs11:2\">2KI 11:2</a>, <a href=\"https://ref.ly/2Chr22:11\">2CH 22:11</a>, <a href=\"https://ref.ly/2Chr24:25\">2CH 24:25</a>, <a href=\"https://ref.ly/Esth1:6\">EST 1:6</a>, <a href=\"https://ref.ly/Esth7:8\">EST 7:8</a>, <a href=\"https://ref.ly/Ps6:7\">PSA 6:7</a>, <a href=\"https://ref.ly/Prov26:14\">PRO 26:14</a>, <a href=\"https://ref.ly/Song3:7\">SNG 3:7</a>, <a href=\"https://ref.ly/Ezek23:41\">EZK 23:41</a>, <a href=\"https://ref.ly/Amos3:12\">AMO 3:12</a>, <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מֵסַב</span> <span class=\"thlex-translit\">(mesav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song1:12\">SNG 1:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַצָּע</span> <span class=\"thlex-translit\">(matsa‘)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa28:20\">ISA 28:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִשְׁכָּב</span> <span class=\"thlex-translit\">(mishkav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:4\">GEN 49:4</a>, <a href=\"https://ref.ly/Exod7:28\">EXO 7:28</a>, <a href=\"https://ref.ly/Exod21:18\">EXO 21:18</a>, <a href=\"https://ref.ly/Lev15:4\">LEV 15:4</a>, <a href=\"https://ref.ly/Lev15:5\">LEV 15:5</a>, <a href=\"https://ref.ly/Lev15:21\">LEV 15:21</a>, <a href=\"https://ref.ly/Lev15:23\">LEV 15:23</a>, <a href=\"https://ref.ly/Lev15:24\">LEV 15:24</a>, <a href=\"https://ref.ly/Lev15:26\">LEV 15:26</a>, <a href=\"https://ref.ly/Lev15:26\">LEV 15:26</a>, <a href=\"https://ref.ly/Lev18:22\">LEV 18:22</a>, <a href=\"https://ref.ly/Lev20:13\">LEV 20:13</a>, <a href=\"https://ref.ly/Num31:17\">NUM 31:17</a>, <a href=\"https://ref.ly/Num31:18\">NUM 31:18</a>, <a href=\"https://ref.ly/Num31:35\">NUM 31:35</a>, <a href=\"https://ref.ly/Judg21:11\">JDG 21:11</a>, <a href=\"https://ref.ly/Judg21:12\">JDG 21:12</a>, <a href=\"https://ref.ly/2Sam4:5\">2SA 4:5</a>, <a href=\"https://ref.ly/2Sam4:7\">2SA 4:7</a>, <a href=\"https://ref.ly/2Sam4:11\">2SA 4:11</a>, <a href=\"https://ref.ly/2Sam11:2\">2SA 11:2</a>, <a href=\"https://ref.ly/2Sam11:13\">2SA 11:13</a>, <a href=\"https://ref.ly/2Sam13:5\">2SA 13:5</a>, <a href=\"https://ref.ly/2Sam17:28\">2SA 17:28</a>, <a href=\"https://ref.ly/1Kgs1:47\">1KI 1:47</a>, <a href=\"https://ref.ly/2Kgs6:12\">2KI 6:12</a>, <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, <a href=\"https://ref.ly/Job7:13\">JOB 7:13</a>, <a href=\"https://ref.ly/Job33:15\">JOB 33:15</a>, <a href=\"https://ref.ly/Job33:19\">JOB 33:19</a>, <a href=\"https://ref.ly/Ps4:5\">PSA 4:5</a>, <a href=\"https://ref.ly/Ps36:5\">PSA 36:5</a>, <a href=\"https://ref.ly/Ps41:4\">PSA 41:4</a>, <a href=\"https://ref.ly/Ps149:5\">PSA 149:5</a>, <a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a>, <a href=\"https://ref.ly/Prov22:27\">PRO 22:27</a>, <a href=\"https://ref.ly/Eccl10:20\">ECC 10:20</a>, <a href=\"https://ref.ly/Song3:1\">SNG 3:1</a>, <a href=\"https://ref.ly/Isa57:2\">ISA 57:2</a>, <a href=\"https://ref.ly/Isa57:7\">ISA 57:7</a>, <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>, <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>, <a href=\"https://ref.ly/Ezek23:17\">EZK 23:17</a>, <a href=\"https://ref.ly/Ezek32:25\">EZK 32:25</a>, <a href=\"https://ref.ly/Hos7:14\">HOS 7:14</a>, <a href=\"https://ref.ly/Mic2:1\">MIC 2:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֶרֶשׂ</span> <span class=\"thlex-translit\">(‘eres)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a>, <a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a>, <a href=\"https://ref.ly/Job7:13\">JOB 7:13</a>, <a href=\"https://ref.ly/Ps6:7\">PSA 6:7</a>, <a href=\"https://ref.ly/Ps41:4\">PSA 41:4</a>, <a href=\"https://ref.ly/Ps132:3\">PSA 132:3</a>, <a href=\"https://ref.ly/Prov7:16\">PRO 7:16</a>, <a href=\"https://ref.ly/Song1:16\">SNG 1:16</a>, <a href=\"https://ref.ly/Amos3:12\">AMO 3:12</a>, <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κλινάριον</span> <span class=\"thlex-translit\">(klinarion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts5:15\">ACT 5:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κλίνη</span> <span class=\"thlex-translit\">(klinē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt9:2\">MAT 9:2</a>, <a href=\"https://ref.ly/Matt9:6\">MAT 9:6</a>, <a href=\"https://ref.ly/Mark4:21\">MRK 4:21</a>, <a href=\"https://ref.ly/Mark7:4\">MRK 7:4</a>, <a href=\"https://ref.ly/Mark7:30\">MRK 7:30</a>, <a href=\"https://ref.ly/Luke5:18\">LUK 5:18</a>, <a href=\"https://ref.ly/Luke8:16\">LUK 8:16</a>, <a href=\"https://ref.ly/Luke17:34\">LUK 17:34</a>, <a href=\"https://ref.ly/Rev2:22\">REV 2:22</a>, <a href=\"https://ref.ly/Tob8:4\">TOB 8:4</a>, <a href=\"https://ref.ly/Tob14:11\">TOB 14:11</a>, <a href=\"https://ref.ly/Jdt8:3\">JDT 8:3</a>, <a href=\"https://ref.ly/Jdt10:21\">JDT 10:21</a>, <a href=\"https://ref.ly/Jdt13:2\">JDT 13:2</a>, <a href=\"https://ref.ly/Jdt13:4\">JDT 13:4</a>, <a href=\"https://ref.ly/Jdt13:6\">JDT 13:6</a>, <a href=\"https://ref.ly/Jdt13:7\">JDT 13:7</a>, <a href=\"https://ref.ly/Jdt15:11\">JDT 15:11</a>, <a href=\"https://ref.ly/EsthGr1:6\">ESG 1:6</a>, <a href=\"https://ref.ly/EsthGr7:8\">ESG 7:8</a>, <a href=\"https://ref.ly/Sir23:18\">SIR 23:18</a>, <a href=\"https://ref.ly/Sir48:6\">SIR 48:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κλινίδιον</span> <span class=\"thlex-translit\">(klinidion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke5:19\">LUK 5:19</a>, <a href=\"https://ref.ly/Luke5:24\">LUK 5:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κοίτη</span> <span class=\"thlex-translit\">(koitē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke11:7\">LUK 11:7</a>, <a href=\"https://ref.ly/Rom9:10\">ROM 9:10</a>, <a href=\"https://ref.ly/Rom13:13\">ROM 13:13</a>, <a href=\"https://ref.ly/Heb13:4\">HEB 13:4</a>, <a href=\"https://ref.ly/Jdt13:1\">JDT 13:1</a>, <a href=\"https://ref.ly/EsthGr4:17\">ESG 4:17</a>, <a href=\"https://ref.ly/Wis3:13\">WIS 3:13</a>, <a href=\"https://ref.ly/Wis3:16\">WIS 3:16</a>, <a href=\"https://ref.ly/Sir31:19\">SIR 31:19</a>, <a href=\"https://ref.ly/Sir40:5\">SIR 40:5</a>, <a href=\"https://ref.ly/Sir41:24\">SIR 41:24</a>, <a href=\"https://ref.ly/1Macc1:5\">1MA 1:5</a>, <a href=\"https://ref.ly/1Macc6:8\">1MA 6:8</a>, <a href=\"https://ref.ly/PssSol17:16\">PSS 17:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κράβαττος</span> <span class=\"thlex-translit\">(krabattos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark2:4\">MRK 2:4</a>, <a href=\"https://ref.ly/Mark2:9\">MRK 2:9</a>, <a href=\"https://ref.ly/Mark2:11\">MRK 2:11</a>, <a href=\"https://ref.ly/Mark2:12\">MRK 2:12</a>, <a href=\"https://ref.ly/Mark6:55\">MRK 6:55</a>, <a href=\"https://ref.ly/John5:8\">JHN 5:8</a>, <a href=\"https://ref.ly/John5:9\">JHN 5:9</a>, <a href=\"https://ref.ly/John5:10\">JHN 5:10</a>, <a href=\"https://ref.ly/John5:11\">JHN 5:11</a>, <a href=\"https://ref.ly/Acts5:15\">ACT 5:15</a>, <a href=\"https://ref.ly/Acts9:33\">ACT 9:33</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">στρωμνή</span> <span class=\"thlex-translit\">(strōmnē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt9:3\">JDT 9:3</a>, <a href=\"https://ref.ly/Jdt13:9\">JDT 13:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">φορεῖον</span> <span class=\"thlex-translit\">(foreion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc3:27\">2MA 3:27</a>, <a href=\"https://ref.ly/2Macc9:8\">2MA 9:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">cubile</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd3:1\">2ES 3:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">lectus</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd12:26\">2ES 12:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0045_sleeping_mat.png\" alt=\"\n            \"><figcaption class=\"thlex-caption\">\n             (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The bed was an object on which a person slept. In some cases it could be a raised piece of furniture. However, the Semites from Canaan did not usually sleep on raised beds, but rather on skins spread on the floor. When the bed was a piece of raised furniture, it took a form similar to beds used in most cultures today: a low platform standing on four legs, a bit longer than the length of a man, and about 70–80 centimeters (27–31 inches) wide.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0083_wooden_bed.jpg\" alt=\"Replica of a wooden bed\"><figcaption class=\"thlex-caption\">Replica of a wooden bed (© Ray Pritz by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/Gen47:31\">GEN 47:31</a>: The beds used from ancient times in Egypt, especially by richer people, were similar to beds known in most cultures today. Specimens of them have been found in a number of Egyptian tombs. Sometimes in place of pillows, the Egyptians made use of headrests. These were made of wood, concave in form, with a base or pedestal 20 centimeters (8 inches) or more in height. It is probable that it was this kind of headrest upon which Jacob bowed himself (compare <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> “pillow”). Another possibility may be considered when translating this verse. The Hebrew word <em>mitah</em> translated “bed” by <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> can also mean “staff,” and this indeed is how it was understood by the Septuagint (followed by <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a> and <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>). However, the great majority of translations say “bed.” Translators should not attempt to harmonize the translations of this verse and <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a>.</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0030_bed.jpg\" alt=\"Drawing of beds made of different materials\"><figcaption class=\"thlex-caption\">Drawing of beds made of different materials (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/Ps6:7\">PSA 6:7</a>: “My couch” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) in the third line of this verse is synonymous with “my bed” in the second line. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> (also <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>) uses “bed” and “pillow” as more natural contemporary equivalents.</p>\n<p>\n            <a href=\"https://ref.ly/Song1:12\">SNG 1:12</a>: The Hebrew word <em>mesav</em> referring to a piece of furniture occurs only here. While most modern translations understand it to be a kind of “couch” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>), some understand it to refer to the low “table” (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr>, <abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr>) at which people reclined for meals. Some translations avoid having to make the choice by rendering the first line of this verse as “As long as my king is near me” (<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>) or “While my king is at his banquet” (<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr>). <abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> renders <em>mesav</em> as “enclosure” and adds a footnote explaining that the word, which may designate the bed that surrounded the dining table or the courtiers surrounding the couple, here speaks of a garden whose perfume attracts the king. <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> has adopted this interpretation by rendering the first line as “Now that my king is here in his garden.”</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0010_rollingup_mat.png\" alt=\"Man rolling up his mat\"><figcaption class=\"thlex-caption\">Man rolling up his mat (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>In a number of New Testament contexts, the Greek terms <em>klinarion</em>, <em>klinidion</em> and <em>krabattos</em> refer to cots or stretchers on which sick or convalescent persons might be resting or on which they could be transported. It could be made of reeds or cloth. It was thin and light and could be rolled or folded and carried easily by one person. There is no New Testament context in which these terms refer to couches on which people reclined while eating.</p>\n<p>The Greek word <em>klinē</em> refers generally to any piece of furniture employed for reclining or lying on. In <a href=\"https://ref.ly/Matt9:2\">MAT 9:2</a> a rendering such as “stretcher” or “cot” (in American English) is certainly more advisable than the traditional rendering “bed” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), which might imply a large piece of furniture. In each passage translators must employ a term for <em>klinē</em> that is most likely to identify the type of object which fits the context.</p>\n<p>\n            <a href=\"https://ref.ly/Luke11:7\">LUK 11:7</a>: It is not necessary to understand the statement “my children are with me in bed” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) to mean that the children were in the same bed with the man, but it is, of course, possible that the reference here is to a relatively humble house in which all the members of the family would sleep on the floor in the same corner of the room or on a single raised platform. This passage may be rendered simply as “I have gone to bed and so have my children” or “I am already in bed and so are my children.”</p>\n<p>The bed is sometimes used figuratively. In several places it refers to sexual intercourse (<a href=\"https://ref.ly/Rom13:13\">ROM 13:13</a>; <a href=\"https://ref.ly/Wis3:13\">WIS 3:13</a>; <a href=\"https://ref.ly/Wis3:16\">WIS 3:16</a>; <a href=\"https://ref.ly/Sir23:18\">SIR 23:18</a>), whether in marriage or in an unlawful union. When the Greek word <em>koitē</em> is used together with the verb <em>echō</em> in <a href=\"https://ref.ly/Rom9:10\">ROM 9:10</a>, it means “to be pregnant.” In <a href=\"https://ref.ly/1Macc1:5\">1MA 1:5</a> the text says literally that Alexander “fell into bed,” that is, he got sick or “fell sick” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01049004",
+"start_ref_usfm": "GEN 49:4",
+"end_ref": "01049004",
+"end_ref_usfm": "GEN 49:4"
+},
+{
+"start_ref": "13005001",
+"start_ref_usfm": "1CH 5:1",
+"end_ref": "13005001",
+"end_ref_usfm": "1CH 5:1"
+},
+{
+"start_ref": "18017013",
+"start_ref_usfm": "JOB 17:13",
+"end_ref": "18017013",
+"end_ref_usfm": "JOB 17:13"
+},
+{
+"start_ref": "19063007",
+"start_ref_usfm": "PSA 63:7",
+"end_ref": "19063007",
+"end_ref_usfm": "PSA 63:7"
+},
+{
+"start_ref": "19132003",
+"start_ref_usfm": "PSA 132:3",
+"end_ref": "19132003",
+"end_ref_usfm": "PSA 132:3"
+},
+{
+"start_ref": "01047031",
+"start_ref_usfm": "GEN 47:31",
+"end_ref": "01047031",
+"end_ref_usfm": "GEN 47:31"
+},
+{
+"start_ref": "01048002",
+"start_ref_usfm": "GEN 48:2",
+"end_ref": "01048002",
+"end_ref_usfm": "GEN 48:2"
+},
+{
+"start_ref": "01049033",
+"start_ref_usfm": "GEN 49:33",
+"end_ref": "01049033",
+"end_ref_usfm": "GEN 49:33"
+},
+{
+"start_ref": "02007028",
+"start_ref_usfm": "EXO 7:28",
+"end_ref": "02007028",
+"end_ref_usfm": "EXO 7:28"
+},
+{
+"start_ref": "09019013",
+"start_ref_usfm": "1SA 19:13",
+"end_ref": "09019013",
+"end_ref_usfm": "1SA 19:13"
+},
+{
+"start_ref": "09019015",
+"start_ref_usfm": "1SA 19:15",
+"end_ref": "09019015",
+"end_ref_usfm": "1SA 19:15"
+},
+{
+"start_ref": "09019016",
+"start_ref_usfm": "1SA 19:16",
+"end_ref": "09019016",
+"end_ref_usfm": "1SA 19:16"
+},
+{
+"start_ref": "09028023",
+"start_ref_usfm": "1SA 28:23",
+"end_ref": "09028023",
+"end_ref_usfm": "1SA 28:23"
+},
+{
+"start_ref": "10004007",
+"start_ref_usfm": "2SA 4:7",
+"end_ref": "10004007",
+"end_ref_usfm": "2SA 4:7"
+},
+{
+"start_ref": "11017019",
+"start_ref_usfm": "1KI 17:19",
+"end_ref": "11017019",
+"end_ref_usfm": "1KI 17:19"
+},
+{
+"start_ref": "11021004",
+"start_ref_usfm": "1KI 21:4",
+"end_ref": "11021004",
+"end_ref_usfm": "1KI 21:4"
+},
+{
+"start_ref": "12001004",
+"start_ref_usfm": "2KI 1:4",
+"end_ref": "12001004",
+"end_ref_usfm": "2KI 1:4"
+},
+{
+"start_ref": "12001006",
+"start_ref_usfm": "2KI 1:6",
+"end_ref": "12001006",
+"end_ref_usfm": "2KI 1:6"
+},
+{
+"start_ref": "12001016",
+"start_ref_usfm": "2KI 1:16",
+"end_ref": "12001016",
+"end_ref_usfm": "2KI 1:16"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "12004021",
+"start_ref_usfm": "2KI 4:21",
+"end_ref": "12004021",
+"end_ref_usfm": "2KI 4:21"
+},
+{
+"start_ref": "12004032",
+"start_ref_usfm": "2KI 4:32",
+"end_ref": "12004032",
+"end_ref_usfm": "2KI 4:32"
+},
+{
+"start_ref": "12011002",
+"start_ref_usfm": "2KI 11:2",
+"end_ref": "12011002",
+"end_ref_usfm": "2KI 11:2"
+},
+{
+"start_ref": "14022011",
+"start_ref_usfm": "2CH 22:11",
+"end_ref": "14022011",
+"end_ref_usfm": "2CH 22:11"
+},
+{
+"start_ref": "14024025",
+"start_ref_usfm": "2CH 24:25",
+"end_ref": "14024025",
+"end_ref_usfm": "2CH 24:25"
+},
+{
+"start_ref": "17001006",
+"start_ref_usfm": "EST 1:6",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+},
+{
+"start_ref": "17007008",
+"start_ref_usfm": "EST 7:8",
+"end_ref": "17007008",
+"end_ref_usfm": "EST 7:8"
+},
+{
+"start_ref": "19006007",
+"start_ref_usfm": "PSA 6:7",
+"end_ref": "19006007",
+"end_ref_usfm": "PSA 6:7"
+},
+{
+"start_ref": "20026014",
+"start_ref_usfm": "PRO 26:14",
+"end_ref": "20026014",
+"end_ref_usfm": "PRO 26:14"
+},
+{
+"start_ref": "22003007",
+"start_ref_usfm": "SNG 3:7",
+"end_ref": "22003007",
+"end_ref_usfm": "SNG 3:7"
+},
+{
+"start_ref": "26023041",
+"start_ref_usfm": "EZK 23:41",
+"end_ref": "26023041",
+"end_ref_usfm": "EZK 23:41"
+},
+{
+"start_ref": "30003012",
+"start_ref_usfm": "AMO 3:12",
+"end_ref": "30003012",
+"end_ref_usfm": "AMO 3:12"
+},
+{
+"start_ref": "30006004",
+"start_ref_usfm": "AMO 6:4",
+"end_ref": "30006004",
+"end_ref_usfm": "AMO 6:4"
+},
+{
+"start_ref": "22001012",
+"start_ref_usfm": "SNG 1:12",
+"end_ref": "22001012",
+"end_ref_usfm": "SNG 1:12"
+},
+{
+"start_ref": "23028020",
+"start_ref_usfm": "ISA 28:20",
+"end_ref": "23028020",
+"end_ref_usfm": "ISA 28:20"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021018",
+"end_ref_usfm": "EXO 21:18"
+},
+{
+"start_ref": "03015004",
+"start_ref_usfm": "LEV 15:4",
+"end_ref": "03015004",
+"end_ref_usfm": "LEV 15:4"
+},
+{
+"start_ref": "03015005",
+"start_ref_usfm": "LEV 15:5",
+"end_ref": "03015005",
+"end_ref_usfm": "LEV 15:5"
+},
+{
+"start_ref": "03015021",
+"start_ref_usfm": "LEV 15:21",
+"end_ref": "03015021",
+"end_ref_usfm": "LEV 15:21"
+},
+{
+"start_ref": "03015023",
+"start_ref_usfm": "LEV 15:23",
+"end_ref": "03015023",
+"end_ref_usfm": "LEV 15:23"
+},
+{
+"start_ref": "03015024",
+"start_ref_usfm": "LEV 15:24",
+"end_ref": "03015024",
+"end_ref_usfm": "LEV 15:24"
+},
+{
+"start_ref": "03015026",
+"start_ref_usfm": "LEV 15:26",
+"end_ref": "03015026",
+"end_ref_usfm": "LEV 15:26"
+},
+{
+"start_ref": "03018022",
+"start_ref_usfm": "LEV 18:22",
+"end_ref": "03018022",
+"end_ref_usfm": "LEV 18:22"
+},
+{
+"start_ref": "03020013",
+"start_ref_usfm": "LEV 20:13",
+"end_ref": "03020013",
+"end_ref_usfm": "LEV 20:13"
+},
+{
+"start_ref": "04031017",
+"start_ref_usfm": "NUM 31:17",
+"end_ref": "04031017",
+"end_ref_usfm": "NUM 31:17"
+},
+{
+"start_ref": "04031018",
+"start_ref_usfm": "NUM 31:18",
+"end_ref": "04031018",
+"end_ref_usfm": "NUM 31:18"
+},
+{
+"start_ref": "04031035",
+"start_ref_usfm": "NUM 31:35",
+"end_ref": "04031035",
+"end_ref_usfm": "NUM 31:35"
+},
+{
+"start_ref": "07021011",
+"start_ref_usfm": "JDG 21:11",
+"end_ref": "07021011",
+"end_ref_usfm": "JDG 21:11"
+},
+{
+"start_ref": "07021012",
+"start_ref_usfm": "JDG 21:12",
+"end_ref": "07021012",
+"end_ref_usfm": "JDG 21:12"
+},
+{
+"start_ref": "10004005",
+"start_ref_usfm": "2SA 4:5",
+"end_ref": "10004005",
+"end_ref_usfm": "2SA 4:5"
+},
+{
+"start_ref": "10004011",
+"start_ref_usfm": "2SA 4:11",
+"end_ref": "10004011",
+"end_ref_usfm": "2SA 4:11"
+},
+{
+"start_ref": "10011002",
+"start_ref_usfm": "2SA 11:2",
+"end_ref": "10011002",
+"end_ref_usfm": "2SA 11:2"
+},
+{
+"start_ref": "10011013",
+"start_ref_usfm": "2SA 11:13",
+"end_ref": "10011013",
+"end_ref_usfm": "2SA 11:13"
+},
+{
+"start_ref": "10013005",
+"start_ref_usfm": "2SA 13:5",
+"end_ref": "10013005",
+"end_ref_usfm": "2SA 13:5"
+},
+{
+"start_ref": "10017028",
+"start_ref_usfm": "2SA 17:28",
+"end_ref": "10017028",
+"end_ref_usfm": "2SA 17:28"
+},
+{
+"start_ref": "11001047",
+"start_ref_usfm": "1KI 1:47",
+"end_ref": "11001047",
+"end_ref_usfm": "1KI 1:47"
+},
+{
+"start_ref": "12006012",
+"start_ref_usfm": "2KI 6:12",
+"end_ref": "12006012",
+"end_ref_usfm": "2KI 6:12"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "18007013",
+"start_ref_usfm": "JOB 7:13",
+"end_ref": "18007013",
+"end_ref_usfm": "JOB 7:13"
+},
+{
+"start_ref": "18033015",
+"start_ref_usfm": "JOB 33:15",
+"end_ref": "18033015",
+"end_ref_usfm": "JOB 33:15"
+},
+{
+"start_ref": "18033019",
+"start_ref_usfm": "JOB 33:19",
+"end_ref": "18033019",
+"end_ref_usfm": "JOB 33:19"
+},
+{
+"start_ref": "19004005",
+"start_ref_usfm": "PSA 4:5",
+"end_ref": "19004005",
+"end_ref_usfm": "PSA 4:5"
+},
+{
+"start_ref": "19036005",
+"start_ref_usfm": "PSA 36:5",
+"end_ref": "19036005",
+"end_ref_usfm": "PSA 36:5"
+},
+{
+"start_ref": "19041004",
+"start_ref_usfm": "PSA 41:4",
+"end_ref": "19041004",
+"end_ref_usfm": "PSA 41:4"
+},
+{
+"start_ref": "19149005",
+"start_ref_usfm": "PSA 149:5",
+"end_ref": "19149005",
+"end_ref_usfm": "PSA 149:5"
+},
+{
+"start_ref": "20007017",
+"start_ref_usfm": "PRO 7:17",
+"end_ref": "20007017",
+"end_ref_usfm": "PRO 7:17"
+},
+{
+"start_ref": "20022027",
+"start_ref_usfm": "PRO 22:27",
+"end_ref": "20022027",
+"end_ref_usfm": "PRO 22:27"
+},
+{
+"start_ref": "21010020",
+"start_ref_usfm": "ECC 10:20",
+"end_ref": "21010020",
+"end_ref_usfm": "ECC 10:20"
+},
+{
+"start_ref": "22003001",
+"start_ref_usfm": "SNG 3:1",
+"end_ref": "22003001",
+"end_ref_usfm": "SNG 3:1"
+},
+{
+"start_ref": "23057002",
+"start_ref_usfm": "ISA 57:2",
+"end_ref": "23057002",
+"end_ref_usfm": "ISA 57:2"
+},
+{
+"start_ref": "23057007",
+"start_ref_usfm": "ISA 57:7",
+"end_ref": "23057007",
+"end_ref_usfm": "ISA 57:7"
+},
+{
+"start_ref": "23057008",
+"start_ref_usfm": "ISA 57:8",
+"end_ref": "23057008",
+"end_ref_usfm": "ISA 57:8"
+},
+{
+"start_ref": "26023017",
+"start_ref_usfm": "EZK 23:17",
+"end_ref": "26023017",
+"end_ref_usfm": "EZK 23:17"
+},
+{
+"start_ref": "26032025",
+"start_ref_usfm": "EZK 32:25",
+"end_ref": "26032025",
+"end_ref_usfm": "EZK 32:25"
+},
+{
+"start_ref": "28007014",
+"start_ref_usfm": "HOS 7:14",
+"end_ref": "28007014",
+"end_ref_usfm": "HOS 7:14"
+},
+{
+"start_ref": "33002001",
+"start_ref_usfm": "MIC 2:1",
+"end_ref": "33002001",
+"end_ref_usfm": "MIC 2:1"
+},
+{
+"start_ref": "05003011",
+"start_ref_usfm": "DEU 3:11",
+"end_ref": "05003011",
+"end_ref_usfm": "DEU 3:11"
+},
+{
+"start_ref": "20007016",
+"start_ref_usfm": "PRO 7:16",
+"end_ref": "20007016",
+"end_ref_usfm": "PRO 7:16"
+},
+{
+"start_ref": "22001016",
+"start_ref_usfm": "SNG 1:16",
+"end_ref": "22001016",
+"end_ref_usfm": "SNG 1:16"
+},
+{
+"start_ref": "44005015",
+"start_ref_usfm": "ACT 5:15",
+"end_ref": "44005015",
+"end_ref_usfm": "ACT 5:15"
+},
+{
+"start_ref": "40009002",
+"start_ref_usfm": "MAT 9:2",
+"end_ref": "40009002",
+"end_ref_usfm": "MAT 9:2"
+},
+{
+"start_ref": "40009006",
+"start_ref_usfm": "MAT 9:6",
+"end_ref": "40009006",
+"end_ref_usfm": "MAT 9:6"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004021",
+"end_ref_usfm": "MRK 4:21"
+},
+{
+"start_ref": "41007004",
+"start_ref_usfm": "MRK 7:4",
+"end_ref": "41007004",
+"end_ref_usfm": "MRK 7:4"
+},
+{
+"start_ref": "41007030",
+"start_ref_usfm": "MRK 7:30",
+"end_ref": "41007030",
+"end_ref_usfm": "MRK 7:30"
+},
+{
+"start_ref": "42005018",
+"start_ref_usfm": "LUK 5:18",
+"end_ref": "42005018",
+"end_ref_usfm": "LUK 5:18"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008016",
+"end_ref_usfm": "LUK 8:16"
+},
+{
+"start_ref": "42017034",
+"start_ref_usfm": "LUK 17:34",
+"end_ref": "42017034",
+"end_ref_usfm": "LUK 17:34"
+},
+{
+"start_ref": "66002022",
+"start_ref_usfm": "REV 2:22",
+"end_ref": "66002022",
+"end_ref_usfm": "REV 2:22"
+},
+{
+"start_ref": "68008004",
+"start_ref_usfm": "TOB 8:4",
+"end_ref": "68008004",
+"end_ref_usfm": "TOB 8:4"
+},
+{
+"start_ref": "68014011",
+"start_ref_usfm": "TOB 14:11",
+"end_ref": "68014011",
+"end_ref_usfm": "TOB 14:11"
+},
+{
+"start_ref": "69008003",
+"start_ref_usfm": "JDT 8:3",
+"end_ref": "69008003",
+"end_ref_usfm": "JDT 8:3"
+},
+{
+"start_ref": "69010021",
+"start_ref_usfm": "JDT 10:21",
+"end_ref": "69010021",
+"end_ref_usfm": "JDT 10:21"
+},
+{
+"start_ref": "69013002",
+"start_ref_usfm": "JDT 13:2",
+"end_ref": "69013002",
+"end_ref_usfm": "JDT 13:2"
+},
+{
+"start_ref": "69013004",
+"start_ref_usfm": "JDT 13:4",
+"end_ref": "69013004",
+"end_ref_usfm": "JDT 13:4"
+},
+{
+"start_ref": "69013006",
+"start_ref_usfm": "JDT 13:6",
+"end_ref": "69013006",
+"end_ref_usfm": "JDT 13:6"
+},
+{
+"start_ref": "69013007",
+"start_ref_usfm": "JDT 13:7",
+"end_ref": "69013007",
+"end_ref_usfm": "JDT 13:7"
+},
+{
+"start_ref": "69015011",
+"start_ref_usfm": "JDT 15:11",
+"end_ref": "69015011",
+"end_ref_usfm": "JDT 15:11"
+},
+{
+"start_ref": "70001006",
+"start_ref_usfm": "ESG 1:6",
+"end_ref": "70001006",
+"end_ref_usfm": "ESG 1:6"
+},
+{
+"start_ref": "70007008",
+"start_ref_usfm": "ESG 7:8",
+"end_ref": "70007008",
+"end_ref_usfm": "ESG 7:8"
+},
+{
+"start_ref": "72023018",
+"start_ref_usfm": "SIR 23:18",
+"end_ref": "72023018",
+"end_ref_usfm": "SIR 23:18"
+},
+{
+"start_ref": "72048006",
+"start_ref_usfm": "SIR 48:6",
+"end_ref": "72048006",
+"end_ref_usfm": "SIR 48:6"
+},
+{
+"start_ref": "42005019",
+"start_ref_usfm": "LUK 5:19",
+"end_ref": "42005019",
+"end_ref_usfm": "LUK 5:19"
+},
+{
+"start_ref": "42005024",
+"start_ref_usfm": "LUK 5:24",
+"end_ref": "42005024",
+"end_ref_usfm": "LUK 5:24"
+},
+{
+"start_ref": "42011007",
+"start_ref_usfm": "LUK 11:7",
+"end_ref": "42011007",
+"end_ref_usfm": "LUK 11:7"
+},
+{
+"start_ref": "45009010",
+"start_ref_usfm": "ROM 9:10",
+"end_ref": "45009010",
+"end_ref_usfm": "ROM 9:10"
+},
+{
+"start_ref": "45013013",
+"start_ref_usfm": "ROM 13:13",
+"end_ref": "45013013",
+"end_ref_usfm": "ROM 13:13"
+},
+{
+"start_ref": "58013004",
+"start_ref_usfm": "HEB 13:4",
+"end_ref": "58013004",
+"end_ref_usfm": "HEB 13:4"
+},
+{
+"start_ref": "69013001",
+"start_ref_usfm": "JDT 13:1",
+"end_ref": "69013001",
+"end_ref_usfm": "JDT 13:1"
+},
+{
+"start_ref": "70004017",
+"start_ref_usfm": "ESG 4:17",
+"end_ref": "70004017",
+"end_ref_usfm": "ESG 4:17"
+},
+{
+"start_ref": "71003013",
+"start_ref_usfm": "WIS 3:13",
+"end_ref": "71003013",
+"end_ref_usfm": "WIS 3:13"
+},
+{
+"start_ref": "71003016",
+"start_ref_usfm": "WIS 3:16",
+"end_ref": "71003016",
+"end_ref_usfm": "WIS 3:16"
+},
+{
+"start_ref": "72031019",
+"start_ref_usfm": "SIR 31:19",
+"end_ref": "72031019",
+"end_ref_usfm": "SIR 31:19"
+},
+{
+"start_ref": "72040005",
+"start_ref_usfm": "SIR 40:5",
+"end_ref": "72040005",
+"end_ref_usfm": "SIR 40:5"
+},
+{
+"start_ref": "72041024",
+"start_ref_usfm": "SIR 41:24",
+"end_ref": "72041024",
+"end_ref_usfm": "SIR 41:24"
+},
+{
+"start_ref": "78001005",
+"start_ref_usfm": "1MA 1:5",
+"end_ref": "78001005",
+"end_ref_usfm": "1MA 1:5"
+},
+{
+"start_ref": "78006008",
+"start_ref_usfm": "1MA 6:8",
+"end_ref": "78006008",
+"end_ref_usfm": "1MA 6:8"
+},
+{
+"start_ref": "87017016",
+"start_ref_usfm": "PSS 17:16",
+"end_ref": "87017016",
+"end_ref_usfm": "PSS 17:16"
+},
+{
+"start_ref": "41002004",
+"start_ref_usfm": "MRK 2:4",
+"end_ref": "41002004",
+"end_ref_usfm": "MRK 2:4"
+},
+{
+"start_ref": "41002009",
+"start_ref_usfm": "MRK 2:9",
+"end_ref": "41002009",
+"end_ref_usfm": "MRK 2:9"
+},
+{
+"start_ref": "41002011",
+"start_ref_usfm": "MRK 2:11",
+"end_ref": "41002011",
+"end_ref_usfm": "MRK 2:11"
+},
+{
+"start_ref": "41002012",
+"start_ref_usfm": "MRK 2:12",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41006055",
+"start_ref_usfm": "MRK 6:55",
+"end_ref": "41006055",
+"end_ref_usfm": "MRK 6:55"
+},
+{
+"start_ref": "43005008",
+"start_ref_usfm": "JHN 5:8",
+"end_ref": "43005008",
+"end_ref_usfm": "JHN 5:8"
+},
+{
+"start_ref": "43005009",
+"start_ref_usfm": "JHN 5:9",
+"end_ref": "43005009",
+"end_ref_usfm": "JHN 5:9"
+},
+{
+"start_ref": "43005010",
+"start_ref_usfm": "JHN 5:10",
+"end_ref": "43005010",
+"end_ref_usfm": "JHN 5:10"
+},
+{
+"start_ref": "43005011",
+"start_ref_usfm": "JHN 5:11",
+"end_ref": "43005011",
+"end_ref_usfm": "JHN 5:11"
+},
+{
+"start_ref": "44009033",
+"start_ref_usfm": "ACT 9:33",
+"end_ref": "44009033",
+"end_ref_usfm": "ACT 9:33"
+},
+{
+"start_ref": "69009003",
+"start_ref_usfm": "JDT 9:3",
+"end_ref": "69009003",
+"end_ref_usfm": "JDT 9:3"
+},
+{
+"start_ref": "69013009",
+"start_ref_usfm": "JDT 13:9",
+"end_ref": "69013009",
+"end_ref_usfm": "JDT 13:9"
+},
+{
+"start_ref": "79003027",
+"start_ref_usfm": "2MA 3:27",
+"end_ref": "79003027",
+"end_ref_usfm": "2MA 3:27"
+},
+{
+"start_ref": "79009008",
+"start_ref_usfm": "2MA 9:8",
+"end_ref": "79009008",
+"end_ref_usfm": "2MA 9:8"
+},
+{
+"start_ref": "83003001",
+"start_ref_usfm": "2ES 3:1",
+"end_ref": "83003001",
+"end_ref_usfm": "2ES 3:1"
+},
+{
+"start_ref": "83012026",
+"start_ref_usfm": "2ES 12:26",
+"end_ref": "83012026",
+"end_ref_usfm": "2ES 12:26"
+},
+{
+"start_ref": "58011021",
+"start_ref_usfm": "HEB 11:21",
+"end_ref": "58011021",
+"end_ref_usfm": "HEB 11:21"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,84 @@
+[
+{
+"content_id": "REALIA:6.2.2",
+"reference_id": "REALIA:6.2.2",
+"version": "1.0.4",
+"title": "Train",
+"media_type": "Text",
+"index_reference": "6.2.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:6.2.2\"><span class=\"thlex-key\">6.2.2</span> Train</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שׁוּל</span> <span class=\"thlex-translit\">(shulayim (plural of shul))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:33\">EXO 28:33</a>, <a href=\"https://ref.ly/Exod28:33\">EXO 28:33</a>, <a href=\"https://ref.ly/Exod28:34\">EXO 28:34</a>, <a href=\"https://ref.ly/Exod39:24\">EXO 39:24</a>, <a href=\"https://ref.ly/Exod39:25\">EXO 39:25</a>, <a href=\"https://ref.ly/Exod39:26\">EXO 39:26</a>, <a href=\"https://ref.ly/Isa6:1\">ISA 6:1</a>, <a href=\"https://ref.ly/Jer13:22\">JER 13:22</a>, <a href=\"https://ref.ly/Jer13:26\">JER 13:26</a>, <a href=\"https://ref.ly/Lam1:9\">LAM 1:9</a>, <a href=\"https://ref.ly/Nah3:5\">NAM 3:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἔνδυσις</span> <span class=\"thlex-translit\">(endusis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EsthGr5:1\">ESG 5:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The train was a long cloth that extended from the bottom of a robe or dress, dragging behind a person as he or she walked. Sometimes a servant would walk behind holding the train off of the ground, so that it would not become dirty.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Isa6:1\">ISA 6:1</a>: Translations treat the Hebrew word <em>shulayim</em> here with varying degrees of precision. Thus <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> has “his train,” which is the exact meaning but may not be well understood by the modern reader. <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> “skirt of his robe” and <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> “hem of his robe” focus on the bottom edge of the long robe (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">6.2.1 Hem, corner of a garment&lt;REALIA:6.2.1&gt;</a>). Common-language translations tend to refer to the whole garment by saying “his robe” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>). <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> is good with “His long robe.”</p>\n<p>In <a href=\"https://ref.ly/EsthGr5:1\">ESG 5:1</a> it will normally be sufficient to say something like “the other holding up a long part of her robe which extended behind her.” Where the idea of a “train” is unknown, it will be important to indicate that the cloth extended well behind Esther and to not give the impression that the servant is lifting up the bottom of her dress.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02028033",
+"start_ref_usfm": "EXO 28:33",
+"end_ref": "02028033",
+"end_ref_usfm": "EXO 28:33"
+},
+{
+"start_ref": "02028034",
+"start_ref_usfm": "EXO 28:34",
+"end_ref": "02028034",
+"end_ref_usfm": "EXO 28:34"
+},
+{
+"start_ref": "02039024",
+"start_ref_usfm": "EXO 39:24",
+"end_ref": "02039024",
+"end_ref_usfm": "EXO 39:24"
+},
+{
+"start_ref": "02039025",
+"start_ref_usfm": "EXO 39:25",
+"end_ref": "02039025",
+"end_ref_usfm": "EXO 39:25"
+},
+{
+"start_ref": "02039026",
+"start_ref_usfm": "EXO 39:26",
+"end_ref": "02039026",
+"end_ref_usfm": "EXO 39:26"
+},
+{
+"start_ref": "23006001",
+"start_ref_usfm": "ISA 6:1",
+"end_ref": "23006001",
+"end_ref_usfm": "ISA 6:1"
+},
+{
+"start_ref": "24013022",
+"start_ref_usfm": "JER 13:22",
+"end_ref": "24013022",
+"end_ref_usfm": "JER 13:22"
+},
+{
+"start_ref": "24013026",
+"start_ref_usfm": "JER 13:26",
+"end_ref": "24013026",
+"end_ref_usfm": "JER 13:26"
+},
+{
+"start_ref": "25001009",
+"start_ref_usfm": "LAM 1:9",
+"end_ref": "25001009",
+"end_ref_usfm": "LAM 1:9"
+},
+{
+"start_ref": "34003005",
+"start_ref_usfm": "NAM 3:5",
+"end_ref": "34003005",
+"end_ref_usfm": "NAM 3:5"
+},
+{
+"start_ref": "70005001",
+"start_ref_usfm": "ESG 5:1",
+"end_ref": "70005001",
+"end_ref_usfm": "ESG 5:1"
+}
+],
+"resource": []
+}
+}
+]

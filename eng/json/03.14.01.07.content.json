@@ -1,0 +1,66 @@
+[
+{
+"content_id": "REALIA:3.14.1.7",
+"reference_id": "REALIA:3.14.1.7",
+"version": "1.0.4",
+"title": "Additional Temple features",
+"media_type": "Text",
+"index_reference": "3.14.1.7",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.14.1.7\"><span class=\"thlex-key\">3.14.1.7</span> Additional Temple features</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אַתּוּק, אַתִּיק</span> <span class=\"thlex-translit\">(’atuq, ’atiq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>, <a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>, <a href=\"https://ref.ly/Ezek41:16\">EZK 41:16</a>, <a href=\"https://ref.ly/Ezek42:3\">EZK 42:3</a>, <a href=\"https://ref.ly/Ezek42:3\">EZK 42:3</a>, <a href=\"https://ref.ly/Ezek42:5\">EZK 42:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עָב</span> <span class=\"thlex-translit\">(‘av)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek41:25\">EZK 41:25</a>, <a href=\"https://ref.ly/Ezek41:26\">EZK 41:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שְׂחִיף, עֵץ</span> <span class=\"thlex-translit\">(schif ‘ets)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek41:16\">EZK 41:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִגְרַעַת</span> <span class=\"thlex-translit\">(migra‘ah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:6\">1KI 6:6</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The meaning of the Hebrew word <em>’atuq</em> /<em>’atiq</em> in <a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>; <a href=\"https://ref.ly/Ezek41:16\">EZK 41:16</a>; <a href=\"https://ref.ly/Ezek42:3\">EZK 42:3</a>; <a href=\"https://ref.ly/Ezek42:5\">EZK 42:5</a> is unknown. Translations of this term vary widely as follows: “walls” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), “side rooms” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), “galleries” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>), “ledges” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), and “corridors” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>).</p>\n<p>The meaning of the Hebrew word <em>‘av</em> in <a href=\"https://ref.ly/Ezek41:25\">EZK 41:25</a>; <a href=\"https://ref.ly/Ezek41:26\">EZK 41:26</a> is also unknown. The same word appears as some sort of architectural feature in <a href=\"https://ref.ly/1Kgs7:6\">1KI 7:6</a>, where its meaning is equally obscure. Among a variety of renderings we find “covering” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), “canopy” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), “overhang” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>), and “lattice” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>).</p>\n<p>The Hebrew adjective <em>schif</em> appears only in <a href=\"https://ref.ly/Ezek41:16\">EZK 41:16</a> and its meaning is unknown. From the description of Solomon’s Temple in H01100600600058 we learn that many things were made of wood and then overlaid with gold. Since it was difficult to overlay stone with gold, it was sometimes the practice to cover the stone first with a thin layer of wood paneling or veneer and then overlay the wood with gold. Even though there is no mention of gold overlay in Ezekiel’s description of the future Temple, it has been suggested that such a wood veneer covered the inner stone walls and was itself overlaid with gold. A translator should not, of course, introduce gold where none is mentioned. The phrase <em>schif</em><em>‘ets</em> has been rendered “paneled with wood” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>), “trimmed in wood” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), “covered with wood” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>), “framed with wood” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>), and “overlaid with wood” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>).</p>\n<p>The Hebrew word <em>migra‘ah</em> in <a href=\"https://ref.ly/1Kgs6:6\">1KI 6:6</a> describes a structural device in Solomon’s Temple. Against the outer wall of the Temple building were built smaller rooms (see <em>tsela‘</em> under <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.1.6 Room&lt;REALIA:3.1.6&gt;</a>). This meant that the outer wall of the Temple building formed one wall of these smaller rooms. One end of the crossbeams (mentioned in the Aramaic Targum but not in the text of 1 Kings; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.1.5.3 Crossbeam, rafter&lt;REALIA:3.1.5.3&gt;</a>) was set into the outer wall of the small room, while the other end had to take its support from the outer wall of the Temple. Rather than make a hole right through the Temple wall, they made a recess or niche (or narrow ledge) in which the end of the beam sat. This supporting feature is called a <em>migra‘ah</em>. It has been rendered “offsets” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), “recesses” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), “ledges” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), or “offset ledges” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "26041015",
+"start_ref_usfm": "EZK 41:15",
+"end_ref": "26041015",
+"end_ref_usfm": "EZK 41:15"
+},
+{
+"start_ref": "26041016",
+"start_ref_usfm": "EZK 41:16",
+"end_ref": "26041016",
+"end_ref_usfm": "EZK 41:16"
+},
+{
+"start_ref": "26042003",
+"start_ref_usfm": "EZK 42:3",
+"end_ref": "26042003",
+"end_ref_usfm": "EZK 42:3"
+},
+{
+"start_ref": "26042005",
+"start_ref_usfm": "EZK 42:5",
+"end_ref": "26042005",
+"end_ref_usfm": "EZK 42:5"
+},
+{
+"start_ref": "26041025",
+"start_ref_usfm": "EZK 41:25",
+"end_ref": "26041025",
+"end_ref_usfm": "EZK 41:25"
+},
+{
+"start_ref": "26041026",
+"start_ref_usfm": "EZK 41:26",
+"end_ref": "26041026",
+"end_ref_usfm": "EZK 41:26"
+},
+{
+"start_ref": "11006006",
+"start_ref_usfm": "1KI 6:6",
+"end_ref": "11006006",
+"end_ref_usfm": "1KI 6:6"
+},
+{
+"start_ref": "11007006",
+"start_ref_usfm": "1KI 7:6",
+"end_ref": "11007006",
+"end_ref_usfm": "1KI 7:6"
+}
+],
+"resource": []
+}
+}
+]
