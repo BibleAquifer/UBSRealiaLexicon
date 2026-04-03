@@ -1,0 +1,334 @@
+[
+{
+"content_id": "REALIA:4.3.4",
+"reference_id": "REALIA:4.3.4",
+"version": "1.0.4",
+"title": "標題：燈臺（lampstand, menorah）",
+"media_type": "Text",
+"index_reference": "4.3.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4\"><span class=\"thlex-key\">4.3.4</span> 標題：燈臺（lampstand, menorah）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מְנוֹרָה</span> <span class=\"thlex-translit\">(音譯： mnorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>, <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a>, <a href=\"https://ref.ly/Exod25:35\">EXO 25:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>, <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:9\">NUM 4:9</a>, <a href=\"https://ref.ly/Num8:2\">NUM 8:2</a>, <a href=\"https://ref.ly/Num8:3\">NUM 8:3</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a>, <a href=\"https://ref.ly/2Chr4:20\">2CH 4:20</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/Jer52:19\">JER 52:19</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>, <a href=\"https://ref.ly/Zech4:11\">ZEC 4:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λυχνία</span> <span class=\"thlex-translit\">(音譯： luchnia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a>, <a href=\"https://ref.ly/Sir26:17\">SIR 26:17</a>, <a href=\"https://ref.ly/1Macc1:21\">1MA 1:21</a>, <a href=\"https://ref.ly/1Macc4:49\">1MA 4:49</a>, <a href=\"https://ref.ly/1Macc4:50\">1MA 4:50</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： candelabrum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd10:22\">2ES 10:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0038_lampstand_parts_hant.jpg\" alt=\"燈臺的枝子\"><figcaption class=\"thlex-caption\">燈臺的枝子 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>關於帳幕內燈臺的構造，見<a href=\"https://ref.ly/Exod25:31-Exod25:40\">EXO 25:31–EXO 25:40</a>; <a href=\"https://ref.ly/Exod37:17-Exod37:24\">EXO 37:17–EXO 37:24</a> ；<a href=\"https://ref.ly/Lev24:1-Lev24:4\">LEV 24:1–LEV 24:4</a> 。燈臺是用一塊純金錘出來的，由五個部分組成：座、幹（或花梗），以及帶有花萼和花瓣的（花）杯。燈臺中心有一個幹，立在座上，從幹兩旁伸出六個枝子，共為七枝。每個枝子頂部都有一盞油燈。</p>\n<p>按照上帝的指示，帳幕裡面只有一個燈臺。然而，在所羅門建造和裝飾聖殿時，經文（ <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a> ；<a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a> ）說他設立了十個燈臺。文中沒有解釋為什麼燈臺增加到十個。所羅門又造了十張桌子和十個盆放在殿內，而在帳幕裡這些物品都只有一件。根據一個猶太傳統的說法，十個燈臺是在那個指定的燈臺之外另加的，而「在右邊」和「在左邊」是指擺在唯一神聖燈臺的右邊和左邊。經文沒有說明所羅門時期的燈臺樣式發生任何變化，他所做的十個燈臺可能看起來和帳幕裡的那個燈臺是一樣的。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0037_lampstand_parts_hant.jpg\" alt=\"OAI-0037_lampstand_parts_hant\"></figure>關於油燈的基本使用方式，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 油燈和燈心 (Oil lamp and wick)&lt;REALIA:5.1&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.2 燈臺 (lampstand)&lt;REALIA:5.2&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於許多文化中沒有專門表示「燈臺」的詞語，因此「燈臺」可能要翻譯成「燈座」或「放燈的東西」。應該強調的是，這個物件上面放置的不是蠟燭而是油燈（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 油燈和燈心 (Oil lamp and wick)&lt;REALIA:5.1&gt;</a> ）。</p>\n<p>燈臺（希伯來文<em>mnorah</em> ）大體上是用花的結構來描述的。翻譯者了解這一點，就能找出合適的術語來翻譯燈臺的各部分。似花的部分包括「幹」（「花梗」）、「花蕾」或「花萼」，以及類似開放的花朵的「杯」。<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 提供了以下腳註：「希伯來文本使用的術語很難解釋，學者認為燈臺的裝飾式樣取自植物和花卉。」</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0008_levite_lampstand.png\" alt=\"利未人在聖殿中點燃七枝燈臺\"><figcaption class=\"thlex-caption\">利未人在聖殿中點燃七枝燈臺 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>\n            <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a> 列出了燈臺的各部分，但<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 只概括性地翻譯，英文意為：「整個燈臺，包括裝飾的花，要用一塊金子錘出來。」<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 的翻譯更加凝練，意為：「燈臺所有的部分都要由一塊［金子］做成。」對於這節經文，有些譯本可能會採用這種譯法，不過在後面的經文中，燈臺的各個部分仍然需要翻譯出來。</p>\n<p>\n            <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a> ：這節經文的希伯來文本字面意思是「純淨的燈臺」（<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 同），這可能是指燈臺的神聖或禮儀上的潔淨，而不是指燈臺是用金子製成。例如，<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 英文意為「禮儀上潔淨的燈臺」。但大多數版本（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）都將其解作「純金的燈臺」。如果遵循「純金」的解釋，這裡「純淨」的概念可能要表達為「不含其他物質」或「純粹由金子做成」。有些語言可能需要借用表示「金子」的詞語，如果是這樣，翻譯者應在術語簡釋中作出解釋。</p>\n<p>燈臺的各個部分由下到上依次是：</p>\n<p>|<em>Yarek</em> （<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a> ，<a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a> ；<a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> ）：這個希伯來文詞語指承載整個燈臺的「座」或「腳」。在<a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> ，字面意為「從座到花」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 同）的希伯來文短語可譯作「從頂到底」（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。</p>\n<p>\n            <em>Qaneh</em> （<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> ，12次；<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，12次）：這個希伯來文詞語的字面意為「蘆葦」，在<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> 和<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，它表示長而直的花梗。從燈臺中心的梗伸出六支這樣的梗，每邊三支對稱，因此共為七支。<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 捨棄了花的比喻，稱其為「臂」。在多枝燭臺為人所知的地方，這種譯法是很自然的，但是如果人們不知道這種物件，「臂」聽起來可能會很奇怪。</p>\n<p>\n            <em>Gavi‘a</em> （<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a> ，<a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>; <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a> ，<a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a> ，<a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>; <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a> ）：這個希伯來文詞語指燈臺七個枝子頂端的杯。這七個杯裡放著橄欖油和燈心，點燃後可以發光。杯的形狀顯然像是開放的花朵。<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯作“flower-like cups”（「花狀的杯」；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 類似）。<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 僅譯作“cups”（「杯」），而<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 譯作“decorative flowers”（「裝飾性的花朵」）。</p>\n<p>\n            <em>Kaftor</em> （<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> ，8次；<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，8次）：這個希伯文詞語也用來指柱子的「柱頂」（“capital”；如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 在<a href=\"https://ref.ly/Amos9:1\">AMO 9:1</a> 的譯文；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.5 柱子、柱頂 (column, pillar, capital)&lt;REALIA:3.5&gt;</a> ）。在這裡，這個詞似乎表示一種球狀疙瘩，一種球形或蛋形的鼓起，位於三對枝子的連接處，以及花朵與幹的連接處。大多數譯本保留了花的比喻，將其譯作「花蕾」（“buds”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）或「花萼」（“calyxes”；<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）。</p>\n<p>\n            <em>Perach</em> （<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> ，4次；<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，4次；<a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> ；<a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a> ；<a href=\"https://ref.ly/2Chr4:21\">2CH 4:21</a> ）：這個希伯來文詞語意為「花」，或者更確切地說，是由開放的花瓣形成的「花頭」。燈臺的花形成了杯。雖然大多數譯本都保留了這個詞語的比喻性表達「花」，但表達方式各不相同。有些譯本作「花瓣」（“petals”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ），有些譯作「花」（“flowers”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025031",
+"start_ref_usfm": "EXO 25:31",
+"end_ref": "02025031",
+"end_ref_usfm": "EXO 25:31"
+},
+{
+"start_ref": "02025032",
+"start_ref_usfm": "EXO 25:32",
+"end_ref": "02025032",
+"end_ref_usfm": "EXO 25:32"
+},
+{
+"start_ref": "02025033",
+"start_ref_usfm": "EXO 25:33",
+"end_ref": "02025033",
+"end_ref_usfm": "EXO 25:33"
+},
+{
+"start_ref": "02025034",
+"start_ref_usfm": "EXO 25:34",
+"end_ref": "02025034",
+"end_ref_usfm": "EXO 25:34"
+},
+{
+"start_ref": "02025035",
+"start_ref_usfm": "EXO 25:35",
+"end_ref": "02025035",
+"end_ref_usfm": "EXO 25:35"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035014",
+"start_ref_usfm": "EXO 35:14",
+"end_ref": "02035014",
+"end_ref_usfm": "EXO 35:14"
+},
+{
+"start_ref": "02037017",
+"start_ref_usfm": "EXO 37:17",
+"end_ref": "02037017",
+"end_ref_usfm": "EXO 37:17"
+},
+{
+"start_ref": "02037018",
+"start_ref_usfm": "EXO 37:18",
+"end_ref": "02037018",
+"end_ref_usfm": "EXO 37:18"
+},
+{
+"start_ref": "02037019",
+"start_ref_usfm": "EXO 37:19",
+"end_ref": "02037019",
+"end_ref_usfm": "EXO 37:19"
+},
+{
+"start_ref": "02037020",
+"start_ref_usfm": "EXO 37:20",
+"end_ref": "02037020",
+"end_ref_usfm": "EXO 37:20"
+},
+{
+"start_ref": "02039037",
+"start_ref_usfm": "EXO 39:37",
+"end_ref": "02039037",
+"end_ref_usfm": "EXO 39:37"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024004",
+"start_ref_usfm": "LEV 24:4",
+"end_ref": "03024004",
+"end_ref_usfm": "LEV 24:4"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004009",
+"start_ref_usfm": "NUM 4:9",
+"end_ref": "04004009",
+"end_ref_usfm": "NUM 4:9"
+},
+{
+"start_ref": "04008002",
+"start_ref_usfm": "NUM 8:2",
+"end_ref": "04008002",
+"end_ref_usfm": "NUM 8:2"
+},
+{
+"start_ref": "04008003",
+"start_ref_usfm": "NUM 8:3",
+"end_ref": "04008003",
+"end_ref_usfm": "NUM 8:3"
+},
+{
+"start_ref": "04008004",
+"start_ref_usfm": "NUM 8:4",
+"end_ref": "04008004",
+"end_ref_usfm": "NUM 8:4"
+},
+{
+"start_ref": "11007049",
+"start_ref_usfm": "1KI 7:49",
+"end_ref": "11007049",
+"end_ref_usfm": "1KI 7:49"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "13028015",
+"start_ref_usfm": "1CH 28:15",
+"end_ref": "13028015",
+"end_ref_usfm": "1CH 28:15"
+},
+{
+"start_ref": "14004007",
+"start_ref_usfm": "2CH 4:7",
+"end_ref": "14004007",
+"end_ref_usfm": "2CH 4:7"
+},
+{
+"start_ref": "14004020",
+"start_ref_usfm": "2CH 4:20",
+"end_ref": "14004020",
+"end_ref_usfm": "2CH 4:20"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "24052019",
+"start_ref_usfm": "JER 52:19",
+"end_ref": "24052019",
+"end_ref_usfm": "JER 52:19"
+},
+{
+"start_ref": "38004002",
+"start_ref_usfm": "ZEC 4:2",
+"end_ref": "38004002",
+"end_ref_usfm": "ZEC 4:2"
+},
+{
+"start_ref": "38004011",
+"start_ref_usfm": "ZEC 4:11",
+"end_ref": "38004011",
+"end_ref_usfm": "ZEC 4:11"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+},
+{
+"start_ref": "72026017",
+"start_ref_usfm": "SIR 26:17",
+"end_ref": "72026017",
+"end_ref_usfm": "SIR 26:17"
+},
+{
+"start_ref": "78001021",
+"start_ref_usfm": "1MA 1:21",
+"end_ref": "78001021",
+"end_ref_usfm": "1MA 1:21"
+},
+{
+"start_ref": "78004049",
+"start_ref_usfm": "1MA 4:49",
+"end_ref": "78004049",
+"end_ref_usfm": "1MA 4:49"
+},
+{
+"start_ref": "78004050",
+"start_ref_usfm": "1MA 4:50",
+"end_ref": "78004050",
+"end_ref_usfm": "1MA 4:50"
+},
+{
+"start_ref": "83010022",
+"start_ref_usfm": "2ES 10:22",
+"end_ref": "83010022",
+"end_ref_usfm": "2ES 10:22"
+},
+{
+"start_ref": "02025040",
+"start_ref_usfm": "EXO 25:40",
+"end_ref": "02025040",
+"end_ref_usfm": "EXO 25:40"
+},
+{
+"start_ref": "02037024",
+"start_ref_usfm": "EXO 37:24",
+"end_ref": "02037024",
+"end_ref_usfm": "EXO 37:24"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024001",
+"end_ref_usfm": "LEV 24:1"
+},
+{
+"start_ref": "02025000",
+"start_ref_usfm": "EXO 25:0",
+"end_ref": "02025000",
+"end_ref_usfm": "EXO 25:0"
+},
+{
+"start_ref": "02037000",
+"start_ref_usfm": "EXO 37:0",
+"end_ref": "02037000",
+"end_ref_usfm": "EXO 37:0"
+},
+{
+"start_ref": "30009001",
+"start_ref_usfm": "AMO 9:1",
+"end_ref": "30009001",
+"end_ref_usfm": "AMO 9:1"
+},
+{
+"start_ref": "14004021",
+"start_ref_usfm": "2CH 4:21",
+"end_ref": "14004021",
+"end_ref_usfm": "2CH 4:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:4.3.4.1",
+"reference_id": "REALIA:4.3.4.1",
+"version": "1.0.4",
+"title": "標題：油燈套蓋、燈剪（Snuffer, wick trimmer）",
+"media_type": "Text",
+"index_reference": "4.3.4.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4.1\"><span class=\"thlex-key\">4.3.4.1</span> 標題：油燈套蓋、燈剪（Snuffer, wick trimmer）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מְזַמֶּרֶת</span> <span class=\"thlex-translit\">(音譯： mzamereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:50\">1KI 7:50</a>, <a href=\"https://ref.ly/2Kgs12:14\">2KI 12:14</a>, <a href=\"https://ref.ly/2Kgs25:14\">2KI 25:14</a>, <a href=\"https://ref.ly/2Chr4:22\">2CH 4:22</a>, <a href=\"https://ref.ly/Jer52:18\">JER 52:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>油燈套蓋是一種蓋子，蓋在燃燒著的燈心上，通過隔斷空氣來達到熄滅燈火的目的。經文提到聖殿用的油燈套蓋是由金子做的。</p>\n<p>燈剪是一種剪刀，用來剪斷燒焦了的燈心，以減少油燈燃燒冒出來的煙。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>關於希伯來文<em>mzamereth</em> 具體指什麼，各譯本存在分歧。這個詞可能指某種樂器，但是我們查閱的譯本都沒有反映這個意思。同一個希伯來文詞根也可以表示「剪、修剪」（參<a href=\"https://ref.ly/Lev25:4\">LEV 25:4</a> ），正是根據這一點，有些譯本（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）將其解作一種剪刀，用來剪斷燒焦了的燈心。還有譯本（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）認為這是一種蓋子，罩在燃燒著的燈心上面使其熄滅。另外一種解釋是，這是一個放在燈盞下面的小盤子，用來接住燈心燒焦後產生的灰燼。</p>\n<p>如果當地不知道油燈或者至少不用蠟燭作大範圍照明，翻譯者很難找到合適的詞語來翻譯這個希伯來文詞語。即使是像「燈剪」（“wick trimmers”；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）或「油燈套蓋」（“lamp snuffers”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）這樣的表達，也不易為現代讀者所理解。建議翻譯者選擇一個大多數人能夠理解的表達，並在可能情況下附加註釋或術語簡釋條目，來描述油燈的使用方法（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 油燈和燈心 (Oil lamp and wick)&lt;REALIA:5.1&gt;</a> ）。</p>\n<p>幔子、帷幔、帷帳：參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.14.1.6 幔子、帷幔、帷帳 (curtain, veil, drape)&lt;REALIA:3.14.1.6&gt;</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007050",
+"start_ref_usfm": "1KI 7:50",
+"end_ref": "11007050",
+"end_ref_usfm": "1KI 7:50"
+},
+{
+"start_ref": "12012014",
+"start_ref_usfm": "2KI 12:14",
+"end_ref": "12012014",
+"end_ref_usfm": "2KI 12:14"
+},
+{
+"start_ref": "12025014",
+"start_ref_usfm": "2KI 25:14",
+"end_ref": "12025014",
+"end_ref_usfm": "2KI 25:14"
+},
+{
+"start_ref": "14004022",
+"start_ref_usfm": "2CH 4:22",
+"end_ref": "14004022",
+"end_ref_usfm": "2CH 4:22"
+},
+{
+"start_ref": "24052018",
+"start_ref_usfm": "JER 52:18",
+"end_ref": "24052018",
+"end_ref_usfm": "JER 52:18"
+},
+{
+"start_ref": "03025004",
+"start_ref_usfm": "LEV 25:4",
+"end_ref": "03025004",
+"end_ref_usfm": "LEV 25:4"
+}
+],
+"resource": []
+}
+}
+]

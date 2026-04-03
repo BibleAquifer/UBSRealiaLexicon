@@ -1,0 +1,150 @@
+[
+{
+"content_id": "REALIA:5.15",
+"reference_id": "REALIA:5.15",
+"version": "1.0.4",
+"title": "標題：皮袋、酒袋、水袋（wineskin, water bag）",
+"media_type": "Text",
+"index_reference": "5.15",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.15\"><span class=\"thlex-key\">5.15</span> 標題：皮袋、酒袋、水袋（wineskin, water bag）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אוֹב</span> <span class=\"thlex-translit\">(音譯： ’ov)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job32:19\">JOB 32:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חֵמֶת</span> <span class=\"thlex-translit\">(音譯： chemeth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen21:15\">GEN 21:15</a>, <a href=\"https://ref.ly/Gen21:19\">GEN 21:19</a>, <a href=\"https://ref.ly/Hab2:15\">HAB 2:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נֹאד</span> <span class=\"thlex-translit\">(音譯： no’d)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Josh9:4\">JOS 9:4</a>, <a href=\"https://ref.ly/Josh9:13\">JOS 9:13</a>, <a href=\"https://ref.ly/Judg4:19\">JDG 4:19</a>, <a href=\"https://ref.ly/1Sam16:20\">1SA 16:20</a>, <a href=\"https://ref.ly/Ps56:9\">PSA 56:9</a>, <a href=\"https://ref.ly/Ps119:83\">PSA 119:83</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נֵבֶל</span> <span class=\"thlex-translit\">(音譯： nevel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam1:24\">1SA 1:24</a>, <a href=\"https://ref.ly/1Sam10:3\">1SA 10:3</a>, <a href=\"https://ref.ly/1Sam25:18\">1SA 25:18</a>, <a href=\"https://ref.ly/2Sam16:1\">2SA 16:1</a>, <a href=\"https://ref.ly/Job38:37\">JOB 38:37</a>, <a href=\"https://ref.ly/Jer13:12\">JER 13:12</a>, <a href=\"https://ref.ly/Jer13:12\">JER 13:12</a>, <a href=\"https://ref.ly/Jer48:12\">JER 48:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἀσκοπυτίνη</span> <span class=\"thlex-translit\">(音譯： askoputinē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt10:5\">JDT 10:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἀσκός</span> <span class=\"thlex-translit\">(音譯： askos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a>, <a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a>, <a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a>, <a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a>, <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>, <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>, <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>, <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>, <a href=\"https://ref.ly/Luke5:37\">LUK 5:37</a>, <a href=\"https://ref.ly/Luke5:37\">LUK 5:37</a>, <a href=\"https://ref.ly/Luke5:37\">LUK 5:37</a>, <a href=\"https://ref.ly/Luke5:38\">LUK 5:38</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0003_objects_tools.png\" alt=\"盛酒皮袋\"><figcaption class=\"thlex-caption\">盛酒皮袋 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>水袋或者酒袋通常用山羊皮或綿羊皮製成，也可以使用牛皮或者駱駝皮。取皮時，在頸部使皮與肉分離，接下來往後拉下整張皮，再進行鞣製，毛通常會刮掉，然後將內面翻到外面。皮袋有五個開口，就是四條腿和脖子的位置，其中的四個開口要縫合起來。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0488_waterskin.jpg\" alt=\"用獸皮盛裝液體，通常是水或酒\"><figcaption class=\"thlex-caption\">用獸皮盛裝液體，通常是水或酒 (Gary Todd, Israel Museum, CC0, via Wikimedia Commons)</figcaption></figure>皮袋是用來裝液體的，主要是葡萄酒或水。皮袋只能作短期儲存，否則裡面的液體會沾上皮革的味道。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>’ov</em> 只出現在<a href=\"https://ref.ly/Job32:19\">JOB 32:19</a> ，上下文清楚表明這個詞的意思是「酒袋」。關於這節經文的討論，參《〈約伯記〉手冊》（<em>A Handbook on The Book of Job</em> ）第601—602頁。</p>\n<p>\n            <a href=\"https://ref.ly/Ps56:9\">PSA 56:9</a> （《和》56:8）；<a href=\"https://ref.ly/Hab2:15\">HAB 2:15</a> ：有些重要參考資料並沒有看到這些經文也提到了酒袋。關於這些經文的討論，參《〈詩篇〉手冊》（<em>A Handbook on Psalms</em> ）第505—506頁和《〈那鴻書〉、〈哈巴谷書〉和〈西番雅書〉手冊》（<em>A Handbook on The Books of Nahum, Habakkuk, and Zephaniah</em> ）第105—106頁。</p>\n<p>\n            <a href=\"https://ref.ly/Ps119:83\">PSA 119:83</a> ：這節經文的第一行可譯為，「我如被丟棄的酒袋，毫無用處」（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。在許多語言中，這種表達幾乎毫無意義。因此，翻譯者可以選擇譯作「我毫不重要」，或者是用當地的某種物品替代「酒袋」，例如發霉的袋子。</p>\n<p>\n            <a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a>; <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>; <a href=\"https://ref.ly/Luke5:37\">LUK 5:37</a>; <a href=\"https://ref.ly/Luke5:38\">LUK 5:38</a> ：新約中的這些平行經文指的是「酒袋」。許多翻譯者試圖用「瓶子」來替代「酒袋」，但這種譯法並不理想，因為發酵的葡萄酒通常並不會脹碎玻璃瓶或瓦瓶，但卻會使舊酒袋裂開。在不使用酒袋或者酒袋不為人知的地方，翻譯者可能需要使用一些描述性的短語，例如，「皮製容器」、「扎緊的皮袋子」或「像瓶子的山羊皮」，並在腳註中給出比較詳細的解釋。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18032019",
+"start_ref_usfm": "JOB 32:19",
+"end_ref": "18032019",
+"end_ref_usfm": "JOB 32:19"
+},
+{
+"start_ref": "01021015",
+"start_ref_usfm": "GEN 21:15",
+"end_ref": "01021015",
+"end_ref_usfm": "GEN 21:15"
+},
+{
+"start_ref": "01021019",
+"start_ref_usfm": "GEN 21:19",
+"end_ref": "01021019",
+"end_ref_usfm": "GEN 21:19"
+},
+{
+"start_ref": "35002015",
+"start_ref_usfm": "HAB 2:15",
+"end_ref": "35002015",
+"end_ref_usfm": "HAB 2:15"
+},
+{
+"start_ref": "06009004",
+"start_ref_usfm": "JOS 9:4",
+"end_ref": "06009004",
+"end_ref_usfm": "JOS 9:4"
+},
+{
+"start_ref": "06009013",
+"start_ref_usfm": "JOS 9:13",
+"end_ref": "06009013",
+"end_ref_usfm": "JOS 9:13"
+},
+{
+"start_ref": "07004019",
+"start_ref_usfm": "JDG 4:19",
+"end_ref": "07004019",
+"end_ref_usfm": "JDG 4:19"
+},
+{
+"start_ref": "09016020",
+"start_ref_usfm": "1SA 16:20",
+"end_ref": "09016020",
+"end_ref_usfm": "1SA 16:20"
+},
+{
+"start_ref": "19056009",
+"start_ref_usfm": "PSA 56:9",
+"end_ref": "19056009",
+"end_ref_usfm": "PSA 56:9"
+},
+{
+"start_ref": "19119083",
+"start_ref_usfm": "PSA 119:83",
+"end_ref": "19119083",
+"end_ref_usfm": "PSA 119:83"
+},
+{
+"start_ref": "09001024",
+"start_ref_usfm": "1SA 1:24",
+"end_ref": "09001024",
+"end_ref_usfm": "1SA 1:24"
+},
+{
+"start_ref": "09010003",
+"start_ref_usfm": "1SA 10:3",
+"end_ref": "09010003",
+"end_ref_usfm": "1SA 10:3"
+},
+{
+"start_ref": "09025018",
+"start_ref_usfm": "1SA 25:18",
+"end_ref": "09025018",
+"end_ref_usfm": "1SA 25:18"
+},
+{
+"start_ref": "10016001",
+"start_ref_usfm": "2SA 16:1",
+"end_ref": "10016001",
+"end_ref_usfm": "2SA 16:1"
+},
+{
+"start_ref": "18038037",
+"start_ref_usfm": "JOB 38:37",
+"end_ref": "18038037",
+"end_ref_usfm": "JOB 38:37"
+},
+{
+"start_ref": "24013012",
+"start_ref_usfm": "JER 13:12",
+"end_ref": "24013012",
+"end_ref_usfm": "JER 13:12"
+},
+{
+"start_ref": "24048012",
+"start_ref_usfm": "JER 48:12",
+"end_ref": "24048012",
+"end_ref_usfm": "JER 48:12"
+},
+{
+"start_ref": "69010005",
+"start_ref_usfm": "JDT 10:5",
+"end_ref": "69010005",
+"end_ref_usfm": "JDT 10:5"
+},
+{
+"start_ref": "40009017",
+"start_ref_usfm": "MAT 9:17",
+"end_ref": "40009017",
+"end_ref_usfm": "MAT 9:17"
+},
+{
+"start_ref": "41002022",
+"start_ref_usfm": "MRK 2:22",
+"end_ref": "41002022",
+"end_ref_usfm": "MRK 2:22"
+},
+{
+"start_ref": "42005037",
+"start_ref_usfm": "LUK 5:37",
+"end_ref": "42005037",
+"end_ref_usfm": "LUK 5:37"
+},
+{
+"start_ref": "42005038",
+"start_ref_usfm": "LUK 5:38",
+"end_ref": "42005038",
+"end_ref_usfm": "LUK 5:38"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,770 @@
+[
+{
+"content_id": "REALIA:11.3.1",
+"reference_id": "REALIA:11.3.1",
+"version": "1.0.4",
+"title": "标题：旧约中的体积计量",
+"media_type": "Text",
+"index_reference": "11.3.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1\"><span class=\"thlex-key\">11.3.1</span> 标题：旧约中的体积计量</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0135_measures_of_volume.jpg\" alt=\"体积量度器具\"><figcaption class=\"thlex-caption\">体积量度器具 (© Ray Pritz by United Bible Societies)</figcaption></figure>施奈德（Schneider）建议用容器名称来替代体积或容量相近的圣经名称。例如，某些文化有特殊名称“篮”或“袋”，容纳大约25升（50斤）谷物，近似等于<em>’eyfah</em> （“伊法”）。我们建议翻译者考虑自己所处文化采用这种做法的可能性。然而，谨言慎行才是正道。翻译者必须避免所选词语存在时代错误，即表示那些用塑料或锡合金做成的容器。举例来说，在<a href=\"https://ref.ly/Lev14:10\">LEV 14:10</a> 中，一<em>’eyfah</em> （“伊法”）细面要调和一<em>log</em> （“罗革”，约半升）油。翻译者不能说“调和一听油”，不过可以说“调和两杯油”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014010",
+"end_ref_usfm": "LEV 14:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.1",
+"reference_id": "REALIA:11.3.1.1",
+"version": "1.0.4",
+"title": "标题：卡布（qab）",
+"media_type": "Text",
+"index_reference": "11.3.1.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.1\"><span class=\"thlex-key\">11.3.1.1</span> 标题：卡布（qab）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：קַב</span> <span class=\"thlex-translit\">(音译：qav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs6:25\">2KI 6:25</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/2Kgs6:25\">2KI 6:25</a> ：这里<em>qav</em> （“卡布”）的四分之一约等于半升。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 译为“half a pound”（“半磅”）。<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 采用容器来计量，译为“a small bowl”（“一小碗”）。在大多数情况下，采用容器都是一个很好的解决方案。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "12006025",
+"start_ref_usfm": "2KI 6:25",
+"end_ref": "12006025",
+"end_ref_usfm": "2KI 6:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.2",
+"reference_id": "REALIA:11.3.1.2",
+"version": "1.0.4",
+"title": "标题：细亚（seah）",
+"media_type": "Text",
+"index_reference": "11.3.1.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.2\"><span class=\"thlex-key\">11.3.1.2</span> 标题：细亚（seah）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：סְאָה</span> <span class=\"thlex-translit\">(音译：s’ah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen18:6\">GEN 18:6</a>, <a href=\"https://ref.ly/1Sam25:18\">1SA 25:18</a>, <a href=\"https://ref.ly/1Kgs18:32\">1KI 18:32</a>, <a href=\"https://ref.ly/2Kgs7:1\">2KI 7:1</a>, <a href=\"https://ref.ly/2Kgs7:1\">2KI 7:1</a>, <a href=\"https://ref.ly/2Kgs7:16\">2KI 7:16</a>, <a href=\"https://ref.ly/2Kgs7:16\">2KI 7:16</a>, <a href=\"https://ref.ly/2Kgs7:18\">2KI 7:18</a>, <a href=\"https://ref.ly/2Kgs7:18\">2KI 7:18</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Gen18:6\">GEN 18:6</a> ：亚伯拉罕让撒拉为客人预备“三细亚”面。这里的重点是，对于三五个人来说，这些面粉是很多的，也许为要表明亚伯拉罕慷慨招待客人。</p>\n<p>\n            <a href=\"https://ref.ly/1Sam25:18\">1SA 25:18</a> ：亚比该为大卫的人预备了“五细亚”烘好的穗子。有些现代译本作“一蒲式耳”（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直译）、“二蒲式耳”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）、“约四十升”（<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 直译）。这里用容器作译词也是妥当的，比如“一大袋”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 直译）</p>\n<p>\n            <a href=\"https://ref.ly/1Kgs18:32\">1KI 18:32</a> ：以利亚绕着坛挖沟，“可容谷种二细亚”（《和》、<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）。“二细亚”约有12或13夸脱，或者约11.5升，数量并不很大。很长时间以来，解经家就认为这里说的是一块能够播撒这么多种子的土地，古时的犹太拉比甚至计算出这个面积约为5,000平方肘。如果经文确实是这个意思，那么显然有所夸张。大多数译本的意思都是沟的容积等于这些种子的体积，因此这是一个不起眼的小沟。然而，也有译本作，“沟很宽，可以播撒十二千克的种子”（<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 直译）。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 把干量改为液量，英文意为“大到能够容纳约四加仑的水”。</p>\n<p>\n            <a href=\"https://ref.ly/2Kgs7:1\">2KI 7:1</a>; <a href=\"https://ref.ly/2Kgs7:1\">2KI 7:1</a>; <a href=\"https://ref.ly/2Kgs7:16\">2KI 7:16</a>; <a href=\"https://ref.ly/2Kgs7:16\">2KI 7:16</a>; <a href=\"https://ref.ly/2Kgs7:18\">2KI 7:18</a>; <a href=\"https://ref.ly/2Kgs7:18\">2KI 7:18</a> ：在这些经文中，以利沙所发预言的要点是粮食价格会猛降，那些过去绝不可能得到的东西会变得又多又便宜。这里应该表明：支付的款项与买到的东西比起来是很少的。然而，这在译本中很快变得过时。翻译者可能想要增加一个限定性的短语，例如“XX<em>只</em> 卖YY”。<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 在<a href=\"https://ref.ly/2Kgs7:1\">2KI 7:1</a> 后半节的译法值得借鉴，英文意为：“你几乎不花钱就能买到一大袋面或两大袋大麦。”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01018006",
+"start_ref_usfm": "GEN 18:6",
+"end_ref": "01018006",
+"end_ref_usfm": "GEN 18:6"
+},
+{
+"start_ref": "09025018",
+"start_ref_usfm": "1SA 25:18",
+"end_ref": "09025018",
+"end_ref_usfm": "1SA 25:18"
+},
+{
+"start_ref": "11018032",
+"start_ref_usfm": "1KI 18:32",
+"end_ref": "11018032",
+"end_ref_usfm": "1KI 18:32"
+},
+{
+"start_ref": "12007001",
+"start_ref_usfm": "2KI 7:1",
+"end_ref": "12007001",
+"end_ref_usfm": "2KI 7:1"
+},
+{
+"start_ref": "12007016",
+"start_ref_usfm": "2KI 7:16",
+"end_ref": "12007016",
+"end_ref_usfm": "2KI 7:16"
+},
+{
+"start_ref": "12007018",
+"start_ref_usfm": "2KI 7:18",
+"end_ref": "12007018",
+"end_ref_usfm": "2KI 7:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.3",
+"reference_id": "REALIA:11.3.1.3",
+"version": "1.0.4",
+"title": "标题：伊法（ephah）",
+"media_type": "Text",
+"index_reference": "11.3.1.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.3\"><span class=\"thlex-key\">11.3.1.3</span> 标题：伊法（ephah）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֵיפָה</span> <span class=\"thlex-translit\">(音译：’eyfah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod16:36\">EXO 16:36</a>, <a href=\"https://ref.ly/Lev5:11\">LEV 5:11</a>, <a href=\"https://ref.ly/Lev6:13\">LEV 6:13</a>, <a href=\"https://ref.ly/Lev19:36\">LEV 19:36</a>, <a href=\"https://ref.ly/Num5:15\">NUM 5:15</a>, <a href=\"https://ref.ly/Num28:5\">NUM 28:5</a>, <a href=\"https://ref.ly/Deut25:14\">DEU 25:14</a>, <a href=\"https://ref.ly/Deut25:14\">DEU 25:14</a>, <a href=\"https://ref.ly/Deut25:15\">DEU 25:15</a>, <a href=\"https://ref.ly/Judg6:19\">JDG 6:19</a>, <a href=\"https://ref.ly/Ruth2:17\">RUT 2:17</a>, <a href=\"https://ref.ly/1Sam1:24\">1SA 1:24</a>, <a href=\"https://ref.ly/1Sam17:17\">1SA 17:17</a>, <a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a>, <a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a>, <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a>, <a href=\"https://ref.ly/Ezek45:10\">EZK 45:10</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>, <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek46:5\">EZK 46:5</a>, <a href=\"https://ref.ly/Ezek46:5\">EZK 46:5</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:14\">EZK 46:14</a>, <a href=\"https://ref.ly/Amos8:5\">AMO 8:5</a>, <a href=\"https://ref.ly/Mic6:10\">MIC 6:10</a>, <a href=\"https://ref.ly/Zech5:6\">ZEC 5:6</a>, <a href=\"https://ref.ly/Zech5:7\">ZEC 5:7</a>, <a href=\"https://ref.ly/Zech5:8\">ZEC 5:8</a>, <a href=\"https://ref.ly/Zech5:9\">ZEC 5:9</a>, <a href=\"https://ref.ly/Zech5:10\">ZEC 5:10</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <em>’Eyfah</em> （伊法）是液量“罢特”的对应干量。</p>\n<p>上面的6节经文（<a href=\"https://ref.ly/Exod16:36\">EXO 16:36</a>; <a href=\"https://ref.ly/Lev5:11\">LEV 5:11</a>; <a href=\"https://ref.ly/Lev14:21\">LEV 14:21</a>; <a href=\"https://ref.ly/Num5:15\">NUM 5:15</a>; <a href=\"https://ref.ly/Num15:4\">NUM 15:4</a>; <a href=\"https://ref.ly/Num28:5\">NUM 28:5</a> ）提到了一个数量，即1伊法的1/10，等于1俄梅珥（参<a href=\"https://ref.ly/Exod16:36\">EXO 16:36</a> ）。在这些经文中，可以使用“俄梅珥”的译词。</p>\n<p>\n            <a href=\"https://ref.ly/Lev19:36\">LEV 19:36</a> ：在有些语言中，这个使用公正度量衡的命令可能需要调整表述。不是伊法或欣的数值应该是公正的，而是体积测量所用容器的容量应该是准确的。商人不应该使用标记为一伊法但实际上不到的容器。翻译者可以扩展译文，提供其他信息以帮助读者理解。因此，对于原文字面意为“公正的伊法，和公正的欣”的短语（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 采用直译），可译为“你们的称重篮子具有正确的大小，你们的罐子盛装正确数量的液体”（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 英文直译）。然而，这种译法可能太过冗长，可能最好译成：“你们在称量任何东西时都不要欺骗人”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02016036",
+"start_ref_usfm": "EXO 16:36",
+"end_ref": "02016036",
+"end_ref_usfm": "EXO 16:36"
+},
+{
+"start_ref": "03005011",
+"start_ref_usfm": "LEV 5:11",
+"end_ref": "03005011",
+"end_ref_usfm": "LEV 5:11"
+},
+{
+"start_ref": "03006013",
+"start_ref_usfm": "LEV 6:13",
+"end_ref": "03006013",
+"end_ref_usfm": "LEV 6:13"
+},
+{
+"start_ref": "03019036",
+"start_ref_usfm": "LEV 19:36",
+"end_ref": "03019036",
+"end_ref_usfm": "LEV 19:36"
+},
+{
+"start_ref": "04005015",
+"start_ref_usfm": "NUM 5:15",
+"end_ref": "04005015",
+"end_ref_usfm": "NUM 5:15"
+},
+{
+"start_ref": "04028005",
+"start_ref_usfm": "NUM 28:5",
+"end_ref": "04028005",
+"end_ref_usfm": "NUM 28:5"
+},
+{
+"start_ref": "05025014",
+"start_ref_usfm": "DEU 25:14",
+"end_ref": "05025014",
+"end_ref_usfm": "DEU 25:14"
+},
+{
+"start_ref": "05025015",
+"start_ref_usfm": "DEU 25:15",
+"end_ref": "05025015",
+"end_ref_usfm": "DEU 25:15"
+},
+{
+"start_ref": "07006019",
+"start_ref_usfm": "JDG 6:19",
+"end_ref": "07006019",
+"end_ref_usfm": "JDG 6:19"
+},
+{
+"start_ref": "08002017",
+"start_ref_usfm": "RUT 2:17",
+"end_ref": "08002017",
+"end_ref_usfm": "RUT 2:17"
+},
+{
+"start_ref": "09001024",
+"start_ref_usfm": "1SA 1:24",
+"end_ref": "09001024",
+"end_ref_usfm": "1SA 1:24"
+},
+{
+"start_ref": "09017017",
+"start_ref_usfm": "1SA 17:17",
+"end_ref": "09017017",
+"end_ref_usfm": "1SA 17:17"
+},
+{
+"start_ref": "20020010",
+"start_ref_usfm": "PRO 20:10",
+"end_ref": "20020010",
+"end_ref_usfm": "PRO 20:10"
+},
+{
+"start_ref": "23005010",
+"start_ref_usfm": "ISA 5:10",
+"end_ref": "23005010",
+"end_ref_usfm": "ISA 5:10"
+},
+{
+"start_ref": "26045010",
+"start_ref_usfm": "EZK 45:10",
+"end_ref": "26045010",
+"end_ref_usfm": "EZK 45:10"
+},
+{
+"start_ref": "26045011",
+"start_ref_usfm": "EZK 45:11",
+"end_ref": "26045011",
+"end_ref_usfm": "EZK 45:11"
+},
+{
+"start_ref": "26045013",
+"start_ref_usfm": "EZK 45:13",
+"end_ref": "26045013",
+"end_ref_usfm": "EZK 45:13"
+},
+{
+"start_ref": "26045024",
+"start_ref_usfm": "EZK 45:24",
+"end_ref": "26045024",
+"end_ref_usfm": "EZK 45:24"
+},
+{
+"start_ref": "26046005",
+"start_ref_usfm": "EZK 46:5",
+"end_ref": "26046005",
+"end_ref_usfm": "EZK 46:5"
+},
+{
+"start_ref": "26046007",
+"start_ref_usfm": "EZK 46:7",
+"end_ref": "26046007",
+"end_ref_usfm": "EZK 46:7"
+},
+{
+"start_ref": "26046011",
+"start_ref_usfm": "EZK 46:11",
+"end_ref": "26046011",
+"end_ref_usfm": "EZK 46:11"
+},
+{
+"start_ref": "26046014",
+"start_ref_usfm": "EZK 46:14",
+"end_ref": "26046014",
+"end_ref_usfm": "EZK 46:14"
+},
+{
+"start_ref": "30008005",
+"start_ref_usfm": "AMO 8:5",
+"end_ref": "30008005",
+"end_ref_usfm": "AMO 8:5"
+},
+{
+"start_ref": "33006010",
+"start_ref_usfm": "MIC 6:10",
+"end_ref": "33006010",
+"end_ref_usfm": "MIC 6:10"
+},
+{
+"start_ref": "38005006",
+"start_ref_usfm": "ZEC 5:6",
+"end_ref": "38005006",
+"end_ref_usfm": "ZEC 5:6"
+},
+{
+"start_ref": "38005007",
+"start_ref_usfm": "ZEC 5:7",
+"end_ref": "38005007",
+"end_ref_usfm": "ZEC 5:7"
+},
+{
+"start_ref": "38005008",
+"start_ref_usfm": "ZEC 5:8",
+"end_ref": "38005008",
+"end_ref_usfm": "ZEC 5:8"
+},
+{
+"start_ref": "38005009",
+"start_ref_usfm": "ZEC 5:9",
+"end_ref": "38005009",
+"end_ref_usfm": "ZEC 5:9"
+},
+{
+"start_ref": "38005010",
+"start_ref_usfm": "ZEC 5:10",
+"end_ref": "38005010",
+"end_ref_usfm": "ZEC 5:10"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014021",
+"end_ref_usfm": "LEV 14:21"
+},
+{
+"start_ref": "04015004",
+"start_ref_usfm": "NUM 15:4",
+"end_ref": "04015004",
+"end_ref_usfm": "NUM 15:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.4",
+"reference_id": "REALIA:11.3.1.4",
+"version": "1.0.4",
+"title": "标题：贺梅珥（homer）",
+"media_type": "Text",
+"index_reference": "11.3.1.4",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.4\"><span class=\"thlex-key\">11.3.1.4</span> 标题：贺梅珥（homer）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חֹמֶר</span> <span class=\"thlex-translit\">(音译：chomer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev27:16\">LEV 27:16</a>, <a href=\"https://ref.ly/Num11:32\">NUM 11:32</a>, <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>, <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>, <a href=\"https://ref.ly/Hos3:2\">HOS 3:2</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>chomer</em> （贺梅珥）的语源暗示该词原来指一头驴子驮的谷物数量。</p>\n<p>\n            <a href=\"https://ref.ly/Lev27:16\">LEV 27:16</a> ：这里用来衡量田地价值的种子数量（每贺梅珥五十舍客勒）是田地将要产出的种子数量，而不是播撒的种子数量。换句话说，这是在估计田地的价值是多少，而不是在估计面积。</p>\n<p>\n            <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a> ：这里的希伯来文本比较了两个量度，即“贺梅珥”和“伊法”，1伊法等于1/10贺梅珥。翻译者需要保留这个比例，即播撒了10份种子，但是收成只有1份种子的数量。如果能够保留这个比例，那么贺梅珥和伊法的确切数值是不重要的。这里的要点是收成极其糟糕。大多数译本通过增加“仅仅”、“只是”、“只不过”等词语来强调这一点。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>; <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>; <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>; <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>; <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a> ：这几节经文指出伊法和罢特是一样的，都是贺梅珥的十分之一。另参上文<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.3.1.3 伊法（ephah）&lt;REALIA:11.3.1.3&gt;</a> 关于“伊法”的注解。</p>\n<p>\n            <a href=\"https://ref.ly/Hos3:2\">HOS 3:2</a> ：何西阿为买妻子付出的总额并不是很高，略低于娶妻的价格（比较<a href=\"https://ref.ly/Deut22:29\">DEU 22:29</a> ），和买奴隶的价格差不多（比较<a href=\"https://ref.ly/Gen37:28\">GEN 37:28</a>; <a href=\"https://ref.ly/Exod21:32\">EXO 21:32</a> ）。这里同时提到银子和大麦有些非同寻常。大麦的确切数量不详，因为经文增加了另一个希伯来文<em>lethek</em> ，其具体数值不知。有些解经家和译本认为这是贺梅珥的一半，但仅仅是猜测。本节最后一部分的希伯来原文字面意为：“一贺梅珥大麦和一lethek大麦”。</p>\n<p>有些译本依循《七十士译本》，该译本作“一贺梅珥大麦和一袋酒”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027016",
+"end_ref_usfm": "LEV 27:16"
+},
+{
+"start_ref": "04011032",
+"start_ref_usfm": "NUM 11:32",
+"end_ref": "04011032",
+"end_ref_usfm": "NUM 11:32"
+},
+{
+"start_ref": "23005010",
+"start_ref_usfm": "ISA 5:10",
+"end_ref": "23005010",
+"end_ref_usfm": "ISA 5:10"
+},
+{
+"start_ref": "26045011",
+"start_ref_usfm": "EZK 45:11",
+"end_ref": "26045011",
+"end_ref_usfm": "EZK 45:11"
+},
+{
+"start_ref": "26045013",
+"start_ref_usfm": "EZK 45:13",
+"end_ref": "26045013",
+"end_ref_usfm": "EZK 45:13"
+},
+{
+"start_ref": "26045014",
+"start_ref_usfm": "EZK 45:14",
+"end_ref": "26045014",
+"end_ref_usfm": "EZK 45:14"
+},
+{
+"start_ref": "28003002",
+"start_ref_usfm": "HOS 3:2",
+"end_ref": "28003002",
+"end_ref_usfm": "HOS 3:2"
+},
+{
+"start_ref": "05022029",
+"start_ref_usfm": "DEU 22:29",
+"end_ref": "05022029",
+"end_ref_usfm": "DEU 22:29"
+},
+{
+"start_ref": "01037028",
+"start_ref_usfm": "GEN 37:28",
+"end_ref": "01037028",
+"end_ref_usfm": "GEN 37:28"
+},
+{
+"start_ref": "02021032",
+"start_ref_usfm": "EXO 21:32",
+"end_ref": "02021032",
+"end_ref_usfm": "EXO 21:32"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.5",
+"reference_id": "REALIA:11.3.1.5",
+"version": "1.0.4",
+"title": "标题：歌珥（kor）",
+"media_type": "Text",
+"index_reference": "11.3.1.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.5\"><span class=\"thlex-key\">11.3.1.5</span> 标题：歌珥（kor）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כֹּר</span> <span class=\"thlex-translit\">(音译：kor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs5:2\">1KI 5:2</a>, <a href=\"https://ref.ly/1Kgs5:2\">1KI 5:2</a>, <a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a>, <a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a>, <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a>, <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a>, <a href=\"https://ref.ly/2Chr27:5\">2CH 27:5</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>, <a href=\"https://ref.ly/Ezra7:22\">EZR 7:22</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>根据<a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a> ，歌珥与贺梅珥的大小是一样的。</p>\n<p>\n            <a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a>; <a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a>; <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a>; <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a> （《和》王上5:11；代下2:10）：这两节经文记载的所罗门给希兰的油的数量相差一百倍。<a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a>; <a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a> （《和》5:11）作“二十歌珥”，然而平行经文<a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a>; <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a> （《和》2:10）作“二万罢特”。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 接受<a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a>; <a href=\"https://ref.ly/1Kgs5:25\">1KI 5:25</a> （《和》5:11）的“二十歌珥”为更好的读文，并且特别指出翻译者不应该试图统一这两处经文。然而，不是所有解经家和译本都与<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 的意见一致，有些人倾向于接受《七十士译本》的“二万罢特”，从而这两处经文就一致了。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11005002",
+"start_ref_usfm": "1KI 5:2",
+"end_ref": "11005002",
+"end_ref_usfm": "1KI 5:2"
+},
+{
+"start_ref": "11005025",
+"start_ref_usfm": "1KI 5:25",
+"end_ref": "11005025",
+"end_ref_usfm": "1KI 5:25"
+},
+{
+"start_ref": "14002009",
+"start_ref_usfm": "2CH 2:9",
+"end_ref": "14002009",
+"end_ref_usfm": "2CH 2:9"
+},
+{
+"start_ref": "14027005",
+"start_ref_usfm": "2CH 27:5",
+"end_ref": "14027005",
+"end_ref_usfm": "2CH 27:5"
+},
+{
+"start_ref": "26045014",
+"start_ref_usfm": "EZK 45:14",
+"end_ref": "26045014",
+"end_ref_usfm": "EZK 45:14"
+},
+{
+"start_ref": "15007022",
+"start_ref_usfm": "EZR 7:22",
+"end_ref": "15007022",
+"end_ref_usfm": "EZR 7:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.6",
+"reference_id": "REALIA:11.3.1.6",
+"version": "1.0.4",
+"title": "标题：俄梅珥（omer）",
+"media_type": "Text",
+"index_reference": "11.3.1.6",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.6\"><span class=\"thlex-key\">11.3.1.6</span> 标题：俄梅珥（omer）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עֹמֶר</span> <span class=\"thlex-translit\">(音译：‘omer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod16:16\">EXO 16:16</a>, <a href=\"https://ref.ly/Exod16:18\">EXO 16:18</a>, <a href=\"https://ref.ly/Exod16:22\">EXO 16:22</a>, <a href=\"https://ref.ly/Exod16:32\">EXO 16:32</a>, <a href=\"https://ref.ly/Exod16:33\">EXO 16:33</a>, <a href=\"https://ref.ly/Exod16:36\">EXO 16:36</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Exod16:16\">EXO 16:16</a> ，<em>‘omer</em> （俄梅珥）是百姓收集吗哪的数量。许多译本将其表述为“二夸脱”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。《马丁路德译本》和<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 倾向于采用大小合宜的容器作为译词，作“一满罐”。<a href=\"https://ref.ly/Exod16:36\">EXO 16:36</a> 指明一俄梅珥等于一伊法的十分之一。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02016016",
+"start_ref_usfm": "EXO 16:16",
+"end_ref": "02016016",
+"end_ref_usfm": "EXO 16:16"
+},
+{
+"start_ref": "02016018",
+"start_ref_usfm": "EXO 16:18",
+"end_ref": "02016018",
+"end_ref_usfm": "EXO 16:18"
+},
+{
+"start_ref": "02016022",
+"start_ref_usfm": "EXO 16:22",
+"end_ref": "02016022",
+"end_ref_usfm": "EXO 16:22"
+},
+{
+"start_ref": "02016032",
+"start_ref_usfm": "EXO 16:32",
+"end_ref": "02016032",
+"end_ref_usfm": "EXO 16:32"
+},
+{
+"start_ref": "02016033",
+"start_ref_usfm": "EXO 16:33",
+"end_ref": "02016033",
+"end_ref_usfm": "EXO 16:33"
+},
+{
+"start_ref": "02016036",
+"start_ref_usfm": "EXO 16:36",
+"end_ref": "02016036",
+"end_ref_usfm": "EXO 16:36"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.7",
+"reference_id": "REALIA:11.3.1.7",
+"version": "1.0.4",
+"title": "标题：罗革（log）",
+"media_type": "Text",
+"index_reference": "11.3.1.7",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.7\"><span class=\"thlex-key\">11.3.1.7</span> 标题：罗革（log）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：לֹג</span> <span class=\"thlex-translit\">(音译：log)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev14:10\">LEV 14:10</a>, <a href=\"https://ref.ly/Lev14:12\">LEV 14:12</a>, <a href=\"https://ref.ly/Lev14:15\">LEV 14:15</a>, <a href=\"https://ref.ly/Lev14:21\">LEV 14:21</a>, <a href=\"https://ref.ly/Lev14:24\">LEV 14:24</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>患痲疯病的人行洁净礼的时候，除了其他祭物之外，还要带一<em>Log</em> （罗革）油，差不多等于现代烹饪菜谱中的一量杯。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014010",
+"end_ref_usfm": "LEV 14:10"
+},
+{
+"start_ref": "03014012",
+"start_ref_usfm": "LEV 14:12",
+"end_ref": "03014012",
+"end_ref_usfm": "LEV 14:12"
+},
+{
+"start_ref": "03014015",
+"start_ref_usfm": "LEV 14:15",
+"end_ref": "03014015",
+"end_ref_usfm": "LEV 14:15"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014021",
+"end_ref_usfm": "LEV 14:21"
+},
+{
+"start_ref": "03014024",
+"start_ref_usfm": "LEV 14:24",
+"end_ref": "03014024",
+"end_ref_usfm": "LEV 14:24"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.8",
+"reference_id": "REALIA:11.3.1.8",
+"version": "1.0.4",
+"title": "标题：欣（hin）",
+"media_type": "Text",
+"index_reference": "11.3.1.8",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.8\"><span class=\"thlex-key\">11.3.1.8</span> 标题：欣（hin）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：הִין</span> <span class=\"thlex-translit\">(音译：hin)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod29:40\">EXO 29:40</a>, <a href=\"https://ref.ly/Exod29:40\">EXO 29:40</a>, <a href=\"https://ref.ly/Exod30:24\">EXO 30:24</a>, <a href=\"https://ref.ly/Lev19:36\">LEV 19:36</a>, <a href=\"https://ref.ly/Lev23:13\">LEV 23:13</a>, <a href=\"https://ref.ly/Num15:4\">NUM 15:4</a>, <a href=\"https://ref.ly/Num15:5\">NUM 15:5</a>, <a href=\"https://ref.ly/Num15:6\">NUM 15:6</a>, <a href=\"https://ref.ly/Num15:7\">NUM 15:7</a>, <a href=\"https://ref.ly/Num15:9\">NUM 15:9</a>, <a href=\"https://ref.ly/Num15:10\">NUM 15:10</a>, <a href=\"https://ref.ly/Num28:5\">NUM 28:5</a>, <a href=\"https://ref.ly/Num28:7\">NUM 28:7</a>, <a href=\"https://ref.ly/Num28:14\">NUM 28:14</a>, <a href=\"https://ref.ly/Num28:14\">NUM 28:14</a>, <a href=\"https://ref.ly/Num28:14\">NUM 28:14</a>, <a href=\"https://ref.ly/Ezek4:11\">EZK 4:11</a>, <a href=\"https://ref.ly/Ezek45:24\">EZK 45:24</a>, <a href=\"https://ref.ly/Ezek46:5\">EZK 46:5</a>, <a href=\"https://ref.ly/Ezek46:7\">EZK 46:7</a>, <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a>, <a href=\"https://ref.ly/Ezek46:14\">EZK 46:14</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <em>Hin</em> （欣）是一种液量，用来衡量祭物里面调和的酒和油，以及圣膏里面调和的油。</p>\n<p>\n            <a href=\"https://ref.ly/Lev19:36\">LEV 19:36</a> ：参上文<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.3.1.3 伊法（ephah）&lt;REALIA:11.3.1.3&gt;</a> 关于伊法的注解。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek4:11\">EZK 4:11</a> ：关于以西结在表演耶路撒冷被围的街头剧时每天喝的水量，各译本有不同的译法，如“三分之二夸脱”（<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直译）、“两杯”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）、“两大杯”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译）等。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02029040",
+"start_ref_usfm": "EXO 29:40",
+"end_ref": "02029040",
+"end_ref_usfm": "EXO 29:40"
+},
+{
+"start_ref": "02030024",
+"start_ref_usfm": "EXO 30:24",
+"end_ref": "02030024",
+"end_ref_usfm": "EXO 30:24"
+},
+{
+"start_ref": "03019036",
+"start_ref_usfm": "LEV 19:36",
+"end_ref": "03019036",
+"end_ref_usfm": "LEV 19:36"
+},
+{
+"start_ref": "03023013",
+"start_ref_usfm": "LEV 23:13",
+"end_ref": "03023013",
+"end_ref_usfm": "LEV 23:13"
+},
+{
+"start_ref": "04015004",
+"start_ref_usfm": "NUM 15:4",
+"end_ref": "04015004",
+"end_ref_usfm": "NUM 15:4"
+},
+{
+"start_ref": "04015005",
+"start_ref_usfm": "NUM 15:5",
+"end_ref": "04015005",
+"end_ref_usfm": "NUM 15:5"
+},
+{
+"start_ref": "04015006",
+"start_ref_usfm": "NUM 15:6",
+"end_ref": "04015006",
+"end_ref_usfm": "NUM 15:6"
+},
+{
+"start_ref": "04015007",
+"start_ref_usfm": "NUM 15:7",
+"end_ref": "04015007",
+"end_ref_usfm": "NUM 15:7"
+},
+{
+"start_ref": "04015009",
+"start_ref_usfm": "NUM 15:9",
+"end_ref": "04015009",
+"end_ref_usfm": "NUM 15:9"
+},
+{
+"start_ref": "04015010",
+"start_ref_usfm": "NUM 15:10",
+"end_ref": "04015010",
+"end_ref_usfm": "NUM 15:10"
+},
+{
+"start_ref": "04028005",
+"start_ref_usfm": "NUM 28:5",
+"end_ref": "04028005",
+"end_ref_usfm": "NUM 28:5"
+},
+{
+"start_ref": "04028007",
+"start_ref_usfm": "NUM 28:7",
+"end_ref": "04028007",
+"end_ref_usfm": "NUM 28:7"
+},
+{
+"start_ref": "04028014",
+"start_ref_usfm": "NUM 28:14",
+"end_ref": "04028014",
+"end_ref_usfm": "NUM 28:14"
+},
+{
+"start_ref": "26004011",
+"start_ref_usfm": "EZK 4:11",
+"end_ref": "26004011",
+"end_ref_usfm": "EZK 4:11"
+},
+{
+"start_ref": "26045024",
+"start_ref_usfm": "EZK 45:24",
+"end_ref": "26045024",
+"end_ref_usfm": "EZK 45:24"
+},
+{
+"start_ref": "26046005",
+"start_ref_usfm": "EZK 46:5",
+"end_ref": "26046005",
+"end_ref_usfm": "EZK 46:5"
+},
+{
+"start_ref": "26046007",
+"start_ref_usfm": "EZK 46:7",
+"end_ref": "26046007",
+"end_ref_usfm": "EZK 46:7"
+},
+{
+"start_ref": "26046011",
+"start_ref_usfm": "EZK 46:11",
+"end_ref": "26046011",
+"end_ref_usfm": "EZK 46:11"
+},
+{
+"start_ref": "26046014",
+"start_ref_usfm": "EZK 46:14",
+"end_ref": "26046014",
+"end_ref_usfm": "EZK 46:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.9",
+"reference_id": "REALIA:11.3.1.9",
+"version": "1.0.4",
+"title": "标题：罢特（bath）",
+"media_type": "Text",
+"index_reference": "11.3.1.9",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.9\"><span class=\"thlex-key\">11.3.1.9</span> 标题：罢特（bath）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בַּת</span> <span class=\"thlex-translit\">(音译：bath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a>, <a href=\"https://ref.ly/2Chr2:9\">2CH 2:9</a>, <a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a>, <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a>, <a href=\"https://ref.ly/Ezek45:10\">EZK 45:10</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>, <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <em>Bath</em> （罢特）是干量“伊法”的对应液量。</p>\n<p>\n            <a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a>; <a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a> ：在这两节经文中，铜海的容量是用“罢特”来度量的。学者对于“罢特”的具体大小并未达成一致意见，因此各译本在翻译<a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a> 所记铜海的容量时，差异非常的大，比如80,000升（<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> 直译）、40,000升（<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 直译）、11,000加仑（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译）、10,000加仑（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译），等等。请注意，<a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a> 所记容量为2,000罢特，而<a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a> 作3,000罢特。翻译者不应该试图统一这两个数值。另参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.3.2 圣殿：海(Temple: sea, tank)&lt;REALIA:4.3.2&gt;</a> 中的讨论。</p>\n<p>\n            <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a> ：参上文<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.3.1.4 贺梅珥（homer）&lt;REALIA:11.3.1.4&gt;</a> 关于“贺梅珥”的注解。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek45:10\">EZK 45:10</a>; <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>; <a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a> ：这几节经文指出伊法和罢特是一样的，都是一贺梅珥的十分之一。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007026",
+"start_ref_usfm": "1KI 7:26",
+"end_ref": "11007026",
+"end_ref_usfm": "1KI 7:26"
+},
+{
+"start_ref": "11007038",
+"start_ref_usfm": "1KI 7:38",
+"end_ref": "11007038",
+"end_ref_usfm": "1KI 7:38"
+},
+{
+"start_ref": "14002009",
+"start_ref_usfm": "2CH 2:9",
+"end_ref": "14002009",
+"end_ref_usfm": "2CH 2:9"
+},
+{
+"start_ref": "14004005",
+"start_ref_usfm": "2CH 4:5",
+"end_ref": "14004005",
+"end_ref_usfm": "2CH 4:5"
+},
+{
+"start_ref": "23005010",
+"start_ref_usfm": "ISA 5:10",
+"end_ref": "23005010",
+"end_ref_usfm": "ISA 5:10"
+},
+{
+"start_ref": "26045010",
+"start_ref_usfm": "EZK 45:10",
+"end_ref": "26045010",
+"end_ref_usfm": "EZK 45:10"
+},
+{
+"start_ref": "26045011",
+"start_ref_usfm": "EZK 45:11",
+"end_ref": "26045011",
+"end_ref_usfm": "EZK 45:11"
+},
+{
+"start_ref": "26045014",
+"start_ref_usfm": "EZK 45:14",
+"end_ref": "26045014",
+"end_ref_usfm": "EZK 45:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.10",
+"reference_id": "REALIA:11.3.1.10",
+"version": "1.0.4",
+"title": "标题：Lethek",
+"media_type": "Text",
+"index_reference": "11.3.1.10",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.10\"><span class=\"thlex-key\">11.3.1.10</span> 标题：Lethek</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：לֵתֶךְ</span> <span class=\"thlex-translit\">(音译：lethek)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Hos3:2\">HOS 3:2</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>参上文<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.3.1.4 贺梅珥（homer）&lt;REALIA:11.3.1.4&gt;</a> 关于“贺梅珥”的讨论。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "28003002",
+"start_ref_usfm": "HOS 3:2",
+"end_ref": "28003002",
+"end_ref_usfm": "HOS 3:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:11.3.1.11",
+"reference_id": "REALIA:11.3.1.11",
+"version": "1.0.4",
+"title": "标题：Shalish",
+"media_type": "Text",
+"index_reference": "11.3.1.11",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.3.1.11\"><span class=\"thlex-key\">11.3.1.11</span> 标题：Shalish</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שָׁלִישׁ</span> <span class=\"thlex-translit\">(音译：shalish)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps80:6\">PSA 80:6</a>, <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>许多解经家认为希伯来文<em>shalish</em> 不是指一个具体的体积数，而是指某种容器。这个词的字面意思是“三分之一”。</p>\n<p>\n            <a href=\"https://ref.ly/Ps80:6\">PSA 80:6</a> （《和》80:5）：这里的<em>shalish</em> 可能是指一个比较大的喝水器皿。经文的意思是上帝的百姓非常悲伤，从他们如泉涌出的泪水可以看得出来。这节经文的第二行有多种译法；比如，“一大杯眼泪［给他们］喝”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译），“你使他们好像用大碗喝泪水”（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 直译；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 类似），“三倍量器的眼泪［给他们］喝”（<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> 直译）。</p>\n<p>\n            <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a> ：各译本对这里<em>shalish</em> 一词的理解存在差异，如“桶”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译）、“杯”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）、“碗”（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直译）、“筐”（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 直译）等。然而，几乎所有译本都采用了某种容器。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "19080006",
+"start_ref_usfm": "PSA 80:6",
+"end_ref": "19080006",
+"end_ref_usfm": "PSA 80:6"
+},
+{
+"start_ref": "23040012",
+"start_ref_usfm": "ISA 40:12",
+"end_ref": "23040012",
+"end_ref_usfm": "ISA 40:12"
+}
+],
+"resource": []
+}
+}
+]

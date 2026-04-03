@@ -1,0 +1,389 @@
+[
+{
+"content_id": "REALIA:5.18.1",
+"reference_id": "REALIA:5.18.1",
+"version": "1.0.4",
+"title": "標題：儲存容器（containers for storage）",
+"media_type": "Text",
+"index_reference": "5.18.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1\"><span class=\"thlex-key\">5.18.1</span> 標題：儲存容器（containers for storage）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>儲物罐用來儲存水、油等液體，或存放穀物等糧食，大小不一。這些容器通常是用比較軟的石頭鑿成，或者是用黏土製成，基本上是圓柱形，頂部開口。開口可以用蓋子蓋上（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.18.1.2.1 蓋子 (lid, cover)&lt;REALIA:5.18.1.2.1&gt;</a> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:5.18.1.1",
+"reference_id": "REALIA:5.18.1.1",
+"version": "1.0.4",
+"title": "標題：石缸（stone jar）",
+"media_type": "Text",
+"index_reference": "5.18.1.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1.1\"><span class=\"thlex-key\">5.18.1.1</span> 標題：石缸（stone jar）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθινος, ὑδρία</span> <span class=\"thlex-translit\">(音譯： (lithinos) hudria)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John2:6\">JHN 2:6</a>, <a href=\"https://ref.ly/John2:6\">JHN 2:6</a>, <a href=\"https://ref.ly/John2:7\">JHN 2:7</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0491_vessel_stone.jpg\" alt=\"美錫尼（Mycenean）石製儲物罐，青銅時代晚期，公元前1570-1200年\"><figcaption class=\"thlex-caption\">美錫尼（Mycenean）石製儲物罐，青銅時代晚期，公元前1570–1200年 (© Zde, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>石缸是用來盛水的容器。在聖經中，只有一個地方提到了這種盛水的容器，並且描述得非常詳細。石缸的容量為「二十至三十加侖」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯；約80—120升），是用石頭做成的。聖經時期的石缸是由比較軟的石頭製成的，可用錘子和鑿子進行雕刻，再用多種工具打磨光滑；也可以用車床加工，就像木匠旋削木頭那樣。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0076_man_pouring_water_into_stone_jars.png\" alt=\"OAI-0076_man_pouring_water_into_stone_jars\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>關於<a href=\"https://ref.ly/Ruth2:9\">RUT 2:9</a> 記敘的水缸，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.18 容器、器皿 (containers, vessels)&lt;REALIA:5.18&gt;</a> 中的討論。</p>\n<p>\n            <a href=\"https://ref.ly/John2:6\">JHN 2:6</a> ：這裡的水缸是用石頭做成，而不是陶製的，這一點很重要。根據猶太律法，如果陶缸沾染了不潔，就必須打碎；但是被污染的石缸只要清洗乾淨就可以再次使用。希臘文<em>hudria</em> 表明這些石缸是用來盛水的。在一些語言中，短語「六口石缸」中每個詞之間的關係必須明確，例如，「六口用來盛水的大石缸」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "43002006",
+"start_ref_usfm": "JHN 2:6",
+"end_ref": "43002006",
+"end_ref_usfm": "JHN 2:6"
+},
+{
+"start_ref": "43002007",
+"start_ref_usfm": "JHN 2:7",
+"end_ref": "43002007",
+"end_ref_usfm": "JHN 2:7"
+},
+{
+"start_ref": "08002009",
+"start_ref_usfm": "RUT 2:9",
+"end_ref": "08002009",
+"end_ref_usfm": "RUT 2:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:5.18.1.2",
+"reference_id": "REALIA:5.18.1.2",
+"version": "1.0.4",
+"title": "標題：陶罐（clay jar）",
+"media_type": "Text",
+"index_reference": "5.18.1.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1.2\"><span class=\"thlex-key\">5.18.1.2</span> 標題：陶罐（clay jar）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כַּד</span> <span class=\"thlex-translit\">(音譯： kad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen24:14\">GEN 24:14</a>, <a href=\"https://ref.ly/Gen24:15\">GEN 24:15</a>, <a href=\"https://ref.ly/Gen24:16\">GEN 24:16</a>, <a href=\"https://ref.ly/Gen24:17\">GEN 24:17</a>, <a href=\"https://ref.ly/Gen24:18\">GEN 24:18</a>, <a href=\"https://ref.ly/Gen24:20\">GEN 24:20</a>, <a href=\"https://ref.ly/Gen24:43\">GEN 24:43</a>, <a href=\"https://ref.ly/Gen24:45\">GEN 24:45</a>, <a href=\"https://ref.ly/Gen24:46\">GEN 24:46</a>, <a href=\"https://ref.ly/Judg7:16\">JDG 7:16</a>, <a href=\"https://ref.ly/Judg7:16\">JDG 7:16</a>, <a href=\"https://ref.ly/Judg7:19\">JDG 7:19</a>, <a href=\"https://ref.ly/Judg7:20\">JDG 7:20</a>, <a href=\"https://ref.ly/1Kgs17:12\">1KI 17:12</a>, <a href=\"https://ref.ly/1Kgs17:14\">1KI 17:14</a>, <a href=\"https://ref.ly/1Kgs17:16\">1KI 17:16</a>, <a href=\"https://ref.ly/1Kgs18:34\">1KI 18:34</a>, <a href=\"https://ref.ly/Eccl12:6\">ECC 12:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נֵבֶל</span> <span class=\"thlex-translit\">(音譯： nevel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:14\">ISA 30:14</a>, <a href=\"https://ref.ly/Lam4:2\">LAM 4:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צַפַּחַת</span> <span class=\"thlex-translit\">(音譯： tsapachath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam26:12\">1SA 26:12</a>, <a href=\"https://ref.ly/1Sam26:16\">1SA 26:16</a>, <a href=\"https://ref.ly/1Kgs17:12\">1KI 17:12</a>, <a href=\"https://ref.ly/1Kgs17:14\">1KI 17:14</a>, <a href=\"https://ref.ly/1Kgs17:16\">1KI 17:16</a>, <a href=\"https://ref.ly/1Kgs19:6\">1KI 19:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κεράμιον</span> <span class=\"thlex-translit\">(音譯： keramion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark14:13\">MRK 14:13</a>, <a href=\"https://ref.ly/Luke22:10\">LUK 22:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ὑδρία</span> <span class=\"thlex-translit\">(音譯： hudria)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John4:28\">JHN 4:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0059_women_drawing_water_into_jars.png\" alt=\"OAI-0059_women_drawing_water_into_jars\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>陶罐是一種陶製器皿，用來儲存葡萄酒和橄欖油等液體（另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.18.1 儲存容器 (containers for storage)&lt;REALIA:5.18.1&gt;</a> ）。陶罐也可以用來裝水或其他液體。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>石缸（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.18.1.1 石缸 (stone jar)&lt;REALIA:5.18.1.1&gt;</a> ）只是用來儲水。陶罐與石缸不同，裝滿水後必須要足夠輕，以便婦女能夠拿著走路；在當時的社會，打水工作通常由婦女來做。在<a href=\"https://ref.ly/John2:6\">JHN 2:6</a> 和<a href=\"https://ref.ly/John4:28\">JHN 4:28</a> 中，約翰使用了同一個意為「罐」的希臘文詞語（《和修》2:6譯作「缸」，<a href=\"https://ref.ly/John4:28\">JHN 4:28</a> 「水罐」），但從上下文可以清楚地看出，這個詞指的是兩種不同的容器。<a href=\"https://ref.ly/John4:28\">JHN 4:28</a> 提到的婦女不可能提著一口沉重的石缸。大多數譯本都譯為「水罐」（“water jar”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。目標語言如果使用不同的詞語來分別表示打水或提水的器皿與喝水的器皿，就應使用表示前者的詞語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024014",
+"start_ref_usfm": "GEN 24:14",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024015",
+"end_ref_usfm": "GEN 24:15"
+},
+{
+"start_ref": "01024016",
+"start_ref_usfm": "GEN 24:16",
+"end_ref": "01024016",
+"end_ref_usfm": "GEN 24:16"
+},
+{
+"start_ref": "01024017",
+"start_ref_usfm": "GEN 24:17",
+"end_ref": "01024017",
+"end_ref_usfm": "GEN 24:17"
+},
+{
+"start_ref": "01024018",
+"start_ref_usfm": "GEN 24:18",
+"end_ref": "01024018",
+"end_ref_usfm": "GEN 24:18"
+},
+{
+"start_ref": "01024020",
+"start_ref_usfm": "GEN 24:20",
+"end_ref": "01024020",
+"end_ref_usfm": "GEN 24:20"
+},
+{
+"start_ref": "01024043",
+"start_ref_usfm": "GEN 24:43",
+"end_ref": "01024043",
+"end_ref_usfm": "GEN 24:43"
+},
+{
+"start_ref": "01024045",
+"start_ref_usfm": "GEN 24:45",
+"end_ref": "01024045",
+"end_ref_usfm": "GEN 24:45"
+},
+{
+"start_ref": "01024046",
+"start_ref_usfm": "GEN 24:46",
+"end_ref": "01024046",
+"end_ref_usfm": "GEN 24:46"
+},
+{
+"start_ref": "07007016",
+"start_ref_usfm": "JDG 7:16",
+"end_ref": "07007016",
+"end_ref_usfm": "JDG 7:16"
+},
+{
+"start_ref": "07007019",
+"start_ref_usfm": "JDG 7:19",
+"end_ref": "07007019",
+"end_ref_usfm": "JDG 7:19"
+},
+{
+"start_ref": "07007020",
+"start_ref_usfm": "JDG 7:20",
+"end_ref": "07007020",
+"end_ref_usfm": "JDG 7:20"
+},
+{
+"start_ref": "11017012",
+"start_ref_usfm": "1KI 17:12",
+"end_ref": "11017012",
+"end_ref_usfm": "1KI 17:12"
+},
+{
+"start_ref": "11017014",
+"start_ref_usfm": "1KI 17:14",
+"end_ref": "11017014",
+"end_ref_usfm": "1KI 17:14"
+},
+{
+"start_ref": "11017016",
+"start_ref_usfm": "1KI 17:16",
+"end_ref": "11017016",
+"end_ref_usfm": "1KI 17:16"
+},
+{
+"start_ref": "11018034",
+"start_ref_usfm": "1KI 18:34",
+"end_ref": "11018034",
+"end_ref_usfm": "1KI 18:34"
+},
+{
+"start_ref": "21012006",
+"start_ref_usfm": "ECC 12:6",
+"end_ref": "21012006",
+"end_ref_usfm": "ECC 12:6"
+},
+{
+"start_ref": "23030014",
+"start_ref_usfm": "ISA 30:14",
+"end_ref": "23030014",
+"end_ref_usfm": "ISA 30:14"
+},
+{
+"start_ref": "25004002",
+"start_ref_usfm": "LAM 4:2",
+"end_ref": "25004002",
+"end_ref_usfm": "LAM 4:2"
+},
+{
+"start_ref": "09026012",
+"start_ref_usfm": "1SA 26:12",
+"end_ref": "09026012",
+"end_ref_usfm": "1SA 26:12"
+},
+{
+"start_ref": "09026016",
+"start_ref_usfm": "1SA 26:16",
+"end_ref": "09026016",
+"end_ref_usfm": "1SA 26:16"
+},
+{
+"start_ref": "11019006",
+"start_ref_usfm": "1KI 19:6",
+"end_ref": "11019006",
+"end_ref_usfm": "1KI 19:6"
+},
+{
+"start_ref": "41014013",
+"start_ref_usfm": "MRK 14:13",
+"end_ref": "41014013",
+"end_ref_usfm": "MRK 14:13"
+},
+{
+"start_ref": "42022010",
+"start_ref_usfm": "LUK 22:10",
+"end_ref": "42022010",
+"end_ref_usfm": "LUK 22:10"
+},
+{
+"start_ref": "43004028",
+"start_ref_usfm": "JHN 4:28",
+"end_ref": "43004028",
+"end_ref_usfm": "JHN 4:28"
+},
+{
+"start_ref": "43002006",
+"start_ref_usfm": "JHN 2:6",
+"end_ref": "43002006",
+"end_ref_usfm": "JHN 2:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:5.18.1.2.1",
+"reference_id": "REALIA:5.18.1.2.1",
+"version": "1.0.4",
+"title": "標題：蓋子（lid, cover）",
+"media_type": "Text",
+"index_reference": "5.18.1.2.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1.2.1\"><span class=\"thlex-key\">5.18.1.2.1</span> 標題：蓋子（lid, cover）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צָמִיד</span> <span class=\"thlex-translit\">(音譯： tsamid)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num19:15\">NUM 19:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0492_storiage_jar.jpg\" alt=\"有蓋儲藏罐\"><figcaption class=\"thlex-caption\">有蓋儲藏罐 (Metropolitan Museum of Art, CC0, MMA)</figcaption></figure>蓋子是用來嚴密地蓋住罐口或缸口的東西。在某些情況下，蓋子會用繩子繫在容器上。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>tsamid</em> 通常指一種作為珠寶佩戴的手鐲（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">10.5.2 手鐲、臂鐲、腳鐲 (bracelet, armlet, anklet)&lt;REALIA:10.5.2&gt;</a> ）。然而在<a href=\"https://ref.ly/Num19:15\">NUM 19:15</a> 中，這個詞指的是蓋住器皿的方式。這節經文的重點是器皿沒有封住或蓋住，因此異物可能會掉進去，譯文要傳遞出這個意思。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為，「帳棚中凡沒有蓋子的罐和缸也都不潔淨」；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 意為，「凡沒有蓋子、敞口的罐和缸都不潔淨」；這兩種翻譯都可作為參考。在這節經文中，希伯來文<em>pathil</em> 描述的是蓋子相對於器皿的情況，一些譯本譯為「綁住」（“tied”；<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、路德、<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> ）。還有譯本則選擇了一個比較寬泛的詞語，如「固定住」（“fastened”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）。整節經文的另一種參考譯法是：「凡沒有封嚴的罐和缸，就為不潔淨。」</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "04019015",
+"start_ref_usfm": "NUM 19:15",
+"end_ref": "04019015",
+"end_ref_usfm": "NUM 19:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:5.18.1.2.2",
+"reference_id": "REALIA:5.18.1.2.2",
+"version": "1.0.4",
+"title": "標題：瓦片（potsherd）",
+"media_type": "Text",
+"index_reference": "5.18.1.2.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1.2.2\"><span class=\"thlex-key\">5.18.1.2.2</span> 標題：瓦片（potsherd）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חֶרֶשׂ</span> <span class=\"thlex-translit\">(音譯： cheres)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job2:8\">JOB 2:8</a>, <a href=\"https://ref.ly/Job41:22\">JOB 41:22</a>, <a href=\"https://ref.ly/Ps22:16\">PSA 22:16</a>, <a href=\"https://ref.ly/Isa30:14\">ISA 30:14</a>, <a href=\"https://ref.ly/Ezek23:34\">EZK 23:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ὄστρακον</span> <span class=\"thlex-translit\">(音譯： ostrakon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir22:9\">SIR 22:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0493_broken_pottery.jpg\" alt=\"陶器碎片\"><figcaption class=\"thlex-caption\">陶器碎片 (© Davidbena, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>瓦片是陶器的碎片，沒有規則的形狀。瓦片通常不太大，比手掌小，邊緣可能很鋒利。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在聖經時期，人們吃飯、喝水、烹飪所用的大多數家用器皿都是用黏土製成，可能是曬乾或燒製的。這樣的器皿很容易破碎，並且破碎後通常也不會修補。這種器皿的碎片極其常見。大多數譯本把「瓦片」譯為「陶器的碎片」（“piece of broken pottery”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）或類似的表達。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18002008",
+"start_ref_usfm": "JOB 2:8",
+"end_ref": "18002008",
+"end_ref_usfm": "JOB 2:8"
+},
+{
+"start_ref": "18041022",
+"start_ref_usfm": "JOB 41:22",
+"end_ref": "18041022",
+"end_ref_usfm": "JOB 41:22"
+},
+{
+"start_ref": "19022016",
+"start_ref_usfm": "PSA 22:16",
+"end_ref": "19022016",
+"end_ref_usfm": "PSA 22:16"
+},
+{
+"start_ref": "23030014",
+"start_ref_usfm": "ISA 30:14",
+"end_ref": "23030014",
+"end_ref_usfm": "ISA 30:14"
+},
+{
+"start_ref": "26023034",
+"start_ref_usfm": "EZK 23:34",
+"end_ref": "26023034",
+"end_ref_usfm": "EZK 23:34"
+},
+{
+"start_ref": "72022009",
+"start_ref_usfm": "SIR 22:9",
+"end_ref": "72022009",
+"end_ref_usfm": "SIR 22:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:5.18.1.3",
+"reference_id": "REALIA:5.18.1.3",
+"version": "1.0.4",
+"title": "標題：玉瓶、雪花石膏瓶（alabaster jar, alabaster flask）",
+"media_type": "Text",
+"index_reference": "5.18.1.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1.3\"><span class=\"thlex-key\">5.18.1.3</span> 標題：玉瓶、雪花石膏瓶（alabaster jar, alabaster flask）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἀλάβαστρον, ἀλάβαστρος</span> <span class=\"thlex-translit\">(音譯： alabastron, alabastros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt26:7\">MAT 26:7</a>, <a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a>, <a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a>, <a href=\"https://ref.ly/Luke7:37\">LUK 7:37</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0494_alabaster_oinment_pot.jpg\" alt=\"放油膏的雪花石膏瓶（埃及，公元前2000-100年）\"><figcaption class=\"thlex-caption\">放油膏的雪花石膏瓶（埃及，公元前2000–100年） (© Wellcome Images, UK, CC BY 4.0, via Wikimedia Commons)</figcaption></figure>玉瓶（雪花石膏瓶）是用方解石製成的瓶子。這種瓶子的瓶頸通常很長，因此必須把瓶子打碎才能使用裡面裝著的東西。這種瓶子一般都很小，主要用來裝香水等貴重物品。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>考古學和文學證據表明，在希臘化時期，裝香水的玉瓶（最初用雪花石膏製成）被玻璃瓶所取代。但是，這些瓶子仍然被稱為「玉瓶」。玉瓶買來的時候是密封的，要打碎才能開封。因此，<a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a> 記載那個婦女打碎了瓶子；《馬太福音》中的平行經文沒有記錄這個細節。雖然玻璃沒有雪花石膏那麼昂貴，但也不是很常見，因此也很貴重。</p>\n<p>在翻譯「玉瓶」（雪花石膏瓶）時，許多翻譯者使用了一個表示「瓶」或「長頸瓶」的詞語，並用一個修飾語進行描述，例如「用雪花石膏做的」、「用貴重的石頭做的」，或「用稱爲雪花石膏的貴重石頭做的」。由於雪花石膏在現今並不廣為人知，有些譯本省略了這一信息；例如，<a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a> 有一個短語字面意為「一個裝著純哪噠香膏的雪花石膏瓶，非常昂貴」，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 採用了直譯；然而，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 英文意為，「非常昂貴的一瓶子的芬芳香膏」，這可能會讓英文讀者產生疑問：究竟是瓶子昂貴，還是裡面的東西昂貴（實際上是裡面的東西昂貴）。<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 和希伯來文通俗譯本作，「一個裝著昂貴的純哪噠油的小瓶子」，這種譯法更好一些。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40026007",
+"start_ref_usfm": "MAT 26:7",
+"end_ref": "40026007",
+"end_ref_usfm": "MAT 26:7"
+},
+{
+"start_ref": "41014003",
+"start_ref_usfm": "MRK 14:3",
+"end_ref": "41014003",
+"end_ref_usfm": "MRK 14:3"
+},
+{
+"start_ref": "42007037",
+"start_ref_usfm": "LUK 7:37",
+"end_ref": "42007037",
+"end_ref_usfm": "LUK 7:37"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:5.18.1.4",
+"reference_id": "REALIA:5.18.1.4",
+"version": "1.0.4",
+"title": "標題：錢囊、錢箱、寶盒（money box, treasure box）",
+"media_type": "Text",
+"index_reference": "5.18.1.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.18.1.4\"><span class=\"thlex-key\">5.18.1.4</span> 標題：錢囊、錢箱、寶盒（money box, treasure box）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： γλωσσόκομον</span> <span class=\"thlex-translit\">(音譯： glōssokomon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John12:6\">JHN 12:6</a>, <a href=\"https://ref.ly/John13:29\">JHN 13:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： θησαυρός</span> <span class=\"thlex-translit\">(音譯： thēsauros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a>, <a href=\"https://ref.ly/Matt12:35\">MAT 12:35</a>, <a href=\"https://ref.ly/Matt12:35\">MAT 12:35</a>, <a href=\"https://ref.ly/Matt13:52\">MAT 13:52</a>, <a href=\"https://ref.ly/Luke6:45\">LUK 6:45</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κιβωτός</span> <span class=\"thlex-translit\">(音譯： kibōtos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd1:51\">1ES 1:51</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0060_box_with_coins_and_jewels.png\" alt=\"OAI-0060_box_with_coins_and_jewels\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>錢箱是一種箱子，可能是木頭做的，裡面放著錢或其他貴重的小物品。這種箱子可能很小，可以輕鬆地單手拿著或夾在腋下。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>「寶盒」可以譯為：「裝著貴重物品的盒子」，或「裝著值一大筆錢的物品的盒子。」</p>\n<p>\n            <a href=\"https://ref.ly/John13:29\">JHN 13:29</a> 的重點並不是錢箱這件東西，而是猶大所承擔的職責。因此，對於字面意為「猶大帶著錢箱」的短句，可以簡單地譯為「猶大是管錢的」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯），或「猶大是他們的財務」。這裡的希臘文表達可以理解為慣用語。</p>\n<p>\n            <a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a> ：<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 把這裡的希臘文<em>thēsaurus</em> 譯為“treasures”（「寶物」），該詞既可以指存放起來的貴重物品，也可能指儲存貴重物品的地方或物件。對於該節經文中的這個詞語，各譯本分別譯為「寶物」或「寶箱」；但即便是依循第二種解釋，解經家對箱子的性質也沒有達成共識。例如，有些人建議譯為「寶盒」，而另一些人則不認同，主張譯為「袋子」。鑒於<em>thēsaurus</em> 有許多譯法，但又沒有一種特別有說服力，因此最好按照目標語言中最自然且不與聖經文化衝突的方式來翻譯。與聖經文化矛盾的翻譯包括「手提箱」、「旅行箱」、「保險箱」等。翻譯者要避免使用這些詞語。許多翻譯者都使用了「行李」和「用來裝貴重物品的袋子（或箱子）」之類的一般性表達。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "43012006",
+"start_ref_usfm": "JHN 12:6",
+"end_ref": "43012006",
+"end_ref_usfm": "JHN 12:6"
+},
+{
+"start_ref": "43013029",
+"start_ref_usfm": "JHN 13:29",
+"end_ref": "43013029",
+"end_ref_usfm": "JHN 13:29"
+},
+{
+"start_ref": "40002011",
+"start_ref_usfm": "MAT 2:11",
+"end_ref": "40002011",
+"end_ref_usfm": "MAT 2:11"
+},
+{
+"start_ref": "40012035",
+"start_ref_usfm": "MAT 12:35",
+"end_ref": "40012035",
+"end_ref_usfm": "MAT 12:35"
+},
+{
+"start_ref": "40013052",
+"start_ref_usfm": "MAT 13:52",
+"end_ref": "40013052",
+"end_ref_usfm": "MAT 13:52"
+},
+{
+"start_ref": "42006045",
+"start_ref_usfm": "LUK 6:45",
+"end_ref": "42006045",
+"end_ref_usfm": "LUK 6:45"
+},
+{
+"start_ref": "82001051",
+"start_ref_usfm": "1ES 1:51",
+"end_ref": "82001051",
+"end_ref_usfm": "1ES 1:51"
+}
+],
+"resource": []
+}
+}
+]

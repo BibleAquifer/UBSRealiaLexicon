@@ -1,0 +1,274 @@
+[
+{
+"content_id": "REALIA:4.5.3",
+"reference_id": "REALIA:4.5.3",
+"version": "1.0.4",
+"title": "Robe",
+"media_type": "Text",
+"index_reference": "4.5.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.5.3\"><span class=\"thlex-key\">4.5.3</span> Robe</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִדָּה</span> <span class=\"thlex-translit\">(midah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps133:2\">PSA 133:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְעִיל</span> <span class=\"thlex-translit\">(m‘il)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a>, <a href=\"https://ref.ly/Exod28:31\">EXO 28:31</a>, <a href=\"https://ref.ly/Exod28:34\">EXO 28:34</a>, <a href=\"https://ref.ly/Exod29:5\">EXO 29:5</a>, <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a>, <a href=\"https://ref.ly/Exod39:23\">EXO 39:23</a>, <a href=\"https://ref.ly/Exod39:24\">EXO 39:24</a>, <a href=\"https://ref.ly/Exod39:25\">EXO 39:25</a>, <a href=\"https://ref.ly/Exod39:26\">EXO 39:26</a>, <a href=\"https://ref.ly/Lev8:7\">LEV 8:7</a>, <a href=\"https://ref.ly/1Sam2:19\">1SA 2:19</a>, <a href=\"https://ref.ly/1Sam15:27\">1SA 15:27</a>, <a href=\"https://ref.ly/1Sam18:4\">1SA 18:4</a>, <a href=\"https://ref.ly/1Sam24:5\">1SA 24:5</a>, <a href=\"https://ref.ly/1Sam24:12\">1SA 24:12</a>, <a href=\"https://ref.ly/1Sam24:12\">1SA 24:12</a>, <a href=\"https://ref.ly/1Sam28:14\">1SA 28:14</a>, <a href=\"https://ref.ly/2Sam13:18\">2SA 13:18</a>, <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, <a href=\"https://ref.ly/Ezra9:3\">EZR 9:3</a>, <a href=\"https://ref.ly/Ezra9:5\">EZR 9:5</a>, <a href=\"https://ref.ly/Job1:20\">JOB 1:20</a>, <a href=\"https://ref.ly/Job2:12\">JOB 2:12</a>, <a href=\"https://ref.ly/Job29:14\">JOB 29:14</a>, <a href=\"https://ref.ly/Ps109:29\">PSA 109:29</a>, <a href=\"https://ref.ly/Isa59:17\">ISA 59:17</a>, <a href=\"https://ref.ly/Isa61:10\">ISA 61:10</a>, <a href=\"https://ref.ly/Ezek26:16\">EZK 26:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἔνδυμα</span> <span class=\"thlex-translit\">(enduma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis18:24\">WIS 18:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἱμάτιον</span> <span class=\"thlex-translit\">(himation)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt26:65\">MAT 26:65</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">περιστολή</span> <span class=\"thlex-translit\">(peristolē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir45:7\">SIR 45:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ποδήρης</span> <span class=\"thlex-translit\">(podērēs)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis18:24\">WIS 18:24</a>, <a href=\"https://ref.ly/Sir45:8\">SIR 45:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">στολή</span> <span class=\"thlex-translit\">(stolē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir45:10\">SIR 45:10</a>, <a href=\"https://ref.ly/Sir50:11\">SIR 50:11</a>, <a href=\"https://ref.ly/1Macc10:21\">1MA 10:21</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The robe of the High Priest was worn on top of the tunic and thus was a kind of jacket or overshirt. It was woven of light blue wool thread. It was a long garment, hanging down to the ankles. It is not clear whether it had sleeves or not, nor whether it was open or closed in the front. Somewhat like a Latin American poncho, it may even have been a rectangular piece of cloth with a hole in the middle for the head. Around the hem of the robe were sewn alternating golden bells (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5.3.1 Jinglet, bell&lt;REALIA:4.5.3.1&gt;</a>) and pomegranates made of woven threads. The robe was held in place by the ephod, which was worn over it. See the illustrations at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5 High Priest’s clothing&lt;REALIA:4.5&gt;</a> and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5.4 Ephod&lt;REALIA:4.5.4&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>This garment is sometimes called “the robe of the ephod” (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> in <a href=\"https://ref.ly/Exod28:31\">EXO 28:31</a>; <a href=\"https://ref.ly/Exod29:5\">EXO 29:5</a>; <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a>). This means simply that the ephod was worn over it.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "19133002",
+"start_ref_usfm": "PSA 133:2",
+"end_ref": "19133002",
+"end_ref_usfm": "PSA 133:2"
+},
+{
+"start_ref": "02028004",
+"start_ref_usfm": "EXO 28:4",
+"end_ref": "02028004",
+"end_ref_usfm": "EXO 28:4"
+},
+{
+"start_ref": "02028031",
+"start_ref_usfm": "EXO 28:31",
+"end_ref": "02028031",
+"end_ref_usfm": "EXO 28:31"
+},
+{
+"start_ref": "02028034",
+"start_ref_usfm": "EXO 28:34",
+"end_ref": "02028034",
+"end_ref_usfm": "EXO 28:34"
+},
+{
+"start_ref": "02029005",
+"start_ref_usfm": "EXO 29:5",
+"end_ref": "02029005",
+"end_ref_usfm": "EXO 29:5"
+},
+{
+"start_ref": "02039022",
+"start_ref_usfm": "EXO 39:22",
+"end_ref": "02039022",
+"end_ref_usfm": "EXO 39:22"
+},
+{
+"start_ref": "02039023",
+"start_ref_usfm": "EXO 39:23",
+"end_ref": "02039023",
+"end_ref_usfm": "EXO 39:23"
+},
+{
+"start_ref": "02039024",
+"start_ref_usfm": "EXO 39:24",
+"end_ref": "02039024",
+"end_ref_usfm": "EXO 39:24"
+},
+{
+"start_ref": "02039025",
+"start_ref_usfm": "EXO 39:25",
+"end_ref": "02039025",
+"end_ref_usfm": "EXO 39:25"
+},
+{
+"start_ref": "02039026",
+"start_ref_usfm": "EXO 39:26",
+"end_ref": "02039026",
+"end_ref_usfm": "EXO 39:26"
+},
+{
+"start_ref": "03008007",
+"start_ref_usfm": "LEV 8:7",
+"end_ref": "03008007",
+"end_ref_usfm": "LEV 8:7"
+},
+{
+"start_ref": "09002019",
+"start_ref_usfm": "1SA 2:19",
+"end_ref": "09002019",
+"end_ref_usfm": "1SA 2:19"
+},
+{
+"start_ref": "09015027",
+"start_ref_usfm": "1SA 15:27",
+"end_ref": "09015027",
+"end_ref_usfm": "1SA 15:27"
+},
+{
+"start_ref": "09018004",
+"start_ref_usfm": "1SA 18:4",
+"end_ref": "09018004",
+"end_ref_usfm": "1SA 18:4"
+},
+{
+"start_ref": "09024005",
+"start_ref_usfm": "1SA 24:5",
+"end_ref": "09024005",
+"end_ref_usfm": "1SA 24:5"
+},
+{
+"start_ref": "09024012",
+"start_ref_usfm": "1SA 24:12",
+"end_ref": "09024012",
+"end_ref_usfm": "1SA 24:12"
+},
+{
+"start_ref": "09028014",
+"start_ref_usfm": "1SA 28:14",
+"end_ref": "09028014",
+"end_ref_usfm": "1SA 28:14"
+},
+{
+"start_ref": "10013018",
+"start_ref_usfm": "2SA 13:18",
+"end_ref": "10013018",
+"end_ref_usfm": "2SA 13:18"
+},
+{
+"start_ref": "13015027",
+"start_ref_usfm": "1CH 15:27",
+"end_ref": "13015027",
+"end_ref_usfm": "1CH 15:27"
+},
+{
+"start_ref": "15009003",
+"start_ref_usfm": "EZR 9:3",
+"end_ref": "15009003",
+"end_ref_usfm": "EZR 9:3"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009005",
+"end_ref_usfm": "EZR 9:5"
+},
+{
+"start_ref": "18001020",
+"start_ref_usfm": "JOB 1:20",
+"end_ref": "18001020",
+"end_ref_usfm": "JOB 1:20"
+},
+{
+"start_ref": "18002012",
+"start_ref_usfm": "JOB 2:12",
+"end_ref": "18002012",
+"end_ref_usfm": "JOB 2:12"
+},
+{
+"start_ref": "18029014",
+"start_ref_usfm": "JOB 29:14",
+"end_ref": "18029014",
+"end_ref_usfm": "JOB 29:14"
+},
+{
+"start_ref": "19109029",
+"start_ref_usfm": "PSA 109:29",
+"end_ref": "19109029",
+"end_ref_usfm": "PSA 109:29"
+},
+{
+"start_ref": "23059017",
+"start_ref_usfm": "ISA 59:17",
+"end_ref": "23059017",
+"end_ref_usfm": "ISA 59:17"
+},
+{
+"start_ref": "23061010",
+"start_ref_usfm": "ISA 61:10",
+"end_ref": "23061010",
+"end_ref_usfm": "ISA 61:10"
+},
+{
+"start_ref": "26026016",
+"start_ref_usfm": "EZK 26:16",
+"end_ref": "26026016",
+"end_ref_usfm": "EZK 26:16"
+},
+{
+"start_ref": "71018024",
+"start_ref_usfm": "WIS 18:24",
+"end_ref": "71018024",
+"end_ref_usfm": "WIS 18:24"
+},
+{
+"start_ref": "40026065",
+"start_ref_usfm": "MAT 26:65",
+"end_ref": "40026065",
+"end_ref_usfm": "MAT 26:65"
+},
+{
+"start_ref": "72045007",
+"start_ref_usfm": "SIR 45:7",
+"end_ref": "72045007",
+"end_ref_usfm": "SIR 45:7"
+},
+{
+"start_ref": "72045008",
+"start_ref_usfm": "SIR 45:8",
+"end_ref": "72045008",
+"end_ref_usfm": "SIR 45:8"
+},
+{
+"start_ref": "72045010",
+"start_ref_usfm": "SIR 45:10",
+"end_ref": "72045010",
+"end_ref_usfm": "SIR 45:10"
+},
+{
+"start_ref": "72050011",
+"start_ref_usfm": "SIR 50:11",
+"end_ref": "72050011",
+"end_ref_usfm": "SIR 50:11"
+},
+{
+"start_ref": "78010021",
+"start_ref_usfm": "1MA 10:21",
+"end_ref": "78010021",
+"end_ref_usfm": "1MA 10:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:4.5.3.1",
+"reference_id": "REALIA:4.5.3.1",
+"version": "1.0.4",
+"title": "Jinglet, bell",
+"media_type": "Text",
+"index_reference": "4.5.3.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.5.3.1\"><span class=\"thlex-key\">4.5.3.1</span> Jinglet, bell</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פַּעֲמֹן</span> <span class=\"thlex-translit\">(pa‘amon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:33\">EXO 28:33</a>, <a href=\"https://ref.ly/Exod28:34\">EXO 28:34</a>, <a href=\"https://ref.ly/Exod28:34\">EXO 28:34</a>, <a href=\"https://ref.ly/Exod39:25\">EXO 39:25</a>, <a href=\"https://ref.ly/Exod39:25\">EXO 39:25</a>, <a href=\"https://ref.ly/Exod39:26\">EXO 39:26</a>, <a href=\"https://ref.ly/Exod39:26\">EXO 39:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κώδων</span> <span class=\"thlex-translit\">(kōdōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir45:9\">SIR 45:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0460_bell.jpg\" alt=\"Bells and jinglets on the high priest&#x27;s garments\"><figcaption class=\"thlex-caption\">Bells and jinglets on the high priest&#x27;s garments (© Ben P L, CC BY 2.0, via Wikimedia Commons)</figcaption></figure>Jinglets were small platelets of metal. Their exact size and shape are not known. They were sewn to the hem of the High Priest’s robe (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.5.3 Robe&lt;REALIA:4.5.3&gt;</a>). As he walked or moved, they knocked together making a jingling or tinkling sound.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Bells as we know them today, with a bell shape containing a ringing clapper, were not known at the time of Exodus and are probably not intended. Nevertheless, almost all the modern translations consulted render the Hebrew word <em>pa‘amon</em> as “bells” (for example, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>). Where a word for jingling platelets exists and is commonly understood, it should be used. Otherwise translators may use “bells,” since they have the same function and are not very different in form. Where “bells” are not known, it will be necessary to find some sort of ornamentation, made of pieces of metal (perhaps coins) or even shells, which makes a sound when the clothing is moved.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02028033",
+"start_ref_usfm": "EXO 28:33",
+"end_ref": "02028033",
+"end_ref_usfm": "EXO 28:33"
+},
+{
+"start_ref": "02028034",
+"start_ref_usfm": "EXO 28:34",
+"end_ref": "02028034",
+"end_ref_usfm": "EXO 28:34"
+},
+{
+"start_ref": "02039025",
+"start_ref_usfm": "EXO 39:25",
+"end_ref": "02039025",
+"end_ref_usfm": "EXO 39:25"
+},
+{
+"start_ref": "02039026",
+"start_ref_usfm": "EXO 39:26",
+"end_ref": "02039026",
+"end_ref_usfm": "EXO 39:26"
+},
+{
+"start_ref": "72045009",
+"start_ref_usfm": "SIR 45:9",
+"end_ref": "72045009",
+"end_ref_usfm": "SIR 45:9"
+}
+],
+"resource": []
+}
+}
+]

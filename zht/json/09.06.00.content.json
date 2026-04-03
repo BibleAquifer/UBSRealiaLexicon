@@ -1,0 +1,84 @@
+[
+{
+"content_id": "REALIA:9.6",
+"reference_id": "REALIA:9.6",
+"version": "1.0.4",
+"title": "標題：湯（soup, stew）",
+"media_type": "Text",
+"index_reference": "9.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:9.6\"><span class=\"thlex-key\">9.6</span> 標題：湯（soup, stew）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מָרַק</span> <span class=\"thlex-translit\">(音譯： maraq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg6:19\">JDG 6:19</a>, <a href=\"https://ref.ly/Judg6:20\">JDG 6:20</a>, <a href=\"https://ref.ly/Isa65:4\">ISA 65:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מֶרְקָחָה</span> <span class=\"thlex-translit\">(音譯： merqachah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek24:10\">EZK 24:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נָזִיד</span> <span class=\"thlex-translit\">(音譯： nazid)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen25:29\">GEN 25:29</a>, <a href=\"https://ref.ly/Gen25:34\">GEN 25:34</a>, <a href=\"https://ref.ly/2Kgs4:38\">2KI 4:38</a>, <a href=\"https://ref.ly/2Kgs4:39\">2KI 4:39</a>, <a href=\"https://ref.ly/2Kgs4:40\">2KI 4:40</a>, <a href=\"https://ref.ly/Hag2:12\">HAG 2:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἕψεμα</span> <span class=\"thlex-translit\">(音譯： hepsēma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Bel1:33\">BEL 1:33</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>湯是把蔬菜和（或）肉放到水裡煮成的食物。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>maraq</em> 指用肉做成的燉菜，<em>nazid</em> 指用蔬菜或豆類做成的燉菜。有些語言使用不同的詞語指這兩種燉菜。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "07006019",
+"start_ref_usfm": "JDG 6:19",
+"end_ref": "07006019",
+"end_ref_usfm": "JDG 6:19"
+},
+{
+"start_ref": "07006020",
+"start_ref_usfm": "JDG 6:20",
+"end_ref": "07006020",
+"end_ref_usfm": "JDG 6:20"
+},
+{
+"start_ref": "23065004",
+"start_ref_usfm": "ISA 65:4",
+"end_ref": "23065004",
+"end_ref_usfm": "ISA 65:4"
+},
+{
+"start_ref": "26024010",
+"start_ref_usfm": "EZK 24:10",
+"end_ref": "26024010",
+"end_ref_usfm": "EZK 24:10"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025029",
+"end_ref_usfm": "GEN 25:29"
+},
+{
+"start_ref": "01025034",
+"start_ref_usfm": "GEN 25:34",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "12004038",
+"start_ref_usfm": "2KI 4:38",
+"end_ref": "12004038",
+"end_ref_usfm": "2KI 4:38"
+},
+{
+"start_ref": "12004039",
+"start_ref_usfm": "2KI 4:39",
+"end_ref": "12004039",
+"end_ref_usfm": "2KI 4:39"
+},
+{
+"start_ref": "12004040",
+"start_ref_usfm": "2KI 4:40",
+"end_ref": "12004040",
+"end_ref_usfm": "2KI 4:40"
+},
+{
+"start_ref": "37002012",
+"start_ref_usfm": "HAG 2:12",
+"end_ref": "37002012",
+"end_ref_usfm": "HAG 2:12"
+},
+{
+"start_ref": "77001033",
+"start_ref_usfm": "BEL 1:33",
+"end_ref": "77001033",
+"end_ref_usfm": "BEL 1:33"
+}
+],
+"resource": []
+}
+}
+]

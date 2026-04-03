@@ -1,0 +1,492 @@
+[
+{
+"content_id": "REALIA:3.21.3",
+"reference_id": "REALIA:3.21.3",
+"version": "1.0.4",
+"title": "标题：十架、十字架（cross）",
+"media_type": "Text",
+"index_reference": "3.21.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.3\"><span class=\"thlex-key\">3.21.3</span> 标题：十架、十字架（cross）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἀνασταυρόω</span> <span class=\"thlex-translit\">(音译：anastauroō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb6:6\">HEB 6:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ξύλον</span> <span class=\"thlex-translit\">(音译：xulon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts5:30\">ACT 5:30</a>, <a href=\"https://ref.ly/Acts10:39\">ACT 10:39</a>, <a href=\"https://ref.ly/Acts13:29\">ACT 13:29</a>, <a href=\"https://ref.ly/1Pet2:24\">1PE 2:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：σταυρός, σταυρόω</span> <span class=\"thlex-translit\">(音译：stauros, stauroō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt10:38\">MAT 10:38</a>, <a href=\"https://ref.ly/Matt16:24\">MAT 16:24</a>, <a href=\"https://ref.ly/Matt20:19\">MAT 20:19</a>, <a href=\"https://ref.ly/Matt23:34\">MAT 23:34</a>, <a href=\"https://ref.ly/Matt26:2\">MAT 26:2</a>, <a href=\"https://ref.ly/Matt27:22\">MAT 27:22</a>, <a href=\"https://ref.ly/Matt27:23\">MAT 27:23</a>, <a href=\"https://ref.ly/Matt27:26\">MAT 27:26</a>, <a href=\"https://ref.ly/Matt27:31\">MAT 27:31</a>, <a href=\"https://ref.ly/Matt27:32\">MAT 27:32</a>, <a href=\"https://ref.ly/Matt27:35\">MAT 27:35</a>, <a href=\"https://ref.ly/Matt27:38\">MAT 27:38</a>, <a href=\"https://ref.ly/Matt27:40\">MAT 27:40</a>, <a href=\"https://ref.ly/Matt27:42\">MAT 27:42</a>, <a href=\"https://ref.ly/Matt28:5\">MAT 28:5</a>, <a href=\"https://ref.ly/Mark8:34\">MRK 8:34</a>, <a href=\"https://ref.ly/Mark15:13\">MRK 15:13</a>, <a href=\"https://ref.ly/Mark15:14\">MRK 15:14</a>, <a href=\"https://ref.ly/Mark15:15\">MRK 15:15</a>, <a href=\"https://ref.ly/Mark15:20\">MRK 15:20</a>, <a href=\"https://ref.ly/Mark15:21\">MRK 15:21</a>, <a href=\"https://ref.ly/Mark15:24\">MRK 15:24</a>, <a href=\"https://ref.ly/Mark15:25\">MRK 15:25</a>, <a href=\"https://ref.ly/Mark15:27\">MRK 15:27</a>, <a href=\"https://ref.ly/Mark15:30\">MRK 15:30</a>, <a href=\"https://ref.ly/Mark15:32\">MRK 15:32</a>, <a href=\"https://ref.ly/Mark16:6\">MRK 16:6</a>, <a href=\"https://ref.ly/Luke9:23\">LUK 9:23</a>, <a href=\"https://ref.ly/Luke14:27\">LUK 14:27</a>, <a href=\"https://ref.ly/Luke23:21\">LUK 23:21</a>, <a href=\"https://ref.ly/Luke23:21\">LUK 23:21</a>, <a href=\"https://ref.ly/Luke23:23\">LUK 23:23</a>, <a href=\"https://ref.ly/Luke23:26\">LUK 23:26</a>, <a href=\"https://ref.ly/Luke23:33\">LUK 23:33</a>, <a href=\"https://ref.ly/Luke24:7\">LUK 24:7</a>, <a href=\"https://ref.ly/Luke24:20\">LUK 24:20</a>, <a href=\"https://ref.ly/John19:6\">JHN 19:6</a>, <a href=\"https://ref.ly/John19:6\">JHN 19:6</a>, <a href=\"https://ref.ly/John19:6\">JHN 19:6</a>, <a href=\"https://ref.ly/John19:10\">JHN 19:10</a>, <a href=\"https://ref.ly/John19:15\">JHN 19:15</a>, <a href=\"https://ref.ly/John19:15\">JHN 19:15</a>, <a href=\"https://ref.ly/John19:16\">JHN 19:16</a>, <a href=\"https://ref.ly/John19:17\">JHN 19:17</a>, <a href=\"https://ref.ly/John19:18\">JHN 19:18</a>, <a href=\"https://ref.ly/John19:19\">JHN 19:19</a>, <a href=\"https://ref.ly/John19:20\">JHN 19:20</a>, <a href=\"https://ref.ly/John19:23\">JHN 19:23</a>, <a href=\"https://ref.ly/John19:25\">JHN 19:25</a>, <a href=\"https://ref.ly/John19:31\">JHN 19:31</a>, <a href=\"https://ref.ly/John19:41\">JHN 19:41</a>, <a href=\"https://ref.ly/Acts2:36\">ACT 2:36</a>, <a href=\"https://ref.ly/Acts4:10\">ACT 4:10</a>, <a href=\"https://ref.ly/1Cor1:13\">1CO 1:13</a>, <a href=\"https://ref.ly/1Cor1:17\">1CO 1:17</a>, <a href=\"https://ref.ly/1Cor1:18\">1CO 1:18</a>, <a href=\"https://ref.ly/1Cor1:23\">1CO 1:23</a>, <a href=\"https://ref.ly/1Cor2:2\">1CO 2:2</a>, <a href=\"https://ref.ly/1Cor2:8\">1CO 2:8</a>, <a href=\"https://ref.ly/2Cor13:4\">2CO 13:4</a>, <a href=\"https://ref.ly/Gal3:1\">GAL 3:1</a>, <a href=\"https://ref.ly/Gal5:11\">GAL 5:11</a>, <a href=\"https://ref.ly/Gal5:24\">GAL 5:24</a>, <a href=\"https://ref.ly/Gal6:12\">GAL 6:12</a>, <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>, <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>, <a href=\"https://ref.ly/Eph2:16\">EPH 2:16</a>, <a href=\"https://ref.ly/Phil2:8\">PHP 2:8</a>, <a href=\"https://ref.ly/Phil3:18\">PHP 3:18</a>, <a href=\"https://ref.ly/Col1:20\">COL 1:20</a>, <a href=\"https://ref.ly/Col2:14\">COL 2:14</a>, <a href=\"https://ref.ly/Heb12:2\">HEB 12:2</a>, <a href=\"https://ref.ly/Rev11:8\">REV 11:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：συσταυρόω</span> <span class=\"thlex-translit\">(音译：sustauroō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:44\">MAT 27:44</a>, <a href=\"https://ref.ly/Mark15:32\">MRK 15:32</a>, <a href=\"https://ref.ly/John19:32\">JHN 19:32</a>, <a href=\"https://ref.ly/Rom6:6\">ROM 6:6</a>, <a href=\"https://ref.ly/Gal2:19\">GAL 2:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0438_cross.jpg\" alt=\"木制现代十字架\"><figcaption class=\"thlex-caption\">木制现代十字架 (Aaron Burden aaronburden, CC0, via Wikimedia Commons)</figcaption></figure>十字架是把一根木柱子直立插在地上，上半部分固定着一根横木，形状就像字母<strong>T</strong> 或<strong>†</strong> 符号。此外，还有一种由两根木条做成的<strong>X</strong> 形十字架，不过这种十字架可能不太常见。耶稣头部上方有一块写着字的罪状牌，这表明钉他的十字架可能是<strong>†</strong> 形状。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>被判刑的人通常要把十字架的横木背到行刑的地方，而木柱子（甚或是砍断的树干）已经竖立在那里了。钉十字架时，行刑者把罪人的两只手钉在横木上（穿过手掌下面的手腕），然后把人和横木抬起来，绑到竖立着的木柱子上。有时，犯人的臀部会坐靠在木柱子上面的一个小突起上。然后，把犯人的双脚钉在木柱子上，用一根大钉子从脚的侧面钉穿两脚的脚踝。被钉十字架的人会慢慢死去，经常需要几天的时间。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>由于十字架具有象征含义，因此所有语言的新约译本都保留了十字架这个词语。十字架不仅是死刑的手段，还有一个特定的样式，即直立的柱子加一根横木。在一些目标语言中，表示十字架的词语就是“横木”。在其他一些语言中，可以采用一个意为“交叉杆”的短语。</p>\n<p>\n            <figure class=\"thlex-image\" data-image-id=\" OAI-0012_cross_inscription\"><img class=\"thlex-img\" alt=\" OAI-0012_cross_inscription\"></figure>如果可能的话，翻译者应该采用一个具有引申义的词语或短语，因为在许多上下文中，“十字架”一语不仅指基督被钉死的刑具，还指他被钉死这件事情本身。另外，十字架还是赦罪及和好的象征。因为十字架有许多引申义，所以需要尽量选择能够表达这些附加意思的方式。</p>\n<p>希腊文<em>xulon</em> 的字面意思是“木头”。在新约之外，<em>xulon</em> 通常指绞刑架；在新约关于死刑的语境中，这个词指的是耶稣被钉的十字架。在<a href=\"https://ref.ly/Gal3:13\">GAL 3:13</a> ，没有必要使用一个表示活树的词语来翻译<em>xulon</em> 。这个希腊文词语在这节经文中可能只是指“柱子”，因此使用一个也可以表示十字架的词语可能更加合适。如果采用只能表示活树的词语，可能会导致不必要的不一致。虽然这节经文中的短语在一定程度上是引自<a href=\"https://ref.ly/Deut21:23\">DEU 21:23</a> ，但翻译者不要试图协调这两段经文。因为《申命记》中的诫命是要把罪人处死，然后把尸体挂在树上。这种悬挂与钉十字架不同，它不是处死的方式，可能只是某种公开的警告。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "58006006",
+"start_ref_usfm": "HEB 6:6",
+"end_ref": "58006006",
+"end_ref_usfm": "HEB 6:6"
+},
+{
+"start_ref": "44005030",
+"start_ref_usfm": "ACT 5:30",
+"end_ref": "44005030",
+"end_ref_usfm": "ACT 5:30"
+},
+{
+"start_ref": "44010039",
+"start_ref_usfm": "ACT 10:39",
+"end_ref": "44010039",
+"end_ref_usfm": "ACT 10:39"
+},
+{
+"start_ref": "44013029",
+"start_ref_usfm": "ACT 13:29",
+"end_ref": "44013029",
+"end_ref_usfm": "ACT 13:29"
+},
+{
+"start_ref": "60002024",
+"start_ref_usfm": "1PE 2:24",
+"end_ref": "60002024",
+"end_ref_usfm": "1PE 2:24"
+},
+{
+"start_ref": "40010038",
+"start_ref_usfm": "MAT 10:38",
+"end_ref": "40010038",
+"end_ref_usfm": "MAT 10:38"
+},
+{
+"start_ref": "40016024",
+"start_ref_usfm": "MAT 16:24",
+"end_ref": "40016024",
+"end_ref_usfm": "MAT 16:24"
+},
+{
+"start_ref": "40020019",
+"start_ref_usfm": "MAT 20:19",
+"end_ref": "40020019",
+"end_ref_usfm": "MAT 20:19"
+},
+{
+"start_ref": "40023034",
+"start_ref_usfm": "MAT 23:34",
+"end_ref": "40023034",
+"end_ref_usfm": "MAT 23:34"
+},
+{
+"start_ref": "40026002",
+"start_ref_usfm": "MAT 26:2",
+"end_ref": "40026002",
+"end_ref_usfm": "MAT 26:2"
+},
+{
+"start_ref": "40027022",
+"start_ref_usfm": "MAT 27:22",
+"end_ref": "40027022",
+"end_ref_usfm": "MAT 27:22"
+},
+{
+"start_ref": "40027023",
+"start_ref_usfm": "MAT 27:23",
+"end_ref": "40027023",
+"end_ref_usfm": "MAT 27:23"
+},
+{
+"start_ref": "40027026",
+"start_ref_usfm": "MAT 27:26",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "40027031",
+"start_ref_usfm": "MAT 27:31",
+"end_ref": "40027031",
+"end_ref_usfm": "MAT 27:31"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027032",
+"end_ref_usfm": "MAT 27:32"
+},
+{
+"start_ref": "40027035",
+"start_ref_usfm": "MAT 27:35",
+"end_ref": "40027035",
+"end_ref_usfm": "MAT 27:35"
+},
+{
+"start_ref": "40027038",
+"start_ref_usfm": "MAT 27:38",
+"end_ref": "40027038",
+"end_ref_usfm": "MAT 27:38"
+},
+{
+"start_ref": "40027040",
+"start_ref_usfm": "MAT 27:40",
+"end_ref": "40027040",
+"end_ref_usfm": "MAT 27:40"
+},
+{
+"start_ref": "40027042",
+"start_ref_usfm": "MAT 27:42",
+"end_ref": "40027042",
+"end_ref_usfm": "MAT 27:42"
+},
+{
+"start_ref": "40028005",
+"start_ref_usfm": "MAT 28:5",
+"end_ref": "40028005",
+"end_ref_usfm": "MAT 28:5"
+},
+{
+"start_ref": "41008034",
+"start_ref_usfm": "MRK 8:34",
+"end_ref": "41008034",
+"end_ref_usfm": "MRK 8:34"
+},
+{
+"start_ref": "41015013",
+"start_ref_usfm": "MRK 15:13",
+"end_ref": "41015013",
+"end_ref_usfm": "MRK 15:13"
+},
+{
+"start_ref": "41015014",
+"start_ref_usfm": "MRK 15:14",
+"end_ref": "41015014",
+"end_ref_usfm": "MRK 15:14"
+},
+{
+"start_ref": "41015015",
+"start_ref_usfm": "MRK 15:15",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "41015020",
+"start_ref_usfm": "MRK 15:20",
+"end_ref": "41015020",
+"end_ref_usfm": "MRK 15:20"
+},
+{
+"start_ref": "41015021",
+"start_ref_usfm": "MRK 15:21",
+"end_ref": "41015021",
+"end_ref_usfm": "MRK 15:21"
+},
+{
+"start_ref": "41015024",
+"start_ref_usfm": "MRK 15:24",
+"end_ref": "41015024",
+"end_ref_usfm": "MRK 15:24"
+},
+{
+"start_ref": "41015025",
+"start_ref_usfm": "MRK 15:25",
+"end_ref": "41015025",
+"end_ref_usfm": "MRK 15:25"
+},
+{
+"start_ref": "41015027",
+"start_ref_usfm": "MRK 15:27",
+"end_ref": "41015027",
+"end_ref_usfm": "MRK 15:27"
+},
+{
+"start_ref": "41015030",
+"start_ref_usfm": "MRK 15:30",
+"end_ref": "41015030",
+"end_ref_usfm": "MRK 15:30"
+},
+{
+"start_ref": "41015032",
+"start_ref_usfm": "MRK 15:32",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "41016006",
+"start_ref_usfm": "MRK 16:6",
+"end_ref": "41016006",
+"end_ref_usfm": "MRK 16:6"
+},
+{
+"start_ref": "42009023",
+"start_ref_usfm": "LUK 9:23",
+"end_ref": "42009023",
+"end_ref_usfm": "LUK 9:23"
+},
+{
+"start_ref": "42014027",
+"start_ref_usfm": "LUK 14:27",
+"end_ref": "42014027",
+"end_ref_usfm": "LUK 14:27"
+},
+{
+"start_ref": "42023021",
+"start_ref_usfm": "LUK 23:21",
+"end_ref": "42023021",
+"end_ref_usfm": "LUK 23:21"
+},
+{
+"start_ref": "42023023",
+"start_ref_usfm": "LUK 23:23",
+"end_ref": "42023023",
+"end_ref_usfm": "LUK 23:23"
+},
+{
+"start_ref": "42023026",
+"start_ref_usfm": "LUK 23:26",
+"end_ref": "42023026",
+"end_ref_usfm": "LUK 23:26"
+},
+{
+"start_ref": "42023033",
+"start_ref_usfm": "LUK 23:33",
+"end_ref": "42023033",
+"end_ref_usfm": "LUK 23:33"
+},
+{
+"start_ref": "42024007",
+"start_ref_usfm": "LUK 24:7",
+"end_ref": "42024007",
+"end_ref_usfm": "LUK 24:7"
+},
+{
+"start_ref": "42024020",
+"start_ref_usfm": "LUK 24:20",
+"end_ref": "42024020",
+"end_ref_usfm": "LUK 24:20"
+},
+{
+"start_ref": "43019006",
+"start_ref_usfm": "JHN 19:6",
+"end_ref": "43019006",
+"end_ref_usfm": "JHN 19:6"
+},
+{
+"start_ref": "43019010",
+"start_ref_usfm": "JHN 19:10",
+"end_ref": "43019010",
+"end_ref_usfm": "JHN 19:10"
+},
+{
+"start_ref": "43019015",
+"start_ref_usfm": "JHN 19:15",
+"end_ref": "43019015",
+"end_ref_usfm": "JHN 19:15"
+},
+{
+"start_ref": "43019016",
+"start_ref_usfm": "JHN 19:16",
+"end_ref": "43019016",
+"end_ref_usfm": "JHN 19:16"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019017",
+"end_ref_usfm": "JHN 19:17"
+},
+{
+"start_ref": "43019018",
+"start_ref_usfm": "JHN 19:18",
+"end_ref": "43019018",
+"end_ref_usfm": "JHN 19:18"
+},
+{
+"start_ref": "43019019",
+"start_ref_usfm": "JHN 19:19",
+"end_ref": "43019019",
+"end_ref_usfm": "JHN 19:19"
+},
+{
+"start_ref": "43019020",
+"start_ref_usfm": "JHN 19:20",
+"end_ref": "43019020",
+"end_ref_usfm": "JHN 19:20"
+},
+{
+"start_ref": "43019023",
+"start_ref_usfm": "JHN 19:23",
+"end_ref": "43019023",
+"end_ref_usfm": "JHN 19:23"
+},
+{
+"start_ref": "43019025",
+"start_ref_usfm": "JHN 19:25",
+"end_ref": "43019025",
+"end_ref_usfm": "JHN 19:25"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019031",
+"end_ref_usfm": "JHN 19:31"
+},
+{
+"start_ref": "43019041",
+"start_ref_usfm": "JHN 19:41",
+"end_ref": "43019041",
+"end_ref_usfm": "JHN 19:41"
+},
+{
+"start_ref": "44002036",
+"start_ref_usfm": "ACT 2:36",
+"end_ref": "44002036",
+"end_ref_usfm": "ACT 2:36"
+},
+{
+"start_ref": "44004010",
+"start_ref_usfm": "ACT 4:10",
+"end_ref": "44004010",
+"end_ref_usfm": "ACT 4:10"
+},
+{
+"start_ref": "46001013",
+"start_ref_usfm": "1CO 1:13",
+"end_ref": "46001013",
+"end_ref_usfm": "1CO 1:13"
+},
+{
+"start_ref": "46001017",
+"start_ref_usfm": "1CO 1:17",
+"end_ref": "46001017",
+"end_ref_usfm": "1CO 1:17"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001018",
+"end_ref_usfm": "1CO 1:18"
+},
+{
+"start_ref": "46001023",
+"start_ref_usfm": "1CO 1:23",
+"end_ref": "46001023",
+"end_ref_usfm": "1CO 1:23"
+},
+{
+"start_ref": "46002002",
+"start_ref_usfm": "1CO 2:2",
+"end_ref": "46002002",
+"end_ref_usfm": "1CO 2:2"
+},
+{
+"start_ref": "46002008",
+"start_ref_usfm": "1CO 2:8",
+"end_ref": "46002008",
+"end_ref_usfm": "1CO 2:8"
+},
+{
+"start_ref": "47013004",
+"start_ref_usfm": "2CO 13:4",
+"end_ref": "47013004",
+"end_ref_usfm": "2CO 13:4"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003001",
+"end_ref_usfm": "GAL 3:1"
+},
+{
+"start_ref": "48005011",
+"start_ref_usfm": "GAL 5:11",
+"end_ref": "48005011",
+"end_ref_usfm": "GAL 5:11"
+},
+{
+"start_ref": "48005024",
+"start_ref_usfm": "GAL 5:24",
+"end_ref": "48005024",
+"end_ref_usfm": "GAL 5:24"
+},
+{
+"start_ref": "48006012",
+"start_ref_usfm": "GAL 6:12",
+"end_ref": "48006012",
+"end_ref_usfm": "GAL 6:12"
+},
+{
+"start_ref": "48006014",
+"start_ref_usfm": "GAL 6:14",
+"end_ref": "48006014",
+"end_ref_usfm": "GAL 6:14"
+},
+{
+"start_ref": "49002016",
+"start_ref_usfm": "EPH 2:16",
+"end_ref": "49002016",
+"end_ref_usfm": "EPH 2:16"
+},
+{
+"start_ref": "50002008",
+"start_ref_usfm": "PHP 2:8",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+},
+{
+"start_ref": "50003018",
+"start_ref_usfm": "PHP 3:18",
+"end_ref": "50003018",
+"end_ref_usfm": "PHP 3:18"
+},
+{
+"start_ref": "51001020",
+"start_ref_usfm": "COL 1:20",
+"end_ref": "51001020",
+"end_ref_usfm": "COL 1:20"
+},
+{
+"start_ref": "51002014",
+"start_ref_usfm": "COL 2:14",
+"end_ref": "51002014",
+"end_ref_usfm": "COL 2:14"
+},
+{
+"start_ref": "58012002",
+"start_ref_usfm": "HEB 12:2",
+"end_ref": "58012002",
+"end_ref_usfm": "HEB 12:2"
+},
+{
+"start_ref": "66011008",
+"start_ref_usfm": "REV 11:8",
+"end_ref": "66011008",
+"end_ref_usfm": "REV 11:8"
+},
+{
+"start_ref": "40027044",
+"start_ref_usfm": "MAT 27:44",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "43019032",
+"start_ref_usfm": "JHN 19:32",
+"end_ref": "43019032",
+"end_ref_usfm": "JHN 19:32"
+},
+{
+"start_ref": "45006006",
+"start_ref_usfm": "ROM 6:6",
+"end_ref": "45006006",
+"end_ref_usfm": "ROM 6:6"
+},
+{
+"start_ref": "48002019",
+"start_ref_usfm": "GAL 2:19",
+"end_ref": "48002019",
+"end_ref_usfm": "GAL 2:19"
+},
+{
+"start_ref": "48003013",
+"start_ref_usfm": "GAL 3:13",
+"end_ref": "48003013",
+"end_ref_usfm": "GAL 3:13"
+},
+{
+"start_ref": "05021023",
+"start_ref_usfm": "DEU 21:23",
+"end_ref": "05021023",
+"end_ref_usfm": "DEU 21:23"
+}
+],
+"resource": []
+}
+}
+]

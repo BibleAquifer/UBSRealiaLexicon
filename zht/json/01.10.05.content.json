@@ -1,0 +1,222 @@
+[
+{
+"content_id": "REALIA:1.10.5",
+"reference_id": "REALIA:1.10.5",
+"version": "1.0.4",
+"title": "標題：膏油（anointing oil）",
+"media_type": "Text",
+"index_reference": "1.10.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.10.5\"><span class=\"thlex-key\">1.10.5</span> 標題：膏油（anointing oil）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： יִצְהָר</span> <span class=\"thlex-translit\">(音譯： yitshar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Zech4:14\">ZEC 4:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֶׁמֶן, מִשְׁחָה</span> <span class=\"thlex-translit\">(音譯： shemen mishchah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:6\">EXO 25:6</a>, <a href=\"https://ref.ly/Exod29:7\">EXO 29:7</a>, <a href=\"https://ref.ly/Exod29:21\">EXO 29:21</a>, <a href=\"https://ref.ly/Exod30:25\">EXO 30:25</a>, <a href=\"https://ref.ly/Exod30:25\">EXO 30:25</a>, <a href=\"https://ref.ly/Exod30:31\">EXO 30:31</a>, <a href=\"https://ref.ly/Exod31:11\">EXO 31:11</a>, <a href=\"https://ref.ly/Exod35:8\">EXO 35:8</a>, <a href=\"https://ref.ly/Exod35:15\">EXO 35:15</a>, <a href=\"https://ref.ly/Exod35:28\">EXO 35:28</a>, <a href=\"https://ref.ly/Exod37:29\">EXO 37:29</a>, <a href=\"https://ref.ly/Exod39:38\">EXO 39:38</a>, <a href=\"https://ref.ly/Exod40:9\">EXO 40:9</a>, <a href=\"https://ref.ly/Lev8:2\">LEV 8:2</a>, <a href=\"https://ref.ly/Lev8:10\">LEV 8:10</a>, <a href=\"https://ref.ly/Lev8:12\">LEV 8:12</a>, <a href=\"https://ref.ly/Lev8:30\">LEV 8:30</a>, <a href=\"https://ref.ly/Lev10:7\">LEV 10:7</a>, <a href=\"https://ref.ly/Lev21:10\">LEV 21:10</a>, <a href=\"https://ref.ly/Lev21:12\">LEV 21:12</a>, <a href=\"https://ref.ly/Num4:16\">NUM 4:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἔλαιον</span> <span class=\"thlex-translit\">(音譯： elaion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke7:46\">LUK 7:46</a>, <a href=\"https://ref.ly/Heb1:9\">HEB 1:9</a>, <a href=\"https://ref.ly/Sir45:15\">SIR 45:15</a>, <a href=\"https://ref.ly/Ps151:4\">PSA 151:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>在君王被分別為聖履行職分時，會用純橄欖油膏抹他們，有時候先知也會受膏抹。</p>\n<p>在<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>; <a href=\"https://ref.ly/Exod30:24\">EXO 30:24</a>; <a href=\"https://ref.ly/Exod30:25\">EXO 30:25</a>; <a href=\"https://ref.ly/Exod30:26\">EXO 30:26</a>; <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>; <a href=\"https://ref.ly/Exod30:28\">EXO 30:28</a>; <a href=\"https://ref.ly/Exod30:29\">EXO 30:29</a>; <a href=\"https://ref.ly/Exod30:30\">EXO 30:30</a>; <a href=\"https://ref.ly/Exod30:31\">EXO 30:31</a>; <a href=\"https://ref.ly/Exod30:32\">EXO 30:32</a>; <a href=\"https://ref.ly/Exod30:33\">EXO 30:33</a> 中，上帝指示以色列人製作特殊的香膏油。這種膏油用來膏抹祭司、帳幕，以及裡面的器具，將其全部分別為「聖」。聖膏油是以橄欖油為主，並加入多種香料。</p>\n<p>另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.15.1 油、油膏 (oil, ointment)&lt;REALIA:1.15.1&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">9.3 橄欖油 (olive oil)&lt;REALIA:9.3&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>膏抹君王主要是一個宗教行為，而不是政治行為。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "38004014",
+"start_ref_usfm": "ZEC 4:14",
+"end_ref": "38004014",
+"end_ref_usfm": "ZEC 4:14"
+},
+{
+"start_ref": "02025006",
+"start_ref_usfm": "EXO 25:6",
+"end_ref": "02025006",
+"end_ref_usfm": "EXO 25:6"
+},
+{
+"start_ref": "02029007",
+"start_ref_usfm": "EXO 29:7",
+"end_ref": "02029007",
+"end_ref_usfm": "EXO 29:7"
+},
+{
+"start_ref": "02029021",
+"start_ref_usfm": "EXO 29:21",
+"end_ref": "02029021",
+"end_ref_usfm": "EXO 29:21"
+},
+{
+"start_ref": "02030025",
+"start_ref_usfm": "EXO 30:25",
+"end_ref": "02030025",
+"end_ref_usfm": "EXO 30:25"
+},
+{
+"start_ref": "02030031",
+"start_ref_usfm": "EXO 30:31",
+"end_ref": "02030031",
+"end_ref_usfm": "EXO 30:31"
+},
+{
+"start_ref": "02031011",
+"start_ref_usfm": "EXO 31:11",
+"end_ref": "02031011",
+"end_ref_usfm": "EXO 31:11"
+},
+{
+"start_ref": "02035008",
+"start_ref_usfm": "EXO 35:8",
+"end_ref": "02035008",
+"end_ref_usfm": "EXO 35:8"
+},
+{
+"start_ref": "02035015",
+"start_ref_usfm": "EXO 35:15",
+"end_ref": "02035015",
+"end_ref_usfm": "EXO 35:15"
+},
+{
+"start_ref": "02035028",
+"start_ref_usfm": "EXO 35:28",
+"end_ref": "02035028",
+"end_ref_usfm": "EXO 35:28"
+},
+{
+"start_ref": "02037029",
+"start_ref_usfm": "EXO 37:29",
+"end_ref": "02037029",
+"end_ref_usfm": "EXO 37:29"
+},
+{
+"start_ref": "02039038",
+"start_ref_usfm": "EXO 39:38",
+"end_ref": "02039038",
+"end_ref_usfm": "EXO 39:38"
+},
+{
+"start_ref": "02040009",
+"start_ref_usfm": "EXO 40:9",
+"end_ref": "02040009",
+"end_ref_usfm": "EXO 40:9"
+},
+{
+"start_ref": "03008002",
+"start_ref_usfm": "LEV 8:2",
+"end_ref": "03008002",
+"end_ref_usfm": "LEV 8:2"
+},
+{
+"start_ref": "03008010",
+"start_ref_usfm": "LEV 8:10",
+"end_ref": "03008010",
+"end_ref_usfm": "LEV 8:10"
+},
+{
+"start_ref": "03008012",
+"start_ref_usfm": "LEV 8:12",
+"end_ref": "03008012",
+"end_ref_usfm": "LEV 8:12"
+},
+{
+"start_ref": "03008030",
+"start_ref_usfm": "LEV 8:30",
+"end_ref": "03008030",
+"end_ref_usfm": "LEV 8:30"
+},
+{
+"start_ref": "03010007",
+"start_ref_usfm": "LEV 10:7",
+"end_ref": "03010007",
+"end_ref_usfm": "LEV 10:7"
+},
+{
+"start_ref": "03021010",
+"start_ref_usfm": "LEV 21:10",
+"end_ref": "03021010",
+"end_ref_usfm": "LEV 21:10"
+},
+{
+"start_ref": "03021012",
+"start_ref_usfm": "LEV 21:12",
+"end_ref": "03021012",
+"end_ref_usfm": "LEV 21:12"
+},
+{
+"start_ref": "04004016",
+"start_ref_usfm": "NUM 4:16",
+"end_ref": "04004016",
+"end_ref_usfm": "NUM 4:16"
+},
+{
+"start_ref": "42007046",
+"start_ref_usfm": "LUK 7:46",
+"end_ref": "42007046",
+"end_ref_usfm": "LUK 7:46"
+},
+{
+"start_ref": "58001009",
+"start_ref_usfm": "HEB 1:9",
+"end_ref": "58001009",
+"end_ref_usfm": "HEB 1:9"
+},
+{
+"start_ref": "72045015",
+"start_ref_usfm": "SIR 45:15",
+"end_ref": "72045015",
+"end_ref_usfm": "SIR 45:15"
+},
+{
+"start_ref": "19151004",
+"start_ref_usfm": "PSA 151:4",
+"end_ref": "19151004",
+"end_ref_usfm": "PSA 151:4"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "02030024",
+"start_ref_usfm": "EXO 30:24",
+"end_ref": "02030024",
+"end_ref_usfm": "EXO 30:24"
+},
+{
+"start_ref": "02030026",
+"start_ref_usfm": "EXO 30:26",
+"end_ref": "02030026",
+"end_ref_usfm": "EXO 30:26"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02030028",
+"start_ref_usfm": "EXO 30:28",
+"end_ref": "02030028",
+"end_ref_usfm": "EXO 30:28"
+},
+{
+"start_ref": "02030029",
+"start_ref_usfm": "EXO 30:29",
+"end_ref": "02030029",
+"end_ref_usfm": "EXO 30:29"
+},
+{
+"start_ref": "02030030",
+"start_ref_usfm": "EXO 30:30",
+"end_ref": "02030030",
+"end_ref_usfm": "EXO 30:30"
+},
+{
+"start_ref": "02030032",
+"start_ref_usfm": "EXO 30:32",
+"end_ref": "02030032",
+"end_ref_usfm": "EXO 30:32"
+},
+{
+"start_ref": "02030033",
+"start_ref_usfm": "EXO 30:33",
+"end_ref": "02030033",
+"end_ref_usfm": "EXO 30:33"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,168 @@
+[
+{
+"content_id": "REALIA:5.9",
+"reference_id": "REALIA:5.9",
+"version": "1.0.4",
+"title": "Chair, seat",
+"media_type": "Text",
+"index_reference": "5.9",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.9\"><span class=\"thlex-key\">5.9</span> Chair, seat</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כִסֵּא</span> <span class=\"thlex-translit\">(kise’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg3:20\">JDG 3:20</a>, <a href=\"https://ref.ly/1Sam1:9\">1SA 1:9</a>, <a href=\"https://ref.ly/1Sam2:8\">1SA 2:8</a>, <a href=\"https://ref.ly/1Sam4:13\">1SA 4:13</a>, <a href=\"https://ref.ly/1Sam4:18\">1SA 4:18</a>, <a href=\"https://ref.ly/1Kgs2:19\">1KI 2:19</a>, <a href=\"https://ref.ly/1Kgs2:19\">1KI 2:19</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/Esth3:1\">EST 3:1</a>, <a href=\"https://ref.ly/Prov9:14\">PRO 9:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מוֹשָׁב</span> <span class=\"thlex-translit\">(moshav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam20:18\">1SA 20:18</a>, <a href=\"https://ref.ly/1Sam20:25\">1SA 20:25</a>, <a href=\"https://ref.ly/1Sam20:25\">1SA 20:25</a>, <a href=\"https://ref.ly/Job29:7\">JOB 29:7</a>, <a href=\"https://ref.ly/Ps1:1\">PSA 1:1</a>, <a href=\"https://ref.ly/Ezek8:3\">EZK 8:3</a>, <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">תְּכוּנָה</span> <span class=\"thlex-translit\">(tkunah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job23:3\">JOB 23:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">καθέδρα</span> <span class=\"thlex-translit\">(kathedra)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:12\">MAT 21:12</a>, <a href=\"https://ref.ly/Matt23:2\">MAT 23:2</a>, <a href=\"https://ref.ly/Mark11:15\">MRK 11:15</a>, <a href=\"https://ref.ly/Sir7:4\">SIR 7:4</a>, <a href=\"https://ref.ly/Sir12:12\">SIR 12:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πρωτοκαθεδρία</span> <span class=\"thlex-translit\">(prōtokathedria)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:6\">MAT 23:6</a>, <a href=\"https://ref.ly/Mark12:39\">MRK 12:39</a>, <a href=\"https://ref.ly/Luke11:43\">LUK 11:43</a>, <a href=\"https://ref.ly/Luke20:46\">LUK 20:46</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0478_chair.jpg\" alt=\"Chair without a back (Ashurnasirpal II, wall relief from Nimrud, Iraq, 9th c. BCE, British Museum)\"><figcaption class=\"thlex-caption\">Chair without a back (Ashurnasirpal II, wall relief from Nimrud, Iraq, 9th c. BCE, British Museum) (Anthony Huan, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>The chair was an object on which a person sat. Chairs differed widely in shape and materials. Most often they were made of a wooden or cane frame with the seat woven of reeds or made of wood. Sometimes the chair had a back, sometimes not. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.10.1 Throne&lt;REALIA:1.10.1&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0479_chair.jpg\" alt=\"Chair with a back (Egypt, between 1550 and 1186 BCE, Louvre)\"><figcaption class=\"thlex-caption\">Chair with a back (Egypt, between 1550 and 1186 BCE, Louvre) (© Rama, CC BY-SA 3.0 FR, via Wikimedia Commons)</figcaption></figure>All cultures have words for places to sit. In most of the references above, the object on which a person sits is not specifically described, and usually a generic word for “seat” is to be preferred.</p>\n<p>\n            <a href=\"https://ref.ly/Job23:3\">JOB 23:3</a>: The Hebrew word <em>tkunah</em> means literally “prepared place.” Older translations, such as <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>, have “seat” (and Luther even has “throne”). Most modern translations prefer something like “where [he] is” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>) or “dwelling” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>).</p>\n<p>In <a href=\"https://ref.ly/Matt23:2\">MAT 23:2</a> the phrase “seat of Moses” carries a double meaning. On the one hand, there was in many synagogues a stylized chair, usually made of stone, which was called by this very name. Examples of this chair have been found by archaeologists. On the other hand, the chair symbolized the authority to make religious rulings. To “sit on the seat of Moses” meant holding a position of authority. It is this latter meaning that is the more important in the words of Jesus. Most English translations prefer a literal rendering of the text, but a dynamic translation is to be preferred. The following renderings are ways in which this has been done:</p>\n<p>“have inherited the authority of Moses” (Brc);</p>\n<p>“speak with the authority of Moses” (<abbr class=\"thlex-abbr\" title=\"J.B. Phillips: The New Testament in Modern English (1958)\">Phps</abbr>);</p>\n<p>“teach with Moses’ authority” (<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr>);</p>\n<p>“are the authorized interpreters of Moses’ Law” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>);</p>\n<p>“have the authority to tell you what the law of Moses says” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>);</p>\n<p>“are experts in the Law of Moses” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>).</p>\n<p>The Greek word <em>prōtokathedria</em> refers to a position or place of particular importance, implying special status to the person occupying it. Here the important element is not the structure of the seat but rather the honor which having that seat gives to a person. Many cultures have a special word for such a seat of honor. If such a word does not carry with it pagan overtones, it should be used. English translations find several appropriate renderings: “most important seats” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>), “best seats” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), “reserved seats” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>), and even “front seats” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "07003020",
+"start_ref_usfm": "JDG 3:20",
+"end_ref": "07003020",
+"end_ref_usfm": "JDG 3:20"
+},
+{
+"start_ref": "09001009",
+"start_ref_usfm": "1SA 1:9",
+"end_ref": "09001009",
+"end_ref_usfm": "1SA 1:9"
+},
+{
+"start_ref": "09002008",
+"start_ref_usfm": "1SA 2:8",
+"end_ref": "09002008",
+"end_ref_usfm": "1SA 2:8"
+},
+{
+"start_ref": "09004013",
+"start_ref_usfm": "1SA 4:13",
+"end_ref": "09004013",
+"end_ref_usfm": "1SA 4:13"
+},
+{
+"start_ref": "09004018",
+"start_ref_usfm": "1SA 4:18",
+"end_ref": "09004018",
+"end_ref_usfm": "1SA 4:18"
+},
+{
+"start_ref": "11002019",
+"start_ref_usfm": "1KI 2:19",
+"end_ref": "11002019",
+"end_ref_usfm": "1KI 2:19"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "17003001",
+"start_ref_usfm": "EST 3:1",
+"end_ref": "17003001",
+"end_ref_usfm": "EST 3:1"
+},
+{
+"start_ref": "20009014",
+"start_ref_usfm": "PRO 9:14",
+"end_ref": "20009014",
+"end_ref_usfm": "PRO 9:14"
+},
+{
+"start_ref": "09020018",
+"start_ref_usfm": "1SA 20:18",
+"end_ref": "09020018",
+"end_ref_usfm": "1SA 20:18"
+},
+{
+"start_ref": "09020025",
+"start_ref_usfm": "1SA 20:25",
+"end_ref": "09020025",
+"end_ref_usfm": "1SA 20:25"
+},
+{
+"start_ref": "18029007",
+"start_ref_usfm": "JOB 29:7",
+"end_ref": "18029007",
+"end_ref_usfm": "JOB 29:7"
+},
+{
+"start_ref": "19001001",
+"start_ref_usfm": "PSA 1:1",
+"end_ref": "19001001",
+"end_ref_usfm": "PSA 1:1"
+},
+{
+"start_ref": "26008003",
+"start_ref_usfm": "EZK 8:3",
+"end_ref": "26008003",
+"end_ref_usfm": "EZK 8:3"
+},
+{
+"start_ref": "26028002",
+"start_ref_usfm": "EZK 28:2",
+"end_ref": "26028002",
+"end_ref_usfm": "EZK 28:2"
+},
+{
+"start_ref": "18023003",
+"start_ref_usfm": "JOB 23:3",
+"end_ref": "18023003",
+"end_ref_usfm": "JOB 23:3"
+},
+{
+"start_ref": "40021012",
+"start_ref_usfm": "MAT 21:12",
+"end_ref": "40021012",
+"end_ref_usfm": "MAT 21:12"
+},
+{
+"start_ref": "40023002",
+"start_ref_usfm": "MAT 23:2",
+"end_ref": "40023002",
+"end_ref_usfm": "MAT 23:2"
+},
+{
+"start_ref": "41011015",
+"start_ref_usfm": "MRK 11:15",
+"end_ref": "41011015",
+"end_ref_usfm": "MRK 11:15"
+},
+{
+"start_ref": "72007004",
+"start_ref_usfm": "SIR 7:4",
+"end_ref": "72007004",
+"end_ref_usfm": "SIR 7:4"
+},
+{
+"start_ref": "72012012",
+"start_ref_usfm": "SIR 12:12",
+"end_ref": "72012012",
+"end_ref_usfm": "SIR 12:12"
+},
+{
+"start_ref": "40023006",
+"start_ref_usfm": "MAT 23:6",
+"end_ref": "40023006",
+"end_ref_usfm": "MAT 23:6"
+},
+{
+"start_ref": "41012039",
+"start_ref_usfm": "MRK 12:39",
+"end_ref": "41012039",
+"end_ref_usfm": "MRK 12:39"
+},
+{
+"start_ref": "42011043",
+"start_ref_usfm": "LUK 11:43",
+"end_ref": "42011043",
+"end_ref_usfm": "LUK 11:43"
+},
+{
+"start_ref": "42020046",
+"start_ref_usfm": "LUK 20:46",
+"end_ref": "42020046",
+"end_ref_usfm": "LUK 20:46"
+}
+],
+"resource": []
+}
+}
+]

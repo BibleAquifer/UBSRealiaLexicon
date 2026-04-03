@@ -1,0 +1,334 @@
+[
+{
+"content_id": "REALIA:4.3.4",
+"reference_id": "REALIA:4.3.4",
+"version": "1.0.4",
+"title": "Lampstand, menorah",
+"media_type": "Text",
+"index_reference": "4.3.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4\"><span class=\"thlex-key\">4.3.4</span> Lampstand, menorah</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְנוֹרָה</span> <span class=\"thlex-translit\">(mnorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>, <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a>, <a href=\"https://ref.ly/Exod25:35\">EXO 25:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>, <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:9\">NUM 4:9</a>, <a href=\"https://ref.ly/Num8:2\">NUM 8:2</a>, <a href=\"https://ref.ly/Num8:3\">NUM 8:3</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a>, <a href=\"https://ref.ly/2Chr4:20\">2CH 4:20</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/Jer52:19\">JER 52:19</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>, <a href=\"https://ref.ly/Zech4:11\">ZEC 4:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λυχνία</span> <span class=\"thlex-translit\">(luchnia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a>, <a href=\"https://ref.ly/Sir26:17\">SIR 26:17</a>, <a href=\"https://ref.ly/1Macc1:21\">1MA 1:21</a>, <a href=\"https://ref.ly/1Macc4:49\">1MA 4:49</a>, <a href=\"https://ref.ly/1Macc4:50\">1MA 4:50</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd10:22\">2ES 10:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0038_lampstand_parts_en.jpg\" alt=\"Drawing showing the parts of the branch of a lampstand (menorah)\"><figcaption class=\"thlex-caption\">Drawing showing the parts of the branch of a lampstand (menorah) (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The construction of the lampstand in the Tabernacle is discussed in <a href=\"https://ref.ly/Exod25:31-Exod25:40\">EXO 25:31–EXO 25:40</a>; <a href=\"https://ref.ly/Exod37:17-Exod37:24\">EXO 37:17–EXO 37:24</a>; <a href=\"https://ref.ly/Lev24:1-Lev24:4\">LEV 24:1–LEV 24:4</a>. It was shaped from a single block of gold and consisted of five distinct parts. These parts were the base, the shafts (or stems), and the flowerlike cups with buds and petals. The lampstand had a central shaft, which stood on a base and out of which projected six arms, making a total of seven branches. A lamp that burned oil stood on the top of each of these branches.</p>\n<p>Only one lampstand was prescribed for the Tabernacle. However, when Solomon built and furnished the Temple, he is said (<a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>; <a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a>) to have included ten lampstands. No explanation is given in the text for the increase to ten. Solomon also furnished the Temple with ten tables and ten washbasins, where only one of each was called for in the Tabernacle. One Jewish tradition says that the ten lampstands were in addition to the single prescribed lampstand and that their location “to the right” and “to the left” meant to the right and left of the single holy lampstand. We have no indication that the structure of the lampstand changed in Solomon’s time, and the ten lampstands which he made probably looked like the one described for the Tabernacle.</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0037_lampstand_parts_en.jpg\" alt=\"OAI-0037_lampstand_parts_en\"></figure>For the basic functioning of oil lamps, see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 Oil lamp and wick&lt;REALIA:5.1&gt;</a> and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.2 Lampstand&lt;REALIA:5.2&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Since there is no special word for “lampstand” in many cultures, it may have to be translated “lamp holder” or “thing on which lamps are placed.” It should be emphasized that this object did not hold candles but oil lamps (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 Oil lamp and wick&lt;REALIA:5.1&gt;</a>).</p>\n<p>The lampstand (<em>mnorah</em> in Hebrew) is mostly described in terms of flower parts. Knowing this may be helpful when seeking for appropriate terms to translate the individual parts of the lampstand. The flowerlike parts included “stems,” “buds” or “calyxes,” and “cups,” which were like the heads of open flowers. <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> includes the following useful footnote: “The terms used in the Hebrew text are difficult to interpret. It has been suggested that the decorations of the lampstand were taken from the world of plants and flowers.”</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0008_levite_lampstand.png\" alt=\"Levite lighting seven-branched lampstand in the temple\"><figcaption class=\"thlex-caption\">Levite lighting seven-branched lampstand in the temple (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>In <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, where the parts of the lampstand are listed, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> has simply “The whole lampstand, including its decorative flowers, must be made of a single piece of hammered gold.” <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> is even more condensed with “It must be made with all of its parts from one piece [of gold].” This solution may be adopted by some translations for this verse, although it will still be necessary to translate individual parts of the lampstand in the verses that follow.</p>\n<p>\n            <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>: In this verse the Hebrew text literally speaks of “the pure lampstand” (so <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), which possibly refers to the sacred character or ritual cleanness of the lampstand without reference to the gold of which it was made. <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>, for example, has “the lamp-stand, ritually clean.” But the majority of versions (for example, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) take it to mean “the pure gold lampstand.” If the “pure gold” interpretation is followed, the idea of “purity” in this case may have to be expressed as “containing no other things” or “made of nothing but [gold].” The word for “gold” may have to be borrowed in some languages (in which case, it should be explained in the glossary).</p>\n<p>The parts of the lampstand, from bottom to top, were:</p>\n<p>\n            <em>Yarek</em> (<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>; <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>; <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>): This Hebrew word refers to the “base” or “foot” on which the entire lampstand stood. In <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> the literal phrase “from its base to it’s flowers” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) may be rendered “from top to bottom” (so <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>).</p>\n<p>\n            <em>Qaneh</em> (<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> [12 times]; <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> [12 times]): This Hebrew word literally means “reed.” In <a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> and <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> it indicates a long, straight stem of a flower. There were six of these stems on the lampstand, three on each side symmetrically, coming out of a central one, making a total of seven. <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> drops the flower image and calls them “arms.” This will be natural where a multi-branched candlestick is known, but it may sound strange where such an item is unknown.</p>\n<p>\n            <em>Gavi‘a</em> (<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>; <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a>; <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>; <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a>): This Hebrew word refers to a kind of cup at the top of each of the seven stems of the lampstand. Olive oil and wicks that burned, giving off light, were placed into the seven cups. The cups were evidently shaped like the head of a flower when it is open. <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> has “flower-like cups” (similarly <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>). <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> has simply “cups,” while <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “decorative flowers.”</p>\n<p>\n            <em>Kaftor</em> (<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> [8 times]; <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> [8 times]): This Hebrew word is also used to designate the “capital” (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> in <a href=\"https://ref.ly/Amos9:1\">AMO 9:1</a>) of a column (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.5 Column, pillar, capital&lt;REALIA:3.5&gt;</a>). Here it seems to indicate a kind of knob or bulb, a swelling like a ball or an egg at the joints between the branches and where the head of the flower joined the stem. Most translations maintain the flower image by rendering this word “buds” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) or “calyxes” (<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>).</p>\n<p>\n            <em>Perach</em> (<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> [4 times]; <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> [4 times]; <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>; <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>; <a href=\"https://ref.ly/2Chr4:21\">2CH 4:21</a>): This Hebrew word means “flower,” or more specifically “bloom,” which is the head of a flower made by the open petals. The flowers of the lampstand formed the cups. While most translations keep the flower image for this word, they vary in how they express it. Some have “petals” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), while others say “flowers” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025031",
+"start_ref_usfm": "EXO 25:31",
+"end_ref": "02025031",
+"end_ref_usfm": "EXO 25:31"
+},
+{
+"start_ref": "02025032",
+"start_ref_usfm": "EXO 25:32",
+"end_ref": "02025032",
+"end_ref_usfm": "EXO 25:32"
+},
+{
+"start_ref": "02025033",
+"start_ref_usfm": "EXO 25:33",
+"end_ref": "02025033",
+"end_ref_usfm": "EXO 25:33"
+},
+{
+"start_ref": "02025034",
+"start_ref_usfm": "EXO 25:34",
+"end_ref": "02025034",
+"end_ref_usfm": "EXO 25:34"
+},
+{
+"start_ref": "02025035",
+"start_ref_usfm": "EXO 25:35",
+"end_ref": "02025035",
+"end_ref_usfm": "EXO 25:35"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035014",
+"start_ref_usfm": "EXO 35:14",
+"end_ref": "02035014",
+"end_ref_usfm": "EXO 35:14"
+},
+{
+"start_ref": "02037017",
+"start_ref_usfm": "EXO 37:17",
+"end_ref": "02037017",
+"end_ref_usfm": "EXO 37:17"
+},
+{
+"start_ref": "02037018",
+"start_ref_usfm": "EXO 37:18",
+"end_ref": "02037018",
+"end_ref_usfm": "EXO 37:18"
+},
+{
+"start_ref": "02037019",
+"start_ref_usfm": "EXO 37:19",
+"end_ref": "02037019",
+"end_ref_usfm": "EXO 37:19"
+},
+{
+"start_ref": "02037020",
+"start_ref_usfm": "EXO 37:20",
+"end_ref": "02037020",
+"end_ref_usfm": "EXO 37:20"
+},
+{
+"start_ref": "02039037",
+"start_ref_usfm": "EXO 39:37",
+"end_ref": "02039037",
+"end_ref_usfm": "EXO 39:37"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024004",
+"start_ref_usfm": "LEV 24:4",
+"end_ref": "03024004",
+"end_ref_usfm": "LEV 24:4"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004009",
+"start_ref_usfm": "NUM 4:9",
+"end_ref": "04004009",
+"end_ref_usfm": "NUM 4:9"
+},
+{
+"start_ref": "04008002",
+"start_ref_usfm": "NUM 8:2",
+"end_ref": "04008002",
+"end_ref_usfm": "NUM 8:2"
+},
+{
+"start_ref": "04008003",
+"start_ref_usfm": "NUM 8:3",
+"end_ref": "04008003",
+"end_ref_usfm": "NUM 8:3"
+},
+{
+"start_ref": "04008004",
+"start_ref_usfm": "NUM 8:4",
+"end_ref": "04008004",
+"end_ref_usfm": "NUM 8:4"
+},
+{
+"start_ref": "11007049",
+"start_ref_usfm": "1KI 7:49",
+"end_ref": "11007049",
+"end_ref_usfm": "1KI 7:49"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "13028015",
+"start_ref_usfm": "1CH 28:15",
+"end_ref": "13028015",
+"end_ref_usfm": "1CH 28:15"
+},
+{
+"start_ref": "14004007",
+"start_ref_usfm": "2CH 4:7",
+"end_ref": "14004007",
+"end_ref_usfm": "2CH 4:7"
+},
+{
+"start_ref": "14004020",
+"start_ref_usfm": "2CH 4:20",
+"end_ref": "14004020",
+"end_ref_usfm": "2CH 4:20"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "24052019",
+"start_ref_usfm": "JER 52:19",
+"end_ref": "24052019",
+"end_ref_usfm": "JER 52:19"
+},
+{
+"start_ref": "38004002",
+"start_ref_usfm": "ZEC 4:2",
+"end_ref": "38004002",
+"end_ref_usfm": "ZEC 4:2"
+},
+{
+"start_ref": "38004011",
+"start_ref_usfm": "ZEC 4:11",
+"end_ref": "38004011",
+"end_ref_usfm": "ZEC 4:11"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+},
+{
+"start_ref": "72026017",
+"start_ref_usfm": "SIR 26:17",
+"end_ref": "72026017",
+"end_ref_usfm": "SIR 26:17"
+},
+{
+"start_ref": "78001021",
+"start_ref_usfm": "1MA 1:21",
+"end_ref": "78001021",
+"end_ref_usfm": "1MA 1:21"
+},
+{
+"start_ref": "78004049",
+"start_ref_usfm": "1MA 4:49",
+"end_ref": "78004049",
+"end_ref_usfm": "1MA 4:49"
+},
+{
+"start_ref": "78004050",
+"start_ref_usfm": "1MA 4:50",
+"end_ref": "78004050",
+"end_ref_usfm": "1MA 4:50"
+},
+{
+"start_ref": "83010022",
+"start_ref_usfm": "2ES 10:22",
+"end_ref": "83010022",
+"end_ref_usfm": "2ES 10:22"
+},
+{
+"start_ref": "02025040",
+"start_ref_usfm": "EXO 25:40",
+"end_ref": "02025040",
+"end_ref_usfm": "EXO 25:40"
+},
+{
+"start_ref": "02037024",
+"start_ref_usfm": "EXO 37:24",
+"end_ref": "02037024",
+"end_ref_usfm": "EXO 37:24"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024001",
+"end_ref_usfm": "LEV 24:1"
+},
+{
+"start_ref": "02025000",
+"start_ref_usfm": "EXO 25:0",
+"end_ref": "02025000",
+"end_ref_usfm": "EXO 25:0"
+},
+{
+"start_ref": "02037000",
+"start_ref_usfm": "EXO 37:0",
+"end_ref": "02037000",
+"end_ref_usfm": "EXO 37:0"
+},
+{
+"start_ref": "30009001",
+"start_ref_usfm": "AMO 9:1",
+"end_ref": "30009001",
+"end_ref_usfm": "AMO 9:1"
+},
+{
+"start_ref": "14004021",
+"start_ref_usfm": "2CH 4:21",
+"end_ref": "14004021",
+"end_ref_usfm": "2CH 4:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:4.3.4.1",
+"reference_id": "REALIA:4.3.4.1",
+"version": "1.0.4",
+"title": "Snuffer, wick trimmer",
+"media_type": "Text",
+"index_reference": "4.3.4.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4.1\"><span class=\"thlex-key\">4.3.4.1</span> Snuffer, wick trimmer</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְזַמֶּרֶת</span> <span class=\"thlex-translit\">(mzamereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:50\">1KI 7:50</a>, <a href=\"https://ref.ly/2Kgs12:14\">2KI 12:14</a>, <a href=\"https://ref.ly/2Kgs25:14\">2KI 25:14</a>, <a href=\"https://ref.ly/2Chr4:22\">2CH 4:22</a>, <a href=\"https://ref.ly/Jer52:18\">JER 52:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>A snuffer is a kind of cap placed over the burning wick of a lamp to extinguish it by cutting off the air supply. The specific ones mentioned for the Temple service would have been made of gold.</p>\n<p>A wick trimmer is a kind of scissors for cutting off the burnt part of the wick so that it makes less smoke when it burns.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Translations are divided concerning the proper identification of the Hebrew word <em>mzamereth</em>. The word could indicate some kind of musical instrument, although no translation consulted reflects this meaning. The same Hebrew root can also mean “to cut, to trim” (see <a href=\"https://ref.ly/Lev25:4\">LEV 25:4</a>), and it is on this basis that some versions (for example, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>) interpret it to mean a kind of scissors for trimming a burnt wick. Others (for example, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) take it to be a kind of cap placed over the burning wick to put it out. Another interpretation is that it was a small plate set under a lamp to catch the ashes of the wick as it burned down.</p>\n<p>In any society where oil lamps or at least extensive candle lighting is unfamiliar, it will be difficult to find a suitable term for this Hebrew word. Even something like “wick trimmers” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>) or “lamp snuffers” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) is not readily understood by modern English readers. Translators are advised to select a term that will be understood by most people and, where possible, to include a note or glossary entry describing the operation of an oil lamp (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 Oil lamp and wick&lt;REALIA:5.1&gt;</a>).</p>\n<p>Curtain, veil, drape: See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.14.1.6 Curtain, veil, drape&lt;REALIA:3.14.1.6&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007050",
+"start_ref_usfm": "1KI 7:50",
+"end_ref": "11007050",
+"end_ref_usfm": "1KI 7:50"
+},
+{
+"start_ref": "12012014",
+"start_ref_usfm": "2KI 12:14",
+"end_ref": "12012014",
+"end_ref_usfm": "2KI 12:14"
+},
+{
+"start_ref": "12025014",
+"start_ref_usfm": "2KI 25:14",
+"end_ref": "12025014",
+"end_ref_usfm": "2KI 25:14"
+},
+{
+"start_ref": "14004022",
+"start_ref_usfm": "2CH 4:22",
+"end_ref": "14004022",
+"end_ref_usfm": "2CH 4:22"
+},
+{
+"start_ref": "24052018",
+"start_ref_usfm": "JER 52:18",
+"end_ref": "24052018",
+"end_ref_usfm": "JER 52:18"
+},
+{
+"start_ref": "03025004",
+"start_ref_usfm": "LEV 25:4",
+"end_ref": "03025004",
+"end_ref_usfm": "LEV 25:4"
+}
+],
+"resource": []
+}
+}
+]
