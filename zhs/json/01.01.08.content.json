@@ -1,0 +1,447 @@
+[
+{
+"content_id": "REALIA:1.1.8",
+"reference_id": "REALIA:1.1.8",
+"version": "1.0.4",
+"title": "标题：脱粒和扬场（threshing and winnowing）",
+"media_type": "Text",
+"index_reference": "1.1.8",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8\"><span class=\"thlex-key\">1.1.8</span> 标题：脱粒和扬场（threshing and winnowing）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>脱粒就是使麦粒与麦秆分离，方法是用连枷击打，或是用牲畜踩踏，或是让牲畜拖着脱粒板从麦秆上面压过（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.2 打谷机、脱粒板 (threshing board, sledge)&lt;REALIA:1.1.8.2&gt;</a> ）</p>\n<p>扬场就是用扬场木杈（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.3 扬场木杈 (winnowing fork)&lt;REALIA:1.1.8.3&gt;</a> ）或簸箕（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.4 筛子、筛箩、簸箕 (sieve, winnowing basket)&lt;REALIA:1.1.8.4&gt;</a> ）将麦秆、麦糠、麦粒和灰尘的混合物扬到风中。较重的麦粒会落在禾场的地面上或簸箕里，而风会带走灰尘、麦糠和麦秆。麦秆与麦穗分开后，可以作为牲畜的饲料。</p>\n<p>以色列地区通常在下午两点左右开始刮风，并且一直持续到深夜。扬场时的风不能太大，因此傍晚是扬场的最佳时间。</p>\n<p>扬场的第一步是筛掉麦粒中的异物。人们会使用较浅的圆形筛箩，筛箩的底部有用藤条、皮革、树皮、干草等条状物做成的网眼。</p>\n<p>如果目标语言没有表示扬场的词语，翻译者可以使用描述性的短语；例如，“把谷物中的灰尘抖出去”，“把谷物与麦糠分开”，或“把谷物与叶子分开”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.8.1",
+"reference_id": "REALIA:1.1.8.1",
+"version": "1.0.4",
+"title": "标题：禾场（threshing floor）",
+"media_type": "Text",
+"index_reference": "1.1.8.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.1\"><span class=\"thlex-key\">1.1.8.1</span> 标题：禾场（threshing floor）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">兰：אִדְּרֵי</span> <span class=\"thlex-translit\">(音译：’idar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan2:35\">DAN 2:35</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：גֹּרֶן</span> <span class=\"thlex-translit\">(音译：goren)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num15:20\">NUM 15:20</a>, <a href=\"https://ref.ly/Num18:27\">NUM 18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>, <a href=\"https://ref.ly/Deut15:14\">DEU 15:14</a>, <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a>, <a href=\"https://ref.ly/Judg6:37\">JDG 6:37</a>, <a href=\"https://ref.ly/Ruth3:2\">RUT 3:2</a>, <a href=\"https://ref.ly/Ruth3:3\">RUT 3:3</a>, <a href=\"https://ref.ly/Ruth3:6\">RUT 3:6</a>, <a href=\"https://ref.ly/Ruth3:14\">RUT 3:14</a>, <a href=\"https://ref.ly/1Sam23:1\">1SA 23:1</a>, <a href=\"https://ref.ly/2Sam24:16\">2SA 24:16</a>, <a href=\"https://ref.ly/2Sam24:18\">2SA 24:18</a>, <a href=\"https://ref.ly/2Sam24:21\">2SA 24:21</a>, <a href=\"https://ref.ly/2Sam24:24\">2SA 24:24</a>, <a href=\"https://ref.ly/1Kgs22:10\">1KI 22:10</a>, <a href=\"https://ref.ly/2Kgs6:27\">2KI 6:27</a>, <a href=\"https://ref.ly/1Chr21:15\">1CH 21:15</a>, <a href=\"https://ref.ly/1Chr21:18\">1CH 21:18</a>, <a href=\"https://ref.ly/1Chr21:21\">1CH 21:21</a>, <a href=\"https://ref.ly/1Chr21:22\">1CH 21:22</a>, <a href=\"https://ref.ly/1Chr21:28\">1CH 21:28</a>, <a href=\"https://ref.ly/2Chr3:1\">2CH 3:1</a>, <a href=\"https://ref.ly/2Chr18:9\">2CH 18:9</a>, <a href=\"https://ref.ly/Job39:12\">JOB 39:12</a>, <a href=\"https://ref.ly/Isa21:10\">ISA 21:10</a>, <a href=\"https://ref.ly/Jer2:25\">JER 2:25</a>, <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a>, <a href=\"https://ref.ly/Hos9:1\">HOS 9:1</a>, <a href=\"https://ref.ly/Hos9:2\">HOS 9:2</a>, <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>, <a href=\"https://ref.ly/Joel2:24\">JOL 2:24</a>, <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἅλων</span> <span class=\"thlex-translit\">(音译：halōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a>, <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：area</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd4:30\">2ES 4:30</a>, <a href=\"https://ref.ly/2Esd4:39\">2ES 4:39</a>, <a href=\"https://ref.ly/2Esd9:17\">2ES 9:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0322_threshing_floor.jpg\" alt=\"打谷场\"><figcaption class=\"thlex-caption\">打谷场 (© Klearchos Kapoutsis, CC BY 2.0, via Wikimedia Commons)</figcaption></figure>禾场是一块平坦的圆形区域，直径约7.5—12米（25—40英尺），通常位于种植谷物的田地附近，并且尽量选在有风吹过的高处（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.3 扬场木杈 (winnowing fork)&lt;REALIA:1.1.8.3&gt;</a> ）。禾场通常位于村庄附近，以便保护谷物。禾场可以是基岩，也可以是夯实的泥地。禾场的边缘常会围上石块，将谷物围在其中。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>割下麦子之后，还需要将子粒与麦秆和外壳分离。割下的麦子摆放在禾场上。麦秆和外壳与子粒分离的方法有以下几种：（1）将脱粒板从麦子上方拖过去（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.2 打谷机、脱粒板 (threshing board, sledge)&lt;REALIA:1.1.8.2&gt;</a> ）；（2）让牲畜在麦子上面来回踩踏；（3）用工具敲打。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Jer51:33\">JER 51:33</a> 和<a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a> ，用于踹谷的禾场象征着审判或刑罚。如果人们不知道谷物脱粒的过程，或者不明白谷物脱粒是什么意思，那么翻译者可以明白表述；例如，<a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a> b可以译成，“他们没有意识到他们已被聚集在一起受惩罚，就像谷物被运到禾场脱粒那样”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）。另外，比较《〈马太福音〉手册》（<em>A Handbook on The Gospel of Matthew</em> ，第70页）关于<a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a> 的另一种建议译法：“他预备好进行审判，将好人与坏人分开，就像农夫准备用簸箕将麦子与麦糠分开；他将保证好人的安全，就像农夫将麦子放入粮仓；他必将恶人扔在永不止息的火中焚烧，就像农夫清除禾场上的糠秕，将其烧掉一样。”</p>\n<p>在<a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a> 和<a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a> ，<em>halōn</em> 一词表示“禾场”的意思进行了引申，这里是指仍然留在禾场上面的、已脱粒的谷物。如果将这里原文字面意为“要扬净他的禾场”一语译为“他要彻底扬净所有的谷物”，那么经文的意思就会十分清楚。另一方面，翻译者也可以字面解释这两处新约经文中<em>halōn</em> 的意思，译为“他要扬净他的禾场”，意即聚拢谷物并去除麦秆和麦糠。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27002035",
+"start_ref_usfm": "DAN 2:35",
+"end_ref": "27002035",
+"end_ref_usfm": "DAN 2:35"
+},
+{
+"start_ref": "04015020",
+"start_ref_usfm": "NUM 15:20",
+"end_ref": "04015020",
+"end_ref_usfm": "NUM 15:20"
+},
+{
+"start_ref": "04018027",
+"start_ref_usfm": "NUM 18:27",
+"end_ref": "04018027",
+"end_ref_usfm": "NUM 18:27"
+},
+{
+"start_ref": "04018030",
+"start_ref_usfm": "NUM 18:30",
+"end_ref": "04018030",
+"end_ref_usfm": "NUM 18:30"
+},
+{
+"start_ref": "05015014",
+"start_ref_usfm": "DEU 15:14",
+"end_ref": "05015014",
+"end_ref_usfm": "DEU 15:14"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016013",
+"end_ref_usfm": "DEU 16:13"
+},
+{
+"start_ref": "07006037",
+"start_ref_usfm": "JDG 6:37",
+"end_ref": "07006037",
+"end_ref_usfm": "JDG 6:37"
+},
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+},
+{
+"start_ref": "08003003",
+"start_ref_usfm": "RUT 3:3",
+"end_ref": "08003003",
+"end_ref_usfm": "RUT 3:3"
+},
+{
+"start_ref": "08003006",
+"start_ref_usfm": "RUT 3:6",
+"end_ref": "08003006",
+"end_ref_usfm": "RUT 3:6"
+},
+{
+"start_ref": "08003014",
+"start_ref_usfm": "RUT 3:14",
+"end_ref": "08003014",
+"end_ref_usfm": "RUT 3:14"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023001",
+"end_ref_usfm": "1SA 23:1"
+},
+{
+"start_ref": "10024016",
+"start_ref_usfm": "2SA 24:16",
+"end_ref": "10024016",
+"end_ref_usfm": "2SA 24:16"
+},
+{
+"start_ref": "10024018",
+"start_ref_usfm": "2SA 24:18",
+"end_ref": "10024018",
+"end_ref_usfm": "2SA 24:18"
+},
+{
+"start_ref": "10024021",
+"start_ref_usfm": "2SA 24:21",
+"end_ref": "10024021",
+"end_ref_usfm": "2SA 24:21"
+},
+{
+"start_ref": "10024024",
+"start_ref_usfm": "2SA 24:24",
+"end_ref": "10024024",
+"end_ref_usfm": "2SA 24:24"
+},
+{
+"start_ref": "11022010",
+"start_ref_usfm": "1KI 22:10",
+"end_ref": "11022010",
+"end_ref_usfm": "1KI 22:10"
+},
+{
+"start_ref": "12006027",
+"start_ref_usfm": "2KI 6:27",
+"end_ref": "12006027",
+"end_ref_usfm": "2KI 6:27"
+},
+{
+"start_ref": "13021015",
+"start_ref_usfm": "1CH 21:15",
+"end_ref": "13021015",
+"end_ref_usfm": "1CH 21:15"
+},
+{
+"start_ref": "13021018",
+"start_ref_usfm": "1CH 21:18",
+"end_ref": "13021018",
+"end_ref_usfm": "1CH 21:18"
+},
+{
+"start_ref": "13021021",
+"start_ref_usfm": "1CH 21:21",
+"end_ref": "13021021",
+"end_ref_usfm": "1CH 21:21"
+},
+{
+"start_ref": "13021022",
+"start_ref_usfm": "1CH 21:22",
+"end_ref": "13021022",
+"end_ref_usfm": "1CH 21:22"
+},
+{
+"start_ref": "13021028",
+"start_ref_usfm": "1CH 21:28",
+"end_ref": "13021028",
+"end_ref_usfm": "1CH 21:28"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003001",
+"end_ref_usfm": "2CH 3:1"
+},
+{
+"start_ref": "14018009",
+"start_ref_usfm": "2CH 18:9",
+"end_ref": "14018009",
+"end_ref_usfm": "2CH 18:9"
+},
+{
+"start_ref": "18039012",
+"start_ref_usfm": "JOB 39:12",
+"end_ref": "18039012",
+"end_ref_usfm": "JOB 39:12"
+},
+{
+"start_ref": "23021010",
+"start_ref_usfm": "ISA 21:10",
+"end_ref": "23021010",
+"end_ref_usfm": "ISA 21:10"
+},
+{
+"start_ref": "24002025",
+"start_ref_usfm": "JER 2:25",
+"end_ref": "24002025",
+"end_ref_usfm": "JER 2:25"
+},
+{
+"start_ref": "24051033",
+"start_ref_usfm": "JER 51:33",
+"end_ref": "24051033",
+"end_ref_usfm": "JER 51:33"
+},
+{
+"start_ref": "28009001",
+"start_ref_usfm": "HOS 9:1",
+"end_ref": "28009001",
+"end_ref_usfm": "HOS 9:1"
+},
+{
+"start_ref": "28009002",
+"start_ref_usfm": "HOS 9:2",
+"end_ref": "28009002",
+"end_ref_usfm": "HOS 9:2"
+},
+{
+"start_ref": "28013003",
+"start_ref_usfm": "HOS 13:3",
+"end_ref": "28013003",
+"end_ref_usfm": "HOS 13:3"
+},
+{
+"start_ref": "29002024",
+"start_ref_usfm": "JOL 2:24",
+"end_ref": "29002024",
+"end_ref_usfm": "JOL 2:24"
+},
+{
+"start_ref": "33004012",
+"start_ref_usfm": "MIC 4:12",
+"end_ref": "33004012",
+"end_ref_usfm": "MIC 4:12"
+},
+{
+"start_ref": "40003012",
+"start_ref_usfm": "MAT 3:12",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "42003017",
+"start_ref_usfm": "LUK 3:17",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+},
+{
+"start_ref": "83004030",
+"start_ref_usfm": "2ES 4:30",
+"end_ref": "83004030",
+"end_ref_usfm": "2ES 4:30"
+},
+{
+"start_ref": "83004039",
+"start_ref_usfm": "2ES 4:39",
+"end_ref": "83004039",
+"end_ref_usfm": "2ES 4:39"
+},
+{
+"start_ref": "83009017",
+"start_ref_usfm": "2ES 9:17",
+"end_ref": "83009017",
+"end_ref_usfm": "2ES 9:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.8.2",
+"reference_id": "REALIA:1.1.8.2",
+"version": "1.0.4",
+"title": "标题：打谷机、脱粒板（threshing board, sledge）",
+"media_type": "Text",
+"index_reference": "1.1.8.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.2\"><span class=\"thlex-key\">1.1.8.2</span> 标题：打谷机、脱粒板（threshing board, sledge）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חָרוּץ</span> <span class=\"thlex-translit\">(音译：charuts)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:22\">JOB 41:22</a>, <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa41:15\">ISA 41:15</a>, <a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מוֹרַג</span> <span class=\"thlex-translit\">(音译：morag)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam24:22\">2SA 24:22</a>, <a href=\"https://ref.ly/1Chr21:23\">1CH 21:23</a>, <a href=\"https://ref.ly/Isa41:15\">ISA 41:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עֲגָלָה</span> <span class=\"thlex-translit\">(音译：‘agalah, ‘eglah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa28:28\">ISA 28:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0323_threshing_board_bottom.jpg\" alt=\"脱粒板底部\"><figcaption class=\"thlex-caption\">脱粒板底部 (© Renyrt, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>脱粒板是一个木制的平板型农具，用一块木板或者几块木板并排连接而成，大小约为1.5×1米（5×3英尺）。在板的一面凿出一些小孔，里面牢牢嵌入坚硬的尖石子（燧石或玄武岩）或金属片。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0325_threshing_board.jpg\" alt=\"铁制脱粒板\"><figcaption class=\"thlex-caption\">铁制脱粒板 (© CarlosVdeHabsburgo, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>将脱粒板带有尖石的一侧朝下，用绳子套在牲畜上，然后碾过割下来的麦子。为了增加器具的重量（和效率），农夫可以站在或坐在板上面。当嵌着石头的脱粒板碾过麦子时，麦秆与麦粒分离，麦粒与外皮分离，同时麦秆被轧碎成糠。参上面的<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8 脱粒和扬场 (threshing and winnowing)&lt;REALIA:1.1.8&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0073_man_holding_winnowing_fork.png\" alt=\"OAI-0073_man_holding_winnowing_fork\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>\n            <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>; <a href=\"https://ref.ly/Isa28:28\">ISA 28:28</a> 使用了多个词语来表示功能类似的器具。希伯来文<em>‘agalah</em> ／<em>‘eglah</em> 可能是一个装着锋利圆盘的打谷机，顶部有一个座位。第27节提到这种农具是为了说明：经文提到的孜然和莳萝种子太小了，不能像小麦和大麦等较大的谷物那样用脱粒板来脱粒。希伯来文<em>charuts</em> 可能是指装着铁钉而非石子的脱粒板。第27节的<em>’ofan</em> 指的是小推车的轮子（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">8.3 轮、车轮 (wheel)&lt;REALIA:8.3&gt;</a> ）。</p>\n<p>\n            <a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a> 提到“铁的脱粒板”（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直译），这不是说脱粒板的平板是用铁制成的，而是说木制平板上突出来的不是常用的石头，而是大铁钉。<a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a> 中的这个表达可能是比喻，如果这个比喻在某种文化中会失去意义，那么经文的后半部分可以扩展译为，“因为他们毁灭了基列人，就像有人用装着铁钉的脱粒板打谷一样。”或者也可以不使用比喻，译成“他们野蛮、残忍地对待基列人”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18041022",
+"start_ref_usfm": "JOB 41:22",
+"end_ref": "18041022",
+"end_ref_usfm": "JOB 41:22"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028027",
+"end_ref_usfm": "ISA 28:27"
+},
+{
+"start_ref": "23041015",
+"start_ref_usfm": "ISA 41:15",
+"end_ref": "23041015",
+"end_ref_usfm": "ISA 41:15"
+},
+{
+"start_ref": "30001003",
+"start_ref_usfm": "AMO 1:3",
+"end_ref": "30001003",
+"end_ref_usfm": "AMO 1:3"
+},
+{
+"start_ref": "10024022",
+"start_ref_usfm": "2SA 24:22",
+"end_ref": "10024022",
+"end_ref_usfm": "2SA 24:22"
+},
+{
+"start_ref": "13021023",
+"start_ref_usfm": "1CH 21:23",
+"end_ref": "13021023",
+"end_ref_usfm": "1CH 21:23"
+},
+{
+"start_ref": "23028028",
+"start_ref_usfm": "ISA 28:28",
+"end_ref": "23028028",
+"end_ref_usfm": "ISA 28:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.8.3",
+"reference_id": "REALIA:1.1.8.3",
+"version": "1.0.4",
+"title": "标题：扬场木杈（winnowing fork）",
+"media_type": "Text",
+"index_reference": "1.1.8.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.3\"><span class=\"thlex-key\">1.1.8.3</span> 标题：扬场木杈（winnowing fork）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：זרה</span> <span class=\"thlex-translit\">(音译：zarah（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ruth3:2\">RUT 3:2</a>, <a href=\"https://ref.ly/Prov20:8\">PRO 20:8</a>, <a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a>, <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a>, <a href=\"https://ref.ly/Isa41:16\">ISA 41:16</a>, <a href=\"https://ref.ly/Jer4:11\">JER 4:11</a>, <a href=\"https://ref.ly/Jer15:7\">JER 15:7</a>, <a href=\"https://ref.ly/Jer51:2\">JER 51:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִזְרֶה</span> <span class=\"thlex-translit\">(音译：mizreh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a>, <a href=\"https://ref.ly/Jer15:7\">JER 15:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：רַחַת</span> <span class=\"thlex-translit\">(音译：rachath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：λικμάω</span> <span class=\"thlex-translit\">(音译：likmaō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir5:9\">SIR 5:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：πτύον</span> <span class=\"thlex-translit\">(音译：ptuon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a>, <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0072_man_holding_goad_with_ox_pulling_threshing_sledge.png\" alt=\"OAI-0072_man_holding_goad_with_ox_pulling_threshing_sledge\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>扬场木杈是一种木制的叉状工具，有五到七个齿，用来将脱粒后的谷物扔向空中，这样风就可以把麦子与麦秆、麦糠分离开来。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8 脱粒和扬场 (threshing and winnowing)&lt;REALIA:1.1.8&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0006_winnowing_fork.jpg\" alt=\"簸箕叉用于分离谷物和糠\"><figcaption class=\"thlex-caption\">簸箕叉用于分离谷物和糠 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>如果目标语言没有表示“扬场木杈”的词语，那么翻译者可以采用描述性的短语；例如，“用来把脱粒后的谷物扔向空中，好让麦糠被风吹走的工具”。</p>\n<p>希伯来文动词<em>zarah</em> 的字面意思是“分散”，在圣经中指多种动作，包括扬场。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0326_winnowing_shovel.jpg\" alt=\"木铲，可能用于簸谷（水彩和石墨画，阿奇汤普森（Archie Thompson），1938年）\"><figcaption class=\"thlex-caption\">木铲，可能用于簸谷（水彩和石墨画，阿奇汤普森（Archie Thompson），1938年） (National Gallery of Art, CC0, via Wikimedia Commons)</figcaption></figure>希伯来文<em>rachath</em> 在圣经中只出现一次（<a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a> ），其含义不明；可能是指一种木制工具，在长柄上固定一个长而扁平的刃片，就像是一把铁锹，但是用木头制成。这节经文提到了两种工具，用于扬场的不同步骤。经文的要点是：即使是给动物吃的食物，也进行了仔细的处理。有些译本依循《七十士译本》，因而不需要译出工具的名称；例如，“为你耕地的牛和驴也必吃最好的谷物”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译）。</p>\n<p>在<a href=\"https://ref.ly/Sir5:9\">SIR 5:9</a> ，扬场用在一句谚语中。原文字面意为“不要在刮每一种风时都扬场，不要每一条路都走”，<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 采用了直译。但是，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 重新组织第9节和第10节的结构（将顺序颠倒），这样谚语的意思变成：“不要试图取悦所有人，或同意人们所说的一切话。”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+},
+{
+"start_ref": "20020008",
+"start_ref_usfm": "PRO 20:8",
+"end_ref": "20020008",
+"end_ref_usfm": "PRO 20:8"
+},
+{
+"start_ref": "20020026",
+"start_ref_usfm": "PRO 20:26",
+"end_ref": "20020026",
+"end_ref_usfm": "PRO 20:26"
+},
+{
+"start_ref": "23030024",
+"start_ref_usfm": "ISA 30:24",
+"end_ref": "23030024",
+"end_ref_usfm": "ISA 30:24"
+},
+{
+"start_ref": "23041016",
+"start_ref_usfm": "ISA 41:16",
+"end_ref": "23041016",
+"end_ref_usfm": "ISA 41:16"
+},
+{
+"start_ref": "24004011",
+"start_ref_usfm": "JER 4:11",
+"end_ref": "24004011",
+"end_ref_usfm": "JER 4:11"
+},
+{
+"start_ref": "24015007",
+"start_ref_usfm": "JER 15:7",
+"end_ref": "24015007",
+"end_ref_usfm": "JER 15:7"
+},
+{
+"start_ref": "24051002",
+"start_ref_usfm": "JER 51:2",
+"end_ref": "24051002",
+"end_ref_usfm": "JER 51:2"
+},
+{
+"start_ref": "72005009",
+"start_ref_usfm": "SIR 5:9",
+"end_ref": "72005009",
+"end_ref_usfm": "SIR 5:9"
+},
+{
+"start_ref": "40003012",
+"start_ref_usfm": "MAT 3:12",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "42003017",
+"start_ref_usfm": "LUK 3:17",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.8.4",
+"reference_id": "REALIA:1.1.8.4",
+"version": "1.0.4",
+"title": "标题：筛子、筛箩、簸箕（sieve, winnowing basket）",
+"media_type": "Text",
+"index_reference": "1.1.8.4",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.4\"><span class=\"thlex-key\">1.1.8.4</span> 标题：筛子、筛箩、簸箕（sieve, winnowing basket）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כְּבָרָה</span> <span class=\"thlex-translit\">(音译：kvarah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Amos9:9\">AMO 9:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：נָפָה</span> <span class=\"thlex-translit\">(音译：nafah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：נוף</span> <span class=\"thlex-translit\">(音译：nuf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κόσκινον</span> <span class=\"thlex-translit\">(音译：koskinon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir27:4\">SIR 27:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：σινιάζω</span> <span class=\"thlex-translit\">(音译：siniazō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke22:31\">LUK 22:31</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0327_sieve.jpg\" alt=\"用于分离谷物和糠的筛筐或筛网\"><figcaption class=\"thlex-caption\">用于分离谷物和糠的筛筐或筛网 (© Israel Government Press Office)</figcaption></figure>扬场的第二个步骤是用浅而平的圆形筛子过筛谷物。筛子的底部有网眼，是用干草、绳索、树皮条或芦苇编成。网眼的大小根据需要而定。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>有些语言可能会用不同的词语来表示不同的筛子，如过滤谷物等干货的筛子，以及让液体通过但是挡住固体物质的筛子。在上述所有经文中，这个词指的都是第一种筛子。</p>\n<p>\n            <a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a> ：这节经文的语境是在描述列国所受的刑罚和毁灭，该刑罚和毁灭在本节的第三行被比作来回摇晃筛子中的东西：“要用毁灭的筛子筛净列国”（<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 意同）。<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 将这一行中的四个希伯来文词语扩展译为：“他在筛子中震动列国，将它们扔出去，就像毫无价值的糠秕。”在有些语言中，即使这样扩译也仍然不能让人充分理解，因此最好不要使用筛子的比喻。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 在这里没有使用筛子的比喻，在后续经文中也没有使用在牲畜嘴里放嚼环的比喻，而是将两者合并，英文直译作：“它［风］扫除列国，毁灭并终结它们的邪恶计谋。”我们查阅的几乎所有译本都力图保留筛子的比喻。希伯来文<em>nafah</em> 可能是指一种比较细密的筛子，非常适合过滤面粉等物。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0007_winnowing_women.jpg\" alt=\"妇女用筛子筛谷物\"><figcaption class=\"thlex-caption\">妇女用筛子筛谷物 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/Amos9:9\">AMO 9:9</a> ：这里表示筛子的希伯来文词语可能指的是一种网眼比较大的筛子，麦子会漏下去，石头则留在筛子里面。泥水匠也使用类似的筛子，将较大的石头与砂浆所用的细砂分开。因此，这里的画面可能是在筛谷物或沙子。翻译者选择哪个画面其实并不重要，因为重点是没有一块石头能穿过筛子漏下去。它们都会被挡住，然后被扔掉。</p>\n<p>上帝命令以色列的仇敌这样对待以色列：以色列人中没有一个罪人能逃脱惩罚，就像没有石头能穿过筛子。因此，经文可以这样翻译，“我会摇动／筛滤以色列人，就像人过筛沙子（或译：谷物），没有一块石子能穿过筛子掉到地上。我必摇晃／筛滤他们，除去其中的恶人。”</p>\n<p>虽然<a href=\"https://ref.ly/Luke22:31\">LUK 22:31</a> 没有提到“筛子”这个实物，但是提到了筛滤的动作。有些语言在翻译这一句时，加上完成这个动作的工具会更加自然；比较<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> ，“……让你们全部通过一个筛子，就像筛出谷物那样。”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "30009009",
+"start_ref_usfm": "AMO 9:9",
+"end_ref": "30009009",
+"end_ref_usfm": "AMO 9:9"
+},
+{
+"start_ref": "23030028",
+"start_ref_usfm": "ISA 30:28",
+"end_ref": "23030028",
+"end_ref_usfm": "ISA 30:28"
+},
+{
+"start_ref": "72027004",
+"start_ref_usfm": "SIR 27:4",
+"end_ref": "72027004",
+"end_ref_usfm": "SIR 27:4"
+},
+{
+"start_ref": "42022031",
+"start_ref_usfm": "LUK 22:31",
+"end_ref": "42022031",
+"end_ref_usfm": "LUK 22:31"
+}
+],
+"resource": []
+}
+}
+]

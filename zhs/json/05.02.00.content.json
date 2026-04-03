@@ -1,0 +1,96 @@
+[
+{
+"content_id": "REALIA:5.2",
+"reference_id": "REALIA:5.2",
+"version": "1.0.4",
+"title": "标题：灯台（lampstand）",
+"media_type": "Text",
+"index_reference": "5.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.2\"><span class=\"thlex-key\">5.2</span> 标题：灯台（lampstand）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מְנוֹרָה</span> <span class=\"thlex-translit\">(音译：mnorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>, <a href=\"https://ref.ly/Zech4:11\">ZEC 4:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">兰：נֶבְרְשָׁה</span> <span class=\"thlex-translit\">(音译：nevrshah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：λυχνία</span> <span class=\"thlex-translit\">(音译：luchnia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt5:15\">MAT 5:15</a>, <a href=\"https://ref.ly/Mark4:21\">MRK 4:21</a>, <a href=\"https://ref.ly/Luke8:16\">LUK 8:16</a>, <a href=\"https://ref.ly/Luke11:33\">LUK 11:33</a>, <a href=\"https://ref.ly/Rev1:13\">REV 1:13</a>, <a href=\"https://ref.ly/Rev1:20\">REV 1:20</a>, <a href=\"https://ref.ly/Rev1:20\">REV 1:20</a>, <a href=\"https://ref.ly/Rev2:1\">REV 2:1</a>, <a href=\"https://ref.ly/Rev2:5\">REV 2:5</a>, <a href=\"https://ref.ly/Rev11:4\">REV 11:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0029_lampstand.jpg\" alt=\"灯台\"><figcaption class=\"thlex-caption\">灯台 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>灯台是用来托住一盏灯或一组灯的支架，可用多种材料做成，形状和大小也非常多样。使用灯台的目的是使灯盏高于地板或桌子，增大照明面积。关于帐幕中的灯台，参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.3.4 灯台 (lampstand, menorah)&lt;REALIA:4.3.4&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0941_oil_lamps.jpg\" alt=\"灯台上的油灯\"><figcaption class=\"thlex-caption\">灯台上的油灯 (© Zde Wikimedia Commons)</figcaption></figure>许多文化没有专指“灯台”的词语，因此这个词可能要译为“灯座”、“用来放灯的东西”或“放灯的地方”。如果翻译者将油灯译为“蜡烛”，那么可以使用一个表示烛台的词语。</p>\n<p>\n            <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a> ：这节经文提到墙上的字是在“灯台对面”（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）。这是整个宴会厅中最亮的地方。在大多数语言中，翻译者可能都要清楚说明这一点，可译为“灯光最明亮的地方”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）、“灯光最强的地方”，或“人们看得非常清楚的地方”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "38004002",
+"start_ref_usfm": "ZEC 4:2",
+"end_ref": "38004002",
+"end_ref_usfm": "ZEC 4:2"
+},
+{
+"start_ref": "38004011",
+"start_ref_usfm": "ZEC 4:11",
+"end_ref": "38004011",
+"end_ref_usfm": "ZEC 4:11"
+},
+{
+"start_ref": "27005005",
+"start_ref_usfm": "DAN 5:5",
+"end_ref": "27005005",
+"end_ref_usfm": "DAN 5:5"
+},
+{
+"start_ref": "40005015",
+"start_ref_usfm": "MAT 5:15",
+"end_ref": "40005015",
+"end_ref_usfm": "MAT 5:15"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004021",
+"end_ref_usfm": "MRK 4:21"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008016",
+"end_ref_usfm": "LUK 8:16"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011033",
+"end_ref_usfm": "LUK 11:33"
+},
+{
+"start_ref": "66001013",
+"start_ref_usfm": "REV 1:13",
+"end_ref": "66001013",
+"end_ref_usfm": "REV 1:13"
+},
+{
+"start_ref": "66001020",
+"start_ref_usfm": "REV 1:20",
+"end_ref": "66001020",
+"end_ref_usfm": "REV 1:20"
+},
+{
+"start_ref": "66002001",
+"start_ref_usfm": "REV 2:1",
+"end_ref": "66002001",
+"end_ref_usfm": "REV 2:1"
+},
+{
+"start_ref": "66002005",
+"start_ref_usfm": "REV 2:5",
+"end_ref": "66002005",
+"end_ref_usfm": "REV 2:5"
+},
+{
+"start_ref": "66011004",
+"start_ref_usfm": "REV 11:4",
+"end_ref": "66011004",
+"end_ref_usfm": "REV 11:4"
+}
+],
+"resource": []
+}
+}
+]

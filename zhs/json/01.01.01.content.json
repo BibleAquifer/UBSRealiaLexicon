@@ -1,0 +1,390 @@
+[
+{
+"content_id": "REALIA:1.1.1",
+"reference_id": "REALIA:1.1.1",
+"version": "1.0.4",
+"title": "标题：轭（yoke）",
+"media_type": "Text",
+"index_reference": "1.1.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.1\"><span class=\"thlex-key\">1.1.1</span> 标题：轭（yoke）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מוֹט, מוֹטָה</span> <span class=\"thlex-translit\">(音译：mot, motah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a>, <a href=\"https://ref.ly/Isa58:6\">ISA 58:6</a>, <a href=\"https://ref.ly/Isa58:6\">ISA 58:6</a>, <a href=\"https://ref.ly/Isa58:9\">ISA 58:9</a>, <a href=\"https://ref.ly/Jer27:2\">JER 27:2</a>, <a href=\"https://ref.ly/Jer28:10\">JER 28:10</a>, <a href=\"https://ref.ly/Jer28:12\">JER 28:12</a>, <a href=\"https://ref.ly/Jer28:13\">JER 28:13</a>, <a href=\"https://ref.ly/Jer28:13\">JER 28:13</a>, <a href=\"https://ref.ly/Ezek30:18\">EZK 30:18</a>, <a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a>, <a href=\"https://ref.ly/Nah1:13\">NAM 1:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עֹל</span> <span class=\"thlex-translit\">(音译：‘ol)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen27:40\">GEN 27:40</a>, <a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a>, <a href=\"https://ref.ly/Num19:2\">NUM 19:2</a>, <a href=\"https://ref.ly/Deut21:3\">DEU 21:3</a>, <a href=\"https://ref.ly/Deut28:48\">DEU 28:48</a>, <a href=\"https://ref.ly/1Sam6:7\">1SA 6:7</a>, <a href=\"https://ref.ly/1Kgs12:4\">1KI 12:4</a>, <a href=\"https://ref.ly/1Kgs12:4\">1KI 12:4</a>, <a href=\"https://ref.ly/1Kgs12:11\">1KI 12:11</a>, <a href=\"https://ref.ly/1Kgs12:11\">1KI 12:11</a>, <a href=\"https://ref.ly/1Kgs12:14\">1KI 12:14</a>, <a href=\"https://ref.ly/1Kgs12:14\">1KI 12:14</a>, <a href=\"https://ref.ly/2Chr10:4\">2CH 10:4</a>, <a href=\"https://ref.ly/2Chr10:4\">2CH 10:4</a>, <a href=\"https://ref.ly/2Chr10:11\">2CH 10:11</a>, <a href=\"https://ref.ly/2Chr10:11\">2CH 10:11</a>, <a href=\"https://ref.ly/2Chr10:14\">2CH 10:14</a>, <a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a>, <a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a>, <a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a>, <a href=\"https://ref.ly/Isa14:25\">ISA 14:25</a>, <a href=\"https://ref.ly/Isa47:6\">ISA 47:6</a>, <a href=\"https://ref.ly/Jer2:20\">JER 2:20</a>, <a href=\"https://ref.ly/Jer5:5\">JER 5:5</a>, <a href=\"https://ref.ly/Jer27:8\">JER 27:8</a>, <a href=\"https://ref.ly/Jer27:11\">JER 27:11</a>, <a href=\"https://ref.ly/Jer27:12\">JER 27:12</a>, <a href=\"https://ref.ly/Jer28:2\">JER 28:2</a>, <a href=\"https://ref.ly/Jer28:4\">JER 28:4</a>, <a href=\"https://ref.ly/Jer28:11\">JER 28:11</a>, <a href=\"https://ref.ly/Jer28:14\">JER 28:14</a>, <a href=\"https://ref.ly/Jer30:8\">JER 30:8</a>, <a href=\"https://ref.ly/Lam1:14\">LAM 1:14</a>, <a href=\"https://ref.ly/Lam3:27\">LAM 3:27</a>, <a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a>, <a href=\"https://ref.ly/Hos11:4\">HOS 11:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：βοοζύγιον</span> <span class=\"thlex-translit\">(音译：boozugion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir26:7\">SIR 26:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἑτεροζυγέω</span> <span class=\"thlex-translit\">(音译：heterozugeō)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Cor6:14\">2CO 6:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κλοιός</span> <span class=\"thlex-translit\">(音译：kloios)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir6:24\">SIR 6:24</a>, <a href=\"https://ref.ly/Sir6:29\">SIR 6:29</a>, <a href=\"https://ref.ly/Sir21:25\">SIR 21:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ζυγός</span> <span class=\"thlex-translit\">(音译：zugos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:29\">MAT 11:29</a>, <a href=\"https://ref.ly/Matt11:30\">MAT 11:30</a>, <a href=\"https://ref.ly/Acts15:10\">ACT 15:10</a>, <a href=\"https://ref.ly/Gal5:1\">GAL 5:1</a>, <a href=\"https://ref.ly/1Tim6:1\">1TI 6:1</a>, <a href=\"https://ref.ly/Sir28:19\">SIR 28:19</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/Sir28:25\">SIR 28:25</a>, <a href=\"https://ref.ly/Sir33:27\">SIR 33:27</a>, <a href=\"https://ref.ly/Sir40:1\">SIR 40:1</a>, <a href=\"https://ref.ly/Sir42:4\">SIR 42:4</a>, <a href=\"https://ref.ly/Sir51:26\">SIR 51:26</a>, <a href=\"https://ref.ly/1Macc8:18\">1MA 8:18</a>, <a href=\"https://ref.ly/1Macc8:31\">1MA 8:31</a>, <a href=\"https://ref.ly/1Macc13:41\">1MA 13:41</a>, <a href=\"https://ref.ly/3Macc4:9\">3MA 4:9</a>, <a href=\"https://ref.ly/PssSol7:9\">PSS 7:9</a>, <a href=\"https://ref.ly/PssSol17:30\">PSS 17:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0931_yokedoxen.jpg\" alt=\"轭牛\"><figcaption class=\"thlex-caption\">轭牛 (© Wikimedia Commons)</figcaption></figure>轭是一根木杆或一个木架子，通常架在两头役畜的脖子上，将其连在一起，这样牲畜就可以更有效率地一起拉犁、拉脱粒板、拉耙或拉车。另外也有人背的轭，但通常是给一个人使用的索具。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0316_slaves_in_yokes.jpg\" alt=\"被枷锁的奴隶\"><figcaption class=\"thlex-caption\">被枷锁的奴隶 (© Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>轭通过项圈固定在牲畜的脖子上，项圈是由木头、藤条或绳子制成。轭的中间用绳索或杆子连接到需要牵拉的物件上，这样两头牲畜就能并排一起牵拉。有时，人们也会把轭放在俘虏（<a href=\"https://ref.ly/Jer28:10\">JER 28:10</a> ）或奴隶的身上，以限制他们移动或防止他们逃跑。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>如果当地文化不知道或不熟悉役畜负轭，翻译者可以将<a href=\"https://ref.ly/Num19:2\">NUM 19:2</a> （以及<a href=\"https://ref.ly/Deut21:3\">DEU 21:3</a> ）中原文字面意为“未曾负过轭的”一语译为：“未曾干过活的”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）。</p>\n<p>在所有新约经文和部分旧约经文中，“轭”用作比喻，象征奴仆的服从和被奴役的状态。在这种情况下（如：<a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a> ；<a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a> ；<a href=\"https://ref.ly/Jer28:2\">JER 28:2</a> ，<a href=\"https://ref.ly/Jer28:14\">JER 28:14</a> ，<a href=\"https://ref.ly/Jer30:8\">JER 30:8</a> ；<a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a> ；<a href=\"https://ref.ly/Nah1:13\">NAM 1:13</a> ；<a href=\"https://ref.ly/Acts15:10\">ACT 15:10</a> ；<a href=\"https://ref.ly/Gal5:1\">GAL 5:1</a> ；<a href=\"https://ref.ly/1Tim6:1\">1TI 6:1</a> ），翻译者可以不按照字面意思来翻译，而是将其喻意表达出来（<a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a> “……我打碎了压制你们的权势……”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）。同样，<a href=\"https://ref.ly/Sir40:1\">SIR 40:1</a> 可以译成“……沉重的担子压在我们所有人身上……”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）。</p>\n<p>\n            <a href=\"https://ref.ly/Lam5:5\">LAM 5:5</a> 中可能提到了“轭”，参《〈耶利米哀歌〉手册》（<em>A Handbook on Lamentations</em> ）第134页中的注解。</p>\n<p>在<a href=\"https://ref.ly/Sir33:27\">SIR 33:27</a> 中，负轭意指戴着特制的“索具”或“项圈”。这是一种套在脖子上的绳子、皮条、藤条或木制物品，轭就连接在这个物品上面。在这节经文中，它与控制牲畜的动作有关，因此<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 将这个词译为“缰绳”。在<a href=\"https://ref.ly/Sir6:24\">SIR 6:24</a>; <a href=\"https://ref.ly/Sir6:29\">SIR 6:29</a> 中，<em>kloios</em> 是一个象征。在许多语言中，可以保留锁链和轭等词语。然而，如果某种语言不允许这样使用，那么可以译成“让你的所有行为都受智慧管治”（6:24），以及“如果你让智慧管治你，你就会保有平安，你就能掌管发生在你身上的事”（6:29）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03026013",
+"start_ref_usfm": "LEV 26:13",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "23058006",
+"start_ref_usfm": "ISA 58:6",
+"end_ref": "23058006",
+"end_ref_usfm": "ISA 58:6"
+},
+{
+"start_ref": "23058009",
+"start_ref_usfm": "ISA 58:9",
+"end_ref": "23058009",
+"end_ref_usfm": "ISA 58:9"
+},
+{
+"start_ref": "24027002",
+"start_ref_usfm": "JER 27:2",
+"end_ref": "24027002",
+"end_ref_usfm": "JER 27:2"
+},
+{
+"start_ref": "24028010",
+"start_ref_usfm": "JER 28:10",
+"end_ref": "24028010",
+"end_ref_usfm": "JER 28:10"
+},
+{
+"start_ref": "24028012",
+"start_ref_usfm": "JER 28:12",
+"end_ref": "24028012",
+"end_ref_usfm": "JER 28:12"
+},
+{
+"start_ref": "24028013",
+"start_ref_usfm": "JER 28:13",
+"end_ref": "24028013",
+"end_ref_usfm": "JER 28:13"
+},
+{
+"start_ref": "26030018",
+"start_ref_usfm": "EZK 30:18",
+"end_ref": "26030018",
+"end_ref_usfm": "EZK 30:18"
+},
+{
+"start_ref": "26034027",
+"start_ref_usfm": "EZK 34:27",
+"end_ref": "26034027",
+"end_ref_usfm": "EZK 34:27"
+},
+{
+"start_ref": "34001013",
+"start_ref_usfm": "NAM 1:13",
+"end_ref": "34001013",
+"end_ref_usfm": "NAM 1:13"
+},
+{
+"start_ref": "01027040",
+"start_ref_usfm": "GEN 27:40",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "04019002",
+"start_ref_usfm": "NUM 19:2",
+"end_ref": "04019002",
+"end_ref_usfm": "NUM 19:2"
+},
+{
+"start_ref": "05021003",
+"start_ref_usfm": "DEU 21:3",
+"end_ref": "05021003",
+"end_ref_usfm": "DEU 21:3"
+},
+{
+"start_ref": "05028048",
+"start_ref_usfm": "DEU 28:48",
+"end_ref": "05028048",
+"end_ref_usfm": "DEU 28:48"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006007",
+"end_ref_usfm": "1SA 6:7"
+},
+{
+"start_ref": "11012004",
+"start_ref_usfm": "1KI 12:4",
+"end_ref": "11012004",
+"end_ref_usfm": "1KI 12:4"
+},
+{
+"start_ref": "11012011",
+"start_ref_usfm": "1KI 12:11",
+"end_ref": "11012011",
+"end_ref_usfm": "1KI 12:11"
+},
+{
+"start_ref": "11012014",
+"start_ref_usfm": "1KI 12:14",
+"end_ref": "11012014",
+"end_ref_usfm": "1KI 12:14"
+},
+{
+"start_ref": "14010004",
+"start_ref_usfm": "2CH 10:4",
+"end_ref": "14010004",
+"end_ref_usfm": "2CH 10:4"
+},
+{
+"start_ref": "14010011",
+"start_ref_usfm": "2CH 10:11",
+"end_ref": "14010011",
+"end_ref_usfm": "2CH 10:11"
+},
+{
+"start_ref": "14010014",
+"start_ref_usfm": "2CH 10:14",
+"end_ref": "14010014",
+"end_ref_usfm": "2CH 10:14"
+},
+{
+"start_ref": "23009003",
+"start_ref_usfm": "ISA 9:3",
+"end_ref": "23009003",
+"end_ref_usfm": "ISA 9:3"
+},
+{
+"start_ref": "23010027",
+"start_ref_usfm": "ISA 10:27",
+"end_ref": "23010027",
+"end_ref_usfm": "ISA 10:27"
+},
+{
+"start_ref": "23014025",
+"start_ref_usfm": "ISA 14:25",
+"end_ref": "23014025",
+"end_ref_usfm": "ISA 14:25"
+},
+{
+"start_ref": "23047006",
+"start_ref_usfm": "ISA 47:6",
+"end_ref": "23047006",
+"end_ref_usfm": "ISA 47:6"
+},
+{
+"start_ref": "24002020",
+"start_ref_usfm": "JER 2:20",
+"end_ref": "24002020",
+"end_ref_usfm": "JER 2:20"
+},
+{
+"start_ref": "24005005",
+"start_ref_usfm": "JER 5:5",
+"end_ref": "24005005",
+"end_ref_usfm": "JER 5:5"
+},
+{
+"start_ref": "24027008",
+"start_ref_usfm": "JER 27:8",
+"end_ref": "24027008",
+"end_ref_usfm": "JER 27:8"
+},
+{
+"start_ref": "24027011",
+"start_ref_usfm": "JER 27:11",
+"end_ref": "24027011",
+"end_ref_usfm": "JER 27:11"
+},
+{
+"start_ref": "24027012",
+"start_ref_usfm": "JER 27:12",
+"end_ref": "24027012",
+"end_ref_usfm": "JER 27:12"
+},
+{
+"start_ref": "24028002",
+"start_ref_usfm": "JER 28:2",
+"end_ref": "24028002",
+"end_ref_usfm": "JER 28:2"
+},
+{
+"start_ref": "24028004",
+"start_ref_usfm": "JER 28:4",
+"end_ref": "24028004",
+"end_ref_usfm": "JER 28:4"
+},
+{
+"start_ref": "24028011",
+"start_ref_usfm": "JER 28:11",
+"end_ref": "24028011",
+"end_ref_usfm": "JER 28:11"
+},
+{
+"start_ref": "24028014",
+"start_ref_usfm": "JER 28:14",
+"end_ref": "24028014",
+"end_ref_usfm": "JER 28:14"
+},
+{
+"start_ref": "24030008",
+"start_ref_usfm": "JER 30:8",
+"end_ref": "24030008",
+"end_ref_usfm": "JER 30:8"
+},
+{
+"start_ref": "25001014",
+"start_ref_usfm": "LAM 1:14",
+"end_ref": "25001014",
+"end_ref_usfm": "LAM 1:14"
+},
+{
+"start_ref": "25003027",
+"start_ref_usfm": "LAM 3:27",
+"end_ref": "25003027",
+"end_ref_usfm": "LAM 3:27"
+},
+{
+"start_ref": "28011004",
+"start_ref_usfm": "HOS 11:4",
+"end_ref": "28011004",
+"end_ref_usfm": "HOS 11:4"
+},
+{
+"start_ref": "72026007",
+"start_ref_usfm": "SIR 26:7",
+"end_ref": "72026007",
+"end_ref_usfm": "SIR 26:7"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47006014",
+"end_ref_usfm": "2CO 6:14"
+},
+{
+"start_ref": "72006024",
+"start_ref_usfm": "SIR 6:24",
+"end_ref": "72006024",
+"end_ref_usfm": "SIR 6:24"
+},
+{
+"start_ref": "72006029",
+"start_ref_usfm": "SIR 6:29",
+"end_ref": "72006029",
+"end_ref_usfm": "SIR 6:29"
+},
+{
+"start_ref": "72021025",
+"start_ref_usfm": "SIR 21:25",
+"end_ref": "72021025",
+"end_ref_usfm": "SIR 21:25"
+},
+{
+"start_ref": "40011029",
+"start_ref_usfm": "MAT 11:29",
+"end_ref": "40011029",
+"end_ref_usfm": "MAT 11:29"
+},
+{
+"start_ref": "40011030",
+"start_ref_usfm": "MAT 11:30",
+"end_ref": "40011030",
+"end_ref_usfm": "MAT 11:30"
+},
+{
+"start_ref": "44015010",
+"start_ref_usfm": "ACT 15:10",
+"end_ref": "44015010",
+"end_ref_usfm": "ACT 15:10"
+},
+{
+"start_ref": "48005001",
+"start_ref_usfm": "GAL 5:1",
+"end_ref": "48005001",
+"end_ref_usfm": "GAL 5:1"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006001",
+"end_ref_usfm": "1TI 6:1"
+},
+{
+"start_ref": "72028019",
+"start_ref_usfm": "SIR 28:19",
+"end_ref": "72028019",
+"end_ref_usfm": "SIR 28:19"
+},
+{
+"start_ref": "72028020",
+"start_ref_usfm": "SIR 28:20",
+"end_ref": "72028020",
+"end_ref_usfm": "SIR 28:20"
+},
+{
+"start_ref": "72028025",
+"start_ref_usfm": "SIR 28:25",
+"end_ref": "72028025",
+"end_ref_usfm": "SIR 28:25"
+},
+{
+"start_ref": "72033027",
+"start_ref_usfm": "SIR 33:27",
+"end_ref": "72033027",
+"end_ref_usfm": "SIR 33:27"
+},
+{
+"start_ref": "72040001",
+"start_ref_usfm": "SIR 40:1",
+"end_ref": "72040001",
+"end_ref_usfm": "SIR 40:1"
+},
+{
+"start_ref": "72042004",
+"start_ref_usfm": "SIR 42:4",
+"end_ref": "72042004",
+"end_ref_usfm": "SIR 42:4"
+},
+{
+"start_ref": "72051026",
+"start_ref_usfm": "SIR 51:26",
+"end_ref": "72051026",
+"end_ref_usfm": "SIR 51:26"
+},
+{
+"start_ref": "78008018",
+"start_ref_usfm": "1MA 8:18",
+"end_ref": "78008018",
+"end_ref_usfm": "1MA 8:18"
+},
+{
+"start_ref": "78008031",
+"start_ref_usfm": "1MA 8:31",
+"end_ref": "78008031",
+"end_ref_usfm": "1MA 8:31"
+},
+{
+"start_ref": "78013041",
+"start_ref_usfm": "1MA 13:41",
+"end_ref": "78013041",
+"end_ref_usfm": "1MA 13:41"
+},
+{
+"start_ref": "80004009",
+"start_ref_usfm": "3MA 4:9",
+"end_ref": "80004009",
+"end_ref_usfm": "3MA 4:9"
+},
+{
+"start_ref": "87007009",
+"start_ref_usfm": "PSS 7:9",
+"end_ref": "87007009",
+"end_ref_usfm": "PSS 7:9"
+},
+{
+"start_ref": "87017030",
+"start_ref_usfm": "PSS 17:30",
+"end_ref": "87017030",
+"end_ref_usfm": "PSS 17:30"
+},
+{
+"start_ref": "25005005",
+"start_ref_usfm": "LAM 5:5",
+"end_ref": "25005005",
+"end_ref_usfm": "LAM 5:5"
+}
+],
+"resource": []
+}
+}
+]

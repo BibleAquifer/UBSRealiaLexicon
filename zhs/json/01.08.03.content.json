@@ -1,0 +1,144 @@
+[
+{
+"content_id": "REALIA:1.8.3",
+"reference_id": "REALIA:1.8.3",
+"version": "1.0.4",
+"title": "标题：灰泥、石灰、白涂料（plaster, stucco, whitewash）",
+"media_type": "Text",
+"index_reference": "1.8.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.3\"><span class=\"thlex-key\">1.8.3</span> 标题：灰泥、石灰、白涂料（plaster, stucco, whitewash）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">兰：גִּיר</span> <span class=\"thlex-translit\">(音译：gir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：טפל</span> <span class=\"thlex-translit\">(音译：tafal（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>, <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>, <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שִׂיד, שׂיד</span> <span class=\"thlex-translit\">(音译：sid)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>, <a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>, <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>, <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：טוח, טִיחַ</span> <span class=\"thlex-translit\">(音译：tuach（动词）, tiach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev14:42\">LEV 14:42</a>, <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>, <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a>, <a href=\"https://ref.ly/1Chr29:4\">1CH 29:4</a>, <a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a>, <a href=\"https://ref.ly/Ezek13:11\">EZK 13:11</a>, <a href=\"https://ref.ly/Ezek13:12\">EZK 13:12</a>, <a href=\"https://ref.ly/Ezek13:12\">EZK 13:12</a>, <a href=\"https://ref.ly/Ezek13:14\">EZK 13:14</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：תָּפֵל</span> <span class=\"thlex-translit\">(音译：tafel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a>, <a href=\"https://ref.ly/Ezek13:11\">EZK 13:11</a>, <a href=\"https://ref.ly/Ezek13:14\">EZK 13:14</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κονιάω</span> <span class=\"thlex-translit\">(音译：koniaō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a>, <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ψαμμωτός</span> <span class=\"thlex-translit\">(音译：psammōtos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0052_plaster_covering.jpg\" alt=\"覆盖石墙的石膏灰泥\"><figcaption class=\"thlex-caption\">覆盖石墙的石膏灰泥 (© Ray Pritz by United Bible Societies)</figcaption></figure>灰泥是一种湿润的糊状材料，用于涂抹墙壁。灰泥把孔洞和裂缝填充平整，干燥后就使墙壁变得光滑。灰泥有多种材料，例如泥或者石灰、水、沙子的混合物。灰泥能填充和密封建筑石材之间的空隙，从而防止表面渗水。灰泥抹平后可以得到光滑的表面，所以也用作墙壁的基底，然后刷油漆进行装饰。</p>\n<p>白涂料（石灰水）是石灰和水的混合物，刷在墙上使其变白，覆盖不好看的粗糙表面。白涂料并不会使墙壁更加坚固，只有美化的作用。即使在不加装饰的地方，也经常会用白涂料粉刷灰泥层。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0358_painted_plaster.jpg\" alt=\"彩绘石膏\"><figcaption class=\"thlex-caption\">彩绘石膏 (British Museum, Public domain, via Wikimedia Commons)</figcaption></figure>“灰泥”可以翻译为“干土”或“干泥”。对于当时这种广泛使用的材料，此描述相当准确，也是世界许多语言中非常自然的译法。（<a href=\"https://ref.ly/Lev14:41\">LEV 14:41</a>; <a href=\"https://ref.ly/Lev14:42\">LEV 14:42</a>; <a href=\"https://ref.ly/Lev14:45\">LEV 14:45</a>; <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a> 用的是希伯来文<em>‘afar</em> ，这只是土和水混合而成的泥）。如果目标语言区分各种灰泥和填缝材料，那么翻译者需要注意，上面提到的部分经文是指用石灰制成的灰泥（<a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>; <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a> ）。有些语言可能需要使用意为“覆盖物”或“石灰”的泛称。</p>\n<p>希伯来文<em>tafal</em> （<a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>; <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>; <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a> ）始终用作比喻，通常没有必要采用字面翻译；例如，在<a href=\"https://ref.ly/Job13:4\">JOB 13:4</a> 中，原文字面意为“你用谎言抹泥”一语，可以译为“你用谎言掩盖真相”（<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 直译）或“你用谎言掩盖你的无知”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译）。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0053_whitewashed_buildings.jpg\" alt=\"粉刷过的建筑物\"><figcaption class=\"thlex-caption\">粉刷过的建筑物 (© Ray Pritz by United Bible Societies)</figcaption></figure>墙壁抹灰的目的是遮盖粗糙的石头墙面，使其更加好看。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 在<a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a> 中的译文反映出这个隐含的目的，英文直译作“坚固的墙，有精美的装饰”。</p>\n<p>《以西结书》和新约中提到的粉刷具有象征意义，翻译者需要牢记这一点；例如，在<a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a> 中，原文字面意为“她的先知为他们粉刷”一语在<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 中采用了扩展翻译，英文直译为：“先知掩饰了这些罪行，就像工人用白涂料粉刷墙壁。”如果当地文化不知道白涂料或其他类似涂料，翻译者可以借鉴<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ，英文直译为：“先知试图掩盖这事。”</p>\n<p>在本词条的一些参考经文中，我们不确定经文指的是灰泥还是白涂料。有些语言要求翻译者在两者之间做出选择。在大多数情况下，翻译者能够根据上下文选择词语。下述经节可能指的是灰泥：<a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>; <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>; <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a>; <a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>; <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>; <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a>; <a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a> 。其余经文很可能指的是白涂料。</p>\n<p>\n            <a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a> ：在许多语言中，与“粉饰了的坟墓”最接近的对应语是“涂成白色的坟墓”。</p>\n<p>\n            <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a> ：字面翻译短语“粉饰的墙”通常没有任何意义。有些时候，翻译者可以采用描述性的短语；例如，“外表很白其实里面很肮脏的墙”，或“看起来干净其实里面肮脏的墙”。还有些情况下，可以明确说明“粉饰的墙”这个惯用语的隐含意思，译成“外表好看但内心并不是这样的人”等。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27005005",
+"start_ref_usfm": "DAN 5:5",
+"end_ref": "27005005",
+"end_ref_usfm": "DAN 5:5"
+},
+{
+"start_ref": "18013004",
+"start_ref_usfm": "JOB 13:4",
+"end_ref": "18013004",
+"end_ref_usfm": "JOB 13:4"
+},
+{
+"start_ref": "18014017",
+"start_ref_usfm": "JOB 14:17",
+"end_ref": "18014017",
+"end_ref_usfm": "JOB 14:17"
+},
+{
+"start_ref": "19119069",
+"start_ref_usfm": "PSA 119:69",
+"end_ref": "19119069",
+"end_ref_usfm": "PSA 119:69"
+},
+{
+"start_ref": "05027002",
+"start_ref_usfm": "DEU 27:2",
+"end_ref": "05027002",
+"end_ref_usfm": "DEU 27:2"
+},
+{
+"start_ref": "05027004",
+"start_ref_usfm": "DEU 27:4",
+"end_ref": "05027004",
+"end_ref_usfm": "DEU 27:4"
+},
+{
+"start_ref": "03014042",
+"start_ref_usfm": "LEV 14:42",
+"end_ref": "03014042",
+"end_ref_usfm": "LEV 14:42"
+},
+{
+"start_ref": "03014043",
+"start_ref_usfm": "LEV 14:43",
+"end_ref": "03014043",
+"end_ref_usfm": "LEV 14:43"
+},
+{
+"start_ref": "03014048",
+"start_ref_usfm": "LEV 14:48",
+"end_ref": "03014048",
+"end_ref_usfm": "LEV 14:48"
+},
+{
+"start_ref": "13029004",
+"start_ref_usfm": "1CH 29:4",
+"end_ref": "13029004",
+"end_ref_usfm": "1CH 29:4"
+},
+{
+"start_ref": "26013010",
+"start_ref_usfm": "EZK 13:10",
+"end_ref": "26013010",
+"end_ref_usfm": "EZK 13:10"
+},
+{
+"start_ref": "26013011",
+"start_ref_usfm": "EZK 13:11",
+"end_ref": "26013011",
+"end_ref_usfm": "EZK 13:11"
+},
+{
+"start_ref": "26013012",
+"start_ref_usfm": "EZK 13:12",
+"end_ref": "26013012",
+"end_ref_usfm": "EZK 13:12"
+},
+{
+"start_ref": "26013014",
+"start_ref_usfm": "EZK 13:14",
+"end_ref": "26013014",
+"end_ref_usfm": "EZK 13:14"
+},
+{
+"start_ref": "26013015",
+"start_ref_usfm": "EZK 13:15",
+"end_ref": "26013015",
+"end_ref_usfm": "EZK 13:15"
+},
+{
+"start_ref": "26022028",
+"start_ref_usfm": "EZK 22:28",
+"end_ref": "26022028",
+"end_ref_usfm": "EZK 22:28"
+},
+{
+"start_ref": "40023027",
+"start_ref_usfm": "MAT 23:27",
+"end_ref": "40023027",
+"end_ref_usfm": "MAT 23:27"
+},
+{
+"start_ref": "44023003",
+"start_ref_usfm": "ACT 23:3",
+"end_ref": "44023003",
+"end_ref_usfm": "ACT 23:3"
+},
+{
+"start_ref": "72022017",
+"start_ref_usfm": "SIR 22:17",
+"end_ref": "72022017",
+"end_ref_usfm": "SIR 22:17"
+},
+{
+"start_ref": "03014041",
+"start_ref_usfm": "LEV 14:41",
+"end_ref": "03014041",
+"end_ref_usfm": "LEV 14:41"
+},
+{
+"start_ref": "03014045",
+"start_ref_usfm": "LEV 14:45",
+"end_ref": "03014045",
+"end_ref_usfm": "LEV 14:45"
+}
+],
+"resource": []
+}
+}
+]
