@@ -1,0 +1,24 @@
+[
+{
+"content_id": "REALIA:4.4",
+"reference_id": "REALIA:4.4",
+"version": "1.0.4",
+"title": "Tabernacle and Temple implements",
+"media_type": "Text",
+"index_reference": "4.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.4\"><span class=\"thlex-key\">4.4</span> Tabernacle and Temple implements</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">The sacrificial cult was a fairly messy business, and the work at the altar required a number of special implements to make things move more efficiently. The victims were killed by cutting the throat, which normally caused a large flow of blood. The blood was caught in a special container. Some of the blood was then sprinkled ceremonially on the altar, and the rest was poured out at the base of the altar. The sacrificial victim was laid on wood on the altar and burned. In order to speed up the process, the victim was occasionally turned. Because it was lying on a large fire, this turning required a long-handled instrument that could hold the meat and move it around; this instrument was a kind of long, heavy fork. Once the burning was completed, the remains of the meat and bones and greasy ashes had to be removed from the altar, so that it could be prepared for the next sacrifice. This operation was done with the same fork and with a long-handled instrument resembling a shovel (or perhaps a kind of rake or hoe), with which the ashes could be lifted or raked off the altar. These waste products were placed into a large bronze pot and were carried away from the altar and disposed of in a specially designated place outside. One final altar implement was a smaller type of shovel. Hot coals were removed from the altar with this shovel and carried to the smaller incense altar.</h2>\n<div class=\"thlex-paragraphs\">\n<p>These five items are listed in <a href=\"https://ref.ly/Exod27:3\">EXO 27:3</a> (referred to as “bowls,” “hooks,” “shovels,” “pans”, and “fire pans” in <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>). They were all to be made of bronze. The exact description cannot be determined for all of them. On the other hand, some of them were more or less common items that were used also at home. Unless special words exist in the receptor language for a particular implement, translators may use the same word for both the secular and the religious item. It should be kept in mind that all of these items were made of heavy metal. The instruments themselves, then, would not have been so large as to make them difficult to lift.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02027003",
+"start_ref_usfm": "EXO 27:3",
+"end_ref": "02027003",
+"end_ref_usfm": "EXO 27:3"
+}
+],
+"resource": []
+}
+}
+]

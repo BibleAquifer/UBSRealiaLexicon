@@ -1,0 +1,268 @@
+[
+{
+"content_id": "REALIA:3.1.1",
+"reference_id": "REALIA:3.1.1",
+"version": "1.0.4",
+"title": "Foundation",
+"media_type": "Text",
+"index_reference": "3.1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.1.1\"><span class=\"thlex-key\">3.1.1</span> Foundation</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">אֹשׁ</span> <span class=\"thlex-translit\">(’osh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezra4:12\">EZR 4:12</a>, <a href=\"https://ref.ly/Ezra5:16\">EZR 5:16</a>, <a href=\"https://ref.ly/Ezra6:3\">EZR 6:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אָשְׁיָה</span> <span class=\"thlex-translit\">(’oshyah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer50:15\">JER 50:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יסד, יְסוֹד, יְסוּדָה, מוֹסָד, מוֹסָדָה, מוּסָדָה, מַסָּד</span> <span class=\"thlex-translit\">(yasad (verb), ysod, ysudah, mosad, musad, mosadah, musadah, masad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:22\">DEU 32:22</a>, <a href=\"https://ref.ly/Josh6:26\">JOS 6:26</a>, <a href=\"https://ref.ly/2Sam22:8\">2SA 22:8</a>, <a href=\"https://ref.ly/2Sam22:16\">2SA 22:16</a>, <a href=\"https://ref.ly/1Kgs5:31\">1KI 5:31</a>, <a href=\"https://ref.ly/1Kgs6:37\">1KI 6:37</a>, <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>, <a href=\"https://ref.ly/1Kgs7:10\">1KI 7:10</a>, <a href=\"https://ref.ly/1Kgs16:34\">1KI 16:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מָכוֹן</span> <span class=\"thlex-translit\">(makon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps104:5\">PSA 104:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">סַף</span> <span class=\"thlex-translit\">(saf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Amos9:1\">AMO 9:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">θεμέλιον, θεμέλιος, θεμελιόω</span> <span class=\"thlex-translit\">(themelion, themelios, themelioō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt7:25\">MAT 7:25</a>, <a href=\"https://ref.ly/Luke6:48\">LUK 6:48</a>, <a href=\"https://ref.ly/Luke6:49\">LUK 6:49</a>, <a href=\"https://ref.ly/Luke14:29\">LUK 14:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὑποβάλλω</span> <span class=\"thlex-translit\">(hupoballō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd2:14\">1ES 2:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">fundamentum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd16:12\">2ES 16:12</a>, <a href=\"https://ref.ly/2Esd6:15\">2ES 6:15</a>, <a href=\"https://ref.ly/2Esd10:27\">2ES 10:27</a>, <a href=\"https://ref.ly/2Esd10:53\">2ES 10:53</a>, <a href=\"https://ref.ly/2Esd15:23\">2ES 15:23</a>, <a href=\"https://ref.ly/2Esd16:12\">2ES 16:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0056_cornerstone_en.jpg\" alt=\"Cornerstone in a foundation\"><figcaption class=\"thlex-caption\">Cornerstone in a foundation (© Ray Pritz by United Bible Societies)</figcaption></figure>The foundation was the solid layer on which the wall of a building or the entire building was constructed. Foundations were made of large stones laid side by side.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In some languages it is possible to describe a typical “foundation” in ancient times as “large stones underneath the walls.” In other languages, however, this may seem to be quite a meaningless type of expression, since foundations are only made secure by driving stakes deep into the ground. Therefore it may be best to describe the function of a foundation by saying “what keeps the walls firm,” “how the walls are made not to move,” or “what goes beneath the walls.”</p>\n<p>In many parts of the world it is not customary to build buildings with foundations or from stones or bricks. As a result, the figurative use of “foundation” in the New Testament may pose some difficulties. For these situations “foundation” may be rendered “solid [or, strong] base put down to build a house on,” “base people put down before they build a house made of stone,” or “root of the house.”</p>\n<p>\n            <a href=\"https://ref.ly/Jer50:15\">JER 50:15</a>: <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> render the Hebrew word <em>’ashwiyoth</em> in this verse as “bulwarks”; <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> have “towers.” <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> leaves it untranslated and notes that the meaning of the Hebrew word is uncertain. Commentators disagree concerning the meaning of this word. Some suggest “foundations,” and draw a parallel to the related Aramaic word in <a href=\"https://ref.ly/Ezra4:12\">EZR 4:12</a> and <a href=\"https://ref.ly/Ezra5:16\">EZR 5:16</a>. Others point out that it would be incorrect to speak of foundations as “falling.” For these commentators it would be better to view <em>’ashwiyoth</em> as a general term referring to the “defenses” of the city.</p>\n<p>\n            <a href=\"https://ref.ly/Amos9:1\">AMO 9:1</a>: The meaning of the Hebrew word <em>sipim</em> in this verse is uncertain. In Hebrew it is clear that something shakes under the blow, but translations differ considerably concerning what is shaken: “thresholds” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr>), “lintels” (TOT), “doorjambs” (<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>), “ceiling” (<abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr>), “whole porch” (<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>), and “foundation” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>). The word probably refers to either the foundation or the roof structure. However, this verse gives a picture of the whole building shaking from the roof to the foundation until it collapses. This is what must be made clear, with the particular choice of wording depending on the translation of what follows.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "15004012",
+"start_ref_usfm": "EZR 4:12",
+"end_ref": "15004012",
+"end_ref_usfm": "EZR 4:12"
+},
+{
+"start_ref": "15005016",
+"start_ref_usfm": "EZR 5:16",
+"end_ref": "15005016",
+"end_ref_usfm": "EZR 5:16"
+},
+{
+"start_ref": "15006003",
+"start_ref_usfm": "EZR 6:3",
+"end_ref": "15006003",
+"end_ref_usfm": "EZR 6:3"
+},
+{
+"start_ref": "24050015",
+"start_ref_usfm": "JER 50:15",
+"end_ref": "24050015",
+"end_ref_usfm": "JER 50:15"
+},
+{
+"start_ref": "05032022",
+"start_ref_usfm": "DEU 32:22",
+"end_ref": "05032022",
+"end_ref_usfm": "DEU 32:22"
+},
+{
+"start_ref": "06006026",
+"start_ref_usfm": "JOS 6:26",
+"end_ref": "06006026",
+"end_ref_usfm": "JOS 6:26"
+},
+{
+"start_ref": "10022008",
+"start_ref_usfm": "2SA 22:8",
+"end_ref": "10022008",
+"end_ref_usfm": "2SA 22:8"
+},
+{
+"start_ref": "10022016",
+"start_ref_usfm": "2SA 22:16",
+"end_ref": "10022016",
+"end_ref_usfm": "2SA 22:16"
+},
+{
+"start_ref": "11005031",
+"start_ref_usfm": "1KI 5:31",
+"end_ref": "11005031",
+"end_ref_usfm": "1KI 5:31"
+},
+{
+"start_ref": "11006037",
+"start_ref_usfm": "1KI 6:37",
+"end_ref": "11006037",
+"end_ref_usfm": "1KI 6:37"
+},
+{
+"start_ref": "11007009",
+"start_ref_usfm": "1KI 7:9",
+"end_ref": "11007009",
+"end_ref_usfm": "1KI 7:9"
+},
+{
+"start_ref": "11007010",
+"start_ref_usfm": "1KI 7:10",
+"end_ref": "11007010",
+"end_ref_usfm": "1KI 7:10"
+},
+{
+"start_ref": "11016034",
+"start_ref_usfm": "1KI 16:34",
+"end_ref": "11016034",
+"end_ref_usfm": "1KI 16:34"
+},
+{
+"start_ref": "19104005",
+"start_ref_usfm": "PSA 104:5",
+"end_ref": "19104005",
+"end_ref_usfm": "PSA 104:5"
+},
+{
+"start_ref": "30009001",
+"start_ref_usfm": "AMO 9:1",
+"end_ref": "30009001",
+"end_ref_usfm": "AMO 9:1"
+},
+{
+"start_ref": "40007025",
+"start_ref_usfm": "MAT 7:25",
+"end_ref": "40007025",
+"end_ref_usfm": "MAT 7:25"
+},
+{
+"start_ref": "42006048",
+"start_ref_usfm": "LUK 6:48",
+"end_ref": "42006048",
+"end_ref_usfm": "LUK 6:48"
+},
+{
+"start_ref": "42006049",
+"start_ref_usfm": "LUK 6:49",
+"end_ref": "42006049",
+"end_ref_usfm": "LUK 6:49"
+},
+{
+"start_ref": "42014029",
+"start_ref_usfm": "LUK 14:29",
+"end_ref": "42014029",
+"end_ref_usfm": "LUK 14:29"
+},
+{
+"start_ref": "82002014",
+"start_ref_usfm": "1ES 2:14",
+"end_ref": "82002014",
+"end_ref_usfm": "1ES 2:14"
+},
+{
+"start_ref": "83016012",
+"start_ref_usfm": "2ES 16:12",
+"end_ref": "83016012",
+"end_ref_usfm": "2ES 16:12"
+},
+{
+"start_ref": "83006015",
+"start_ref_usfm": "2ES 6:15",
+"end_ref": "83006015",
+"end_ref_usfm": "2ES 6:15"
+},
+{
+"start_ref": "83010027",
+"start_ref_usfm": "2ES 10:27",
+"end_ref": "83010027",
+"end_ref_usfm": "2ES 10:27"
+},
+{
+"start_ref": "83010053",
+"start_ref_usfm": "2ES 10:53",
+"end_ref": "83010053",
+"end_ref_usfm": "2ES 10:53"
+},
+{
+"start_ref": "83015023",
+"start_ref_usfm": "2ES 15:23",
+"end_ref": "83015023",
+"end_ref_usfm": "2ES 15:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:3.1.1.1",
+"reference_id": "REALIA:3.1.1.1",
+"version": "1.0.4",
+"title": "Cornerstone, keystone, capstone",
+"media_type": "Text",
+"index_reference": "3.1.1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.1.1.1\"><span class=\"thlex-key\">3.1.1.1</span> Cornerstone, keystone, capstone</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֶבֶן, פִנָּה</span> <span class=\"thlex-translit\">(’even pinah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job38:6\">JOB 38:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֶבֶן, רֹאשָׁה</span> <span class=\"thlex-translit\">(’even ro’shah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Zech4:7\">ZEC 4:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פִנָּה</span> <span class=\"thlex-translit\">(pinah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>, <a href=\"https://ref.ly/Zech10:4\">ZEC 10:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">רֹאשׁ פִּנָּה</span> <span class=\"thlex-translit\">(ro’sh pinah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀκρογωνιαῖος</span> <span class=\"thlex-translit\">(akrogōniaios)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Eph2:20\">EPH 2:20</a>, <a href=\"https://ref.ly/1Pet2:6\">1PE 2:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κεφαλή, γωνία</span> <span class=\"thlex-translit\">(kefalē gōnias)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:42\">MAT 21:42</a>, <a href=\"https://ref.ly/Mark12:10\">MRK 12:10</a>, <a href=\"https://ref.ly/Luke20:17\">LUK 20:17</a>, <a href=\"https://ref.ly/Acts4:11\">ACT 4:11</a>, <a href=\"https://ref.ly/1Pet2:7\">1PE 2:7</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0057_keystone_en.jpg\" alt=\"Keystones in stone arches\"><figcaption class=\"thlex-caption\">Keystones in stone arches (© Ray Pritz by United Bible Societies)</figcaption></figure>In buildings made of stone, the cornerstone was the first stone laid in the foundation (see the illustration at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.1.1 Foundation&lt;REALIA:3.1.1&gt;</a>). Its orientation gave direction to the entire structure, and its position in the foundation meant it gave support to the building.</p>\n<p>The keystone or capstone, on the other hand, was the final stone in a structure, for example, in an arch. At a time when much building was done without mortar or other material to cement stones to each other, the keystone was the strategic stone that locked the whole structure together.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>It is impossible in most cases to determine precisely which stone is meant by the Hebrew and Greek expressions listed above. The stone in question could be the large stone used in ancient buildings that extended to the corner of the building. Others take each of these expressions to mean “keystone,” the stone at the top of an arch. (It is, in fact, probable that these expressions refer to the type of stone that was used in the Temple in Jerusalem, and therefore it is far more likely that they refer to a cornerstone rather than a capstone of a peaked roof or arch.)</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0027_cornerstone_en.png\" alt=\"Drawing of the stones at the corner of a building: the cornerstone and the head of the corner\"><figcaption class=\"thlex-caption\">Drawing of the stones at the corner of a building: the cornerstone and the head of the corner (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>Whatever the precise meaning of the Greek expression <em>kefalē gōnias</em> in the New Testament quotations from <a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a>, the general meaning is not in doubt; Christ is called the most important stone in the building, the one that provides cohesion and support for the whole structure. So it will be better in most languages to render the meaning of this expression as “most important stone” or “the stone that gives strength to the building.” These renderings serve to describe the function and significance of <em>kefalē gōnias</em> without trying to indicate precisely its location or form.</p>\n<p>When translators use expansions such as these, it becomes much easier to translate with metaphors or similes, where the comparisons are made clear. One way to do this in <a href=\"https://ref.ly/Eph2:20\">EPH 2:20</a> is “You, too, are part of a building. The base they build that building on was put there by the apostles and the prophets, and the stone that gives it strength is Christ Jesus himself.” Another model is “You, too, are like part of a building for which the apostles and the prophets laid down the base that gives it strength; and Christ Jesus is the important stone that gives strength to the building.”</p>\n<p>\n            <a href=\"https://ref.ly/Job38:6\">JOB 38:6</a>: Where cornerstones are unknown, it may be possible to render the second line of this verse as “or who finished the work of setting it in place?” or “who completed the place where it would rest?”</p>\n<p>\n            <a href=\"https://ref.ly/Zech10:4\">ZEC 10:4</a>: It has been suggested that the Hebrew word <em>pinah</em> (literally “corner”) here indicates the corner tower or fortifications of a walled city (compare <a href=\"https://ref.ly/2Chr26:15\">2CH 26:15</a>; <a href=\"https://ref.ly/Neh3:24\">NEH 3:24</a>). However, no translation consulted has followed this. Some (for example, <abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr>) see this word as a reference to military leaders and have translated accordingly. From earliest times this verse has been understood to refer to a messianic figure. Some translations have tried to reflect that by capitalizing “Cornerstone.” Such visual hints may be too subtle for most readers and are, of course, lost when the text is read aloud. A literal rendering of the two Hebrew words at the beginning of this verse (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> “Out of them shall come the cornerstone”) will be unintelligible in some languages. It is better to show that the prophecy is speaking about a leader. Good examples for the whole verse are <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “From among them will come rulers, leaders, and commanders to govern my people” and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “From this flock will come leaders who will be strong like cornerstones and tent pegs and weapons of war.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18038006",
+"start_ref_usfm": "JOB 38:6",
+"end_ref": "18038006",
+"end_ref_usfm": "JOB 38:6"
+},
+{
+"start_ref": "38004007",
+"start_ref_usfm": "ZEC 4:7",
+"end_ref": "38004007",
+"end_ref_usfm": "ZEC 4:7"
+},
+{
+"start_ref": "23028016",
+"start_ref_usfm": "ISA 28:16",
+"end_ref": "23028016",
+"end_ref_usfm": "ISA 28:16"
+},
+{
+"start_ref": "38010004",
+"start_ref_usfm": "ZEC 10:4",
+"end_ref": "38010004",
+"end_ref_usfm": "ZEC 10:4"
+},
+{
+"start_ref": "19118022",
+"start_ref_usfm": "PSA 118:22",
+"end_ref": "19118022",
+"end_ref_usfm": "PSA 118:22"
+},
+{
+"start_ref": "49002020",
+"start_ref_usfm": "EPH 2:20",
+"end_ref": "49002020",
+"end_ref_usfm": "EPH 2:20"
+},
+{
+"start_ref": "60002006",
+"start_ref_usfm": "1PE 2:6",
+"end_ref": "60002006",
+"end_ref_usfm": "1PE 2:6"
+},
+{
+"start_ref": "40021042",
+"start_ref_usfm": "MAT 21:42",
+"end_ref": "40021042",
+"end_ref_usfm": "MAT 21:42"
+},
+{
+"start_ref": "41012010",
+"start_ref_usfm": "MRK 12:10",
+"end_ref": "41012010",
+"end_ref_usfm": "MRK 12:10"
+},
+{
+"start_ref": "42020017",
+"start_ref_usfm": "LUK 20:17",
+"end_ref": "42020017",
+"end_ref_usfm": "LUK 20:17"
+},
+{
+"start_ref": "44004011",
+"start_ref_usfm": "ACT 4:11",
+"end_ref": "44004011",
+"end_ref_usfm": "ACT 4:11"
+},
+{
+"start_ref": "60002007",
+"start_ref_usfm": "1PE 2:7",
+"end_ref": "60002007",
+"end_ref_usfm": "1PE 2:7"
+},
+{
+"start_ref": "14026015",
+"start_ref_usfm": "2CH 26:15",
+"end_ref": "14026015",
+"end_ref_usfm": "2CH 26:15"
+},
+{
+"start_ref": "16003024",
+"start_ref_usfm": "NEH 3:24",
+"end_ref": "16003024",
+"end_ref_usfm": "NEH 3:24"
+}
+],
+"resource": []
+}
+}
+]
