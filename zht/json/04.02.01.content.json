@@ -1,0 +1,940 @@
+[
+{
+"content_id": "REALIA:4.2.1",
+"reference_id": "REALIA:4.2.1",
+"version": "1.0.4",
+"title": "標題：石壇（stone altar）",
+"media_type": "Text",
+"index_reference": "4.2.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.2.1\"><span class=\"thlex-key\">4.2.1</span> 標題：石壇（stone altar）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִזְבֵּחַ</span> <span class=\"thlex-translit\">(音譯： mizbeach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen8:20\">GEN 8:20</a>, <a href=\"https://ref.ly/Gen8:20\">GEN 8:20</a>, <a href=\"https://ref.ly/Gen12:7\">GEN 12:7</a>, <a href=\"https://ref.ly/Gen12:8\">GEN 12:8</a>, <a href=\"https://ref.ly/Gen13:4\">GEN 13:4</a>, <a href=\"https://ref.ly/Gen13:18\">GEN 13:18</a>, <a href=\"https://ref.ly/Gen22:9\">GEN 22:9</a>, <a href=\"https://ref.ly/Gen22:9\">GEN 22:9</a>, <a href=\"https://ref.ly/Gen26:25\">GEN 26:25</a>, <a href=\"https://ref.ly/Gen33:20\">GEN 33:20</a>, <a href=\"https://ref.ly/Gen35:1\">GEN 35:1</a>, <a href=\"https://ref.ly/Gen35:3\">GEN 35:3</a>, <a href=\"https://ref.ly/Gen35:7\">GEN 35:7</a>, <a href=\"https://ref.ly/Exod17:15\">EXO 17:15</a>, <a href=\"https://ref.ly/Exod20:24\">EXO 20:24</a>, <a href=\"https://ref.ly/Exod20:25\">EXO 20:25</a>, <a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a>, <a href=\"https://ref.ly/Exod21:14\">EXO 21:14</a>, <a href=\"https://ref.ly/Exod24:4\">EXO 24:4</a>, <a href=\"https://ref.ly/Exod24:6\">EXO 24:6</a>, <a href=\"https://ref.ly/Exod32:5\">EXO 32:5</a>, <a href=\"https://ref.ly/Exod34:13\">EXO 34:13</a>, <a href=\"https://ref.ly/Num23:1\">NUM 23:1</a>, <a href=\"https://ref.ly/Num23:2\">NUM 23:2</a>, <a href=\"https://ref.ly/Num23:4\">NUM 23:4</a>, <a href=\"https://ref.ly/Num23:4\">NUM 23:4</a>, <a href=\"https://ref.ly/Num23:14\">NUM 23:14</a>, <a href=\"https://ref.ly/Num23:14\">NUM 23:14</a>, <a href=\"https://ref.ly/Num23:29\">NUM 23:29</a>, <a href=\"https://ref.ly/Num23:30\">NUM 23:30</a>, <a href=\"https://ref.ly/Deut7:5\">DEU 7:5</a>, <a href=\"https://ref.ly/Deut12:3\">DEU 12:3</a>, <a href=\"https://ref.ly/Deut27:5\">DEU 27:5</a>, <a href=\"https://ref.ly/Deut27:5\">DEU 27:5</a>, <a href=\"https://ref.ly/Deut27:6\">DEU 27:6</a>, <a href=\"https://ref.ly/Deut33:10\">DEU 33:10</a>, <a href=\"https://ref.ly/Josh8:30\">JOS 8:30</a>, <a href=\"https://ref.ly/Josh8:31\">JOS 8:31</a>, <a href=\"https://ref.ly/Josh9:27\">JOS 9:27</a>, <a href=\"https://ref.ly/Josh22:10\">JOS 22:10</a>, <a href=\"https://ref.ly/Josh22:10\">JOS 22:10</a>, <a href=\"https://ref.ly/Josh22:11\">JOS 22:11</a>, <a href=\"https://ref.ly/Josh22:16\">JOS 22:16</a>, <a href=\"https://ref.ly/Josh22:19\">JOS 22:19</a>, <a href=\"https://ref.ly/Josh22:19\">JOS 22:19</a>, <a href=\"https://ref.ly/Josh22:23\">JOS 22:23</a>, <a href=\"https://ref.ly/Josh22:26\">JOS 22:26</a>, <a href=\"https://ref.ly/Josh22:28\">JOS 22:28</a>, <a href=\"https://ref.ly/Josh22:29\">JOS 22:29</a>, <a href=\"https://ref.ly/Josh22:34\">JOS 22:34</a>, <a href=\"https://ref.ly/Judg2:2\">JDG 2:2</a>, <a href=\"https://ref.ly/Judg6:24\">JDG 6:24</a>, <a href=\"https://ref.ly/Judg6:25\">JDG 6:25</a>, <a href=\"https://ref.ly/Judg6:26\">JDG 6:26</a>, <a href=\"https://ref.ly/Judg6:28\">JDG 6:28</a>, <a href=\"https://ref.ly/Judg6:28\">JDG 6:28</a>, <a href=\"https://ref.ly/Judg6:30\">JDG 6:30</a>, <a href=\"https://ref.ly/Judg6:31\">JDG 6:31</a>, <a href=\"https://ref.ly/Judg6:32\">JDG 6:32</a>, <a href=\"https://ref.ly/Judg13:20\">JDG 13:20</a>, <a href=\"https://ref.ly/Judg13:20\">JDG 13:20</a>, <a href=\"https://ref.ly/Judg21:4\">JDG 21:4</a>, <a href=\"https://ref.ly/1Sam7:17\">1SA 7:17</a>, <a href=\"https://ref.ly/1Sam14:35\">1SA 14:35</a>, <a href=\"https://ref.ly/1Sam14:35\">1SA 14:35</a>, <a href=\"https://ref.ly/2Sam24:18\">2SA 24:18</a>, <a href=\"https://ref.ly/2Sam24:21\">2SA 24:21</a>, <a href=\"https://ref.ly/2Sam24:25\">2SA 24:25</a>, <a href=\"https://ref.ly/1Kgs3:4\">1KI 3:4</a>, <a href=\"https://ref.ly/1Kgs12:32\">1KI 12:32</a>, <a href=\"https://ref.ly/1Kgs12:33\">1KI 12:33</a>, <a href=\"https://ref.ly/1Kgs12:33\">1KI 12:33</a>, <a href=\"https://ref.ly/1Kgs13:1\">1KI 13:1</a>, <a href=\"https://ref.ly/1Kgs13:2\">1KI 13:2</a>, <a href=\"https://ref.ly/1Kgs13:2\">1KI 13:2</a>, <a href=\"https://ref.ly/1Kgs13:2\">1KI 13:2</a>, <a href=\"https://ref.ly/1Kgs13:3\">1KI 13:3</a>, <a href=\"https://ref.ly/1Kgs13:4\">1KI 13:4</a>, <a href=\"https://ref.ly/1Kgs13:4\">1KI 13:4</a>, <a href=\"https://ref.ly/1Kgs13:5\">1KI 13:5</a>, <a href=\"https://ref.ly/1Kgs13:5\">1KI 13:5</a>, <a href=\"https://ref.ly/1Kgs13:32\">1KI 13:32</a>, <a href=\"https://ref.ly/1Kgs16:32\">1KI 16:32</a>, <a href=\"https://ref.ly/1Kgs18:26\">1KI 18:26</a>, <a href=\"https://ref.ly/1Kgs18:30\">1KI 18:30</a>, <a href=\"https://ref.ly/1Kgs18:32\">1KI 18:32</a>, <a href=\"https://ref.ly/1Kgs18:32\">1KI 18:32</a>, <a href=\"https://ref.ly/1Kgs18:35\">1KI 18:35</a>, <a href=\"https://ref.ly/1Kgs19:10\">1KI 19:10</a>, <a href=\"https://ref.ly/1Kgs19:14\">1KI 19:14</a>, <a href=\"https://ref.ly/2Kgs11:18\">2KI 11:18</a>, <a href=\"https://ref.ly/2Kgs11:18\">2KI 11:18</a>, <a href=\"https://ref.ly/2Kgs11:18\">2KI 11:18</a>, <a href=\"https://ref.ly/2Kgs16:10\">2KI 16:10</a>, <a href=\"https://ref.ly/2Kgs16:10\">2KI 16:10</a>, <a href=\"https://ref.ly/2Kgs18:22\">2KI 18:22</a>, <a href=\"https://ref.ly/2Kgs21:3\">2KI 21:3</a>, <a href=\"https://ref.ly/2Kgs23:12\">2KI 23:12</a>, <a href=\"https://ref.ly/2Kgs23:12\">2KI 23:12</a>, <a href=\"https://ref.ly/2Kgs23:15\">2KI 23:15</a>, <a href=\"https://ref.ly/2Kgs23:15\">2KI 23:15</a>, <a href=\"https://ref.ly/2Kgs23:16\">2KI 23:16</a>, <a href=\"https://ref.ly/2Kgs23:17\">2KI 23:17</a>, <a href=\"https://ref.ly/2Kgs23:20\">2KI 23:20</a>, <a href=\"https://ref.ly/1Chr21:18\">1CH 21:18</a>, <a href=\"https://ref.ly/1Chr21:22\">1CH 21:22</a>, <a href=\"https://ref.ly/1Chr21:26\">1CH 21:26</a>, <a href=\"https://ref.ly/1Chr21:26\">1CH 21:26</a>, <a href=\"https://ref.ly/2Chr14:2\">2CH 14:2</a>, <a href=\"https://ref.ly/2Chr23:17\">2CH 23:17</a>, <a href=\"https://ref.ly/2Chr23:17\">2CH 23:17</a>, <a href=\"https://ref.ly/2Chr28:24\">2CH 28:24</a>, <a href=\"https://ref.ly/2Chr30:14\">2CH 30:14</a>, <a href=\"https://ref.ly/2Chr31:1\">2CH 31:1</a>, <a href=\"https://ref.ly/2Chr32:12\">2CH 32:12</a>, <a href=\"https://ref.ly/2Chr33:3\">2CH 33:3</a>, <a href=\"https://ref.ly/2Chr33:15\">2CH 33:15</a>, <a href=\"https://ref.ly/2Chr34:4\">2CH 34:4</a>, <a href=\"https://ref.ly/2Chr34:5\">2CH 34:5</a>, <a href=\"https://ref.ly/2Chr34:5\">2CH 34:5</a>, <a href=\"https://ref.ly/2Chr34:7\">2CH 34:7</a>, <a href=\"https://ref.ly/Isa17:8\">ISA 17:8</a>, <a href=\"https://ref.ly/Isa19:19\">ISA 19:19</a>, <a href=\"https://ref.ly/Isa27:9\">ISA 27:9</a>, <a href=\"https://ref.ly/Isa36:7\">ISA 36:7</a>, <a href=\"https://ref.ly/Jer11:13\">JER 11:13</a>, <a href=\"https://ref.ly/Jer11:13\">JER 11:13</a>, <a href=\"https://ref.ly/Jer17:1\">JER 17:1</a>, <a href=\"https://ref.ly/Jer17:2\">JER 17:2</a>, <a href=\"https://ref.ly/Ezek6:4\">EZK 6:4</a>, <a href=\"https://ref.ly/Ezek6:5\">EZK 6:5</a>, <a href=\"https://ref.ly/Ezek6:6\">EZK 6:6</a>, <a href=\"https://ref.ly/Ezek6:13\">EZK 6:13</a>, <a href=\"https://ref.ly/Hos8:11\">HOS 8:11</a>, <a href=\"https://ref.ly/Hos8:11\">HOS 8:11</a>, <a href=\"https://ref.ly/Hos10:1\">HOS 10:1</a>, <a href=\"https://ref.ly/Hos10:2\">HOS 10:2</a>, <a href=\"https://ref.ly/Hos10:8\">HOS 10:8</a>, <a href=\"https://ref.ly/Hos12:12\">HOS 12:12</a>, <a href=\"https://ref.ly/Amos2:8\">AMO 2:8</a>, <a href=\"https://ref.ly/Amos3:14\">AMO 3:14</a>, <a href=\"https://ref.ly/Amos3:14\">AMO 3:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： βωμός</span> <span class=\"thlex-translit\">(音譯： bomōs)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts17:23\">ACT 17:23</a>, <a href=\"https://ref.ly/1Macc1:47\">1MA 1:47</a>, <a href=\"https://ref.ly/1Macc1:54\">1MA 1:54</a>, <a href=\"https://ref.ly/1Macc2:23\">1MA 2:23</a>, <a href=\"https://ref.ly/1Macc2:24\">1MA 2:24</a>, <a href=\"https://ref.ly/1Macc2:25\">1MA 2:25</a>, <a href=\"https://ref.ly/1Macc2:45\">1MA 2:45</a>, <a href=\"https://ref.ly/1Macc5:68\">1MA 5:68</a>, <a href=\"https://ref.ly/2Macc10:2\">2MA 10:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： θυσιαστήριον</span> <span class=\"thlex-translit\">(音譯： thusiastērion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Rom11:3\">ROM 11:3</a>, <a href=\"https://ref.ly/Jas2:21\">JAS 2:21</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0078_altar_flat_uncut_stones.jpg\" alt=\"PTZ-0078_altar_flat_uncut_stones\"><figcaption class=\"thlex-caption\"> (© Ray Pritz by United Bible Societies)</figcaption></figure>在舊約時期，特別是在帳幕或聖殿建成之前，人們在戶外築石壇獻祭。壇是由大塊的石頭堆砌而成的一個平臺。祭物是綿羊或山羊，或者穀物。以色列人用來築壇的石頭不能經過鐵器的打鑿或塑形（<a href=\"https://ref.ly/Exod20:25\">EXO 20:25</a> ；<a href=\"https://ref.ly/Deut27:5\">DEU 27:5</a> ）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0079_altar_circular_canaanite.jpg\" alt=\"在米吉多發現的圓形迦南祭壇\"><figcaption class=\"thlex-caption\">在米吉多發現的圓形迦南祭壇 (© Ray Pritz by United Bible Societies)</figcaption></figure>有些語言可能會用不同的詞語來表示天然的石頭與打鑿成型的石塊。當提到築壇的石頭時，翻譯者應該選用一個表示天然石頭的詞語。</p>\n<p>如果目標語言的文化中也有獻動物為祭的做法，翻譯者就要考慮是否有表示祭壇的對等詞。許多現代文化都有用來獻動物祭或供奉神明的較高構築物，有時是一個石製或木製的平臺或桌子。譯文一定要清楚表明，祭物是獻給上帝的。</p>\n<p>在有些語言中，「祭壇」的對等描述是「向上帝獻禮物的地方」，也可以譯成「供人獻祭的地方／平臺／灶臺」、「用來（宰殺和）獻上祭物的床／平臺」，或「獻祭所用的（灶臺）石頭」。在一些經文中，翻譯者可能需要添加一個短語，如「將祭物焚燒以獻給上帝的地方」，或「焚燒聖香以尊榮上帝的地方」。還可譯作「放置（神聖）祭物的東西」和「獻祭的地方」。在大多數經文中，祭壇的實際形式並不是重點；重要的是，這是一個祭祀的地方。</p>\n<p>注意：一些南美語言可能會有「壇」的音譯詞（或其西班牙文或葡萄牙文的對等詞）。這個詞通常是「借來的」，具有限定的意思，有時指某個聖人的神龕，有時指教堂的前部，有時指紀念愛國者的神龕。當目標語言中有這類外來詞語時，翻譯者一定要仔細查考這個詞對目標讀者來說是什麼意思，以判斷是否適合用在聖經譯文中。</p>\n<p>同樣地，翻譯者可能會傾向於使用「壇」的音譯，因為那是當地的羅馬天主教、聖公會或其他教會所使用的譯法。與「祭司」一詞的處理方法一樣，我們建議不要把這個基督教術語用作翻譯舊約的基礎，因為它具有十分不同的神學意義。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.7 丘壇 (cult place, high place)&lt;REALIA:4.7&gt;</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01008020",
+"end_ref_usfm": "GEN 8:20"
+},
+{
+"start_ref": "01012007",
+"start_ref_usfm": "GEN 12:7",
+"end_ref": "01012007",
+"end_ref_usfm": "GEN 12:7"
+},
+{
+"start_ref": "01012008",
+"start_ref_usfm": "GEN 12:8",
+"end_ref": "01012008",
+"end_ref_usfm": "GEN 12:8"
+},
+{
+"start_ref": "01013004",
+"start_ref_usfm": "GEN 13:4",
+"end_ref": "01013004",
+"end_ref_usfm": "GEN 13:4"
+},
+{
+"start_ref": "01013018",
+"start_ref_usfm": "GEN 13:18",
+"end_ref": "01013018",
+"end_ref_usfm": "GEN 13:18"
+},
+{
+"start_ref": "01022009",
+"start_ref_usfm": "GEN 22:9",
+"end_ref": "01022009",
+"end_ref_usfm": "GEN 22:9"
+},
+{
+"start_ref": "01026025",
+"start_ref_usfm": "GEN 26:25",
+"end_ref": "01026025",
+"end_ref_usfm": "GEN 26:25"
+},
+{
+"start_ref": "01033020",
+"start_ref_usfm": "GEN 33:20",
+"end_ref": "01033020",
+"end_ref_usfm": "GEN 33:20"
+},
+{
+"start_ref": "01035001",
+"start_ref_usfm": "GEN 35:1",
+"end_ref": "01035001",
+"end_ref_usfm": "GEN 35:1"
+},
+{
+"start_ref": "01035003",
+"start_ref_usfm": "GEN 35:3",
+"end_ref": "01035003",
+"end_ref_usfm": "GEN 35:3"
+},
+{
+"start_ref": "01035007",
+"start_ref_usfm": "GEN 35:7",
+"end_ref": "01035007",
+"end_ref_usfm": "GEN 35:7"
+},
+{
+"start_ref": "02017015",
+"start_ref_usfm": "EXO 17:15",
+"end_ref": "02017015",
+"end_ref_usfm": "EXO 17:15"
+},
+{
+"start_ref": "02020024",
+"start_ref_usfm": "EXO 20:24",
+"end_ref": "02020024",
+"end_ref_usfm": "EXO 20:24"
+},
+{
+"start_ref": "02020025",
+"start_ref_usfm": "EXO 20:25",
+"end_ref": "02020025",
+"end_ref_usfm": "EXO 20:25"
+},
+{
+"start_ref": "02020026",
+"start_ref_usfm": "EXO 20:26",
+"end_ref": "02020026",
+"end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "02021014",
+"start_ref_usfm": "EXO 21:14",
+"end_ref": "02021014",
+"end_ref_usfm": "EXO 21:14"
+},
+{
+"start_ref": "02024004",
+"start_ref_usfm": "EXO 24:4",
+"end_ref": "02024004",
+"end_ref_usfm": "EXO 24:4"
+},
+{
+"start_ref": "02024006",
+"start_ref_usfm": "EXO 24:6",
+"end_ref": "02024006",
+"end_ref_usfm": "EXO 24:6"
+},
+{
+"start_ref": "02032005",
+"start_ref_usfm": "EXO 32:5",
+"end_ref": "02032005",
+"end_ref_usfm": "EXO 32:5"
+},
+{
+"start_ref": "02034013",
+"start_ref_usfm": "EXO 34:13",
+"end_ref": "02034013",
+"end_ref_usfm": "EXO 34:13"
+},
+{
+"start_ref": "04023001",
+"start_ref_usfm": "NUM 23:1",
+"end_ref": "04023001",
+"end_ref_usfm": "NUM 23:1"
+},
+{
+"start_ref": "04023002",
+"start_ref_usfm": "NUM 23:2",
+"end_ref": "04023002",
+"end_ref_usfm": "NUM 23:2"
+},
+{
+"start_ref": "04023004",
+"start_ref_usfm": "NUM 23:4",
+"end_ref": "04023004",
+"end_ref_usfm": "NUM 23:4"
+},
+{
+"start_ref": "04023014",
+"start_ref_usfm": "NUM 23:14",
+"end_ref": "04023014",
+"end_ref_usfm": "NUM 23:14"
+},
+{
+"start_ref": "04023029",
+"start_ref_usfm": "NUM 23:29",
+"end_ref": "04023029",
+"end_ref_usfm": "NUM 23:29"
+},
+{
+"start_ref": "04023030",
+"start_ref_usfm": "NUM 23:30",
+"end_ref": "04023030",
+"end_ref_usfm": "NUM 23:30"
+},
+{
+"start_ref": "05007005",
+"start_ref_usfm": "DEU 7:5",
+"end_ref": "05007005",
+"end_ref_usfm": "DEU 7:5"
+},
+{
+"start_ref": "05012003",
+"start_ref_usfm": "DEU 12:3",
+"end_ref": "05012003",
+"end_ref_usfm": "DEU 12:3"
+},
+{
+"start_ref": "05027005",
+"start_ref_usfm": "DEU 27:5",
+"end_ref": "05027005",
+"end_ref_usfm": "DEU 27:5"
+},
+{
+"start_ref": "05027006",
+"start_ref_usfm": "DEU 27:6",
+"end_ref": "05027006",
+"end_ref_usfm": "DEU 27:6"
+},
+{
+"start_ref": "05033010",
+"start_ref_usfm": "DEU 33:10",
+"end_ref": "05033010",
+"end_ref_usfm": "DEU 33:10"
+},
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008030",
+"end_ref_usfm": "JOS 8:30"
+},
+{
+"start_ref": "06008031",
+"start_ref_usfm": "JOS 8:31",
+"end_ref": "06008031",
+"end_ref_usfm": "JOS 8:31"
+},
+{
+"start_ref": "06009027",
+"start_ref_usfm": "JOS 9:27",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "06022010",
+"start_ref_usfm": "JOS 22:10",
+"end_ref": "06022010",
+"end_ref_usfm": "JOS 22:10"
+},
+{
+"start_ref": "06022011",
+"start_ref_usfm": "JOS 22:11",
+"end_ref": "06022011",
+"end_ref_usfm": "JOS 22:11"
+},
+{
+"start_ref": "06022016",
+"start_ref_usfm": "JOS 22:16",
+"end_ref": "06022016",
+"end_ref_usfm": "JOS 22:16"
+},
+{
+"start_ref": "06022019",
+"start_ref_usfm": "JOS 22:19",
+"end_ref": "06022019",
+"end_ref_usfm": "JOS 22:19"
+},
+{
+"start_ref": "06022023",
+"start_ref_usfm": "JOS 22:23",
+"end_ref": "06022023",
+"end_ref_usfm": "JOS 22:23"
+},
+{
+"start_ref": "06022026",
+"start_ref_usfm": "JOS 22:26",
+"end_ref": "06022026",
+"end_ref_usfm": "JOS 22:26"
+},
+{
+"start_ref": "06022028",
+"start_ref_usfm": "JOS 22:28",
+"end_ref": "06022028",
+"end_ref_usfm": "JOS 22:28"
+},
+{
+"start_ref": "06022029",
+"start_ref_usfm": "JOS 22:29",
+"end_ref": "06022029",
+"end_ref_usfm": "JOS 22:29"
+},
+{
+"start_ref": "06022034",
+"start_ref_usfm": "JOS 22:34",
+"end_ref": "06022034",
+"end_ref_usfm": "JOS 22:34"
+},
+{
+"start_ref": "07002002",
+"start_ref_usfm": "JDG 2:2",
+"end_ref": "07002002",
+"end_ref_usfm": "JDG 2:2"
+},
+{
+"start_ref": "07006024",
+"start_ref_usfm": "JDG 6:24",
+"end_ref": "07006024",
+"end_ref_usfm": "JDG 6:24"
+},
+{
+"start_ref": "07006025",
+"start_ref_usfm": "JDG 6:25",
+"end_ref": "07006025",
+"end_ref_usfm": "JDG 6:25"
+},
+{
+"start_ref": "07006026",
+"start_ref_usfm": "JDG 6:26",
+"end_ref": "07006026",
+"end_ref_usfm": "JDG 6:26"
+},
+{
+"start_ref": "07006028",
+"start_ref_usfm": "JDG 6:28",
+"end_ref": "07006028",
+"end_ref_usfm": "JDG 6:28"
+},
+{
+"start_ref": "07006030",
+"start_ref_usfm": "JDG 6:30",
+"end_ref": "07006030",
+"end_ref_usfm": "JDG 6:30"
+},
+{
+"start_ref": "07006031",
+"start_ref_usfm": "JDG 6:31",
+"end_ref": "07006031",
+"end_ref_usfm": "JDG 6:31"
+},
+{
+"start_ref": "07006032",
+"start_ref_usfm": "JDG 6:32",
+"end_ref": "07006032",
+"end_ref_usfm": "JDG 6:32"
+},
+{
+"start_ref": "07013020",
+"start_ref_usfm": "JDG 13:20",
+"end_ref": "07013020",
+"end_ref_usfm": "JDG 13:20"
+},
+{
+"start_ref": "07021004",
+"start_ref_usfm": "JDG 21:4",
+"end_ref": "07021004",
+"end_ref_usfm": "JDG 21:4"
+},
+{
+"start_ref": "09007017",
+"start_ref_usfm": "1SA 7:17",
+"end_ref": "09007017",
+"end_ref_usfm": "1SA 7:17"
+},
+{
+"start_ref": "09014035",
+"start_ref_usfm": "1SA 14:35",
+"end_ref": "09014035",
+"end_ref_usfm": "1SA 14:35"
+},
+{
+"start_ref": "10024018",
+"start_ref_usfm": "2SA 24:18",
+"end_ref": "10024018",
+"end_ref_usfm": "2SA 24:18"
+},
+{
+"start_ref": "10024021",
+"start_ref_usfm": "2SA 24:21",
+"end_ref": "10024021",
+"end_ref_usfm": "2SA 24:21"
+},
+{
+"start_ref": "10024025",
+"start_ref_usfm": "2SA 24:25",
+"end_ref": "10024025",
+"end_ref_usfm": "2SA 24:25"
+},
+{
+"start_ref": "11003004",
+"start_ref_usfm": "1KI 3:4",
+"end_ref": "11003004",
+"end_ref_usfm": "1KI 3:4"
+},
+{
+"start_ref": "11012032",
+"start_ref_usfm": "1KI 12:32",
+"end_ref": "11012032",
+"end_ref_usfm": "1KI 12:32"
+},
+{
+"start_ref": "11012033",
+"start_ref_usfm": "1KI 12:33",
+"end_ref": "11012033",
+"end_ref_usfm": "1KI 12:33"
+},
+{
+"start_ref": "11013001",
+"start_ref_usfm": "1KI 13:1",
+"end_ref": "11013001",
+"end_ref_usfm": "1KI 13:1"
+},
+{
+"start_ref": "11013002",
+"start_ref_usfm": "1KI 13:2",
+"end_ref": "11013002",
+"end_ref_usfm": "1KI 13:2"
+},
+{
+"start_ref": "11013003",
+"start_ref_usfm": "1KI 13:3",
+"end_ref": "11013003",
+"end_ref_usfm": "1KI 13:3"
+},
+{
+"start_ref": "11013004",
+"start_ref_usfm": "1KI 13:4",
+"end_ref": "11013004",
+"end_ref_usfm": "1KI 13:4"
+},
+{
+"start_ref": "11013005",
+"start_ref_usfm": "1KI 13:5",
+"end_ref": "11013005",
+"end_ref_usfm": "1KI 13:5"
+},
+{
+"start_ref": "11013032",
+"start_ref_usfm": "1KI 13:32",
+"end_ref": "11013032",
+"end_ref_usfm": "1KI 13:32"
+},
+{
+"start_ref": "11016032",
+"start_ref_usfm": "1KI 16:32",
+"end_ref": "11016032",
+"end_ref_usfm": "1KI 16:32"
+},
+{
+"start_ref": "11018026",
+"start_ref_usfm": "1KI 18:26",
+"end_ref": "11018026",
+"end_ref_usfm": "1KI 18:26"
+},
+{
+"start_ref": "11018030",
+"start_ref_usfm": "1KI 18:30",
+"end_ref": "11018030",
+"end_ref_usfm": "1KI 18:30"
+},
+{
+"start_ref": "11018032",
+"start_ref_usfm": "1KI 18:32",
+"end_ref": "11018032",
+"end_ref_usfm": "1KI 18:32"
+},
+{
+"start_ref": "11018035",
+"start_ref_usfm": "1KI 18:35",
+"end_ref": "11018035",
+"end_ref_usfm": "1KI 18:35"
+},
+{
+"start_ref": "11019010",
+"start_ref_usfm": "1KI 19:10",
+"end_ref": "11019010",
+"end_ref_usfm": "1KI 19:10"
+},
+{
+"start_ref": "11019014",
+"start_ref_usfm": "1KI 19:14",
+"end_ref": "11019014",
+"end_ref_usfm": "1KI 19:14"
+},
+{
+"start_ref": "12011018",
+"start_ref_usfm": "2KI 11:18",
+"end_ref": "12011018",
+"end_ref_usfm": "2KI 11:18"
+},
+{
+"start_ref": "12016010",
+"start_ref_usfm": "2KI 16:10",
+"end_ref": "12016010",
+"end_ref_usfm": "2KI 16:10"
+},
+{
+"start_ref": "12018022",
+"start_ref_usfm": "2KI 18:22",
+"end_ref": "12018022",
+"end_ref_usfm": "2KI 18:22"
+},
+{
+"start_ref": "12021003",
+"start_ref_usfm": "2KI 21:3",
+"end_ref": "12021003",
+"end_ref_usfm": "2KI 21:3"
+},
+{
+"start_ref": "12023012",
+"start_ref_usfm": "2KI 23:12",
+"end_ref": "12023012",
+"end_ref_usfm": "2KI 23:12"
+},
+{
+"start_ref": "12023015",
+"start_ref_usfm": "2KI 23:15",
+"end_ref": "12023015",
+"end_ref_usfm": "2KI 23:15"
+},
+{
+"start_ref": "12023016",
+"start_ref_usfm": "2KI 23:16",
+"end_ref": "12023016",
+"end_ref_usfm": "2KI 23:16"
+},
+{
+"start_ref": "12023017",
+"start_ref_usfm": "2KI 23:17",
+"end_ref": "12023017",
+"end_ref_usfm": "2KI 23:17"
+},
+{
+"start_ref": "12023020",
+"start_ref_usfm": "2KI 23:20",
+"end_ref": "12023020",
+"end_ref_usfm": "2KI 23:20"
+},
+{
+"start_ref": "13021018",
+"start_ref_usfm": "1CH 21:18",
+"end_ref": "13021018",
+"end_ref_usfm": "1CH 21:18"
+},
+{
+"start_ref": "13021022",
+"start_ref_usfm": "1CH 21:22",
+"end_ref": "13021022",
+"end_ref_usfm": "1CH 21:22"
+},
+{
+"start_ref": "13021026",
+"start_ref_usfm": "1CH 21:26",
+"end_ref": "13021026",
+"end_ref_usfm": "1CH 21:26"
+},
+{
+"start_ref": "14014002",
+"start_ref_usfm": "2CH 14:2",
+"end_ref": "14014002",
+"end_ref_usfm": "2CH 14:2"
+},
+{
+"start_ref": "14023017",
+"start_ref_usfm": "2CH 23:17",
+"end_ref": "14023017",
+"end_ref_usfm": "2CH 23:17"
+},
+{
+"start_ref": "14028024",
+"start_ref_usfm": "2CH 28:24",
+"end_ref": "14028024",
+"end_ref_usfm": "2CH 28:24"
+},
+{
+"start_ref": "14030014",
+"start_ref_usfm": "2CH 30:14",
+"end_ref": "14030014",
+"end_ref_usfm": "2CH 30:14"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031001",
+"end_ref_usfm": "2CH 31:1"
+},
+{
+"start_ref": "14032012",
+"start_ref_usfm": "2CH 32:12",
+"end_ref": "14032012",
+"end_ref_usfm": "2CH 32:12"
+},
+{
+"start_ref": "14033003",
+"start_ref_usfm": "2CH 33:3",
+"end_ref": "14033003",
+"end_ref_usfm": "2CH 33:3"
+},
+{
+"start_ref": "14033015",
+"start_ref_usfm": "2CH 33:15",
+"end_ref": "14033015",
+"end_ref_usfm": "2CH 33:15"
+},
+{
+"start_ref": "14034004",
+"start_ref_usfm": "2CH 34:4",
+"end_ref": "14034004",
+"end_ref_usfm": "2CH 34:4"
+},
+{
+"start_ref": "14034005",
+"start_ref_usfm": "2CH 34:5",
+"end_ref": "14034005",
+"end_ref_usfm": "2CH 34:5"
+},
+{
+"start_ref": "14034007",
+"start_ref_usfm": "2CH 34:7",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "23017008",
+"start_ref_usfm": "ISA 17:8",
+"end_ref": "23017008",
+"end_ref_usfm": "ISA 17:8"
+},
+{
+"start_ref": "23019019",
+"start_ref_usfm": "ISA 19:19",
+"end_ref": "23019019",
+"end_ref_usfm": "ISA 19:19"
+},
+{
+"start_ref": "23027009",
+"start_ref_usfm": "ISA 27:9",
+"end_ref": "23027009",
+"end_ref_usfm": "ISA 27:9"
+},
+{
+"start_ref": "23036007",
+"start_ref_usfm": "ISA 36:7",
+"end_ref": "23036007",
+"end_ref_usfm": "ISA 36:7"
+},
+{
+"start_ref": "24011013",
+"start_ref_usfm": "JER 11:13",
+"end_ref": "24011013",
+"end_ref_usfm": "JER 11:13"
+},
+{
+"start_ref": "24017001",
+"start_ref_usfm": "JER 17:1",
+"end_ref": "24017001",
+"end_ref_usfm": "JER 17:1"
+},
+{
+"start_ref": "24017002",
+"start_ref_usfm": "JER 17:2",
+"end_ref": "24017002",
+"end_ref_usfm": "JER 17:2"
+},
+{
+"start_ref": "26006004",
+"start_ref_usfm": "EZK 6:4",
+"end_ref": "26006004",
+"end_ref_usfm": "EZK 6:4"
+},
+{
+"start_ref": "26006005",
+"start_ref_usfm": "EZK 6:5",
+"end_ref": "26006005",
+"end_ref_usfm": "EZK 6:5"
+},
+{
+"start_ref": "26006006",
+"start_ref_usfm": "EZK 6:6",
+"end_ref": "26006006",
+"end_ref_usfm": "EZK 6:6"
+},
+{
+"start_ref": "26006013",
+"start_ref_usfm": "EZK 6:13",
+"end_ref": "26006013",
+"end_ref_usfm": "EZK 6:13"
+},
+{
+"start_ref": "28008011",
+"start_ref_usfm": "HOS 8:11",
+"end_ref": "28008011",
+"end_ref_usfm": "HOS 8:11"
+},
+{
+"start_ref": "28010001",
+"start_ref_usfm": "HOS 10:1",
+"end_ref": "28010001",
+"end_ref_usfm": "HOS 10:1"
+},
+{
+"start_ref": "28010002",
+"start_ref_usfm": "HOS 10:2",
+"end_ref": "28010002",
+"end_ref_usfm": "HOS 10:2"
+},
+{
+"start_ref": "28010008",
+"start_ref_usfm": "HOS 10:8",
+"end_ref": "28010008",
+"end_ref_usfm": "HOS 10:8"
+},
+{
+"start_ref": "28012012",
+"start_ref_usfm": "HOS 12:12",
+"end_ref": "28012012",
+"end_ref_usfm": "HOS 12:12"
+},
+{
+"start_ref": "30002008",
+"start_ref_usfm": "AMO 2:8",
+"end_ref": "30002008",
+"end_ref_usfm": "AMO 2:8"
+},
+{
+"start_ref": "30003014",
+"start_ref_usfm": "AMO 3:14",
+"end_ref": "30003014",
+"end_ref_usfm": "AMO 3:14"
+},
+{
+"start_ref": "44017023",
+"start_ref_usfm": "ACT 17:23",
+"end_ref": "44017023",
+"end_ref_usfm": "ACT 17:23"
+},
+{
+"start_ref": "78001047",
+"start_ref_usfm": "1MA 1:47",
+"end_ref": "78001047",
+"end_ref_usfm": "1MA 1:47"
+},
+{
+"start_ref": "78001054",
+"start_ref_usfm": "1MA 1:54",
+"end_ref": "78001054",
+"end_ref_usfm": "1MA 1:54"
+},
+{
+"start_ref": "78002023",
+"start_ref_usfm": "1MA 2:23",
+"end_ref": "78002023",
+"end_ref_usfm": "1MA 2:23"
+},
+{
+"start_ref": "78002024",
+"start_ref_usfm": "1MA 2:24",
+"end_ref": "78002024",
+"end_ref_usfm": "1MA 2:24"
+},
+{
+"start_ref": "78002025",
+"start_ref_usfm": "1MA 2:25",
+"end_ref": "78002025",
+"end_ref_usfm": "1MA 2:25"
+},
+{
+"start_ref": "78002045",
+"start_ref_usfm": "1MA 2:45",
+"end_ref": "78002045",
+"end_ref_usfm": "1MA 2:45"
+},
+{
+"start_ref": "78005068",
+"start_ref_usfm": "1MA 5:68",
+"end_ref": "78005068",
+"end_ref_usfm": "1MA 5:68"
+},
+{
+"start_ref": "79010002",
+"start_ref_usfm": "2MA 10:2",
+"end_ref": "79010002",
+"end_ref_usfm": "2MA 10:2"
+},
+{
+"start_ref": "45011003",
+"start_ref_usfm": "ROM 11:3",
+"end_ref": "45011003",
+"end_ref_usfm": "ROM 11:3"
+},
+{
+"start_ref": "59002021",
+"start_ref_usfm": "JAS 2:21",
+"end_ref": "59002021",
+"end_ref_usfm": "JAS 2:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:4.2.1.1",
+"reference_id": "REALIA:4.2.1.1",
+"version": "1.0.4",
+"title": "標題：祭壇的翹角（horns of the altar）",
+"media_type": "Text",
+"index_reference": "4.2.1.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.2.1.1\"><span class=\"thlex-key\">4.2.1.1</span> 標題：祭壇的翹角（horns of the altar）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קֶרֶן</span> <span class=\"thlex-translit\">(音譯： qarnoth（qeren的複數形式）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod27:2\">EXO 27:2</a>, <a href=\"https://ref.ly/Exod27:2\">EXO 27:2</a>, <a href=\"https://ref.ly/Exod29:12\">EXO 29:12</a>, <a href=\"https://ref.ly/Exod30:2\">EXO 30:2</a>, <a href=\"https://ref.ly/Exod30:3\">EXO 30:3</a>, <a href=\"https://ref.ly/Exod30:10\">EXO 30:10</a>, <a href=\"https://ref.ly/Exod37:25\">EXO 37:25</a>, <a href=\"https://ref.ly/Exod37:26\">EXO 37:26</a>, <a href=\"https://ref.ly/Exod38:2\">EXO 38:2</a>, <a href=\"https://ref.ly/Exod38:2\">EXO 38:2</a>, <a href=\"https://ref.ly/Lev4:7\">LEV 4:7</a>, <a href=\"https://ref.ly/Lev4:18\">LEV 4:18</a>, <a href=\"https://ref.ly/Lev4:25\">LEV 4:25</a>, <a href=\"https://ref.ly/Lev4:30\">LEV 4:30</a>, <a href=\"https://ref.ly/Lev4:34\">LEV 4:34</a>, <a href=\"https://ref.ly/Lev8:15\">LEV 8:15</a>, <a href=\"https://ref.ly/Lev9:9\">LEV 9:9</a>, <a href=\"https://ref.ly/Lev16:18\">LEV 16:18</a>, <a href=\"https://ref.ly/1Kgs1:50\">1KI 1:50</a>, <a href=\"https://ref.ly/1Kgs1:51\">1KI 1:51</a>, <a href=\"https://ref.ly/1Kgs2:28\">1KI 2:28</a>, <a href=\"https://ref.ly/Ps118:27\">PSA 118:27</a>, <a href=\"https://ref.ly/Jer17:1\">JER 17:1</a>, <a href=\"https://ref.ly/Ezek43:15\">EZK 43:15</a>, <a href=\"https://ref.ly/Ezek43:20\">EZK 43:20</a>, <a href=\"https://ref.ly/Amos3:14\">AMO 3:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κέρας</span> <span class=\"thlex-translit\">(音譯： keras)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt9:8\">JDT 9:8</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0041_sacrificial_sheep.png\" alt=\"OAI-0041_sacrificial_sheep\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>壇角是壇頂部四個拐角的突出部分，形狀像祭牲的角。有些學者認為這些翹角代表祭牲，還有一些學者認為翹角最初是用來懸掛烹飪器具的。在以色列的律法中，壇角也是一個避難的地方，在那裡，誤殺人者可以免受被殺者親人的報復。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0443_incense_altar.jpg\" alt=\"有角香壇（石灰石，米吉多，公元前8世紀）\"><figcaption class=\"thlex-caption\">有角香壇（石灰石，米吉多，公元前8世紀） (Gary Todd, Israel Museum, CC0, via Wikimedia Commons)</figcaption></figure>希伯來文<em>qeren</em> 和希臘文<em>keras</em> 意思相同，都指動物（如牛）的角，但是沒有必要在譯文中保留這個描述性的表達。「角」在有些語言中可能很自然，但在另一些語言中，譯成「突出物」（“projections”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）、「把手」（“knobs”；<abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr> ），或「突出的角」之類可能更合適。有些翻譯者會擴展「角」的譯文；例如，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 在<a href=\"https://ref.ly/Exod27:2\">EXO 27:2</a> 的英文意為，「使頂部的四個拐角像公牛的角一樣豎起來。」</p>\n<p>字面意為「祭壇的翹角」的希伯來文短語可以翻譯為「角狀突出物，位於獻祭的地方（或譯：放祭物的地方）的四角」，但如此冗長而複雜的譯文是沒有必要的；經文的重點通常不是形狀。因此，在<a href=\"https://ref.ly/Amos3:14\">AMO 3:14</a> ，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「每個祭壇的拐角」，清楚說明翹角的位置而非形狀，這在許多語言中都是一個很好的做法。</p>\n<p>\n            <a href=\"https://ref.ly/Ps118:27\">PSA 118:27</a> ：這節經文的後兩行包含祭牲在聖殿裡行進的指示，但希伯來文本的意思有些不確定，似乎是說「用枝子把祭牲拴在壇角那裡」。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 指出，這裡的希伯來文本有兩種理解方式：「用繩子把祭牲拴在壇角」，或「在壇角那裡用繩子把節期（朝聖者）排好」，意即敬拜者被圈在繩子裡面，分別出來作為聖民。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 依循<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ，譯為「繩子」（“ropes”）而非「樹枝」。<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 英文意為：「用繩子把祭牲拴在壇的角上。」<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 意為：「排起隊列，手拿樹枝，直到壇角那裡」，並在腳註中解釋說：「<em>lulab</em> 禮儀，使用桃金娘枝或棕櫚枝，在隊列環繞祭壇時揮舞。」然而，這些解釋似乎相當可疑。我們認為<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 合理地表達了原來文本的含義，因此推薦這種譯法：「手拿樹枝，開始節期的慶祝，繞著祭壇行進。」<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 意為：「開始節期的慶祝，拿著樹枝走到祭壇的角那裡。」<abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr> 意為：「用枝子編排節日的舞蹈，直到祭壇的角那裡。」</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02027002",
+"start_ref_usfm": "EXO 27:2",
+"end_ref": "02027002",
+"end_ref_usfm": "EXO 27:2"
+},
+{
+"start_ref": "02029012",
+"start_ref_usfm": "EXO 29:12",
+"end_ref": "02029012",
+"end_ref_usfm": "EXO 29:12"
+},
+{
+"start_ref": "02030002",
+"start_ref_usfm": "EXO 30:2",
+"end_ref": "02030002",
+"end_ref_usfm": "EXO 30:2"
+},
+{
+"start_ref": "02030003",
+"start_ref_usfm": "EXO 30:3",
+"end_ref": "02030003",
+"end_ref_usfm": "EXO 30:3"
+},
+{
+"start_ref": "02030010",
+"start_ref_usfm": "EXO 30:10",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02037025",
+"start_ref_usfm": "EXO 37:25",
+"end_ref": "02037025",
+"end_ref_usfm": "EXO 37:25"
+},
+{
+"start_ref": "02037026",
+"start_ref_usfm": "EXO 37:26",
+"end_ref": "02037026",
+"end_ref_usfm": "EXO 37:26"
+},
+{
+"start_ref": "02038002",
+"start_ref_usfm": "EXO 38:2",
+"end_ref": "02038002",
+"end_ref_usfm": "EXO 38:2"
+},
+{
+"start_ref": "03004007",
+"start_ref_usfm": "LEV 4:7",
+"end_ref": "03004007",
+"end_ref_usfm": "LEV 4:7"
+},
+{
+"start_ref": "03004018",
+"start_ref_usfm": "LEV 4:18",
+"end_ref": "03004018",
+"end_ref_usfm": "LEV 4:18"
+},
+{
+"start_ref": "03004025",
+"start_ref_usfm": "LEV 4:25",
+"end_ref": "03004025",
+"end_ref_usfm": "LEV 4:25"
+},
+{
+"start_ref": "03004030",
+"start_ref_usfm": "LEV 4:30",
+"end_ref": "03004030",
+"end_ref_usfm": "LEV 4:30"
+},
+{
+"start_ref": "03004034",
+"start_ref_usfm": "LEV 4:34",
+"end_ref": "03004034",
+"end_ref_usfm": "LEV 4:34"
+},
+{
+"start_ref": "03008015",
+"start_ref_usfm": "LEV 8:15",
+"end_ref": "03008015",
+"end_ref_usfm": "LEV 8:15"
+},
+{
+"start_ref": "03009009",
+"start_ref_usfm": "LEV 9:9",
+"end_ref": "03009009",
+"end_ref_usfm": "LEV 9:9"
+},
+{
+"start_ref": "03016018",
+"start_ref_usfm": "LEV 16:18",
+"end_ref": "03016018",
+"end_ref_usfm": "LEV 16:18"
+},
+{
+"start_ref": "11001050",
+"start_ref_usfm": "1KI 1:50",
+"end_ref": "11001050",
+"end_ref_usfm": "1KI 1:50"
+},
+{
+"start_ref": "11001051",
+"start_ref_usfm": "1KI 1:51",
+"end_ref": "11001051",
+"end_ref_usfm": "1KI 1:51"
+},
+{
+"start_ref": "11002028",
+"start_ref_usfm": "1KI 2:28",
+"end_ref": "11002028",
+"end_ref_usfm": "1KI 2:28"
+},
+{
+"start_ref": "19118027",
+"start_ref_usfm": "PSA 118:27",
+"end_ref": "19118027",
+"end_ref_usfm": "PSA 118:27"
+},
+{
+"start_ref": "24017001",
+"start_ref_usfm": "JER 17:1",
+"end_ref": "24017001",
+"end_ref_usfm": "JER 17:1"
+},
+{
+"start_ref": "26043015",
+"start_ref_usfm": "EZK 43:15",
+"end_ref": "26043015",
+"end_ref_usfm": "EZK 43:15"
+},
+{
+"start_ref": "26043020",
+"start_ref_usfm": "EZK 43:20",
+"end_ref": "26043020",
+"end_ref_usfm": "EZK 43:20"
+},
+{
+"start_ref": "30003014",
+"start_ref_usfm": "AMO 3:14",
+"end_ref": "30003014",
+"end_ref_usfm": "AMO 3:14"
+},
+{
+"start_ref": "69009008",
+"start_ref_usfm": "JDT 9:8",
+"end_ref": "69009008",
+"end_ref_usfm": "JDT 9:8"
+}
+],
+"resource": []
+}
+}
+]

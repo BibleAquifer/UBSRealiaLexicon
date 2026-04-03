@@ -1,0 +1,54 @@
+[
+{
+"content_id": "REALIA:1.2.3",
+"reference_id": "REALIA:1.2.3",
+"version": "1.0.4",
+"title": "標題：馬槽、食槽、飼料槽、飼料箱（manger, feed trough, feedbox）",
+"media_type": "Text",
+"index_reference": "1.2.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.3\"><span class=\"thlex-key\">1.2.3</span> 標題：馬槽、食槽、飼料槽、飼料箱（manger, feed trough, feedbox）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֵבוּס</span> <span class=\"thlex-translit\">(音譯： ’evus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job39:9\">JOB 39:9</a>, <a href=\"https://ref.ly/Prov14:4\">PRO 14:4</a>, <a href=\"https://ref.ly/Isa1:3\">ISA 1:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： φάτνη</span> <span class=\"thlex-translit\">(音譯： fatnē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke2:7\">LUK 2:7</a>, <a href=\"https://ref.ly/Luke2:12\">LUK 2:12</a>, <a href=\"https://ref.ly/Luke2:16\">LUK 2:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0334_feed_trough.jpg\" alt=\"米吉多馬廄中的飼料和水槽\"><figcaption class=\"thlex-caption\">米吉多馬廄中的飼料和水槽 (© Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>食槽是一個由石頭或木頭做成的槽，是牲畜吃食的地方，甚至可能是一個露天的場地。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>有些語言區分了多種餵食器具。「飼料槽」或「食槽」通常是指相對較大的箱子或架子，裡面裝著乾草，牲畜是站著吃食的；「飼料箱」要小得多，通常盛著穀物。我們無法確切知道<a href=\"https://ref.ly/Luke2:7\">LUK 2:7</a> 所記嬰孩耶穌是被放在哪種槽裡，但是飼料箱或馬槽可能比較適合放置嬰兒。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18039009",
+"start_ref_usfm": "JOB 39:9",
+"end_ref": "18039009",
+"end_ref_usfm": "JOB 39:9"
+},
+{
+"start_ref": "20014004",
+"start_ref_usfm": "PRO 14:4",
+"end_ref": "20014004",
+"end_ref_usfm": "PRO 14:4"
+},
+{
+"start_ref": "23001003",
+"start_ref_usfm": "ISA 1:3",
+"end_ref": "23001003",
+"end_ref_usfm": "ISA 1:3"
+},
+{
+"start_ref": "42002007",
+"start_ref_usfm": "LUK 2:7",
+"end_ref": "42002007",
+"end_ref_usfm": "LUK 2:7"
+},
+{
+"start_ref": "42002012",
+"start_ref_usfm": "LUK 2:12",
+"end_ref": "42002012",
+"end_ref_usfm": "LUK 2:12"
+},
+{
+"start_ref": "42002016",
+"start_ref_usfm": "LUK 2:16",
+"end_ref": "42002016",
+"end_ref_usfm": "LUK 2:16"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,244 @@
+[
+{
+"content_id": "REALIA:1.1.9",
+"reference_id": "REALIA:1.1.9",
+"version": "1.0.4",
+"title": "標題：鐵器、鐵製工具（iron tools）",
+"media_type": "Text",
+"index_reference": "1.1.9",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9\"><span class=\"thlex-key\">1.1.9</span> 標題：鐵器、鐵製工具（iron tools）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> 給翻譯者帶來一個很特別的問題；這裡的希伯來文本有些含糊，根據具體的解釋，不同譯本可能會列出五到七種不同的工具。下述討論依據<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 的翻譯順序：</p>\n<p>「犁」（“Plowshare”；<em>macharesheth</em> ）：有些解經家認為，清單中的第一個詞語是一個統稱，意思是「犁地的工具」。後面的詞語是幾種工具，包括<em>machareshah</em> ；在希伯來文中，<em>machareshah</em> 與<em>macharesheth</em> 的輔音完全相同，只有加上表示元音的點之後才能區別開來。然而，該解釋僅僅只是一種猜測。</p>\n<p>「鶴嘴鋤」（“Mattock”；<em>’eth</em> ）：這個詞可能是指「犁」（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.5 犁、犁頭 (Plow and plowshare)&lt;REALIA:1.1.5&gt;</a> ），雖然古時的鶴嘴鋤（一種鋤頭）已被發現。</p>\n<p>「斧」（“Axe”；<em>qardom</em> ）：《七十士譯本》也將這個詞譯為「斧」（希臘文<em>axinē</em> ）。更準確地說，這可能是一種類似斧頭的工具，刃部與手柄垂直。這種工具可以像鋤頭那樣鬆土，或者像錛那樣砍削木頭（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9.3 斧頭、錛 (axe, adze)&lt;REALIA:1.1.9.3&gt;</a> ）。</p>\n<p>「鐮」（“Sickle”；<em>machareshah</em> ）：<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 再次按照《七十士譯本》將這個詞譯為“sickle”（「鐮刀」；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.6 鐮刀 (sickle)&lt;REALIA:1.1.6&gt;</a> ）。然而，另一位古代的翻譯者將該詞譯為一種用來鬆土和除草的小型花園鋤頭。本手冊傾向於後面這種解法（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9.1 鋤頭 (hoe)&lt;REALIA:1.1.9.1&gt;</a> ）。</p>\n<p>「價錢是一個pim」（<em>haptsirah fim</em> ）：參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.1.3 三分之二舍客勒（pim）&lt;REALIA:11.1.3&gt;</a> 中關於<em>pim</em> 的討論。</p>\n<p>「三分之一舍客勒」（<em>shlosh qilshon</em> ）：這個希伯來文短語的含義不明。許多譯本認為這是第二個（並且較低的）價格，是磨利這些工具中兩種較小工具的費用。這樣翻譯需要假定希伯來文本中的字母順序已被顛倒（參《希伯來文舊約文本項目初步和中期報告》，<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> ）。許多解經家和翻譯者認為這裡提到的是另一種農具，一種帶木柄的三齒耙或叉子。如果這是耙子，那麼就是用它來把散落一地的枝葉攏在一起。不過它更有可能是一個叉子，叉齒需要經常磨尖。這種叉子用來叉起枝葉堆。</p>\n<p>「尖頭棒」（“Goad”；<em>darvan</em> ）：參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.2 刺棒、尖头棒 (goad)&lt;REALIA:1.1.2&gt;</a> 。</p>\n<p>這段經文要表達的要點是：以色列人被迫把他們用鈍了的農具帶到非利士人那裡去磨利。如果目標語言沒有表示這幾種農具的對應詞語，翻譯者可以用一般性的說法來表達這個意思，第20—21節可以這樣翻譯：「以色列人不得不去非利士人那裡磨快他們的鐵製農具。不同農具的價格不同。」另外也可以譯成：「以色列人不得不去非利士人那裡把他們已經用鈍的鐵製農具磨快。不同農具的價格不同。」另參《〈撒母耳記〉手冊》（<em>A Handbook on the First and Second Books of Samuel</em> ）第267—269頁對於這段經文的註解。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.9.1",
+"reference_id": "REALIA:1.1.9.1",
+"version": "1.0.4",
+"title": "標題：鋤頭（hoe）",
+"media_type": "Text",
+"index_reference": "1.1.9.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.1\"><span class=\"thlex-key\">1.1.9.1</span> 標題：鋤頭（hoe）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַחֲרֵשָׁה</span> <span class=\"thlex-translit\">(音譯： machareshah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַעְדֵּר</span> <span class=\"thlex-translit\">(音譯： ma‘der)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa7:25\">ISA 7:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0328_hoe.jpg\" alt=\"使用鋤頭的男人\"><figcaption class=\"thlex-caption\">使用鋤頭的男人 (Metropolitan Museum of Art, CC0, MMA)</figcaption></figure>鋤頭是一個扁平的金屬刃片，寬10—20厘米（4—8英吋），安裝在木柄上，刃片與鋤柄成直角。左圖所示是沒有木柄的鋤頭刃片。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>這種工具用來鬆土，更多是除草。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0329_hoe_blade_roman.jpg\" alt=\"鋤頭刀片（羅馬式）\"><figcaption class=\"thlex-caption\">鋤頭刀片（羅馬式） (© Giovanni Dall&#x27;Orto, Attribution, via Wikimedia Commons)</figcaption></figure>參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9 鐵器、鐵製工具 (iron tools)&lt;REALIA:1.1.9&gt;</a> 中對<a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> 的註解。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "23007025",
+"start_ref_usfm": "ISA 7:25",
+"end_ref": "23007025",
+"end_ref_usfm": "ISA 7:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.9.2",
+"reference_id": "REALIA:1.1.9.2",
+"version": "1.0.4",
+"title": "標題：叉（fork）",
+"media_type": "Text",
+"index_reference": "1.1.9.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.2\"><span class=\"thlex-key\">1.1.9.2</span> 標題：叉（fork）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שְׁלֹשׁ קִלְּשֹׁון</span> <span class=\"thlex-translit\">(音譯： shlosh qilshon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0329_hoe_blade_roman.jpg\" alt=\"鋤頭刀片（羅馬式）\"><figcaption class=\"thlex-caption\">鋤頭刀片（羅馬式） (© Giovanni Dall&#x27;Orto, Attribution, via Wikimedia Commons)</figcaption></figure>叉是由鐵製叉頭和一根木柄組成，鐵頭有兩個或三個尖齒，連接在木柄的末端，總長約1—1.3米（3—4英呎）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>農夫和在田地裡做工的人用叉子來叉起枝葉堆。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>參閱上面關於<a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> 的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.9.3",
+"reference_id": "REALIA:1.1.9.3",
+"version": "1.0.4",
+"title": "標題：斧頭、錛（axe, adze）",
+"media_type": "Text",
+"index_reference": "1.1.9.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.3\"><span class=\"thlex-key\">1.1.9.3</span> 標題：斧頭、錛（axe, adze）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּרְזֶל</span> <span class=\"thlex-translit\">(音譯： barzel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut19:5\">DEU 19:5</a>, <a href=\"https://ref.ly/2Kgs6:5\">2KI 6:5</a>, <a href=\"https://ref.ly/2Kgs6:6\">2KI 6:6</a>, <a href=\"https://ref.ly/Isa10:34\">ISA 10:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： גַּרְזֶן</span> <span class=\"thlex-translit\">(音譯： garzen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut19:5\">DEU 19:5</a>, <a href=\"https://ref.ly/Deut20:19\">DEU 20:19</a>, <a href=\"https://ref.ly/1Kgs6:7\">1KI 6:7</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַעֲצָד</span> <span class=\"thlex-translit\">(音譯： ma‘atsad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer10:3\">JER 10:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קַרְדֹּם</span> <span class=\"thlex-translit\">(音譯： qardom)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg9:48\">JDG 9:48</a>, <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a>, <a href=\"https://ref.ly/Ps74:5\">PSA 74:5</a>, <a href=\"https://ref.ly/Jer46:22\">JER 46:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἀξίνη</span> <span class=\"thlex-translit\">(音譯： axinē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:10\">MAT 3:10</a>, <a href=\"https://ref.ly/Luke3:9\">LUK 3:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： πέλεκυς</span> <span class=\"thlex-translit\">(音譯： pelekus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EpJer1:13\">LJE 1:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0330_adze.jpg\" alt=\"木柄錛\"><figcaption class=\"thlex-caption\">木柄錛 (Metropolitan Museum of Art, CC0, via Wikimedia Commons)</figcaption></figure>斧或錛是一種帶有鋒利金屬刃的工具，金屬頭固定在一根木柄上，約為一個男子手臂的長度。木柄通常會牢牢楔入金屬頭上的一個孔內，孔和刃分別位於金屬頭的兩端，若用繩子纏繞金屬頭和手柄，可使其更加牢固。斧（<em>garzen</em> ）的刃與手柄平行，而錛（<em>qardom</em> ）的刃則垂直於手柄。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0331_axe.jpg\" alt=\"敘利亞和伊朗的各種青銅套筒斧頭和錛頭（公元前2-1千年，聖安東尼奧藝術博物館（San Antonio Museum of Art），近東藏品）\"><figcaption class=\"thlex-caption\">敘利亞和伊朗的各種青銅套筒斧頭和錛頭（公元前2–1千年，聖安東尼奧藝術博物館（San Antonio Museum of Art），近東藏品） (© Zereshk, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>這種工具用來砍伐樹木和木本植物，將其劈成小塊，也是木匠用來砍削木材的工具之一。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/EpJer1:13\">LJE 1:13</a> 中提到的「斧子」很可能是一種武器而非手工工具。雖然斧子的形狀一般是相同的，但有些語言會用不同的詞語表示用來工作的斧子和用作武器的斧子。另外，翻譯者也可以比較寬泛地翻譯這節經文的前半部分，例如譯成「有時候他們拿著武器」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05019005",
+"start_ref_usfm": "DEU 19:5",
+"end_ref": "05019005",
+"end_ref_usfm": "DEU 19:5"
+},
+{
+"start_ref": "12006005",
+"start_ref_usfm": "2KI 6:5",
+"end_ref": "12006005",
+"end_ref_usfm": "2KI 6:5"
+},
+{
+"start_ref": "12006006",
+"start_ref_usfm": "2KI 6:6",
+"end_ref": "12006006",
+"end_ref_usfm": "2KI 6:6"
+},
+{
+"start_ref": "23010034",
+"start_ref_usfm": "ISA 10:34",
+"end_ref": "23010034",
+"end_ref_usfm": "ISA 10:34"
+},
+{
+"start_ref": "05020019",
+"start_ref_usfm": "DEU 20:19",
+"end_ref": "05020019",
+"end_ref_usfm": "DEU 20:19"
+},
+{
+"start_ref": "11006007",
+"start_ref_usfm": "1KI 6:7",
+"end_ref": "11006007",
+"end_ref_usfm": "1KI 6:7"
+},
+{
+"start_ref": "23010015",
+"start_ref_usfm": "ISA 10:15",
+"end_ref": "23010015",
+"end_ref_usfm": "ISA 10:15"
+},
+{
+"start_ref": "24010003",
+"start_ref_usfm": "JER 10:3",
+"end_ref": "24010003",
+"end_ref_usfm": "JER 10:3"
+},
+{
+"start_ref": "07009048",
+"start_ref_usfm": "JDG 9:48",
+"end_ref": "07009048",
+"end_ref_usfm": "JDG 9:48"
+},
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "19074005",
+"start_ref_usfm": "PSA 74:5",
+"end_ref": "19074005",
+"end_ref_usfm": "PSA 74:5"
+},
+{
+"start_ref": "24046022",
+"start_ref_usfm": "JER 46:22",
+"end_ref": "24046022",
+"end_ref_usfm": "JER 46:22"
+},
+{
+"start_ref": "40003010",
+"start_ref_usfm": "MAT 3:10",
+"end_ref": "40003010",
+"end_ref_usfm": "MAT 3:10"
+},
+{
+"start_ref": "42003009",
+"start_ref_usfm": "LUK 3:9",
+"end_ref": "42003009",
+"end_ref_usfm": "LUK 3:9"
+},
+{
+"start_ref": "74001013",
+"start_ref_usfm": "LJE 1:13",
+"end_ref": "74001013",
+"end_ref_usfm": "LJE 1:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "REALIA:1.1.9.4",
+"reference_id": "REALIA:1.1.9.4",
+"version": "1.0.4",
+"title": "標題：修枝刀（pruning knife）",
+"media_type": "Text",
+"index_reference": "1.1.9.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.4\"><span class=\"thlex-key\">1.1.9.4</span> 標題：修枝刀（pruning knife）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַזְמֵרָה</span> <span class=\"thlex-translit\">(音譯： mazmerah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a>, <a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a>, <a href=\"https://ref.ly/Joel4:10\">JOL 4:10</a>, <a href=\"https://ref.ly/Mic4:3\">MIC 4:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0332_pruning_hook.jpg\" alt=\"修剪鉤\"><figcaption class=\"thlex-caption\">修剪鉤 (Lax1, Public domain, via Wikimedia Commons)</figcaption></figure>修枝刀是一把刀或金屬刃片，有時會固定在一根長木柄上。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>修枝就是剪掉或剪短不結果子的枝子，使樹木能夠更好地結果。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>除<a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a> 之外，所有相關經文都是講到將長矛改鑄成修枝刀或者相反。如果當地文化沒有金屬犁和修枝刀等農具，翻譯者需要對這個比喻做出一些調整。經文的要點是，戰爭和流血的武器將被和平與繁榮的工具所取代（<a href=\"https://ref.ly/Joel4:10\">JOL 4:10</a> 則相反）。如果某個地區不使用鐵製工具，翻譯者可能無法保留武器被製成農具的意思。在這種情況下，翻譯者可以簡單地說：人們將摧毀武器，轉而製造農具。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23002004",
+"start_ref_usfm": "ISA 2:4",
+"end_ref": "23002004",
+"end_ref_usfm": "ISA 2:4"
+},
+{
+"start_ref": "23018005",
+"start_ref_usfm": "ISA 18:5",
+"end_ref": "23018005",
+"end_ref_usfm": "ISA 18:5"
+},
+{
+"start_ref": "29004010",
+"start_ref_usfm": "JOL 4:10",
+"end_ref": "29004010",
+"end_ref_usfm": "JOL 4:10"
+},
+{
+"start_ref": "33004003",
+"start_ref_usfm": "MIC 4:3",
+"end_ref": "33004003",
+"end_ref_usfm": "MIC 4:3"
+}
+],
+"resource": []
+}
+}
+]
