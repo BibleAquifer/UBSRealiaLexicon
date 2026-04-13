@@ -42,7 +42,16 @@
 "end_ref_usfm": "1CO 9:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Arena",
+"type": "realia",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Arena"
+}
+]
 }
 },
 {
@@ -64,7 +73,8 @@
 "end_ref_usfm": "2MA 4:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

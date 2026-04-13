@@ -102,7 +102,8 @@
 "end_ref_usfm": "1MA 10:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -136,7 +137,16 @@
 "end_ref_usfm": "1CH 20:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:StonePlane",
+"type": "realia",
+"confidence": 0.9325,
+"match_method": "scored",
+"preferred_label": "Stone Plane"
+}
+]
 }
 }
 ]

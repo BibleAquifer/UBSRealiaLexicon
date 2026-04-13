@@ -60,7 +60,16 @@
 "end_ref_usfm": "SIR 26:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Quiver",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Quiver"
+}
+]
 }
 }
 ]

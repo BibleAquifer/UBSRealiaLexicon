@@ -1248,7 +1248,23 @@
 "end_ref_usfm": "EXO 30:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.9495,
+"match_method": "scored",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.9301,
+"match_method": "scored",
+"preferred_label": "Anointing Oil"
+}
+]
 }
 }
 ]

@@ -42,7 +42,16 @@
 "end_ref_usfm": "2KI 20:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Olive Oil"
+}
+]
 }
 }
 ]

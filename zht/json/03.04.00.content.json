@@ -660,7 +660,16 @@
 "end_ref_usfm": "AMO 6:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 0.6259,
+"match_method": "scored",
+"preferred_label": "Palace"
+}
+]
 }
 }
 ]

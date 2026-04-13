@@ -288,7 +288,16 @@
 "end_ref_usfm": "GEN 37:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 0.6377,
+"match_method": "scored",
+"preferred_label": "Tunic"
+}
+]
 }
 }
 ]

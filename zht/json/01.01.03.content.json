@@ -306,7 +306,16 @@
 "end_ref_usfm": "DEU 25:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "Whip"
+}
+]
 }
 }
 ]

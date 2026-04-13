@@ -1590,7 +1590,16 @@
 "end_ref_usfm": "2ES 14:44"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.7205,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 }
 ]

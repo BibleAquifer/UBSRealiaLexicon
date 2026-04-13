@@ -84,7 +84,16 @@
 "end_ref_usfm": "REV 14:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sickle",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Sickle"
+}
+]
 }
 }
 ]

@@ -24,7 +24,16 @@
 "end_ref_usfm": "JHN 13:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Towel",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Towel"
+}
+]
 }
 }
 ]

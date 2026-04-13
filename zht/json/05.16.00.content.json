@@ -42,7 +42,16 @@
 "end_ref_usfm": "JHN 13:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bowl",
+"type": "realia",
+"confidence": 0.7275,
+"match_method": "scored",
+"preferred_label": "Bowl"
+}
+]
 }
 }
 ]

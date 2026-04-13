@@ -564,7 +564,16 @@
 "end_ref_usfm": "2ES 16:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.8652,
+"match_method": "scored",
+"preferred_label": "Bow"
+}
+]
 }
 }
 ]

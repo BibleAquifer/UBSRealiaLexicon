@@ -30,7 +30,23 @@
 "end_ref_usfm": "EZK 15:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Peg.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Peg"
+},
+{
+"id": "realia:Peg",
+"type": "realia",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Peg"
+}
+]
 }
 }
 ]

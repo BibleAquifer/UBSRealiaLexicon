@@ -444,7 +444,16 @@
 "end_ref_usfm": "AMO 7:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 0.8203,
+"match_method": "scored",
+"preferred_label": "High Place"
+}
+]
 }
 }
 ]

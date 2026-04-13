@@ -126,7 +126,16 @@
 "end_ref_usfm": "2CO 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 0.8947,
+"match_method": "scored",
+"preferred_label": "Veil"
+}
+]
 }
 }
 ]

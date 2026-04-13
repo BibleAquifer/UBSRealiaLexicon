@@ -186,7 +186,16 @@
 "end_ref_usfm": "GEN 6:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.739,
+"match_method": "scored",
+"preferred_label": "Ship"
+}
+]
 }
 }
 ]

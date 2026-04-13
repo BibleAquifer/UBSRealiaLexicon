@@ -96,7 +96,23 @@
 "end_ref_usfm": "ZEC 10:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:HouseholdIdols",
+"type": "realia",
+"confidence": 0.8544,
+"match_method": "scored",
+"preferred_label": "Household Idols"
+},
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"confidence": 0.7554,
+"match_method": "scored",
+"preferred_label": "Teraphim"
+}
+]
 }
 }
 ]

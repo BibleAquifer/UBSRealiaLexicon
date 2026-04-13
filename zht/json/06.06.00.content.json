@@ -216,7 +216,16 @@
 "end_ref_usfm": "JDT 9:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Belt",
+"type": "realia",
+"confidence": 0.6262,
+"match_method": "scored",
+"preferred_label": "Belt"
+}
+]
 }
 }
 ]

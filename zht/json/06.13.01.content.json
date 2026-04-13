@@ -48,7 +48,16 @@
 "end_ref_usfm": "ACT 22:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Strap",
+"type": "realia",
+"confidence": 0.8262,
+"match_method": "scored",
+"preferred_label": "Strap"
+}
+]
 }
 }
 ]

@@ -132,7 +132,8 @@
 "end_ref_usfm": "ESG 4:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -322,7 +323,23 @@
 "end_ref_usfm": "SIR 24:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 0.9034,
+"match_method": "scored",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 0.7517,
+"match_method": "scored",
+"preferred_label": "Myrrh"
+}
+]
 }
 },
 {
@@ -368,7 +385,23 @@
 "end_ref_usfm": "JHN 12:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Nard",
+"type": "flora",
+"confidence": 0.7885,
+"match_method": "scored",
+"preferred_label": "Nard"
+},
+{
+"id": "realia:OilOfNard",
+"type": "realia",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Oil of Nard"
+}
+]
 }
 }
 ]

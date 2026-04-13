@@ -102,7 +102,16 @@
 "end_ref_usfm": "MRK 14:63"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tunic",
+"type": "realia",
+"confidence": 0.749,
+"match_method": "scored",
+"preferred_label": "Tunic"
+}
+]
 }
 }
 ]

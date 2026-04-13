@@ -2232,7 +2232,16 @@
 "end_ref_usfm": "NEH 7:69"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.6794,
+"match_method": "scored",
+"preferred_label": "Money"
+}
+]
 }
 }
 ]

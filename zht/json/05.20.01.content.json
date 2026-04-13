@@ -396,7 +396,16 @@
 "end_ref_usfm": "1ES 2:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bowl.2",
+"type": "realia",
+"confidence": 0.775,
+"match_method": "scored",
+"preferred_label": "Bowl"
+}
+]
 }
 }
 ]

@@ -24,7 +24,16 @@
 "end_ref_usfm": "GEN 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Loincloth",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Loincloth"
+}
+]
 }
 }
 ]

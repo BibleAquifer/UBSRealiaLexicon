@@ -222,7 +222,16 @@
 "end_ref_usfm": "3MA 7:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 0.683,
+"match_method": "scored",
+"preferred_label": "Sacred Pillar"
+}
+]
 }
 }
 ]

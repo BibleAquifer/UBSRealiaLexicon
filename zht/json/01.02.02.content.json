@@ -84,7 +84,16 @@
 "end_ref_usfm": "LUK 15:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:AnimalPen",
+"type": "realia",
+"confidence": 0.7298,
+"match_method": "scored",
+"preferred_label": "Animal Pen"
+}
+]
 }
 }
 ]
