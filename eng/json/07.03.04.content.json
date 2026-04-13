@@ -36,7 +36,16 @@
 "end_ref_usfm": "DAN 3:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bagpipe",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Bagpipe"
+}
+]
 }
 }
 ]

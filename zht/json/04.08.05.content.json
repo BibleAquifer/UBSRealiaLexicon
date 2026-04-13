@@ -390,7 +390,16 @@
 "end_ref_usfm": "2ES 16:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.6525,
+"match_method": "scored",
+"preferred_label": "Sackcloth"
+}
+]
 }
 }
 ]

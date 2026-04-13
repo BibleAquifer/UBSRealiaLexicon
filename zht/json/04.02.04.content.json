@@ -282,7 +282,30 @@
 "end_ref_usfm": "REV 11:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.6367,
+"match_method": "scored",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:HornsOfAltar",
+"type": "realia",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Horns of Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
+]
 }
 }
 ]

@@ -24,7 +24,16 @@
 "end_ref_usfm": "NAM 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:BrickMold",
+"type": "realia",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Brick Mold"
+}
+]
 }
 }
 ]

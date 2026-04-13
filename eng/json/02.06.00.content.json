@@ -72,7 +72,16 @@
 "end_ref_usfm": "JHN 19:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Javelin",
+"type": "realia",
+"confidence": 0.88,
+"match_method": "scored",
+"preferred_label": "Javelin"
+}
+]
 }
 }
 ]

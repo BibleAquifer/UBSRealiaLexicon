@@ -246,7 +246,16 @@
 "end_ref_usfm": "EXO 17:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Standard",
+"type": "realia",
+"confidence": 0.727,
+"match_method": "scored",
+"preferred_label": "Standard"
+}
+]
 }
 }
 ]

@@ -1164,7 +1164,23 @@
 "end_ref_usfm": "2CH 24:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 0.8479,
+"match_method": "scored",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.8354,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
+}
+]
 }
 }
 ]

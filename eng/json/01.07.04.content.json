@@ -30,7 +30,23 @@
 "end_ref_usfm": "EZK 9:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:WritingCase",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Writing Case"
+},
+{
+"id": "realia:Linen",
+"type": "realia",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Linen"
+}
+]
 }
 }
 ]

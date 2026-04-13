@@ -120,7 +120,16 @@
 "end_ref_usfm": "JDT 10:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Earring",
+"type": "realia",
+"confidence": 0.8161,
+"match_method": "scored",
+"preferred_label": "Earring"
+}
+]
 }
 }
 ]

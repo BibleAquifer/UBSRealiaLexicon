@@ -270,7 +270,16 @@
 "end_ref_usfm": "4MA 12:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"confidence": 0.5839,
+"match_method": "scored",
+"preferred_label": "Cooking Pot"
+}
+]
 }
 }
 ]

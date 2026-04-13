@@ -810,7 +810,16 @@
 "end_ref_usfm": "REV 18:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.7373,
+"match_method": "scored",
+"preferred_label": "Ship"
+}
+]
 }
 }
 ]

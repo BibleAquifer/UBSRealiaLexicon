@@ -18,7 +18,16 @@
 "end_ref_usfm": "ISA 14:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Broom",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Broom"
+}
+]
 }
 }
 ]

@@ -444,7 +444,16 @@
 "end_ref_usfm": "DAG 3:55"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.8589,
+"match_method": "scored",
+"preferred_label": "Winged Creature"
+}
+]
 }
 }
 ]

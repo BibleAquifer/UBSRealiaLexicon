@@ -1806,7 +1806,16 @@
 "end_ref_usfm": "EXO 40:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
@@ -2536,7 +2545,30 @@
 "end_ref_usfm": "HEB 8:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6067,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
+},
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Holy Place"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.5678,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
@@ -2912,7 +2944,8 @@
 "end_ref_usfm": "HEB 6:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2927,7 +2960,8 @@
 "content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3\"><span class=\"thlex-key\">3.15.2.3</span> 标题：帐幕的结构（Tabernacle construction）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>人们对于帐幕结构的描述有很大的差异。和沙漠游牧民族的住所一样，帐幕是一个临时的构筑物，易于拆装和运输。要确定描述帐幕结构的许多词语的确切含义，这是很困难的。下面的一般性描述反映了大多数学者的观点，但应该足以帮助翻译者完成翻译工作。我们将分别描述帐幕的各个部分。</p>\n<p>完整的帐幕由两个主要构筑物组成。帐幕有一道用柱子和帷幔做成的外围墙，就是院子的边界。通过外围墙东面的一个开口，可以进到院子里面。希伯来文<em>mishkan</em> 有时用来指各个部分所组成的整体。然而，这个词通常指的是第二个构筑物，即位于封闭式建筑里面的大帐棚。我们这里所用的“帐幕”一词指的就是这个构筑物。</p>\n<p>基本上，帐幕是一座帐棚，里面有一个框架将其支撑起来。这个框架是由一系列支架（竖板）连接而成的。每个支架由五根金合欢木做成，即两根较长的竖杆分别在顶部、中部和底部附近由横档连接在一起。竖杆的末端延伸到最下面的横档以下。竖杆突出来的这部分称为榫，插入到一个很重的银底座上面对应的卯眼里；银底座的宽度和支架的宽度相同。支架和底座并排放置，形成一面墙。然后，把横木穿过支架上面的三排金环中，这样支架墙就稳固了。帐幕有三面这样的支架墙；帐幕的东面没有墙，而是一个入口，用挂在柱子上的幔子垂下来遮住。</p>\n<p>帐幕的顶面和三个侧面覆盖着四层用不同材料做成的罩棚。内层是由绣着基路伯的细麻布做成的幔子（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.5.3.7 麻、亚麻、细麻布 (linen)&lt;REALIA:1.5.3.7&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.5.3.11 绣花布、刺绣作品 (embroidered cloth, needlework)&lt;REALIA:1.5.3.11&gt;</a> ），这层幔子构成帐幕内部的顶棚，另外通过支架的开孔也可以看到。这层幔子翻过支架墙的顶部，从一面墙搭到另一面墙。这样，它就形成了帐幕的顶棚，并从侧面的支架墙上垂下，距离地面约有50厘米（20英寸）。在这层幔子上面，还覆盖有三层罩棚，以保护支架、细麻布幔子，以及帐幕内的物件。虽然外面几层罩棚未经装饰（除了有一块染成红色），看起来并不富丽堂皇，但选择这几种材料是因为它们能够防水，尽管西奈地区的降雨并不多。帐幕顶部铺着四层罩棚，形成了一个平坦、没有斜度的顶棚，因此整个帐幕看上去就像是一个盒子。外面几层罩棚比最里面的细麻布幔子要长，一直垂到地上。帐幕的一个侧面没有盖住，留作入口。</p>\n<p>帐幕的许多物件都是根据相同的基本样式做成的。例如，圣所顶部的罩棚是用钩子和环把两块大幔子连在一起做成的。同样，至圣所前面的幔子也是把环缝到幔子上，然后挂到顶棚的钩子上悬垂下来；把院子围起来的幔子（帷幔）和圣所入口的幔子（门帘）也是用同样的方法挂起来的。另外，所有这些幔子都是用同样的方法挂起来的，即立在沉重金属底座上面的木柱子上。翻译者一旦确定了环、钩子、柱子、底座和幔子的用词，就要始终使用相同的词语，以保持一致。</p>\n<p>帐幕中有几样物件是用金合欢木（希伯来文<em>shitah</em> ）做的。</p>\n<p>即使目标语言翻译帐幕的各个部分并不特别困难，我们仍然建议给读者提供一些插图或示意图。</p>\n</div>\n</div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3147,7 +3181,16 @@
 "end_ref_usfm": "EZK 27:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Frame",
+"type": "realia",
+"confidence": 0.7902,
+"match_method": "scored",
+"preferred_label": "Frame"
+}
+]
 }
 },
 {
@@ -3403,7 +3446,8 @@
 "end_ref_usfm": "EXO 26:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3455,7 +3499,8 @@
 "end_ref_usfm": "EXO 26:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3495,7 +3540,8 @@
 "end_ref_usfm": "EXO 36:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3721,7 +3767,8 @@
 "end_ref_usfm": "NAM 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3736,7 +3783,8 @@
 "content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6\"><span class=\"thlex-key\">3.15.2.3.6</span> 标题：罩棚（coverings）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0023_tabernacle_covering.jpg\" alt=\"可移动的会幕上的多层覆盖物\"><figcaption class=\"thlex-caption\">可移动的会幕上的多层覆盖物 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>\n          </p>\n</div>\n</div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3842,7 +3890,23 @@
 "end_ref_usfm": "1CH 17:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"confidence": 0.8567,
+"match_method": "scored",
+"preferred_label": "Linen Strips"
+},
+{
+"id": "realia:GoatHairStrips",
+"type": "realia",
+"confidence": 0.7892,
+"match_method": "scored",
+"preferred_label": "Goat Hair Strips"
+}
+]
 }
 },
 {
@@ -3854,7 +3918,7 @@
 "index_reference": "3.15.2.3.6.2",
 "language": "zhs",
 "review_level": "None",
-"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6.2\"><span class=\"thlex-key\">3.15.2.3.6.2</span> 标题：钮环和钩（loops and hooks）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>钮环</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：לוּלָאָה</span> <span class=\"thlex-translit\">(音译：lula’ot)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:4\">EXO 26:4</a>, <a href=\"https://ref.ly/Exod26:5\">EXO 26:5</a>, <a href=\"https://ref.ly/Exod26:5\">EXO 26:5</a>, <a href=\"https://ref.ly/Exod26:5\">EXO 26:5</a>, <a href=\"https://ref.ly/Exod26:10\">EXO 26:10</a>, <a href=\"https://ref.ly/Exod26:10\">EXO 26:10</a>, <a href=\"https://ref.ly/Exod26:11\">EXO 26:11</a>, <a href=\"https://ref.ly/Exod36:11\">EXO 36:11</a>, <a href=\"https://ref.ly/Exod36:12\">EXO 36:12</a>, <a href=\"https://ref.ly/Exod36:12\">EXO 36:12</a>, <a href=\"https://ref.ly/Exod36:12\">EXO 36:12</a>, <a href=\"https://ref.ly/Exod36:17\">EXO 36:17</a>, <a href=\"https://ref.ly/Exod36:17\">EXO 36:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>钩</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：קֶרֶס</span> <span class=\"thlex-translit\">(音译：qrasim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:6\">EXO 26:6</a>, <a href=\"https://ref.ly/Exod26:6\">EXO 26:6</a>, <a href=\"https://ref.ly/Exod26:11\">EXO 26:11</a>, <a href=\"https://ref.ly/Exod26:11\">EXO 26:11</a>, <a href=\"https://ref.ly/Exod26:33\">EXO 26:33</a>, <a href=\"https://ref.ly/Exod35:11\">EXO 35:11</a>, <a href=\"https://ref.ly/Exod36:13\">EXO 36:13</a>, <a href=\"https://ref.ly/Exod36:13\">EXO 36:13</a>, <a href=\"https://ref.ly/Exod36:18\">EXO 36:18</a>, <a href=\"https://ref.ly/Exod39:33\">EXO 39:33</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\" data-image-id=\"WEB-0431_hook_loops_hans\"><img class=\"thlex-img\" alt=\"WEB-0431_hook_loops_hans\"></figure>组成帐幕罩棚的两块大布（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.6.1 细麻布幔子 (linen cloth strips)&lt;REALIA:3.15.2.3.6.1&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.6.3 山羊毛幔子 (goat hair cloth strips)&lt;REALIA:3.15.2.3.6.3&gt;</a> ）是用环和钩连接起来的。沿着一块大布的一条边，每隔一段距离缝上一个用绳子做的环。沿着另一块大布的边缘系上金属钩，使钩子的位置正好与第一块布上的环相对应。把钩穿到环里，两块布就成了一块更大的布。细麻布罩棚和山羊毛罩棚都是采用这种做法。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>“环”的希伯来文指的是用蓝色线做成的U形配对物件，U形的两个末端缝到细麻布幔子的边缘上，留出一个刚好能让金钩穿过的洞。在一些语言中，有必要把<a href=\"https://ref.ly/Exod26:4\">EXO 26:4</a> 译为“用蓝色布做环，并把它们缝到每套幔子的最外面那幅上”，从而清楚指出“缝”的动作。在一些语言中，“环”应译为“耳朵”或某个类似的物品。</p>\n<p>“钩”（“hooks”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）的希伯来文也可以指“扣环”（“clasps”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）或“按扣”（“fasteners”；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）。这个词语源自意为“弯过来”的动词，故钩子可能是S形的。</p>\n</div>\n</div>",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6.2\"><span class=\"thlex-key\">3.15.2.3.6.2</span> 标题：钮环和钩（loops and hooks）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>钮环</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：לוּלָאָה</span> <span class=\"thlex-translit\">(音译：lula’ot)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:4\">EXO 26:4</a>, <a href=\"https://ref.ly/Exod26:5\">EXO 26:5</a>, <a href=\"https://ref.ly/Exod26:5\">EXO 26:5</a>, <a href=\"https://ref.ly/Exod26:5\">EXO 26:5</a>, <a href=\"https://ref.ly/Exod26:10\">EXO 26:10</a>, <a href=\"https://ref.ly/Exod26:10\">EXO 26:10</a>, <a href=\"https://ref.ly/Exod26:11\">EXO 26:11</a>, <a href=\"https://ref.ly/Exod36:11\">EXO 36:11</a>, <a href=\"https://ref.ly/Exod36:12\">EXO 36:12</a>, <a href=\"https://ref.ly/Exod36:12\">EXO 36:12</a>, <a href=\"https://ref.ly/Exod36:12\">EXO 36:12</a>, <a href=\"https://ref.ly/Exod36:17\">EXO 36:17</a>, <a href=\"https://ref.ly/Exod36:17\">EXO 36:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>钩</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：קֶרֶס</span> <span class=\"thlex-translit\">(音译：qrasim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:6\">EXO 26:6</a>, <a href=\"https://ref.ly/Exod26:6\">EXO 26:6</a>, <a href=\"https://ref.ly/Exod26:11\">EXO 26:11</a>, <a href=\"https://ref.ly/Exod26:11\">EXO 26:11</a>, <a href=\"https://ref.ly/Exod26:33\">EXO 26:33</a>, <a href=\"https://ref.ly/Exod35:11\">EXO 35:11</a>, <a href=\"https://ref.ly/Exod36:13\">EXO 36:13</a>, <a href=\"https://ref.ly/Exod36:13\">EXO 36:13</a>, <a href=\"https://ref.ly/Exod36:18\">EXO 36:18</a>, <a href=\"https://ref.ly/Exod39:33\">EXO 39:33</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0431_hook_loops_hans.png\" alt=\"WEB-0431_hook_loops_hans\"></figure>组成帐幕罩棚的两块大布（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.6.1 细麻布幔子 (linen cloth strips)&lt;REALIA:3.15.2.3.6.1&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.6.3 山羊毛幔子 (goat hair cloth strips)&lt;REALIA:3.15.2.3.6.3&gt;</a> ）是用环和钩连接起来的。沿着一块大布的一条边，每隔一段距离缝上一个用绳子做的环。沿着另一块大布的边缘系上金属钩，使钩子的位置正好与第一块布上的环相对应。把钩穿到环里，两块布就成了一块更大的布。细麻布罩棚和山羊毛罩棚都是采用这种做法。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>“环”的希伯来文指的是用蓝色线做成的U形配对物件，U形的两个末端缝到细麻布幔子的边缘上，留出一个刚好能让金钩穿过的洞。在一些语言中，有必要把<a href=\"https://ref.ly/Exod26:4\">EXO 26:4</a> 译为“用蓝色布做环，并把它们缝到每套幔子的最外面那幅上”，从而清楚指出“缝”的动作。在一些语言中，“环”应译为“耳朵”或某个类似的物品。</p>\n<p>“钩”（“hooks”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）的希伯来文也可以指“扣环”（“clasps”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）或“按扣”（“fasteners”；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）。这个词语源自意为“弯过来”的动词，故钩子可能是S形的。</p>\n</div>\n</div>",
 "associations": {
 "passage": [
 {
@@ -3936,7 +4000,16 @@
 "end_ref_usfm": "EXO 39:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Loop",
+"type": "realia",
+"confidence": 0.9685,
+"match_method": "scored",
+"preferred_label": "Loop"
+}
+]
 }
 },
 {
@@ -4012,7 +4085,23 @@
 "end_ref_usfm": "EXO 36:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:GoatHairStrips",
+"type": "realia",
+"confidence": 0.928,
+"match_method": "scored",
+"preferred_label": "Goat Hair Strips"
+},
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "Linen Strips"
+}
+]
 }
 },
 {
@@ -4024,7 +4113,7 @@
 "index_reference": "3.15.2.3.6.4",
 "language": "zhs",
 "review_level": "None",
-"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6.4\"><span class=\"thlex-key\">3.15.2.3.6.4</span> 标题：帐幕的罩棚（outer coverings for the Tabernacle）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִכְסֶה</span> <span class=\"thlex-translit\">(音译：mikseh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod35:11\">EXO 35:11</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod40:19\">EXO 40:19</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\" data-image-id=\"BOT-0023_tabernacle_outertent_hans\"><img class=\"thlex-img\" alt=\"外面的罩棚和绳子\"><figcaption class=\"thlex-caption\">外面的罩棚和绳子 (Elbert Boot © United Bible Societies)</figcaption></figure>在帐幕里面两层罩棚的上面还有两层。经文只是简单提到外面这两层罩棚，并没有详加描述。我们不确定这两层是仅仅覆盖了帐幕的顶部，还是像山羊毛罩棚那样从侧面垂到地上。这两层罩棚是用两种不同的兽皮做的。第一层是用染红的公羊皮（或鞣制的公羊皮；参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.13 皮革 (leather)&lt;REALIA:1.13&gt;</a> ）。第二层是用一种海洋哺乳动物的皮做的。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0432_dugong.jpg\" alt=\"儒艮（学名Dugong dugon），与海牛同类\"><figcaption class=\"thlex-caption\">儒艮（学名Dugong dugon），与海牛同类 (© Julien Willem, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>\n            <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a> ：制作最外层罩棚所用皮革究竟来自哪种哺乳动物，翻译者意见不一。各种译本的译法包括“獾”（“badger”；<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ）、“海豹”和“儒艮”（“dugong”；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ），或者是范围比较宽泛的“海牛”（“sea cow”；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）、“海豚”（“dolphin”；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）、“鼠海豚”（“porpoise”；<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> ）和“山羊”（“goat”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）。这些译法大多表明这是一种相当罕见，因而非常特别的皮革。也许因为这个原因，最近的通俗译本趋向于把希伯来文<em>tachash</em> 译为“上好的皮革”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ），而不指明是哪种动物的皮。如果某种语言必须指明皮革来自哪种动物，那么“海牛”或“鼠海豚”是最好的选择。</p>\n</div>\n</div>",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6.4\"><span class=\"thlex-key\">3.15.2.3.6.4</span> 标题：帐幕的罩棚（outer coverings for the Tabernacle）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מִכְסֶה</span> <span class=\"thlex-translit\">(音译：mikseh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod35:11\">EXO 35:11</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod40:19\">EXO 40:19</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/BOT-0023_tabernacle_outertent_hans.jpg\" alt=\"外面的罩棚和绳子\"><figcaption class=\"thlex-caption\">外面的罩棚和绳子 (Elbert Boot © United Bible Societies)</figcaption></figure>在帐幕里面两层罩棚的上面还有两层。经文只是简单提到外面这两层罩棚，并没有详加描述。我们不确定这两层是仅仅覆盖了帐幕的顶部，还是像山羊毛罩棚那样从侧面垂到地上。这两层罩棚是用两种不同的兽皮做的。第一层是用染红的公羊皮（或鞣制的公羊皮；参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.13 皮革 (leather)&lt;REALIA:1.13&gt;</a> ）。第二层是用一种海洋哺乳动物的皮做的。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0432_dugong.jpg\" alt=\"儒艮（学名Dugong dugon），与海牛同类\"><figcaption class=\"thlex-caption\">儒艮（学名Dugong dugon），与海牛同类 (© Julien Willem, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>\n            <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a> ：制作最外层罩棚所用皮革究竟来自哪种哺乳动物，翻译者意见不一。各种译本的译法包括“獾”（“badger”；<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ）、“海豹”和“儒艮”（“dugong”；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ），或者是范围比较宽泛的“海牛”（“sea cow”；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）、“海豚”（“dolphin”；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）、“鼠海豚”（“porpoise”；<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> ）和“山羊”（“goat”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）。这些译法大多表明这是一种相当罕见，因而非常特别的皮革。也许因为这个原因，最近的通俗译本趋向于把希伯来文<em>tachash</em> 译为“上好的皮革”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ），而不指明是哪种动物的皮。如果某种语言必须指明皮革来自哪种动物，那么“海牛”或“鼠海豚”是最好的选择。</p>\n</div>\n</div>",
 "associations": {
 "passage": [
 {
@@ -4070,7 +4159,8 @@
 "end_ref_usfm": "NUM 4:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4596,7 +4686,8 @@
 "end_ref_usfm": "EXO 26:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4608,7 +4699,7 @@
 "index_reference": "3.15.2.3.8",
 "language": "zhs",
 "review_level": "None",
-"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.8\"><span class=\"thlex-key\">3.15.2.3.8</span> 标题：门帘（screen, entrance curtain）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מָסָךְ</span> <span class=\"thlex-translit\">(音译：masak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a>, <a href=\"https://ref.ly/Exod26:37\">EXO 26:37</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod35:15\">EXO 35:15</a>, <a href=\"https://ref.ly/Exod35:17\">EXO 35:17</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod39:38\">EXO 39:38</a>, <a href=\"https://ref.ly/Exod39:40\">EXO 39:40</a>, <a href=\"https://ref.ly/Exod40:5\">EXO 40:5</a>, <a href=\"https://ref.ly/Exod40:8\">EXO 40:8</a>, <a href=\"https://ref.ly/Exod40:28\">EXO 40:28</a>, <a href=\"https://ref.ly/Exod40:33\">EXO 40:33</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num3:26\">NUM 3:26</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:26\">NUM 4:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\" data-image-id=\"BOT-0024_posts_entrycurtain_hans\"><img class=\"thlex-img\" alt=\"柱子和门帘\"><figcaption class=\"thlex-caption\">柱子和门帘 (Elbert Boot © United Bible Societies)</figcaption></figure>门帘是一幅大帘子，悬挂在帐幕入口处的五根柱子上，作为帐幕的门，和普通帐棚的门帘差不多。挂上门帘的目的是不让百姓看到帐幕内进行的活动。参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.7 帐幕里面和院子周围用来挂幔子的柱子 (posts from which curtains were hung in and around the Tabernacle)&lt;REALIA:3.15.2.3.7&gt;</a> 中的描述。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>masak</em> 既用来指圣所入口处的门帘，也指帐幕院子入口处挂着的门帘。</p>\n</div>\n</div>",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.8\"><span class=\"thlex-key\">3.15.2.3.8</span> 标题：门帘（screen, entrance curtain）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מָסָךְ</span> <span class=\"thlex-translit\">(音译：masak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a>, <a href=\"https://ref.ly/Exod26:37\">EXO 26:37</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod35:15\">EXO 35:15</a>, <a href=\"https://ref.ly/Exod35:17\">EXO 35:17</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod39:38\">EXO 39:38</a>, <a href=\"https://ref.ly/Exod39:40\">EXO 39:40</a>, <a href=\"https://ref.ly/Exod40:5\">EXO 40:5</a>, <a href=\"https://ref.ly/Exod40:8\">EXO 40:8</a>, <a href=\"https://ref.ly/Exod40:28\">EXO 40:28</a>, <a href=\"https://ref.ly/Exod40:33\">EXO 40:33</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num3:26\">NUM 3:26</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:26\">NUM 4:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/BOT-0024_posts_entrycurtain_hans.jpg\" alt=\"柱子和门帘\"><figcaption class=\"thlex-caption\">柱子和门帘 (Elbert Boot © United Bible Societies)</figcaption></figure>门帘是一幅大帘子，悬挂在帐幕入口处的五根柱子上，作为帐幕的门，和普通帐棚的门帘差不多。挂上门帘的目的是不让百姓看到帐幕内进行的活动。参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.7 帐幕里面和院子周围用来挂幔子的柱子 (posts from which curtains were hung in and around the Tabernacle)&lt;REALIA:3.15.2.3.7&gt;</a> 中的描述。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>masak</em> 既用来指圣所入口处的门帘，也指帐幕院子入口处挂着的门帘。</p>\n</div>\n</div>",
 "associations": {
 "passage": [
 {
@@ -4714,7 +4805,16 @@
 "end_ref_usfm": "NUM 4:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Screen",
+"type": "realia",
+"confidence": 0.7345,
+"match_method": "scored",
+"preferred_label": "Screen"
+}
+]
 }
 },
 {
@@ -4880,7 +4980,16 @@
 "end_ref_usfm": "EXO 26:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.723,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
+]
 }
 },
 {
@@ -5016,7 +5125,8 @@
 "end_ref_usfm": "EXO 26:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

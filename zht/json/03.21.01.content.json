@@ -666,7 +666,16 @@
 "end_ref_usfm": "JER 38:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.6643,
+"match_method": "scored",
+"preferred_label": "Prison"
+}
+]
 }
 }
 ]

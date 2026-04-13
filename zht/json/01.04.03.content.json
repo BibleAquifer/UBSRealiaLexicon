@@ -24,7 +24,16 @@
 "end_ref_usfm": "SIR 11:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cage",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Cage"
+}
+]
 }
 }
 ]

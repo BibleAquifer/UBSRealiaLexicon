@@ -36,7 +36,16 @@
 "end_ref_usfm": "JHN 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 0.6435,
+"match_method": "scored",
+"preferred_label": "Temple"
+}
+]
 }
 }
 ]

@@ -354,7 +354,16 @@
 "end_ref_usfm": "JOL 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Weapons",
+"type": "realia",
+"confidence": 0.6272,
+"match_method": "scored",
+"preferred_label": "Weapons"
+}
+]
 }
 }
 ]

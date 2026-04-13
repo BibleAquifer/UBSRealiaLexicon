@@ -42,7 +42,16 @@
 "end_ref_usfm": "ISA 3:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:BandOfCloth",
+"type": "realia",
+"confidence": 0.83,
+"match_method": "scored",
+"preferred_label": "Band of Cloth"
+}
+]
 }
 }
 ]

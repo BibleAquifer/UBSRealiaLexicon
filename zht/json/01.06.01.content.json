@@ -180,7 +180,16 @@
 "end_ref_usfm": "2ES 4:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Balance",
+"type": "realia",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Balance"
+}
+]
 }
 }
 ]

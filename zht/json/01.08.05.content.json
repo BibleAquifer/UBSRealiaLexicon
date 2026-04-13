@@ -42,7 +42,16 @@
 "end_ref_usfm": "ISA 28:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:PlumbLine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Plumb Line"
+}
+]
 }
 }
 ]

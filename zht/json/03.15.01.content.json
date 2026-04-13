@@ -120,7 +120,23 @@
 "end_ref_usfm": "2CH 5:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.8222,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+},
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.5612,
+"match_method": "scored",
+"preferred_label": "Tent"
+}
+]
 }
 }
 ]

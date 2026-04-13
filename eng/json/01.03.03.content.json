@@ -90,7 +90,16 @@
 "end_ref_usfm": "JOB 40:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Harpoon",
+"type": "realia",
+"confidence": 0.6189,
+"match_method": "scored",
+"preferred_label": "Harpoon"
+}
+]
 }
 }
 ]

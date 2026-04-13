@@ -474,7 +474,16 @@
 "end_ref_usfm": "2ES 6:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 0.5644,
+"match_method": "scored",
+"preferred_label": "Seal"
+}
+]
 }
 }
 ]

@@ -546,7 +546,16 @@
 "end_ref_usfm": "GEN 44:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cup",
+"type": "realia",
+"confidence": 0.609,
+"match_method": "scored",
+"preferred_label": "Cup"
+}
+]
 }
 }
 ]

@@ -60,7 +60,16 @@
 "end_ref_usfm": "ACT 28:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Inn",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Inn"
+}
+]
 }
 }
 ]

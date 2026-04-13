@@ -18,7 +18,16 @@
 "end_ref_usfm": "ACT 25:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:AudienceHall",
+"type": "realia",
+"confidence": 0.91,
+"match_method": "scored",
+"preferred_label": "Audience Hall"
+}
+]
 }
 }
 ]

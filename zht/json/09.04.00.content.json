@@ -2316,7 +2316,16 @@
 "end_ref_usfm": "2SA 13:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cake",
+"type": "realia",
+"confidence": 0.6146,
+"match_method": "scored",
+"preferred_label": "Cake"
+}
+]
 }
 }
 ]

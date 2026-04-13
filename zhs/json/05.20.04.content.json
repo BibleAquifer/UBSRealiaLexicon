@@ -54,7 +54,16 @@
 "end_ref_usfm": "PRO 23:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Knife",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Knife"
+}
+]
 }
 }
 ]

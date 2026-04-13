@@ -18,7 +18,16 @@
 "end_ref_usfm": "LUK 24:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6025,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
+}
+]
 }
 }
 ]

@@ -294,7 +294,16 @@
 "end_ref_usfm": "1SA 15:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.7362,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
+]
 }
 }
 ]

@@ -30,7 +30,16 @@
 "end_ref_usfm": "LUK 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bier",
+"type": "realia",
+"confidence": 0.7195,
+"match_method": "scored",
+"preferred_label": "Bier"
+}
+]
 }
 }
 ]

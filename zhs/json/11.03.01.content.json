@@ -18,7 +18,8 @@
 "end_ref_usfm": "LEV 14:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -40,7 +41,8 @@
 "end_ref_usfm": "2KI 6:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -92,7 +94,16 @@
 "end_ref_usfm": "2KI 7:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Seah",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Seah"
+}
+]
 }
 },
 {
@@ -294,7 +305,16 @@
 "end_ref_usfm": "NUM 15:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Ephah",
+"type": "realia",
+"confidence": 0.8968,
+"match_method": "scored",
+"preferred_label": "Ephah"
+}
+]
 }
 },
 {
@@ -370,7 +390,16 @@
 "end_ref_usfm": "EXO 21:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Homer",
+"type": "realia",
+"confidence": 0.88,
+"match_method": "scored",
+"preferred_label": "Homer"
+}
+]
 }
 },
 {
@@ -422,7 +451,16 @@
 "end_ref_usfm": "EZR 7:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Kor",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Kor"
+}
+]
 }
 },
 {
@@ -474,7 +512,16 @@
 "end_ref_usfm": "EXO 16:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Omer",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Omer"
+}
+]
 }
 },
 {
@@ -520,7 +567,16 @@
 "end_ref_usfm": "LEV 14:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Log",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Log"
+}
+]
 }
 },
 {
@@ -650,7 +706,16 @@
 "end_ref_usfm": "EZK 46:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Hin",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Hin"
+}
+]
 }
 },
 {
@@ -714,7 +779,16 @@
 "end_ref_usfm": "EZK 45:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bath",
+"type": "realia",
+"confidence": 0.95,
+"match_method": "scored",
+"preferred_label": "Bath"
+}
+]
 }
 },
 {
@@ -736,7 +810,8 @@
 "end_ref_usfm": "HOS 3:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -764,7 +839,8 @@
 "end_ref_usfm": "ISA 40:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

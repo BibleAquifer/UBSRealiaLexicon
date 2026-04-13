@@ -192,7 +192,16 @@
 "end_ref_usfm": "MRK 2:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.5617,
+"match_method": "scored",
+"preferred_label": "House"
+}
+]
 }
 }
 ]

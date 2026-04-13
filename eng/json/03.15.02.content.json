@@ -1800,7 +1800,16 @@
 "end_ref_usfm": "EXO 40:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
@@ -2530,7 +2539,30 @@
 "end_ref_usfm": "HEB 8:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6067,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
+},
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Holy Place"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.5678,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
@@ -2912,7 +2944,8 @@
 "end_ref_usfm": "HEB 6:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2927,7 +2960,8 @@
 "content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3\"><span class=\"thlex-key\">3.15.2.3</span> Tabernacle construction</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Attempted depictions of the structure of the Tabernacle vary rather widely. Like the dwellings of desert nomads, it was a temporary structure, easy to assemble and disassemble, easy to transport. There is a lot of difficulty in determining the precise meaning of much of the terminology used to describe the construction. The general description that follows reflects the opinion of most scholars, and it should be sufficient to assist the translator in his task. The individual parts will be described separately.</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Tabernacle complex consisted of two main structures. There was an outer wall made of poles and curtains. This defined the borders of the courtyard. Entry into the courtyard was through an opening in the eastern side of the outer wall. The Hebrew word <em>mishkan</em> is sometimes used to indicate the entire complex. More often, however, it means the second structure, the large tent that stood inside the enclosed complex. It is for this latter structure that we use the word Tabernacle here.</p>\n<p>The Tabernacle was basically a tent spread over a framework. The framework was made of a series of individual frames that were joined together. A frame was made of five pieces of acacia wood. Two long uprights were joined at the top, the middle, and near the bottom by crosspieces or rungs. The ends of the uprights extended below the bottom rung. These two extensions, technically called tenons, fit into corresponding holes in a heavy silver base, which was the same width as the frame. The frames on their bases were set side-by-side, forming a wall. This frame wall was then made stable by inserting bars through three lines of rings that were attached to the frames. There were three such frame walls; the east side had no wall but only an entrance of curtains hung from poles.</p>\n<p>The top and sides of the Tabernacle were covered by four layers of different materials. The inner layer, which would have been visible on the inside above and through the openings in the frames, was made of embroidered linen (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.5.3.7 Linen&lt;REALIA:1.5.3.7&gt;</a> and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.5.3.11 Embroidered cloth, needlework&lt;REALIA:1.5.3.11&gt;</a>). This layer stretched out over the top of the frame from one side to the other. In this way it formed the ceiling and hung down on both sides to within about 50 centimeters (20 inches) of the ground. Over top of the entire structure were spread three layers intended to protect the frames, the linen curtains, and the implements inside the Tabernacle. While the outer layers were not decorated (except that one was dyed red) and would not have been particularly attractive, they were chosen for their ability to protect against rain, even the relatively small amounts that fall in the Sinai region. Spreading the four layers over the top had the effect of giving the Tabernacle a flat roof, not sloped, and thus it would have resembled a box. The outer layers were longer than the linen layer and hung down to the ground. One end was left open as an entrance.</p>\n<p>A number of the objects for the Tabernacle were constructed according to the same basic pattern. For example, the top coverings of the sanctuary were made of two pieces and joined together with a system of hooks and rings. Similarly, the curtain in front of the Most Holy Place was hung on hooks by means of rings sewn into the fabric, and the same method was used to hang the curtains that formed the outer boundary of the courtyard as well as the curtain that closed the entrance to the Holy Place. All of these curtains were held up in the same basic way, by wooden posts that stood in heavy metal bases. Once a translator has determined the proper words to use for ring, hook, post, base, and curtain, the same words should be employed throughout.</p>\n<p>Several of the items in the Tabernacle were made of acacia wood (<em>shitah</em> in Hebrew).</p>\n<p>Even in languages where there is no particular difficulty in translating the individual parts of the Tabernacle, it will be good to include some kind of illustration or diagram.</p>\n</div>\n</div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3147,7 +3181,16 @@
 "end_ref_usfm": "EZK 27:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Frame",
+"type": "realia",
+"confidence": 0.7902,
+"match_method": "scored",
+"preferred_label": "Frame"
+}
+]
 }
 },
 {
@@ -3403,7 +3446,8 @@
 "end_ref_usfm": "EXO 26:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3455,7 +3499,8 @@
 "end_ref_usfm": "EXO 26:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3495,7 +3540,8 @@
 "end_ref_usfm": "EXO 36:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3589,7 +3635,8 @@
 "end_ref_usfm": "NUM 4:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3604,7 +3651,8 @@
 "content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6\"><span class=\"thlex-key\">3.15.2.3.6</span> Coverings</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0023_tabernacle_covering.jpg\" alt=\"Layers of coverings on the movable tabernacle\"><figcaption class=\"thlex-caption\">Layers of coverings on the movable tabernacle (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>\n          </p>\n</div>\n</div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3710,7 +3758,23 @@
 "end_ref_usfm": "1CH 17:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"confidence": 0.8567,
+"match_method": "scored",
+"preferred_label": "Linen Strips"
+},
+{
+"id": "realia:GoatHairStrips",
+"type": "realia",
+"confidence": 0.7892,
+"match_method": "scored",
+"preferred_label": "Goat Hair Strips"
+}
+]
 }
 },
 {
@@ -3804,7 +3868,16 @@
 "end_ref_usfm": "EXO 39:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Loop",
+"type": "realia",
+"confidence": 0.9685,
+"match_method": "scored",
+"preferred_label": "Loop"
+}
+]
 }
 },
 {
@@ -3880,7 +3953,23 @@
 "end_ref_usfm": "EXO 36:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:GoatHairStrips",
+"type": "realia",
+"confidence": 0.928,
+"match_method": "scored",
+"preferred_label": "Goat Hair Strips"
+},
+{
+"id": "realia:LinenStrips",
+"type": "realia",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "Linen Strips"
+}
+]
 }
 },
 {
@@ -3892,7 +3981,7 @@
 "index_reference": "3.15.2.3.6.4",
 "language": "eng",
 "review_level": "None",
-"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6.4\"><span class=\"thlex-key\">3.15.2.3.6.4</span> Outer coverings for the Tabernacle</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִכְסֶה</span> <span class=\"thlex-translit\">(mikseh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod35:11\">EXO 35:11</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod40:19\">EXO 40:19</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\" data-image-id=\"BOT-0023_tabernacle_outertent_en\"><img class=\"thlex-img\" alt=\"The exterior of the movable tabernacle, showing the outer cover and ropes\"><figcaption class=\"thlex-caption\">The exterior of the movable tabernacle, showing the outer cover and ropes (Elbert Boot © United Bible Societies)</figcaption></figure>Above the two inner layers that covered the Tabernacle there were two more layers. They are mentioned only briefly and not really described. We are not sure if they only covered the top of the Tabernacle or hung down to the ground on the sides like the goat hair cloth. These two covers were made of two different animal skins. The first layer was made of rams’ skins dyed red (or, tanned rams’ skins; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.13 Leather&lt;REALIA:1.13&gt;</a>). The second layer was made of the skin of a sea mammal.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0432_dugong.jpg\" alt=\"A dugong (Dugong dugon), in the same order as the manatee\"><figcaption class=\"thlex-caption\">A dugong (Dugong dugon), in the same order as the manatee (© Julien Willem, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>\n            <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>: The name of the mammal from which the outermost cover was made presents a difficulty for the translator. Translations include the skins of the “badger” (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>), “seal,” and “dugong” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>), or the somewhat more inclusive “sea cow” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>), “dolphin” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), “porpoise” (<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>), and “goat” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). Most of these possibilities indicate a skin that was rare and thus very special. Perhaps for this reason, the trend among more recent common-language translations is to render the Hebrew word <em>tachash</em> as “fine leather” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>) without specifying which animal it came from. If a language must specify what animal the skin came from, then “sea cow” or “porpoise” would be best.</p>\n</div>\n</div>",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.6.4\"><span class=\"thlex-key\">3.15.2.3.6.4</span> Outer coverings for the Tabernacle</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִכְסֶה</span> <span class=\"thlex-translit\">(mikseh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>, <a href=\"https://ref.ly/Exod35:11\">EXO 35:11</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a>, <a href=\"https://ref.ly/Exod40:19\">EXO 40:19</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/BOT-0023_tabernacle_outertent_en.jpg\" alt=\"The exterior of the movable tabernacle, showing the outer cover and ropes\"><figcaption class=\"thlex-caption\">The exterior of the movable tabernacle, showing the outer cover and ropes (Elbert Boot © United Bible Societies)</figcaption></figure>Above the two inner layers that covered the Tabernacle there were two more layers. They are mentioned only briefly and not really described. We are not sure if they only covered the top of the Tabernacle or hung down to the ground on the sides like the goat hair cloth. These two covers were made of two different animal skins. The first layer was made of rams’ skins dyed red (or, tanned rams’ skins; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.13 Leather&lt;REALIA:1.13&gt;</a>). The second layer was made of the skin of a sea mammal.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0432_dugong.jpg\" alt=\"A dugong (Dugong dugon), in the same order as the manatee\"><figcaption class=\"thlex-caption\">A dugong (Dugong dugon), in the same order as the manatee (© Julien Willem, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>\n            <a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a>: The name of the mammal from which the outermost cover was made presents a difficulty for the translator. Translations include the skins of the “badger” (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>), “seal,” and “dugong” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>), or the somewhat more inclusive “sea cow” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>), “dolphin” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), “porpoise” (<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>), and “goat” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). Most of these possibilities indicate a skin that was rare and thus very special. Perhaps for this reason, the trend among more recent common-language translations is to render the Hebrew word <em>tachash</em> as “fine leather” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>) without specifying which animal it came from. If a language must specify what animal the skin came from, then “sea cow” or “porpoise” would be best.</p>\n</div>\n</div>",
 "associations": {
 "passage": [
 {
@@ -3938,7 +4027,8 @@
 "end_ref_usfm": "NUM 4:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4464,7 +4554,8 @@
 "end_ref_usfm": "EXO 26:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4476,7 +4567,7 @@
 "index_reference": "3.15.2.3.8",
 "language": "eng",
 "review_level": "None",
-"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.8\"><span class=\"thlex-key\">3.15.2.3.8</span> Screen, entrance curtain</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מָסָךְ</span> <span class=\"thlex-translit\">(masak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a>, <a href=\"https://ref.ly/Exod26:37\">EXO 26:37</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod35:15\">EXO 35:15</a>, <a href=\"https://ref.ly/Exod35:17\">EXO 35:17</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod39:38\">EXO 39:38</a>, <a href=\"https://ref.ly/Exod39:40\">EXO 39:40</a>, <a href=\"https://ref.ly/Exod40:5\">EXO 40:5</a>, <a href=\"https://ref.ly/Exod40:8\">EXO 40:8</a>, <a href=\"https://ref.ly/Exod40:28\">EXO 40:28</a>, <a href=\"https://ref.ly/Exod40:33\">EXO 40:33</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num3:26\">NUM 3:26</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:26\">NUM 4:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\" data-image-id=\"BOT-0024_posts_entrycurtain_en\"><img class=\"thlex-img\" alt=\"Posts and entry curtain\"><figcaption class=\"thlex-caption\">Posts and entry curtain (Elbert Boot © United Bible Societies)</figcaption></figure>The screen was a large hanging curtain that was suspended from five posts. It served as a kind of door to the Tabernacle, almost like a tent flap. Its purpose was to block from public view the activities that went on inside the Tabernacle. See the description at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.7 Posts from which curtains were hung in and around the Tabernacle&lt;REALIA:3.15.2.3.7&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>masak</em> is used for the hanging at the entrance to the Holy Place and also for the curtain that hung at the entrance to the outer courtyard of the Tabernacle complex.</p>\n</div>\n</div>",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.15.2.3.8\"><span class=\"thlex-key\">3.15.2.3.8</span> Screen, entrance curtain</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מָסָךְ</span> <span class=\"thlex-translit\">(masak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a>, <a href=\"https://ref.ly/Exod26:37\">EXO 26:37</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod35:15\">EXO 35:15</a>, <a href=\"https://ref.ly/Exod35:17\">EXO 35:17</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod39:38\">EXO 39:38</a>, <a href=\"https://ref.ly/Exod39:40\">EXO 39:40</a>, <a href=\"https://ref.ly/Exod40:5\">EXO 40:5</a>, <a href=\"https://ref.ly/Exod40:8\">EXO 40:8</a>, <a href=\"https://ref.ly/Exod40:28\">EXO 40:28</a>, <a href=\"https://ref.ly/Exod40:33\">EXO 40:33</a>, <a href=\"https://ref.ly/Num3:25\">NUM 3:25</a>, <a href=\"https://ref.ly/Num3:26\">NUM 3:26</a>, <a href=\"https://ref.ly/Num4:25\">NUM 4:25</a>, <a href=\"https://ref.ly/Num4:26\">NUM 4:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/BOT-0024_posts_entrycurtain_en.jpg\" alt=\"Posts and entry curtain\"><figcaption class=\"thlex-caption\">Posts and entry curtain (Elbert Boot © United Bible Societies)</figcaption></figure>The screen was a large hanging curtain that was suspended from five posts. It served as a kind of door to the Tabernacle, almost like a tent flap. Its purpose was to block from public view the activities that went on inside the Tabernacle. See the description at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.15.2.3.7 Posts from which curtains were hung in and around the Tabernacle&lt;REALIA:3.15.2.3.7&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>masak</em> is used for the hanging at the entrance to the Holy Place and also for the curtain that hung at the entrance to the outer courtyard of the Tabernacle complex.</p>\n</div>\n</div>",
 "associations": {
 "passage": [
 {
@@ -4582,7 +4673,16 @@
 "end_ref_usfm": "NUM 4:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Screen",
+"type": "realia",
+"confidence": 0.7345,
+"match_method": "scored",
+"preferred_label": "Screen"
+}
+]
 }
 },
 {
@@ -4748,7 +4848,16 @@
 "end_ref_usfm": "EXO 26:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.723,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
+]
 }
 },
 {
@@ -4884,7 +4993,8 @@
 "end_ref_usfm": "EXO 26:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

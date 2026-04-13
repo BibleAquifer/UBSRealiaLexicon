@@ -222,7 +222,16 @@
 "end_ref_usfm": "REV 2:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.7372,
+"match_method": "scored",
+"preferred_label": "Measuring Reed"
+}
+]
 }
 }
 ]

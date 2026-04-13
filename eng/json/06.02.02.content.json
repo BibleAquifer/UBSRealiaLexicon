@@ -78,7 +78,16 @@
 "end_ref_usfm": "ESG 5:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Train",
+"type": "realia",
+"confidence": 0.9636,
+"match_method": "scored",
+"preferred_label": "Train"
+}
+]
 }
 }
 ]

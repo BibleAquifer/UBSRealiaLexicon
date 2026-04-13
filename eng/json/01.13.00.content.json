@@ -540,7 +540,16 @@
 "end_ref_usfm": "MRK 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Leather",
+"type": "realia",
+"confidence": 0.7364,
+"match_method": "scored",
+"preferred_label": "Leather"
+}
+]
 }
 }
 ]

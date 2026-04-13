@@ -90,7 +90,16 @@
 "end_ref_usfm": "EXO 40:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 }
 ]

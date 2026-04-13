@@ -408,7 +408,16 @@
 "end_ref_usfm": "ISA 54:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.7905,
+"match_method": "scored",
+"preferred_label": "Small Shield"
+}
+]
 }
 }
 ]

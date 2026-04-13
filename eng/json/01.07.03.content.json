@@ -36,7 +36,23 @@
 "end_ref_usfm": "3MA 4:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Pen",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Pen"
+},
+{
+"id": "realia:WritingCase",
+"type": "realia",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Writing Case"
+}
+]
 }
 }
 ]

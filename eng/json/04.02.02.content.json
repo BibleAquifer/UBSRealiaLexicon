@@ -846,7 +846,37 @@
 "end_ref_usfm": "EXO 27:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.9712,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.8407,
+"match_method": "scored",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.6502,
+"match_method": "scored",
+"preferred_label": "Altar"
+}
+]
 }
 },
 {
@@ -940,7 +970,16 @@
 "end_ref_usfm": "EXO 25:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Grating",
+"type": "realia",
+"confidence": 0.6676,
+"match_method": "scored",
+"preferred_label": "Grating"
+}
+]
 }
 }
 ]

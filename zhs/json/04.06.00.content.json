@@ -1290,7 +1290,30 @@
 "end_ref_usfm": "EXO 24:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 0.6478,
+"match_method": "scored",
+"preferred_label": "Image"
+},
+{
+"id": "keyterm:DetestedThing",
+"type": "keyterm",
+"confidence": 0.5914,
+"match_method": "scored",
+"preferred_label": "Detested Thing"
+},
+{
+"id": "keyterm:Idol",
+"type": "keyterm",
+"confidence": 0.5828,
+"match_method": "scored",
+"preferred_label": "Idol"
+}
+]
 }
 }
 ]

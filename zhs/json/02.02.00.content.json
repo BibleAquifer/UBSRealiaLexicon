@@ -108,7 +108,16 @@
 "end_ref_usfm": "JOB 41:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sling",
+"type": "realia",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Sling"
+}
+]
 }
 }
 ]

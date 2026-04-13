@@ -72,7 +72,23 @@
 "end_ref_usfm": "ZEC 14:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Shovel",
+"type": "realia",
+"confidence": 0.659,
+"match_method": "scored",
+"preferred_label": "Shovel"
+},
+{
+"id": "realia:CookingPot",
+"type": "realia",
+"confidence": 0.634,
+"match_method": "scored",
+"preferred_label": "Cooking Pot"
+}
+]
 }
 }
 ]

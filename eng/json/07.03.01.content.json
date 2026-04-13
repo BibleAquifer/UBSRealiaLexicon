@@ -498,7 +498,16 @@
 "end_ref_usfm": "JOS 6:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.8085,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
+}
+]
 }
 }
 ]

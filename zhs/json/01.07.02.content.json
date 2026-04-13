@@ -36,7 +36,23 @@
 "end_ref_usfm": "3JN 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Ink",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Ink"
+},
+{
+"id": "realia:WritingCase",
+"type": "realia",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Writing Case"
+}
+]
 }
 }
 ]

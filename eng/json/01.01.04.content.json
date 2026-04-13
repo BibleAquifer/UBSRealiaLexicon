@@ -54,7 +54,16 @@
 "end_ref_usfm": "1CO 9:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:ToMuzzle",
+"type": "realia",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "To Muzzle"
+}
+]
 }
 }
 ]

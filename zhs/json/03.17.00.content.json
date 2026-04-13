@@ -414,7 +414,16 @@
 "end_ref_usfm": "REV 3:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.9701,
+"match_method": "scored",
+"preferred_label": "Synagogue"
+}
+]
 }
 }
 ]

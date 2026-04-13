@@ -252,7 +252,16 @@
 "end_ref_usfm": "SIR 46:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 0.5895,
+"match_method": "scored",
+"preferred_label": "Sandal"
+}
+]
 }
 }
 ]

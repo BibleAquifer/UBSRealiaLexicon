@@ -408,7 +408,23 @@
 "end_ref_usfm": "LAM 5:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 0.8092,
+"match_method": "scored",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 0.6615,
+"match_method": "scored",
+"preferred_label": "Crown"
+}
+]
 }
 }
 ]

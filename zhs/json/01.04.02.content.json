@@ -228,7 +228,23 @@
 "end_ref_usfm": "1MA 5:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Net",
+"type": "realia",
+"confidence": 0.8111,
+"match_method": "scored",
+"preferred_label": "Net"
+},
+{
+"id": "realia:CastingNet",
+"type": "realia",
+"confidence": 0.6056,
+"match_method": "scored",
+"preferred_label": "Casting Net"
+}
+]
 }
 }
 ]

@@ -462,7 +462,23 @@
 "end_ref_usfm": "SNG 8:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Arrow",
+"type": "realia",
+"confidence": 0.808,
+"match_method": "scored",
+"preferred_label": "Arrow"
+},
+{
+"id": "keyterm:Arrow",
+"type": "keyterm",
+"confidence": 0.7973,
+"match_method": "scored",
+"preferred_label": "Arrow"
+}
+]
 }
 }
 ]

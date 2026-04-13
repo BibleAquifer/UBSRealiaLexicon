@@ -30,7 +30,16 @@
 "end_ref_usfm": "ISA 33:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Oar",
+"type": "realia",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Oar"
+}
+]
 }
 }
 ]

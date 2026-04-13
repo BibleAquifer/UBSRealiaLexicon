@@ -78,7 +78,16 @@
 "end_ref_usfm": "DAN 11:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:SiegeRamp",
+"type": "realia",
+"confidence": 0.7926,
+"match_method": "scored",
+"preferred_label": "Siege Ramp"
+}
+]
 }
 }
 ]

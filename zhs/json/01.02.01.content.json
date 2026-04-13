@@ -114,7 +114,16 @@
 "end_ref_usfm": "JDT 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"confidence": 0.7439,
+"match_method": "scored",
+"preferred_label": "Sheepfold"
+}
+]
 }
 }
 ]

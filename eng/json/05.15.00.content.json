@@ -144,7 +144,16 @@
 "end_ref_usfm": "LUK 5:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Skin-bottle",
+"type": "realia",
+"confidence": 0.7606,
+"match_method": "scored",
+"preferred_label": "Skin-Bottle"
+}
+]
 }
 }
 ]

@@ -36,7 +36,16 @@
 "end_ref_usfm": "DEU 11:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Phylactery",
+"type": "realia",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Phylactery"
+}
+]
 }
 }
 ]

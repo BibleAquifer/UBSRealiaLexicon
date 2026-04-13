@@ -18,7 +18,16 @@
 "end_ref_usfm": "MRK 15:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:MyrrhedWine",
+"type": "realia",
+"confidence": 0.8425,
+"match_method": "scored",
+"preferred_label": "Myrrhed Wine"
+}
+]
 }
 }
 ]

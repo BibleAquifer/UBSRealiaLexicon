@@ -174,7 +174,23 @@
 "end_ref_usfm": "MRK 12:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.9704,
+"match_method": "scored",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.5544,
+"match_method": "scored",
+"preferred_label": "Must"
+}
+]
 }
 }
 ]

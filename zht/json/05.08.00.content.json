@@ -108,7 +108,16 @@
 "end_ref_usfm": "MAT 3:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 0.775,
+"match_method": "scored",
+"preferred_label": "Footstool"
+}
+]
 }
 }
 ]

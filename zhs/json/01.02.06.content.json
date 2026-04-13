@@ -90,7 +90,16 @@
 "end_ref_usfm": "ZEC 14:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:BitAndBridle",
+"type": "realia",
+"confidence": 0.8154,
+"match_method": "scored",
+"preferred_label": "Bit and Bridle"
+}
+]
 }
 }
 ]

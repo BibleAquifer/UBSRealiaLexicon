@@ -96,7 +96,16 @@
 "end_ref_usfm": "REV 18:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Hand-mill",
+"type": "realia",
+"confidence": 0.6804,
+"match_method": "scored",
+"preferred_label": "Hand-Mill"
+}
+]
 }
 }
 ]

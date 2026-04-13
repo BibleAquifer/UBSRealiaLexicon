@@ -36,7 +36,16 @@
 "end_ref_usfm": "GEN 6:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Deck",
+"type": "realia",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Deck"
+}
+]
 }
 }
 ]

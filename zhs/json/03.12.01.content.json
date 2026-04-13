@@ -126,7 +126,16 @@
 "end_ref_usfm": "2ES 5:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Barn",
+"type": "realia",
+"confidence": 0.725,
+"match_method": "scored",
+"preferred_label": "Barn"
+}
+]
 }
 }
 ]

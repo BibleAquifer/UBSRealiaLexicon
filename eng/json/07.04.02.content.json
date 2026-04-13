@@ -132,7 +132,16 @@
 "end_ref_usfm": "1ES 5:57"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cymbals",
+"type": "realia",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Cymbals"
+}
+]
 }
 }
 ]

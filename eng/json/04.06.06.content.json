@@ -234,7 +234,16 @@
 "end_ref_usfm": "MIC 5:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 0.683,
+"match_method": "scored",
+"preferred_label": "Sacred Pillar"
+}
+]
 }
 }
 ]

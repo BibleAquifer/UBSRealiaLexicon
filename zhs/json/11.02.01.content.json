@@ -348,7 +348,16 @@
 "end_ref_usfm": "DAN 5:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Shekel",
+"type": "realia",
+"confidence": 0.9786,
+"match_method": "scored",
+"preferred_label": "Shekel"
+}
+]
 }
 }
 ]

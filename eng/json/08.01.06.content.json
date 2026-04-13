@@ -36,7 +36,16 @@
 "end_ref_usfm": "HEB 6:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Anchor",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Anchor"
+}
+]
 }
 }
 ]

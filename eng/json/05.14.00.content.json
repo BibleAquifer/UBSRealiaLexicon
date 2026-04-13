@@ -48,7 +48,16 @@
 "end_ref_usfm": "SIR 12:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Mirror",
+"type": "realia",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Mirror"
+}
+]
 }
 }
 ]

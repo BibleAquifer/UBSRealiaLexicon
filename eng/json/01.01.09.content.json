@@ -24,7 +24,16 @@
 "end_ref_usfm": "1SA 13:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Mattock",
+"type": "realia",
+"confidence": 0.6115,
+"match_method": "scored",
+"preferred_label": "Mattock"
+}
+]
 }
 },
 {
@@ -58,7 +67,16 @@
 "end_ref_usfm": "ISA 7:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Hoe",
+"type": "realia",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Hoe"
+}
+]
 }
 },
 {
@@ -86,7 +104,16 @@
 "end_ref_usfm": "1SA 13:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Fork.2",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Fork"
+}
+]
 }
 },
 {
@@ -198,7 +225,16 @@
 "end_ref_usfm": "LJE 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 0.6015,
+"match_method": "scored",
+"preferred_label": "Axe"
+}
+]
 }
 },
 {
@@ -238,7 +274,16 @@
 "end_ref_usfm": "MIC 4:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:PruningKnife",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Pruning Knife"
+}
+]
 }
 }
 ]

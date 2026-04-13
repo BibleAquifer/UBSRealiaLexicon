@@ -18,7 +18,16 @@
 "end_ref_usfm": "2TI 4:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Parchment",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Parchment"
+}
+]
 }
 }
 ]

@@ -174,7 +174,23 @@
 "end_ref_usfm": "LJE 1:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5981,
+"match_method": "scored",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "Staff"
+}
+]
 }
 }
 ]

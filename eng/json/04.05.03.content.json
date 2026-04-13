@@ -222,7 +222,16 @@
 "end_ref_usfm": "1MA 10:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 0.8857,
+"match_method": "scored",
+"preferred_label": "Robe"
+}
+]
 }
 },
 {
@@ -268,7 +277,16 @@
 "end_ref_usfm": "SIR 45:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Jinglet",
+"type": "realia",
+"confidence": 0.653,
+"match_method": "scored",
+"preferred_label": "Jinglet"
+}
+]
 }
 }
 ]

@@ -96,7 +96,16 @@
 "end_ref_usfm": "WIS 5:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Helmet",
+"type": "realia",
+"confidence": 0.8857,
+"match_method": "scored",
+"preferred_label": "Helmet"
+}
+]
 }
 }
 ]

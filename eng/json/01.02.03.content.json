@@ -48,7 +48,16 @@
 "end_ref_usfm": "LUK 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Manger",
+"type": "realia",
+"confidence": 0.8155,
+"match_method": "scored",
+"preferred_label": "Manger"
+}
+]
 }
 }
 ]

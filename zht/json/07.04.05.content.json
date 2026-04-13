@@ -18,7 +18,23 @@
 "end_ref_usfm": "2SA 6:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5935,
+"match_method": "scored",
+"preferred_label": "LORD"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Phoenician Juniper"
+}
+]
 }
 }
 ]

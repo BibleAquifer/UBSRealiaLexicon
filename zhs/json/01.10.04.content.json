@@ -48,7 +48,23 @@
 "end_ref_usfm": "1KI 1:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:AnointingFlask",
+"type": "realia",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Anointing Flask"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.82,
+"match_method": "scored",
+"preferred_label": "Anointing Oil"
+}
+]
 }
 }
 ]

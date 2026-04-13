@@ -162,7 +162,16 @@
 "end_ref_usfm": "2ES 15:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.776,
+"match_method": "scored",
+"preferred_label": "Foundation"
+}
+]
 }
 },
 {
@@ -262,7 +271,16 @@
 "end_ref_usfm": "NEH 3:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 0.5975,
+"match_method": "scored",
+"preferred_label": "Cornerstone"
+}
+]
 }
 }
 ]

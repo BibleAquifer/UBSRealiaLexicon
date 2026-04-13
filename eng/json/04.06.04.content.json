@@ -246,7 +246,23 @@
 "end_ref_usfm": "2CH 15:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 0.9795,
+"match_method": "scored",
+"preferred_label": "Asherah"
+},
+{
+"id": "realia:SacredPole",
+"type": "realia",
+"confidence": 0.9077,
+"match_method": "scored",
+"preferred_label": "Sacred Pole"
+}
+]
 }
 }
 ]
