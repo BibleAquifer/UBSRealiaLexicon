@@ -1,0 +1,1860 @@
+[
+{
+"content_id": "REALIA:3.21",
+"reference_id": "REALIA:3.21",
+"version": "1.0.4",
+"title": "標題：監獄及刑罰（prison and penal activity）",
+"media_type": "Text",
+"index_reference": "3.21",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21\"><span class=\"thlex-key\">3.21</span> 標題：監獄及刑罰（prison and penal activity）</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:3.21.1",
+"reference_id": "REALIA:3.21.1",
+"version": "1.0.4",
+"title": "標題：監獄、監牢、地牢（prison, dungeon）",
+"media_type": "Text",
+"index_reference": "3.21.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.1\"><span class=\"thlex-key\">3.21.1</span> 標題：監獄、監牢、地牢（prison, dungeon）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת, אסר, אָסִיר, אֵסוּר</span> <span class=\"thlex-translit\">(音譯： beyth ’esur, beyth ’asurim, beyth hasurim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>, <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>, <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>, <a href=\"https://ref.ly/Judg16:25\">JDG 16:25</a>, <a href=\"https://ref.ly/Judg16:25\">JDG 16:25</a>, <a href=\"https://ref.ly/Eccl4:14\">ECC 4:14</a>, <a href=\"https://ref.ly/Jer37:15\">JER 37:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת, בּוֹר</span> <span class=\"thlex-translit\">(音譯： (beyth) bor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen40:15\">GEN 40:15</a>, <a href=\"https://ref.ly/Gen41:14\">GEN 41:14</a>, <a href=\"https://ref.ly/Exod12:29\">EXO 12:29</a>, <a href=\"https://ref.ly/Isa24:22\">ISA 24:22</a>, <a href=\"https://ref.ly/Jer37:16\">JER 37:16</a>, <a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>, <a href=\"https://ref.ly/Jer38:7\">JER 38:7</a>, <a href=\"https://ref.ly/Jer38:9\">JER 38:9</a>, <a href=\"https://ref.ly/Jer38:10\">JER 38:10</a>, <a href=\"https://ref.ly/Jer38:11\">JER 38:11</a>, <a href=\"https://ref.ly/Jer38:13\">JER 38:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת, כֶּלֶא, כְּלִיא</span> <span class=\"thlex-translit\">(音譯： (beyth) kele’, beyth kelu’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs22:27\">1KI 22:27</a>, <a href=\"https://ref.ly/2Kgs17:4\">2KI 17:4</a>, <a href=\"https://ref.ly/2Kgs25:27\">2KI 25:27</a>, <a href=\"https://ref.ly/2Kgs25:29\">2KI 25:29</a>, <a href=\"https://ref.ly/2Chr18:26\">2CH 18:26</a>, <a href=\"https://ref.ly/Isa42:7\">ISA 42:7</a>, <a href=\"https://ref.ly/Isa42:22\">ISA 42:22</a>, <a href=\"https://ref.ly/Jer37:4\">JER 37:4</a>, <a href=\"https://ref.ly/Jer37:15\">JER 37:15</a>, <a href=\"https://ref.ly/Jer37:18\">JER 37:18</a>, <a href=\"https://ref.ly/Jer52:31\">JER 52:31</a>, <a href=\"https://ref.ly/Jer52:33\">JER 52:33</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת, מִשְׁמָר</span> <span class=\"thlex-translit\">(音譯： beyth mishmar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen42:19\">GEN 42:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת, פְּקֻדָּה</span> <span class=\"thlex-translit\">(音譯： beyth pqudoth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer52:11\">JER 52:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת, סֹהַר</span> <span class=\"thlex-translit\">(音譯： beyth sohar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen39:20\">GEN 39:20</a>, <a href=\"https://ref.ly/Gen39:20\">GEN 39:20</a>, <a href=\"https://ref.ly/Gen39:21\">GEN 39:21</a>, <a href=\"https://ref.ly/Gen39:22\">GEN 39:22</a>, <a href=\"https://ref.ly/Gen39:22\">GEN 39:22</a>, <a href=\"https://ref.ly/Gen39:23\">GEN 39:23</a>, <a href=\"https://ref.ly/Gen40:3\">GEN 40:3</a>, <a href=\"https://ref.ly/Gen40:3\">GEN 40:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">蘭：גֹּב</span> <span class=\"thlex-translit\">(音譯： gov)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan6:8\">DAN 6:8</a>, <a href=\"https://ref.ly/Dan6:13\">DAN 6:13</a>, <a href=\"https://ref.ly/Dan6:17\">DAN 6:17</a>, <a href=\"https://ref.ly/Dan6:18\">DAN 6:18</a>, <a href=\"https://ref.ly/Dan6:20\">DAN 6:20</a>, <a href=\"https://ref.ly/Dan6:21\">DAN 6:21</a>, <a href=\"https://ref.ly/Dan6:24\">DAN 6:24</a>, <a href=\"https://ref.ly/Dan6:24\">DAN 6:24</a>, <a href=\"https://ref.ly/Dan6:25\">DAN 6:25</a>, <a href=\"https://ref.ly/Dan6:25\">DAN 6:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַטָּרָה</span> <span class=\"thlex-translit\">(音譯： matarah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Neh3:25\">NEH 3:25</a>, <a href=\"https://ref.ly/Neh12:39\">NEH 12:39</a>, <a href=\"https://ref.ly/Jer32:2\">JER 32:2</a>, <a href=\"https://ref.ly/Jer32:8\">JER 32:8</a>, <a href=\"https://ref.ly/Jer32:12\">JER 32:12</a>, <a href=\"https://ref.ly/Jer33:1\">JER 33:1</a>, <a href=\"https://ref.ly/Jer37:21\">JER 37:21</a>, <a href=\"https://ref.ly/Jer37:21\">JER 37:21</a>, <a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>, <a href=\"https://ref.ly/Jer38:13\">JER 38:13</a>, <a href=\"https://ref.ly/Jer38:28\">JER 38:28</a>, <a href=\"https://ref.ly/Jer39:14\">JER 39:14</a>, <a href=\"https://ref.ly/Jer39:15\">JER 39:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַסְגֵּר</span> <span class=\"thlex-translit\">(音譯： masger)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps142:8\">PSA 142:8</a>, <a href=\"https://ref.ly/Isa24:22\">ISA 24:22</a>, <a href=\"https://ref.ly/Isa42:7\">ISA 42:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： עֹצֶר</span> <span class=\"thlex-translit\">(音譯： ‘otser)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa53:8\">ISA 53:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： δεσμωτήριον</span> <span class=\"thlex-translit\">(音譯： desmōtērion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:2\">MAT 11:2</a>, <a href=\"https://ref.ly/Acts5:21\">ACT 5:21</a>, <a href=\"https://ref.ly/Acts5:23\">ACT 5:23</a>, <a href=\"https://ref.ly/Acts16:26\">ACT 16:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： εἱρκτή</span> <span class=\"thlex-translit\">(音譯： heirktē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis17:15\">WIS 17:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λάκκος</span> <span class=\"thlex-translit\">(音譯： lakkos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis10:14\">WIS 10:14</a>, <a href=\"https://ref.ly/Bel1:31\">BEL 1:31</a>, <a href=\"https://ref.ly/Bel1:32\">BEL 1:32</a>, <a href=\"https://ref.ly/Bel1:34\">BEL 1:34</a>, <a href=\"https://ref.ly/Bel1:35\">BEL 1:35</a>, <a href=\"https://ref.ly/Bel1:36\">BEL 1:36</a>, <a href=\"https://ref.ly/Bel1:40\">BEL 1:40</a>, <a href=\"https://ref.ly/Bel1:42\">BEL 1:42</a>, <a href=\"https://ref.ly/4Macc18:13\">4MA 18:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： τήρησις</span> <span class=\"thlex-translit\">(音譯： tērēsis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts4:3\">ACT 4:3</a>, <a href=\"https://ref.ly/Acts5:18\">ACT 5:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： φυλακή</span> <span class=\"thlex-translit\">(音譯： fulakē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt5:25\">MAT 5:25</a>, <a href=\"https://ref.ly/Matt14:3\">MAT 14:3</a>, <a href=\"https://ref.ly/Matt14:10\">MAT 14:10</a>, <a href=\"https://ref.ly/Matt18:30\">MAT 18:30</a>, <a href=\"https://ref.ly/Matt25:36\">MAT 25:36</a>, <a href=\"https://ref.ly/Matt25:39\">MAT 25:39</a>, <a href=\"https://ref.ly/Matt25:43\">MAT 25:43</a>, <a href=\"https://ref.ly/Matt25:44\">MAT 25:44</a>, <a href=\"https://ref.ly/Mark6:17\">MRK 6:17</a>, <a href=\"https://ref.ly/Mark6:27\">MRK 6:27</a>, <a href=\"https://ref.ly/Luke3:20\">LUK 3:20</a>, <a href=\"https://ref.ly/Luke12:58\">LUK 12:58</a>, <a href=\"https://ref.ly/Luke21:12\">LUK 21:12</a>, <a href=\"https://ref.ly/Luke22:33\">LUK 22:33</a>, <a href=\"https://ref.ly/Luke23:19\">LUK 23:19</a>, <a href=\"https://ref.ly/Luke23:25\">LUK 23:25</a>, <a href=\"https://ref.ly/John3:24\">JHN 3:24</a>, <a href=\"https://ref.ly/Acts5:19\">ACT 5:19</a>, <a href=\"https://ref.ly/Acts5:22\">ACT 5:22</a>, <a href=\"https://ref.ly/Acts5:25\">ACT 5:25</a>, <a href=\"https://ref.ly/Acts8:3\">ACT 8:3</a>, <a href=\"https://ref.ly/Acts12:4\">ACT 12:4</a>, <a href=\"https://ref.ly/Acts12:5\">ACT 12:5</a>, <a href=\"https://ref.ly/Acts12:6\">ACT 12:6</a>, <a href=\"https://ref.ly/Acts12:17\">ACT 12:17</a>, <a href=\"https://ref.ly/Acts16:23\">ACT 16:23</a>, <a href=\"https://ref.ly/Acts16:24\">ACT 16:24</a>, <a href=\"https://ref.ly/Acts16:27\">ACT 16:27</a>, <a href=\"https://ref.ly/Acts16:37\">ACT 16:37</a>, <a href=\"https://ref.ly/Acts16:40\">ACT 16:40</a>, <a href=\"https://ref.ly/Acts22:4\">ACT 22:4</a>, <a href=\"https://ref.ly/Acts26:10\">ACT 26:10</a>, <a href=\"https://ref.ly/2Cor6:5\">2CO 6:5</a>, <a href=\"https://ref.ly/2Cor11:23\">2CO 11:23</a>, <a href=\"https://ref.ly/Heb11:36\">HEB 11:36</a>, <a href=\"https://ref.ly/1Pet3:19\">1PE 3:19</a>, <a href=\"https://ref.ly/Rev2:10\">REV 2:10</a>, <a href=\"https://ref.ly/Rev20:7\">REV 20:7</a>, <a href=\"https://ref.ly/4Macc18:11\">4MA 18:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0043_paul_silas.png\" alt=\"OAI-0043_paul_silas\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>監獄是關押罪犯或其他囚犯的地方。監獄或監牢沒有標準的大小或建築結構。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>幾乎所有語言都有表示監獄或監牢的詞語，但在某些情況下，可能要使用描述性短語，例如「把人綁起來的地方」或「人被鏈子鎖起來的地方」。在有些語言中，人們會使用一些慣用語，例如「吃鐵的地方」或「與老鼠呆在一起的房間」。譯文要傳遞出這樣的意思：這是一個違背某人的意志、強行約束他的地方。</p>\n<p>希伯來文<em>bor</em> 、亞蘭文<em>gov</em> 和希臘文<em>lakkos</em> 都是指地上的洞或凹坑。在<a href=\"https://ref.ly/Jer38:0\">JER 38:0</a> 中，耶利米被下到<em>bor</em> ，這可能是一個蓄水池（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.9 蓄水池(cistern)&lt;REALIA:3.9&gt;</a> ）。在出現這三個詞語的其他經文中，並不確知這些洞或坑是天然形成的還是人造的。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "07016021",
+"start_ref_usfm": "JDG 16:21",
+"end_ref": "07016021",
+"end_ref_usfm": "JDG 16:21"
+},
+{
+"start_ref": "07016025",
+"start_ref_usfm": "JDG 16:25",
+"end_ref": "07016025",
+"end_ref_usfm": "JDG 16:25"
+},
+{
+"start_ref": "21004014",
+"start_ref_usfm": "ECC 4:14",
+"end_ref": "21004014",
+"end_ref_usfm": "ECC 4:14"
+},
+{
+"start_ref": "24037015",
+"start_ref_usfm": "JER 37:15",
+"end_ref": "24037015",
+"end_ref_usfm": "JER 37:15"
+},
+{
+"start_ref": "01040015",
+"start_ref_usfm": "GEN 40:15",
+"end_ref": "01040015",
+"end_ref_usfm": "GEN 40:15"
+},
+{
+"start_ref": "01041014",
+"start_ref_usfm": "GEN 41:14",
+"end_ref": "01041014",
+"end_ref_usfm": "GEN 41:14"
+},
+{
+"start_ref": "02012029",
+"start_ref_usfm": "EXO 12:29",
+"end_ref": "02012029",
+"end_ref_usfm": "EXO 12:29"
+},
+{
+"start_ref": "23024022",
+"start_ref_usfm": "ISA 24:22",
+"end_ref": "23024022",
+"end_ref_usfm": "ISA 24:22"
+},
+{
+"start_ref": "24037016",
+"start_ref_usfm": "JER 37:16",
+"end_ref": "24037016",
+"end_ref_usfm": "JER 37:16"
+},
+{
+"start_ref": "24038006",
+"start_ref_usfm": "JER 38:6",
+"end_ref": "24038006",
+"end_ref_usfm": "JER 38:6"
+},
+{
+"start_ref": "24038007",
+"start_ref_usfm": "JER 38:7",
+"end_ref": "24038007",
+"end_ref_usfm": "JER 38:7"
+},
+{
+"start_ref": "24038009",
+"start_ref_usfm": "JER 38:9",
+"end_ref": "24038009",
+"end_ref_usfm": "JER 38:9"
+},
+{
+"start_ref": "24038010",
+"start_ref_usfm": "JER 38:10",
+"end_ref": "24038010",
+"end_ref_usfm": "JER 38:10"
+},
+{
+"start_ref": "24038011",
+"start_ref_usfm": "JER 38:11",
+"end_ref": "24038011",
+"end_ref_usfm": "JER 38:11"
+},
+{
+"start_ref": "24038013",
+"start_ref_usfm": "JER 38:13",
+"end_ref": "24038013",
+"end_ref_usfm": "JER 38:13"
+},
+{
+"start_ref": "11022027",
+"start_ref_usfm": "1KI 22:27",
+"end_ref": "11022027",
+"end_ref_usfm": "1KI 22:27"
+},
+{
+"start_ref": "12017004",
+"start_ref_usfm": "2KI 17:4",
+"end_ref": "12017004",
+"end_ref_usfm": "2KI 17:4"
+},
+{
+"start_ref": "12025027",
+"start_ref_usfm": "2KI 25:27",
+"end_ref": "12025027",
+"end_ref_usfm": "2KI 25:27"
+},
+{
+"start_ref": "12025029",
+"start_ref_usfm": "2KI 25:29",
+"end_ref": "12025029",
+"end_ref_usfm": "2KI 25:29"
+},
+{
+"start_ref": "14018026",
+"start_ref_usfm": "2CH 18:26",
+"end_ref": "14018026",
+"end_ref_usfm": "2CH 18:26"
+},
+{
+"start_ref": "23042007",
+"start_ref_usfm": "ISA 42:7",
+"end_ref": "23042007",
+"end_ref_usfm": "ISA 42:7"
+},
+{
+"start_ref": "23042022",
+"start_ref_usfm": "ISA 42:22",
+"end_ref": "23042022",
+"end_ref_usfm": "ISA 42:22"
+},
+{
+"start_ref": "24037004",
+"start_ref_usfm": "JER 37:4",
+"end_ref": "24037004",
+"end_ref_usfm": "JER 37:4"
+},
+{
+"start_ref": "24037018",
+"start_ref_usfm": "JER 37:18",
+"end_ref": "24037018",
+"end_ref_usfm": "JER 37:18"
+},
+{
+"start_ref": "24052031",
+"start_ref_usfm": "JER 52:31",
+"end_ref": "24052031",
+"end_ref_usfm": "JER 52:31"
+},
+{
+"start_ref": "24052033",
+"start_ref_usfm": "JER 52:33",
+"end_ref": "24052033",
+"end_ref_usfm": "JER 52:33"
+},
+{
+"start_ref": "01042019",
+"start_ref_usfm": "GEN 42:19",
+"end_ref": "01042019",
+"end_ref_usfm": "GEN 42:19"
+},
+{
+"start_ref": "24052011",
+"start_ref_usfm": "JER 52:11",
+"end_ref": "24052011",
+"end_ref_usfm": "JER 52:11"
+},
+{
+"start_ref": "01039020",
+"start_ref_usfm": "GEN 39:20",
+"end_ref": "01039020",
+"end_ref_usfm": "GEN 39:20"
+},
+{
+"start_ref": "01039021",
+"start_ref_usfm": "GEN 39:21",
+"end_ref": "01039021",
+"end_ref_usfm": "GEN 39:21"
+},
+{
+"start_ref": "01039022",
+"start_ref_usfm": "GEN 39:22",
+"end_ref": "01039022",
+"end_ref_usfm": "GEN 39:22"
+},
+{
+"start_ref": "01039023",
+"start_ref_usfm": "GEN 39:23",
+"end_ref": "01039023",
+"end_ref_usfm": "GEN 39:23"
+},
+{
+"start_ref": "01040003",
+"start_ref_usfm": "GEN 40:3",
+"end_ref": "01040003",
+"end_ref_usfm": "GEN 40:3"
+},
+{
+"start_ref": "27006008",
+"start_ref_usfm": "DAN 6:8",
+"end_ref": "27006008",
+"end_ref_usfm": "DAN 6:8"
+},
+{
+"start_ref": "27006013",
+"start_ref_usfm": "DAN 6:13",
+"end_ref": "27006013",
+"end_ref_usfm": "DAN 6:13"
+},
+{
+"start_ref": "27006017",
+"start_ref_usfm": "DAN 6:17",
+"end_ref": "27006017",
+"end_ref_usfm": "DAN 6:17"
+},
+{
+"start_ref": "27006018",
+"start_ref_usfm": "DAN 6:18",
+"end_ref": "27006018",
+"end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27006020",
+"start_ref_usfm": "DAN 6:20",
+"end_ref": "27006020",
+"end_ref_usfm": "DAN 6:20"
+},
+{
+"start_ref": "27006021",
+"start_ref_usfm": "DAN 6:21",
+"end_ref": "27006021",
+"end_ref_usfm": "DAN 6:21"
+},
+{
+"start_ref": "27006024",
+"start_ref_usfm": "DAN 6:24",
+"end_ref": "27006024",
+"end_ref_usfm": "DAN 6:24"
+},
+{
+"start_ref": "27006025",
+"start_ref_usfm": "DAN 6:25",
+"end_ref": "27006025",
+"end_ref_usfm": "DAN 6:25"
+},
+{
+"start_ref": "16003025",
+"start_ref_usfm": "NEH 3:25",
+"end_ref": "16003025",
+"end_ref_usfm": "NEH 3:25"
+},
+{
+"start_ref": "16012039",
+"start_ref_usfm": "NEH 12:39",
+"end_ref": "16012039",
+"end_ref_usfm": "NEH 12:39"
+},
+{
+"start_ref": "24032002",
+"start_ref_usfm": "JER 32:2",
+"end_ref": "24032002",
+"end_ref_usfm": "JER 32:2"
+},
+{
+"start_ref": "24032008",
+"start_ref_usfm": "JER 32:8",
+"end_ref": "24032008",
+"end_ref_usfm": "JER 32:8"
+},
+{
+"start_ref": "24032012",
+"start_ref_usfm": "JER 32:12",
+"end_ref": "24032012",
+"end_ref_usfm": "JER 32:12"
+},
+{
+"start_ref": "24033001",
+"start_ref_usfm": "JER 33:1",
+"end_ref": "24033001",
+"end_ref_usfm": "JER 33:1"
+},
+{
+"start_ref": "24037021",
+"start_ref_usfm": "JER 37:21",
+"end_ref": "24037021",
+"end_ref_usfm": "JER 37:21"
+},
+{
+"start_ref": "24038028",
+"start_ref_usfm": "JER 38:28",
+"end_ref": "24038028",
+"end_ref_usfm": "JER 38:28"
+},
+{
+"start_ref": "24039014",
+"start_ref_usfm": "JER 39:14",
+"end_ref": "24039014",
+"end_ref_usfm": "JER 39:14"
+},
+{
+"start_ref": "24039015",
+"start_ref_usfm": "JER 39:15",
+"end_ref": "24039015",
+"end_ref_usfm": "JER 39:15"
+},
+{
+"start_ref": "19142008",
+"start_ref_usfm": "PSA 142:8",
+"end_ref": "19142008",
+"end_ref_usfm": "PSA 142:8"
+},
+{
+"start_ref": "23053008",
+"start_ref_usfm": "ISA 53:8",
+"end_ref": "23053008",
+"end_ref_usfm": "ISA 53:8"
+},
+{
+"start_ref": "40011002",
+"start_ref_usfm": "MAT 11:2",
+"end_ref": "40011002",
+"end_ref_usfm": "MAT 11:2"
+},
+{
+"start_ref": "44005021",
+"start_ref_usfm": "ACT 5:21",
+"end_ref": "44005021",
+"end_ref_usfm": "ACT 5:21"
+},
+{
+"start_ref": "44005023",
+"start_ref_usfm": "ACT 5:23",
+"end_ref": "44005023",
+"end_ref_usfm": "ACT 5:23"
+},
+{
+"start_ref": "44016026",
+"start_ref_usfm": "ACT 16:26",
+"end_ref": "44016026",
+"end_ref_usfm": "ACT 16:26"
+},
+{
+"start_ref": "71017015",
+"start_ref_usfm": "WIS 17:15",
+"end_ref": "71017015",
+"end_ref_usfm": "WIS 17:15"
+},
+{
+"start_ref": "71010014",
+"start_ref_usfm": "WIS 10:14",
+"end_ref": "71010014",
+"end_ref_usfm": "WIS 10:14"
+},
+{
+"start_ref": "77001031",
+"start_ref_usfm": "BEL 1:31",
+"end_ref": "77001031",
+"end_ref_usfm": "BEL 1:31"
+},
+{
+"start_ref": "77001032",
+"start_ref_usfm": "BEL 1:32",
+"end_ref": "77001032",
+"end_ref_usfm": "BEL 1:32"
+},
+{
+"start_ref": "77001034",
+"start_ref_usfm": "BEL 1:34",
+"end_ref": "77001034",
+"end_ref_usfm": "BEL 1:34"
+},
+{
+"start_ref": "77001035",
+"start_ref_usfm": "BEL 1:35",
+"end_ref": "77001035",
+"end_ref_usfm": "BEL 1:35"
+},
+{
+"start_ref": "77001036",
+"start_ref_usfm": "BEL 1:36",
+"end_ref": "77001036",
+"end_ref_usfm": "BEL 1:36"
+},
+{
+"start_ref": "77001040",
+"start_ref_usfm": "BEL 1:40",
+"end_ref": "77001040",
+"end_ref_usfm": "BEL 1:40"
+},
+{
+"start_ref": "77001042",
+"start_ref_usfm": "BEL 1:42",
+"end_ref": "77001042",
+"end_ref_usfm": "BEL 1:42"
+},
+{
+"start_ref": "81018013",
+"start_ref_usfm": "4MA 18:13",
+"end_ref": "81018013",
+"end_ref_usfm": "4MA 18:13"
+},
+{
+"start_ref": "44004003",
+"start_ref_usfm": "ACT 4:3",
+"end_ref": "44004003",
+"end_ref_usfm": "ACT 4:3"
+},
+{
+"start_ref": "44005018",
+"start_ref_usfm": "ACT 5:18",
+"end_ref": "44005018",
+"end_ref_usfm": "ACT 5:18"
+},
+{
+"start_ref": "40005025",
+"start_ref_usfm": "MAT 5:25",
+"end_ref": "40005025",
+"end_ref_usfm": "MAT 5:25"
+},
+{
+"start_ref": "40014003",
+"start_ref_usfm": "MAT 14:3",
+"end_ref": "40014003",
+"end_ref_usfm": "MAT 14:3"
+},
+{
+"start_ref": "40014010",
+"start_ref_usfm": "MAT 14:10",
+"end_ref": "40014010",
+"end_ref_usfm": "MAT 14:10"
+},
+{
+"start_ref": "40018030",
+"start_ref_usfm": "MAT 18:30",
+"end_ref": "40018030",
+"end_ref_usfm": "MAT 18:30"
+},
+{
+"start_ref": "40025036",
+"start_ref_usfm": "MAT 25:36",
+"end_ref": "40025036",
+"end_ref_usfm": "MAT 25:36"
+},
+{
+"start_ref": "40025039",
+"start_ref_usfm": "MAT 25:39",
+"end_ref": "40025039",
+"end_ref_usfm": "MAT 25:39"
+},
+{
+"start_ref": "40025043",
+"start_ref_usfm": "MAT 25:43",
+"end_ref": "40025043",
+"end_ref_usfm": "MAT 25:43"
+},
+{
+"start_ref": "40025044",
+"start_ref_usfm": "MAT 25:44",
+"end_ref": "40025044",
+"end_ref_usfm": "MAT 25:44"
+},
+{
+"start_ref": "41006017",
+"start_ref_usfm": "MRK 6:17",
+"end_ref": "41006017",
+"end_ref_usfm": "MRK 6:17"
+},
+{
+"start_ref": "41006027",
+"start_ref_usfm": "MRK 6:27",
+"end_ref": "41006027",
+"end_ref_usfm": "MRK 6:27"
+},
+{
+"start_ref": "42003020",
+"start_ref_usfm": "LUK 3:20",
+"end_ref": "42003020",
+"end_ref_usfm": "LUK 3:20"
+},
+{
+"start_ref": "42012058",
+"start_ref_usfm": "LUK 12:58",
+"end_ref": "42012058",
+"end_ref_usfm": "LUK 12:58"
+},
+{
+"start_ref": "42021012",
+"start_ref_usfm": "LUK 21:12",
+"end_ref": "42021012",
+"end_ref_usfm": "LUK 21:12"
+},
+{
+"start_ref": "42022033",
+"start_ref_usfm": "LUK 22:33",
+"end_ref": "42022033",
+"end_ref_usfm": "LUK 22:33"
+},
+{
+"start_ref": "42023019",
+"start_ref_usfm": "LUK 23:19",
+"end_ref": "42023019",
+"end_ref_usfm": "LUK 23:19"
+},
+{
+"start_ref": "42023025",
+"start_ref_usfm": "LUK 23:25",
+"end_ref": "42023025",
+"end_ref_usfm": "LUK 23:25"
+},
+{
+"start_ref": "43003024",
+"start_ref_usfm": "JHN 3:24",
+"end_ref": "43003024",
+"end_ref_usfm": "JHN 3:24"
+},
+{
+"start_ref": "44005019",
+"start_ref_usfm": "ACT 5:19",
+"end_ref": "44005019",
+"end_ref_usfm": "ACT 5:19"
+},
+{
+"start_ref": "44005022",
+"start_ref_usfm": "ACT 5:22",
+"end_ref": "44005022",
+"end_ref_usfm": "ACT 5:22"
+},
+{
+"start_ref": "44005025",
+"start_ref_usfm": "ACT 5:25",
+"end_ref": "44005025",
+"end_ref_usfm": "ACT 5:25"
+},
+{
+"start_ref": "44008003",
+"start_ref_usfm": "ACT 8:3",
+"end_ref": "44008003",
+"end_ref_usfm": "ACT 8:3"
+},
+{
+"start_ref": "44012004",
+"start_ref_usfm": "ACT 12:4",
+"end_ref": "44012004",
+"end_ref_usfm": "ACT 12:4"
+},
+{
+"start_ref": "44012005",
+"start_ref_usfm": "ACT 12:5",
+"end_ref": "44012005",
+"end_ref_usfm": "ACT 12:5"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012006",
+"end_ref_usfm": "ACT 12:6"
+},
+{
+"start_ref": "44012017",
+"start_ref_usfm": "ACT 12:17",
+"end_ref": "44012017",
+"end_ref_usfm": "ACT 12:17"
+},
+{
+"start_ref": "44016023",
+"start_ref_usfm": "ACT 16:23",
+"end_ref": "44016023",
+"end_ref_usfm": "ACT 16:23"
+},
+{
+"start_ref": "44016024",
+"start_ref_usfm": "ACT 16:24",
+"end_ref": "44016024",
+"end_ref_usfm": "ACT 16:24"
+},
+{
+"start_ref": "44016027",
+"start_ref_usfm": "ACT 16:27",
+"end_ref": "44016027",
+"end_ref_usfm": "ACT 16:27"
+},
+{
+"start_ref": "44016037",
+"start_ref_usfm": "ACT 16:37",
+"end_ref": "44016037",
+"end_ref_usfm": "ACT 16:37"
+},
+{
+"start_ref": "44016040",
+"start_ref_usfm": "ACT 16:40",
+"end_ref": "44016040",
+"end_ref_usfm": "ACT 16:40"
+},
+{
+"start_ref": "44022004",
+"start_ref_usfm": "ACT 22:4",
+"end_ref": "44022004",
+"end_ref_usfm": "ACT 22:4"
+},
+{
+"start_ref": "44026010",
+"start_ref_usfm": "ACT 26:10",
+"end_ref": "44026010",
+"end_ref_usfm": "ACT 26:10"
+},
+{
+"start_ref": "47006005",
+"start_ref_usfm": "2CO 6:5",
+"end_ref": "47006005",
+"end_ref_usfm": "2CO 6:5"
+},
+{
+"start_ref": "47011023",
+"start_ref_usfm": "2CO 11:23",
+"end_ref": "47011023",
+"end_ref_usfm": "2CO 11:23"
+},
+{
+"start_ref": "58011036",
+"start_ref_usfm": "HEB 11:36",
+"end_ref": "58011036",
+"end_ref_usfm": "HEB 11:36"
+},
+{
+"start_ref": "60003019",
+"start_ref_usfm": "1PE 3:19",
+"end_ref": "60003019",
+"end_ref_usfm": "1PE 3:19"
+},
+{
+"start_ref": "66002010",
+"start_ref_usfm": "REV 2:10",
+"end_ref": "66002010",
+"end_ref_usfm": "REV 2:10"
+},
+{
+"start_ref": "66020007",
+"start_ref_usfm": "REV 20:7",
+"end_ref": "66020007",
+"end_ref_usfm": "REV 20:7"
+},
+{
+"start_ref": "81018011",
+"start_ref_usfm": "4MA 18:11",
+"end_ref": "81018011",
+"end_ref_usfm": "4MA 18:11"
+},
+{
+"start_ref": "24038000",
+"start_ref_usfm": "JER 38:0",
+"end_ref": "24038000",
+"end_ref_usfm": "JER 38:0"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.6643,
+"match_method": "scored",
+"preferred_label": "Prison"
+}
+]
+}
+},
+{
+"content_id": "REALIA:3.21.2",
+"reference_id": "REALIA:3.21.2",
+"version": "1.0.4",
+"title": "標題：木枷、枷鎖、木狗、木架（stocks）",
+"media_type": "Text",
+"index_reference": "3.21.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.2\"><span class=\"thlex-key\">3.21.2</span> 標題：木枷、枷鎖、木狗、木架（stocks）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַהְפֶּכֶת</span> <span class=\"thlex-translit\">(音譯： mahpeketh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr16:10\">2CH 16:10</a>, <a href=\"https://ref.ly/Jer20:2\">JER 20:2</a>, <a href=\"https://ref.ly/Jer20:3\">JER 20:3</a>, <a href=\"https://ref.ly/Jer29:26\">JER 29:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： סַד</span> <span class=\"thlex-translit\">(音譯： sad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job13:27\">JOB 13:27</a>, <a href=\"https://ref.ly/Job33:11\">JOB 33:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ξύλον</span> <span class=\"thlex-translit\">(音譯： xulon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts16:24\">ACT 16:24</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0964_wooden_stocks.jpg\" alt=\"木製腳鎖\"><figcaption class=\"thlex-caption\">木製腳鎖 (© Connorisda1 - Wikimedia Commons)</figcaption></figure>木枷是一種由木頭構件組裝而成的裝置，把犯人的腿、臂和／或頭放在木枷中間，然後牢牢地固定住。兩塊木頭構件上各有幾個半圓形的洞，把它們合到一起，就形成幾個圓形的孔，固定住犯人的四肢或頭。然後，把兩塊木板鎖在一起，這樣囚犯就無法動彈了。木枷既是一種監禁的工具，也是一種刑罰手段。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0043_paul_silas.png\" alt=\"OAI-0043_paul_silas\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>許多譯本都需要用一個描述性短語來表示「木枷」，才能準確表達出它的意思。比較<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 中的<a href=\"https://ref.ly/Jer20:2\">JER 20:2</a> ，英文意為：「他把耶利米的手和腳都鎖到大木塊中間。」</p>\n<p>\n            <a href=\"https://ref.ly/Job13:27\">JOB 13:27</a> ：在這節經文中，約伯把自己描繪成上帝的囚犯，行動受到嚴重的限制。第一行經文中的「木枷」指的是用來鎖住囚犯雙腳的木塊，但根據第二行經文，約伯也許還可以略微活動。有譯本把第一行譯為：「你在我腳上綁上鎖鏈」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯）。這行也可以譯為：「你把我的腳綁在一起」，或「你綁住了我的腳，讓我無法行走」。</p>\n<p>\n            <a href=\"https://ref.ly/Acts16:24\">ACT 16:24</a> ：對於「在木枷中」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）這個短語，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「在很重的木塊之間」。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 沒有使用「木枷」一詞有兩個原因：（1）翻譯者認為目標讀者難以理解該詞的含義；（2）羅馬人使用的木枷與其他已知的木枷種類不同。羅馬人用木枷作為一種刑具，上面有多對固定腿的孔，從而可以把囚犯的雙腿分得很開，造成極大的疼痛。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "14016010",
+"start_ref_usfm": "2CH 16:10",
+"end_ref": "14016010",
+"end_ref_usfm": "2CH 16:10"
+},
+{
+"start_ref": "24020002",
+"start_ref_usfm": "JER 20:2",
+"end_ref": "24020002",
+"end_ref_usfm": "JER 20:2"
+},
+{
+"start_ref": "24020003",
+"start_ref_usfm": "JER 20:3",
+"end_ref": "24020003",
+"end_ref_usfm": "JER 20:3"
+},
+{
+"start_ref": "24029026",
+"start_ref_usfm": "JER 29:26",
+"end_ref": "24029026",
+"end_ref_usfm": "JER 29:26"
+},
+{
+"start_ref": "18013027",
+"start_ref_usfm": "JOB 13:27",
+"end_ref": "18013027",
+"end_ref_usfm": "JOB 13:27"
+},
+{
+"start_ref": "18033011",
+"start_ref_usfm": "JOB 33:11",
+"end_ref": "18033011",
+"end_ref_usfm": "JOB 33:11"
+},
+{
+"start_ref": "44016024",
+"start_ref_usfm": "ACT 16:24",
+"end_ref": "44016024",
+"end_ref_usfm": "ACT 16:24"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:3.21.3",
+"reference_id": "REALIA:3.21.3",
+"version": "1.0.4",
+"title": "標題：十架、十字架（cross）",
+"media_type": "Text",
+"index_reference": "3.21.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.3\"><span class=\"thlex-key\">3.21.3</span> 標題：十架、十字架（cross）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἀνασταυρόω</span> <span class=\"thlex-translit\">(音譯： anastauroō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb6:6\">HEB 6:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ξύλον</span> <span class=\"thlex-translit\">(音譯： xulon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts5:30\">ACT 5:30</a>, <a href=\"https://ref.ly/Acts10:39\">ACT 10:39</a>, <a href=\"https://ref.ly/Acts13:29\">ACT 13:29</a>, <a href=\"https://ref.ly/1Pet2:24\">1PE 2:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σταυρός, σταυρόω</span> <span class=\"thlex-translit\">(音譯： stauros, stauroō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt10:38\">MAT 10:38</a>, <a href=\"https://ref.ly/Matt16:24\">MAT 16:24</a>, <a href=\"https://ref.ly/Matt20:19\">MAT 20:19</a>, <a href=\"https://ref.ly/Matt23:34\">MAT 23:34</a>, <a href=\"https://ref.ly/Matt26:2\">MAT 26:2</a>, <a href=\"https://ref.ly/Matt27:22\">MAT 27:22</a>, <a href=\"https://ref.ly/Matt27:23\">MAT 27:23</a>, <a href=\"https://ref.ly/Matt27:26\">MAT 27:26</a>, <a href=\"https://ref.ly/Matt27:31\">MAT 27:31</a>, <a href=\"https://ref.ly/Matt27:32\">MAT 27:32</a>, <a href=\"https://ref.ly/Matt27:35\">MAT 27:35</a>, <a href=\"https://ref.ly/Matt27:38\">MAT 27:38</a>, <a href=\"https://ref.ly/Matt27:40\">MAT 27:40</a>, <a href=\"https://ref.ly/Matt27:42\">MAT 27:42</a>, <a href=\"https://ref.ly/Matt28:5\">MAT 28:5</a>, <a href=\"https://ref.ly/Mark8:34\">MRK 8:34</a>, <a href=\"https://ref.ly/Mark15:13\">MRK 15:13</a>, <a href=\"https://ref.ly/Mark15:14\">MRK 15:14</a>, <a href=\"https://ref.ly/Mark15:15\">MRK 15:15</a>, <a href=\"https://ref.ly/Mark15:20\">MRK 15:20</a>, <a href=\"https://ref.ly/Mark15:21\">MRK 15:21</a>, <a href=\"https://ref.ly/Mark15:24\">MRK 15:24</a>, <a href=\"https://ref.ly/Mark15:25\">MRK 15:25</a>, <a href=\"https://ref.ly/Mark15:27\">MRK 15:27</a>, <a href=\"https://ref.ly/Mark15:30\">MRK 15:30</a>, <a href=\"https://ref.ly/Mark15:32\">MRK 15:32</a>, <a href=\"https://ref.ly/Mark16:6\">MRK 16:6</a>, <a href=\"https://ref.ly/Luke9:23\">LUK 9:23</a>, <a href=\"https://ref.ly/Luke14:27\">LUK 14:27</a>, <a href=\"https://ref.ly/Luke23:21\">LUK 23:21</a>, <a href=\"https://ref.ly/Luke23:21\">LUK 23:21</a>, <a href=\"https://ref.ly/Luke23:23\">LUK 23:23</a>, <a href=\"https://ref.ly/Luke23:26\">LUK 23:26</a>, <a href=\"https://ref.ly/Luke23:33\">LUK 23:33</a>, <a href=\"https://ref.ly/Luke24:7\">LUK 24:7</a>, <a href=\"https://ref.ly/Luke24:20\">LUK 24:20</a>, <a href=\"https://ref.ly/John19:6\">JHN 19:6</a>, <a href=\"https://ref.ly/John19:6\">JHN 19:6</a>, <a href=\"https://ref.ly/John19:6\">JHN 19:6</a>, <a href=\"https://ref.ly/John19:10\">JHN 19:10</a>, <a href=\"https://ref.ly/John19:15\">JHN 19:15</a>, <a href=\"https://ref.ly/John19:15\">JHN 19:15</a>, <a href=\"https://ref.ly/John19:16\">JHN 19:16</a>, <a href=\"https://ref.ly/John19:17\">JHN 19:17</a>, <a href=\"https://ref.ly/John19:18\">JHN 19:18</a>, <a href=\"https://ref.ly/John19:19\">JHN 19:19</a>, <a href=\"https://ref.ly/John19:20\">JHN 19:20</a>, <a href=\"https://ref.ly/John19:23\">JHN 19:23</a>, <a href=\"https://ref.ly/John19:25\">JHN 19:25</a>, <a href=\"https://ref.ly/John19:31\">JHN 19:31</a>, <a href=\"https://ref.ly/John19:41\">JHN 19:41</a>, <a href=\"https://ref.ly/Acts2:36\">ACT 2:36</a>, <a href=\"https://ref.ly/Acts4:10\">ACT 4:10</a>, <a href=\"https://ref.ly/1Cor1:13\">1CO 1:13</a>, <a href=\"https://ref.ly/1Cor1:17\">1CO 1:17</a>, <a href=\"https://ref.ly/1Cor1:18\">1CO 1:18</a>, <a href=\"https://ref.ly/1Cor1:23\">1CO 1:23</a>, <a href=\"https://ref.ly/1Cor2:2\">1CO 2:2</a>, <a href=\"https://ref.ly/1Cor2:8\">1CO 2:8</a>, <a href=\"https://ref.ly/2Cor13:4\">2CO 13:4</a>, <a href=\"https://ref.ly/Gal3:1\">GAL 3:1</a>, <a href=\"https://ref.ly/Gal5:11\">GAL 5:11</a>, <a href=\"https://ref.ly/Gal5:24\">GAL 5:24</a>, <a href=\"https://ref.ly/Gal6:12\">GAL 6:12</a>, <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>, <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>, <a href=\"https://ref.ly/Eph2:16\">EPH 2:16</a>, <a href=\"https://ref.ly/Phil2:8\">PHP 2:8</a>, <a href=\"https://ref.ly/Phil3:18\">PHP 3:18</a>, <a href=\"https://ref.ly/Col1:20\">COL 1:20</a>, <a href=\"https://ref.ly/Col2:14\">COL 2:14</a>, <a href=\"https://ref.ly/Heb12:2\">HEB 12:2</a>, <a href=\"https://ref.ly/Rev11:8\">REV 11:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： συσταυρόω</span> <span class=\"thlex-translit\">(音譯： sustauroō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:44\">MAT 27:44</a>, <a href=\"https://ref.ly/Mark15:32\">MRK 15:32</a>, <a href=\"https://ref.ly/John19:32\">JHN 19:32</a>, <a href=\"https://ref.ly/Rom6:6\">ROM 6:6</a>, <a href=\"https://ref.ly/Gal2:19\">GAL 2:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0438_cross.jpg\" alt=\"木製現代十字架\"><figcaption class=\"thlex-caption\">木製現代十字架 (Aaron Burden aaronburden, CC0, via Wikimedia Commons)</figcaption></figure>十字架是把一根木柱子直立插在地上，上半部分固定著一根橫木，形狀就像字母<strong>T</strong> 或<strong>†</strong> 符號。此外，還有一種由兩根木條做成的<strong>X</strong> 形十字架，不過這種十字架可能不太常見。耶穌頭部上方有一塊寫著字的罪狀牌，這表明釘他的十字架可能是<strong>†</strong> 形狀。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>被判刑的人通常要把十字架的橫木背到行刑的地方，而木柱子（甚或是砍斷的樹幹）已經豎立在那裡了。釘十字架時，行刑者把罪人的兩隻手釘在橫木上（穿過手掌下面的手腕），然後把人和橫木抬起來，綁到豎立著的木柱子上。有時，犯人的臀部會坐靠在木柱子上面的一個小突起上。然後，把犯人的雙腳釘在木柱子上，用一根大釘子從腳的側面釘穿兩腳的腳踝。被釘十字架的人會慢慢死去，經常需要幾天的時間。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於十字架具有象徵含義，因此所有語言的新約譯本都保留了十字架這個詞語。十字架不僅是死刑的手段，還有一個特定的樣式，即直立的柱子加一根橫木。在一些目標語言中，表示十字架的詞語就是「橫木」。在其他一些語言中，可以採用一個意為「交叉杆」的短語。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0012_cross_inscription.png\" alt=\"OAI-0012_cross_inscription\"></figure>如果可能的話，翻譯者應該採用一個具有引申義的詞語或短語，因為在許多上下文中，「十字架」一語不僅指基督被釘死的刑具，還指他被釘死這件事情本身。另外，十字架還是赦罪及和好的象徵。因為十字架有許多引申義，所以需要盡量選擇能夠表達這些附加意思的方式。</p>\n<p>希臘文<em>xulon</em> 的字面意思是「木頭」。在新約之外，<em>xulon</em> 通常指絞刑架；在新約關於死刑的語境中，這個詞指的是耶穌被釘的十字架。在<a href=\"https://ref.ly/Gal3:13\">GAL 3:13</a> ，沒有必要使用一個表示活樹的詞語來翻譯<em>xulon</em> 。這個希臘文詞語在這節經文中可能只是指「柱子」，因此使用一個也可以表示十字架的詞語可能更加合適。如果採用只能表示活樹的詞語，可能會導致不必要的不一致。雖然這節經文中的短語在一定程度上是引自<a href=\"https://ref.ly/Deut21:23\">DEU 21:23</a> ，但翻譯者不要試圖協調這兩段經文。因為《申命記》中的誡命是要把罪人處死，然後把屍體掛在樹上。這種懸掛與釘十字架不同，它不是處死的方式，可能只是某種公開的警告。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "58006006",
+"start_ref_usfm": "HEB 6:6",
+"end_ref": "58006006",
+"end_ref_usfm": "HEB 6:6"
+},
+{
+"start_ref": "44005030",
+"start_ref_usfm": "ACT 5:30",
+"end_ref": "44005030",
+"end_ref_usfm": "ACT 5:30"
+},
+{
+"start_ref": "44010039",
+"start_ref_usfm": "ACT 10:39",
+"end_ref": "44010039",
+"end_ref_usfm": "ACT 10:39"
+},
+{
+"start_ref": "44013029",
+"start_ref_usfm": "ACT 13:29",
+"end_ref": "44013029",
+"end_ref_usfm": "ACT 13:29"
+},
+{
+"start_ref": "60002024",
+"start_ref_usfm": "1PE 2:24",
+"end_ref": "60002024",
+"end_ref_usfm": "1PE 2:24"
+},
+{
+"start_ref": "40010038",
+"start_ref_usfm": "MAT 10:38",
+"end_ref": "40010038",
+"end_ref_usfm": "MAT 10:38"
+},
+{
+"start_ref": "40016024",
+"start_ref_usfm": "MAT 16:24",
+"end_ref": "40016024",
+"end_ref_usfm": "MAT 16:24"
+},
+{
+"start_ref": "40020019",
+"start_ref_usfm": "MAT 20:19",
+"end_ref": "40020019",
+"end_ref_usfm": "MAT 20:19"
+},
+{
+"start_ref": "40023034",
+"start_ref_usfm": "MAT 23:34",
+"end_ref": "40023034",
+"end_ref_usfm": "MAT 23:34"
+},
+{
+"start_ref": "40026002",
+"start_ref_usfm": "MAT 26:2",
+"end_ref": "40026002",
+"end_ref_usfm": "MAT 26:2"
+},
+{
+"start_ref": "40027022",
+"start_ref_usfm": "MAT 27:22",
+"end_ref": "40027022",
+"end_ref_usfm": "MAT 27:22"
+},
+{
+"start_ref": "40027023",
+"start_ref_usfm": "MAT 27:23",
+"end_ref": "40027023",
+"end_ref_usfm": "MAT 27:23"
+},
+{
+"start_ref": "40027026",
+"start_ref_usfm": "MAT 27:26",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "40027031",
+"start_ref_usfm": "MAT 27:31",
+"end_ref": "40027031",
+"end_ref_usfm": "MAT 27:31"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027032",
+"end_ref_usfm": "MAT 27:32"
+},
+{
+"start_ref": "40027035",
+"start_ref_usfm": "MAT 27:35",
+"end_ref": "40027035",
+"end_ref_usfm": "MAT 27:35"
+},
+{
+"start_ref": "40027038",
+"start_ref_usfm": "MAT 27:38",
+"end_ref": "40027038",
+"end_ref_usfm": "MAT 27:38"
+},
+{
+"start_ref": "40027040",
+"start_ref_usfm": "MAT 27:40",
+"end_ref": "40027040",
+"end_ref_usfm": "MAT 27:40"
+},
+{
+"start_ref": "40027042",
+"start_ref_usfm": "MAT 27:42",
+"end_ref": "40027042",
+"end_ref_usfm": "MAT 27:42"
+},
+{
+"start_ref": "40028005",
+"start_ref_usfm": "MAT 28:5",
+"end_ref": "40028005",
+"end_ref_usfm": "MAT 28:5"
+},
+{
+"start_ref": "41008034",
+"start_ref_usfm": "MRK 8:34",
+"end_ref": "41008034",
+"end_ref_usfm": "MRK 8:34"
+},
+{
+"start_ref": "41015013",
+"start_ref_usfm": "MRK 15:13",
+"end_ref": "41015013",
+"end_ref_usfm": "MRK 15:13"
+},
+{
+"start_ref": "41015014",
+"start_ref_usfm": "MRK 15:14",
+"end_ref": "41015014",
+"end_ref_usfm": "MRK 15:14"
+},
+{
+"start_ref": "41015015",
+"start_ref_usfm": "MRK 15:15",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "41015020",
+"start_ref_usfm": "MRK 15:20",
+"end_ref": "41015020",
+"end_ref_usfm": "MRK 15:20"
+},
+{
+"start_ref": "41015021",
+"start_ref_usfm": "MRK 15:21",
+"end_ref": "41015021",
+"end_ref_usfm": "MRK 15:21"
+},
+{
+"start_ref": "41015024",
+"start_ref_usfm": "MRK 15:24",
+"end_ref": "41015024",
+"end_ref_usfm": "MRK 15:24"
+},
+{
+"start_ref": "41015025",
+"start_ref_usfm": "MRK 15:25",
+"end_ref": "41015025",
+"end_ref_usfm": "MRK 15:25"
+},
+{
+"start_ref": "41015027",
+"start_ref_usfm": "MRK 15:27",
+"end_ref": "41015027",
+"end_ref_usfm": "MRK 15:27"
+},
+{
+"start_ref": "41015030",
+"start_ref_usfm": "MRK 15:30",
+"end_ref": "41015030",
+"end_ref_usfm": "MRK 15:30"
+},
+{
+"start_ref": "41015032",
+"start_ref_usfm": "MRK 15:32",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "41016006",
+"start_ref_usfm": "MRK 16:6",
+"end_ref": "41016006",
+"end_ref_usfm": "MRK 16:6"
+},
+{
+"start_ref": "42009023",
+"start_ref_usfm": "LUK 9:23",
+"end_ref": "42009023",
+"end_ref_usfm": "LUK 9:23"
+},
+{
+"start_ref": "42014027",
+"start_ref_usfm": "LUK 14:27",
+"end_ref": "42014027",
+"end_ref_usfm": "LUK 14:27"
+},
+{
+"start_ref": "42023021",
+"start_ref_usfm": "LUK 23:21",
+"end_ref": "42023021",
+"end_ref_usfm": "LUK 23:21"
+},
+{
+"start_ref": "42023023",
+"start_ref_usfm": "LUK 23:23",
+"end_ref": "42023023",
+"end_ref_usfm": "LUK 23:23"
+},
+{
+"start_ref": "42023026",
+"start_ref_usfm": "LUK 23:26",
+"end_ref": "42023026",
+"end_ref_usfm": "LUK 23:26"
+},
+{
+"start_ref": "42023033",
+"start_ref_usfm": "LUK 23:33",
+"end_ref": "42023033",
+"end_ref_usfm": "LUK 23:33"
+},
+{
+"start_ref": "42024007",
+"start_ref_usfm": "LUK 24:7",
+"end_ref": "42024007",
+"end_ref_usfm": "LUK 24:7"
+},
+{
+"start_ref": "42024020",
+"start_ref_usfm": "LUK 24:20",
+"end_ref": "42024020",
+"end_ref_usfm": "LUK 24:20"
+},
+{
+"start_ref": "43019006",
+"start_ref_usfm": "JHN 19:6",
+"end_ref": "43019006",
+"end_ref_usfm": "JHN 19:6"
+},
+{
+"start_ref": "43019010",
+"start_ref_usfm": "JHN 19:10",
+"end_ref": "43019010",
+"end_ref_usfm": "JHN 19:10"
+},
+{
+"start_ref": "43019015",
+"start_ref_usfm": "JHN 19:15",
+"end_ref": "43019015",
+"end_ref_usfm": "JHN 19:15"
+},
+{
+"start_ref": "43019016",
+"start_ref_usfm": "JHN 19:16",
+"end_ref": "43019016",
+"end_ref_usfm": "JHN 19:16"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019017",
+"end_ref_usfm": "JHN 19:17"
+},
+{
+"start_ref": "43019018",
+"start_ref_usfm": "JHN 19:18",
+"end_ref": "43019018",
+"end_ref_usfm": "JHN 19:18"
+},
+{
+"start_ref": "43019019",
+"start_ref_usfm": "JHN 19:19",
+"end_ref": "43019019",
+"end_ref_usfm": "JHN 19:19"
+},
+{
+"start_ref": "43019020",
+"start_ref_usfm": "JHN 19:20",
+"end_ref": "43019020",
+"end_ref_usfm": "JHN 19:20"
+},
+{
+"start_ref": "43019023",
+"start_ref_usfm": "JHN 19:23",
+"end_ref": "43019023",
+"end_ref_usfm": "JHN 19:23"
+},
+{
+"start_ref": "43019025",
+"start_ref_usfm": "JHN 19:25",
+"end_ref": "43019025",
+"end_ref_usfm": "JHN 19:25"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019031",
+"end_ref_usfm": "JHN 19:31"
+},
+{
+"start_ref": "43019041",
+"start_ref_usfm": "JHN 19:41",
+"end_ref": "43019041",
+"end_ref_usfm": "JHN 19:41"
+},
+{
+"start_ref": "44002036",
+"start_ref_usfm": "ACT 2:36",
+"end_ref": "44002036",
+"end_ref_usfm": "ACT 2:36"
+},
+{
+"start_ref": "44004010",
+"start_ref_usfm": "ACT 4:10",
+"end_ref": "44004010",
+"end_ref_usfm": "ACT 4:10"
+},
+{
+"start_ref": "46001013",
+"start_ref_usfm": "1CO 1:13",
+"end_ref": "46001013",
+"end_ref_usfm": "1CO 1:13"
+},
+{
+"start_ref": "46001017",
+"start_ref_usfm": "1CO 1:17",
+"end_ref": "46001017",
+"end_ref_usfm": "1CO 1:17"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001018",
+"end_ref_usfm": "1CO 1:18"
+},
+{
+"start_ref": "46001023",
+"start_ref_usfm": "1CO 1:23",
+"end_ref": "46001023",
+"end_ref_usfm": "1CO 1:23"
+},
+{
+"start_ref": "46002002",
+"start_ref_usfm": "1CO 2:2",
+"end_ref": "46002002",
+"end_ref_usfm": "1CO 2:2"
+},
+{
+"start_ref": "46002008",
+"start_ref_usfm": "1CO 2:8",
+"end_ref": "46002008",
+"end_ref_usfm": "1CO 2:8"
+},
+{
+"start_ref": "47013004",
+"start_ref_usfm": "2CO 13:4",
+"end_ref": "47013004",
+"end_ref_usfm": "2CO 13:4"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003001",
+"end_ref_usfm": "GAL 3:1"
+},
+{
+"start_ref": "48005011",
+"start_ref_usfm": "GAL 5:11",
+"end_ref": "48005011",
+"end_ref_usfm": "GAL 5:11"
+},
+{
+"start_ref": "48005024",
+"start_ref_usfm": "GAL 5:24",
+"end_ref": "48005024",
+"end_ref_usfm": "GAL 5:24"
+},
+{
+"start_ref": "48006012",
+"start_ref_usfm": "GAL 6:12",
+"end_ref": "48006012",
+"end_ref_usfm": "GAL 6:12"
+},
+{
+"start_ref": "48006014",
+"start_ref_usfm": "GAL 6:14",
+"end_ref": "48006014",
+"end_ref_usfm": "GAL 6:14"
+},
+{
+"start_ref": "49002016",
+"start_ref_usfm": "EPH 2:16",
+"end_ref": "49002016",
+"end_ref_usfm": "EPH 2:16"
+},
+{
+"start_ref": "50002008",
+"start_ref_usfm": "PHP 2:8",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+},
+{
+"start_ref": "50003018",
+"start_ref_usfm": "PHP 3:18",
+"end_ref": "50003018",
+"end_ref_usfm": "PHP 3:18"
+},
+{
+"start_ref": "51001020",
+"start_ref_usfm": "COL 1:20",
+"end_ref": "51001020",
+"end_ref_usfm": "COL 1:20"
+},
+{
+"start_ref": "51002014",
+"start_ref_usfm": "COL 2:14",
+"end_ref": "51002014",
+"end_ref_usfm": "COL 2:14"
+},
+{
+"start_ref": "58012002",
+"start_ref_usfm": "HEB 12:2",
+"end_ref": "58012002",
+"end_ref_usfm": "HEB 12:2"
+},
+{
+"start_ref": "66011008",
+"start_ref_usfm": "REV 11:8",
+"end_ref": "66011008",
+"end_ref_usfm": "REV 11:8"
+},
+{
+"start_ref": "40027044",
+"start_ref_usfm": "MAT 27:44",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "43019032",
+"start_ref_usfm": "JHN 19:32",
+"end_ref": "43019032",
+"end_ref_usfm": "JHN 19:32"
+},
+{
+"start_ref": "45006006",
+"start_ref_usfm": "ROM 6:6",
+"end_ref": "45006006",
+"end_ref_usfm": "ROM 6:6"
+},
+{
+"start_ref": "48002019",
+"start_ref_usfm": "GAL 2:19",
+"end_ref": "48002019",
+"end_ref_usfm": "GAL 2:19"
+},
+{
+"start_ref": "48003013",
+"start_ref_usfm": "GAL 3:13",
+"end_ref": "48003013",
+"end_ref_usfm": "GAL 3:13"
+},
+{
+"start_ref": "05021023",
+"start_ref_usfm": "DEU 21:23",
+"end_ref": "05021023",
+"end_ref_usfm": "DEU 21:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.9797,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
+}
+},
+{
+"content_id": "REALIA:3.21.4",
+"reference_id": "REALIA:3.21.4",
+"version": "1.0.4",
+"title": "標題：鎖鏈、鏈子（chain）",
+"media_type": "Text",
+"index_reference": "3.21.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.4\"><span class=\"thlex-key\">3.21.4</span> 標題：鎖鏈、鏈子（chain）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֲזִקִּים</span> <span class=\"thlex-translit\">(音譯： ’aziqim（’azeq的複數）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer40:1\">JER 40:1</a>, <a href=\"https://ref.ly/Jer40:4\">JER 40:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： זֵק</span> <span class=\"thlex-translit\">(音譯： ziqim（zeq的複數）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job36:8\">JOB 36:8</a>, <a href=\"https://ref.ly/Ps149:8\">PSA 149:8</a>, <a href=\"https://ref.ly/Isa45:14\">ISA 45:14</a>, <a href=\"https://ref.ly/Nah3:10\">NAM 3:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַעֲדַנּוֹת</span> <span class=\"thlex-translit\">(音譯： ma‘adanoth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job38:31\">JOB 38:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מֹשְׁכוֹת</span> <span class=\"thlex-translit\">(音譯： moshkoth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job38:31\">JOB 38:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： רַתּוּקָה</span> <span class=\"thlex-translit\">(音譯： ratuqah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:21\">1KI 6:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἅλυσις</span> <span class=\"thlex-translit\">(音譯： halusis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark5:3\">MRK 5:3</a>, <a href=\"https://ref.ly/Mark5:4\">MRK 5:4</a>, <a href=\"https://ref.ly/Mark5:4\">MRK 5:4</a>, <a href=\"https://ref.ly/Luke8:29\">LUK 8:29</a>, <a href=\"https://ref.ly/Acts12:6\">ACT 12:6</a>, <a href=\"https://ref.ly/Acts12:7\">ACT 12:7</a>, <a href=\"https://ref.ly/Acts21:33\">ACT 21:33</a>, <a href=\"https://ref.ly/Acts28:20\">ACT 28:20</a>, <a href=\"https://ref.ly/Eph6:20\">EPH 6:20</a>, <a href=\"https://ref.ly/2Tim1:16\">2TI 1:16</a>, <a href=\"https://ref.ly/Rev20:1\">REV 20:1</a>, <a href=\"https://ref.ly/Wis17:16\">WIS 17:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： δέσμιος, δεσμός</span> <span class=\"thlex-translit\">(音譯： desmios, desmos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke8:29\">LUK 8:29</a>, <a href=\"https://ref.ly/Luke13:16\">LUK 13:16</a>, <a href=\"https://ref.ly/Acts16:26\">ACT 16:26</a>, <a href=\"https://ref.ly/Acts20:23\">ACT 20:23</a>, <a href=\"https://ref.ly/Acts23:29\">ACT 23:29</a>, <a href=\"https://ref.ly/Acts26:29\">ACT 26:29</a>, <a href=\"https://ref.ly/Acts26:31\">ACT 26:31</a>, <a href=\"https://ref.ly/Phil1:7\">PHP 1:7</a>, <a href=\"https://ref.ly/Phil1:14\">PHP 1:14</a>, <a href=\"https://ref.ly/Phil1:17\">PHP 1:17</a>, <a href=\"https://ref.ly/Col4:18\">COL 4:18</a>, <a href=\"https://ref.ly/2Tim2:9\">2TI 2:9</a>, <a href=\"https://ref.ly/Phlm1:10\">PHM 1:10</a>, <a href=\"https://ref.ly/Phlm1:13\">PHM 1:13</a>, <a href=\"https://ref.ly/Heb11:36\">HEB 11:36</a>, <a href=\"https://ref.ly/Jude1:6\">JUD 1:6</a>, <a href=\"https://ref.ly/Wis10:14\">WIS 10:14</a>, <a href=\"https://ref.ly/Sir6:25\">SIR 6:25</a>, <a href=\"https://ref.ly/Sir6:30\">SIR 6:30</a>, <a href=\"https://ref.ly/Sir13:12\">SIR 13:12</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/3Macc3:25\">3MA 3:25</a>, <a href=\"https://ref.ly/3Macc4:7\">3MA 4:7</a>, <a href=\"https://ref.ly/3Macc5:6\">3MA 5:6</a>, <a href=\"https://ref.ly/3Macc6:27\">3MA 6:27</a>, <a href=\"https://ref.ly/4Macc12:2\">4MA 12:2</a>, <a href=\"https://ref.ly/1Esd1:38\">1ES 1:38</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σειρά</span> <span class=\"thlex-translit\">(音譯： seira)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Pet2:4\">2PE 2:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0035_fetters_chains_hant.jpg\" alt=\"鎖鏈和腳鐐\"><figcaption class=\"thlex-caption\">鎖鏈和腳鐐 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>鎖鏈是一串鏈環連在一起，通常由金屬做成。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>鎖鏈通常用於限制物體，或把幾個物體固定在一起。它尤其與限制囚犯的行動有關。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">10.5.4 項鏈、鏈、帶子 (necklace, chain, cord)&lt;REALIA:10.5.4&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在許多語言中，「鎖鏈」的表達方式就是「金屬繩」。還有一些語言可以譯為「一節節的繩子」，而不是「扭絞的繩子」，後者是指用某種纖維編成的繩子。有些語言用不同的詞語表示捆綁人的鎖鏈與工農業生產所用的鏈條。</p>\n<p>在上面列出的一些經文中，「鎖鏈」象徵監禁。在類似<a href=\"https://ref.ly/Phil1:7\">PHP 1:7</a> 的經文中，許多譯本都會遵循<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 的譯法。在這節經文的中間部分，希臘文本的字面意思是「在我被鎖鏈捆綁的境地中」，但<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「現在我在獄中的情況下」。</p>\n<p>所羅門放在至聖所前的鏈子是用金子做的（<a href=\"https://ref.ly/1Kgs6:21\">1KI 6:21</a> ），主要用來裝飾，但它們也提醒在聖所供職的人不要靠近至聖所。</p>\n<p>在<a href=\"https://ref.ly/Job38:31\">JOB 38:31</a> 中，有兩個希伯來文詞語需要特別注意。<em>ma‘adanoth</em> （也出現在<a href=\"https://ref.ly/1Sam15:32\">1SA 15:32</a> ，意思卻完全不同）與一個意為「繫、綁」的動詞一起出現。<em>ma‘adanoth</em> 的意思不確定，但似乎是由於「環」一詞中的兩個希伯來文字母調換了順序所導致的，所以<em>ma‘adanoth</em> 的意思是一串相互連接的環，即「鏈子」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）。有些譯本傾向於將動詞和名詞合譯為「繫在一起」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 直譯），而不提捆綁所用的物件。第二個希伯來文詞語<em>moshkoth</em> 在整本聖經中僅出現在此處。該詞來自一個意為「拉、拖」的動詞。在現代希伯來文中，<em>moshkoth</em> 的意思是「韁繩」（用來駕馭馬的皮繩），<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 的譯法就反映出這一層意思，這節經文的第二行英文意為「或解開獵戶座的韁繩」。其他譯本認為<em>moshkoth</em> 指的是獵戶座的「腰帶」（如<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> ），這是排成一行的三顆星。</p>\n<p>\n            <a href=\"https://ref.ly/Ps149:8\">PSA 149:8</a> ：<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 在這節經文的英文意為，「用鏈子捆綁他們的君王，用鐵腳鐐鎖住他們的貴族。」「他們的貴族」與「他們的君王」平行，指軍事領袖。在一些語言中，使用「鏈子」和「鐵腳鐐」容易讓人以為捆綁君王的鏈子不是用鐵做成的。然而，詩歌中的平行表明它們是同義詞。在一些語言中，這節經文可譯為：「俘虜他們的君王和領袖，並把他們綁起來。」</p>\n<p>\n            <a href=\"https://ref.ly/Rev20:1\">REV 20:1</a> ：「一條大鎖鏈」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）可以譯為「一條沉重的鎖鏈」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯）或「一條粗鎖鏈」。我們假定這條鏈子是金屬做成的，目的顯然是捆綁撒但。在金屬鎖鏈不為人所知的文化中，翻譯者可以說「一根粗繩子」，或者也可以使用其他用來綁人的材料。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "24040001",
+"start_ref_usfm": "JER 40:1",
+"end_ref": "24040001",
+"end_ref_usfm": "JER 40:1"
+},
+{
+"start_ref": "24040004",
+"start_ref_usfm": "JER 40:4",
+"end_ref": "24040004",
+"end_ref_usfm": "JER 40:4"
+},
+{
+"start_ref": "18036008",
+"start_ref_usfm": "JOB 36:8",
+"end_ref": "18036008",
+"end_ref_usfm": "JOB 36:8"
+},
+{
+"start_ref": "19149008",
+"start_ref_usfm": "PSA 149:8",
+"end_ref": "19149008",
+"end_ref_usfm": "PSA 149:8"
+},
+{
+"start_ref": "23045014",
+"start_ref_usfm": "ISA 45:14",
+"end_ref": "23045014",
+"end_ref_usfm": "ISA 45:14"
+},
+{
+"start_ref": "34003010",
+"start_ref_usfm": "NAM 3:10",
+"end_ref": "34003010",
+"end_ref_usfm": "NAM 3:10"
+},
+{
+"start_ref": "18038031",
+"start_ref_usfm": "JOB 38:31",
+"end_ref": "18038031",
+"end_ref_usfm": "JOB 38:31"
+},
+{
+"start_ref": "11006021",
+"start_ref_usfm": "1KI 6:21",
+"end_ref": "11006021",
+"end_ref_usfm": "1KI 6:21"
+},
+{
+"start_ref": "41005003",
+"start_ref_usfm": "MRK 5:3",
+"end_ref": "41005003",
+"end_ref_usfm": "MRK 5:3"
+},
+{
+"start_ref": "41005004",
+"start_ref_usfm": "MRK 5:4",
+"end_ref": "41005004",
+"end_ref_usfm": "MRK 5:4"
+},
+{
+"start_ref": "42008029",
+"start_ref_usfm": "LUK 8:29",
+"end_ref": "42008029",
+"end_ref_usfm": "LUK 8:29"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012006",
+"end_ref_usfm": "ACT 12:6"
+},
+{
+"start_ref": "44012007",
+"start_ref_usfm": "ACT 12:7",
+"end_ref": "44012007",
+"end_ref_usfm": "ACT 12:7"
+},
+{
+"start_ref": "44021033",
+"start_ref_usfm": "ACT 21:33",
+"end_ref": "44021033",
+"end_ref_usfm": "ACT 21:33"
+},
+{
+"start_ref": "44028020",
+"start_ref_usfm": "ACT 28:20",
+"end_ref": "44028020",
+"end_ref_usfm": "ACT 28:20"
+},
+{
+"start_ref": "49006020",
+"start_ref_usfm": "EPH 6:20",
+"end_ref": "49006020",
+"end_ref_usfm": "EPH 6:20"
+},
+{
+"start_ref": "55001016",
+"start_ref_usfm": "2TI 1:16",
+"end_ref": "55001016",
+"end_ref_usfm": "2TI 1:16"
+},
+{
+"start_ref": "66020001",
+"start_ref_usfm": "REV 20:1",
+"end_ref": "66020001",
+"end_ref_usfm": "REV 20:1"
+},
+{
+"start_ref": "71017016",
+"start_ref_usfm": "WIS 17:16",
+"end_ref": "71017016",
+"end_ref_usfm": "WIS 17:16"
+},
+{
+"start_ref": "42013016",
+"start_ref_usfm": "LUK 13:16",
+"end_ref": "42013016",
+"end_ref_usfm": "LUK 13:16"
+},
+{
+"start_ref": "44016026",
+"start_ref_usfm": "ACT 16:26",
+"end_ref": "44016026",
+"end_ref_usfm": "ACT 16:26"
+},
+{
+"start_ref": "44020023",
+"start_ref_usfm": "ACT 20:23",
+"end_ref": "44020023",
+"end_ref_usfm": "ACT 20:23"
+},
+{
+"start_ref": "44023029",
+"start_ref_usfm": "ACT 23:29",
+"end_ref": "44023029",
+"end_ref_usfm": "ACT 23:29"
+},
+{
+"start_ref": "44026029",
+"start_ref_usfm": "ACT 26:29",
+"end_ref": "44026029",
+"end_ref_usfm": "ACT 26:29"
+},
+{
+"start_ref": "44026031",
+"start_ref_usfm": "ACT 26:31",
+"end_ref": "44026031",
+"end_ref_usfm": "ACT 26:31"
+},
+{
+"start_ref": "50001007",
+"start_ref_usfm": "PHP 1:7",
+"end_ref": "50001007",
+"end_ref_usfm": "PHP 1:7"
+},
+{
+"start_ref": "50001014",
+"start_ref_usfm": "PHP 1:14",
+"end_ref": "50001014",
+"end_ref_usfm": "PHP 1:14"
+},
+{
+"start_ref": "50001017",
+"start_ref_usfm": "PHP 1:17",
+"end_ref": "50001017",
+"end_ref_usfm": "PHP 1:17"
+},
+{
+"start_ref": "51004018",
+"start_ref_usfm": "COL 4:18",
+"end_ref": "51004018",
+"end_ref_usfm": "COL 4:18"
+},
+{
+"start_ref": "55002009",
+"start_ref_usfm": "2TI 2:9",
+"end_ref": "55002009",
+"end_ref_usfm": "2TI 2:9"
+},
+{
+"start_ref": "57001010",
+"start_ref_usfm": "PHM 1:10",
+"end_ref": "57001010",
+"end_ref_usfm": "PHM 1:10"
+},
+{
+"start_ref": "57001013",
+"start_ref_usfm": "PHM 1:13",
+"end_ref": "57001013",
+"end_ref_usfm": "PHM 1:13"
+},
+{
+"start_ref": "58011036",
+"start_ref_usfm": "HEB 11:36",
+"end_ref": "58011036",
+"end_ref_usfm": "HEB 11:36"
+},
+{
+"start_ref": "65001006",
+"start_ref_usfm": "JUD 1:6",
+"end_ref": "65001006",
+"end_ref_usfm": "JUD 1:6"
+},
+{
+"start_ref": "71010014",
+"start_ref_usfm": "WIS 10:14",
+"end_ref": "71010014",
+"end_ref_usfm": "WIS 10:14"
+},
+{
+"start_ref": "72006025",
+"start_ref_usfm": "SIR 6:25",
+"end_ref": "72006025",
+"end_ref_usfm": "SIR 6:25"
+},
+{
+"start_ref": "72006030",
+"start_ref_usfm": "SIR 6:30",
+"end_ref": "72006030",
+"end_ref_usfm": "SIR 6:30"
+},
+{
+"start_ref": "72013012",
+"start_ref_usfm": "SIR 13:12",
+"end_ref": "72013012",
+"end_ref_usfm": "SIR 13:12"
+},
+{
+"start_ref": "72028020",
+"start_ref_usfm": "SIR 28:20",
+"end_ref": "72028020",
+"end_ref_usfm": "SIR 28:20"
+},
+{
+"start_ref": "80003025",
+"start_ref_usfm": "3MA 3:25",
+"end_ref": "80003025",
+"end_ref_usfm": "3MA 3:25"
+},
+{
+"start_ref": "80004007",
+"start_ref_usfm": "3MA 4:7",
+"end_ref": "80004007",
+"end_ref_usfm": "3MA 4:7"
+},
+{
+"start_ref": "80005006",
+"start_ref_usfm": "3MA 5:6",
+"end_ref": "80005006",
+"end_ref_usfm": "3MA 5:6"
+},
+{
+"start_ref": "80006027",
+"start_ref_usfm": "3MA 6:27",
+"end_ref": "80006027",
+"end_ref_usfm": "3MA 6:27"
+},
+{
+"start_ref": "81012002",
+"start_ref_usfm": "4MA 12:2",
+"end_ref": "81012002",
+"end_ref_usfm": "4MA 12:2"
+},
+{
+"start_ref": "82001038",
+"start_ref_usfm": "1ES 1:38",
+"end_ref": "82001038",
+"end_ref_usfm": "1ES 1:38"
+},
+{
+"start_ref": "61002004",
+"start_ref_usfm": "2PE 2:4",
+"end_ref": "61002004",
+"end_ref_usfm": "2PE 2:4"
+},
+{
+"start_ref": "09015032",
+"start_ref_usfm": "1SA 15:32",
+"end_ref": "09015032",
+"end_ref_usfm": "1SA 15:32"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.7362,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
+]
+}
+},
+{
+"content_id": "REALIA:3.21.5",
+"reference_id": "REALIA:3.21.5",
+"version": "1.0.4",
+"title": "標題：腳鐐（shackle, fetter, manacle）",
+"media_type": "Text",
+"index_reference": "3.21.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.5\"><span class=\"thlex-key\">3.21.5</span> 標題：腳鐐（shackle, fetter, manacle）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כֶּבֶל</span> <span class=\"thlex-translit\">(音譯： kevel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps105:18\">PSA 105:18</a>, <a href=\"https://ref.ly/Ps149:8\">PSA 149:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נְחֹשֶׁת</span> <span class=\"thlex-translit\">(音譯： nchosheth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>, <a href=\"https://ref.ly/2Sam3:34\">2SA 3:34</a>, <a href=\"https://ref.ly/2Kgs25:7\">2KI 25:7</a>, <a href=\"https://ref.ly/2Chr33:11\">2CH 33:11</a>, <a href=\"https://ref.ly/2Chr36:6\">2CH 36:6</a>, <a href=\"https://ref.ly/Jer39:7\">JER 39:7</a>, <a href=\"https://ref.ly/Jer52:11\">JER 52:11</a>, <a href=\"https://ref.ly/Lam3:7\">LAM 3:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： πέδη</span> <span class=\"thlex-translit\">(音譯： pedē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark5:4\">MRK 5:4</a>, <a href=\"https://ref.ly/Mark5:4\">MRK 5:4</a>, <a href=\"https://ref.ly/Luke8:29\">LUK 8:29</a>, <a href=\"https://ref.ly/Sir6:24\">SIR 6:24</a>, <a href=\"https://ref.ly/Sir6:29\">SIR 6:29</a>, <a href=\"https://ref.ly/Sir21:19\">SIR 21:19</a>, <a href=\"https://ref.ly/Sir33:29\">SIR 33:29</a>, <a href=\"https://ref.ly/1Macc3:41\">1MA 3:41</a>, <a href=\"https://ref.ly/3Macc4:9\">3MA 4:9</a>, <a href=\"https://ref.ly/3Macc6:19\">3MA 6:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χειροπέδη</span> <span class=\"thlex-translit\">(音譯： cheiropedē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir21:19\">SIR 21:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0439_shackle.jpg\" alt=\"腳踝上的鐐銬，用來限制囚犯的活動\"><figcaption class=\"thlex-caption\">腳踝上的鐐銬，用來限制囚犯的活動 (Daderot, Public domain or CC0, via Wikimedia Commons)</figcaption></figure>腳鐐是一種金屬鎖鏈，上面有專門的環，用來套住腳踝。腳鐐的作用是限制危險分子或囚犯的行動。本條目與上一個條目「鎖鏈、鏈子」有很多重疊之處。另參上節的插圖。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在有些語言中，「腳鐐」的對等詞就是「腳上的鎖鏈」。<a href=\"https://ref.ly/Mark5:4\">MRK 5:4</a> 和<a href=\"https://ref.ly/Luke8:29\">LUK 8:29</a> 都提到鎖鏈和腳鐐。腳鐐用來綁住腿和腳，而鎖鏈用來綁住手和手臂。如果目標語言中沒有具體指「腳鐐」的詞語，可把字面意思為「被鎖鏈和腳鐐捆綁」的短語譯為：「給他的手腳套上鎖鏈」。</p>\n<p>舊約文本通常會指明製作腳鐐和鎖鏈所用的材料。希伯來文<em>nchosheth</em> 指的是黃銅或青銅，而在《詩篇》中出現兩次的<em>kevel</em> 指的是鐵做的器具。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "19105018",
+"start_ref_usfm": "PSA 105:18",
+"end_ref": "19105018",
+"end_ref_usfm": "PSA 105:18"
+},
+{
+"start_ref": "19149008",
+"start_ref_usfm": "PSA 149:8",
+"end_ref": "19149008",
+"end_ref_usfm": "PSA 149:8"
+},
+{
+"start_ref": "07016021",
+"start_ref_usfm": "JDG 16:21",
+"end_ref": "07016021",
+"end_ref_usfm": "JDG 16:21"
+},
+{
+"start_ref": "10003034",
+"start_ref_usfm": "2SA 3:34",
+"end_ref": "10003034",
+"end_ref_usfm": "2SA 3:34"
+},
+{
+"start_ref": "12025007",
+"start_ref_usfm": "2KI 25:7",
+"end_ref": "12025007",
+"end_ref_usfm": "2KI 25:7"
+},
+{
+"start_ref": "14033011",
+"start_ref_usfm": "2CH 33:11",
+"end_ref": "14033011",
+"end_ref_usfm": "2CH 33:11"
+},
+{
+"start_ref": "14036006",
+"start_ref_usfm": "2CH 36:6",
+"end_ref": "14036006",
+"end_ref_usfm": "2CH 36:6"
+},
+{
+"start_ref": "24039007",
+"start_ref_usfm": "JER 39:7",
+"end_ref": "24039007",
+"end_ref_usfm": "JER 39:7"
+},
+{
+"start_ref": "24052011",
+"start_ref_usfm": "JER 52:11",
+"end_ref": "24052011",
+"end_ref_usfm": "JER 52:11"
+},
+{
+"start_ref": "25003007",
+"start_ref_usfm": "LAM 3:7",
+"end_ref": "25003007",
+"end_ref_usfm": "LAM 3:7"
+},
+{
+"start_ref": "41005004",
+"start_ref_usfm": "MRK 5:4",
+"end_ref": "41005004",
+"end_ref_usfm": "MRK 5:4"
+},
+{
+"start_ref": "42008029",
+"start_ref_usfm": "LUK 8:29",
+"end_ref": "42008029",
+"end_ref_usfm": "LUK 8:29"
+},
+{
+"start_ref": "72006024",
+"start_ref_usfm": "SIR 6:24",
+"end_ref": "72006024",
+"end_ref_usfm": "SIR 6:24"
+},
+{
+"start_ref": "72006029",
+"start_ref_usfm": "SIR 6:29",
+"end_ref": "72006029",
+"end_ref_usfm": "SIR 6:29"
+},
+{
+"start_ref": "72021019",
+"start_ref_usfm": "SIR 21:19",
+"end_ref": "72021019",
+"end_ref_usfm": "SIR 21:19"
+},
+{
+"start_ref": "72033029",
+"start_ref_usfm": "SIR 33:29",
+"end_ref": "72033029",
+"end_ref_usfm": "SIR 33:29"
+},
+{
+"start_ref": "78003041",
+"start_ref_usfm": "1MA 3:41",
+"end_ref": "78003041",
+"end_ref_usfm": "1MA 3:41"
+},
+{
+"start_ref": "80004009",
+"start_ref_usfm": "3MA 4:9",
+"end_ref": "80004009",
+"end_ref_usfm": "3MA 4:9"
+},
+{
+"start_ref": "80006019",
+"start_ref_usfm": "3MA 6:19",
+"end_ref": "80006019",
+"end_ref_usfm": "3MA 6:19"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:3.21.6",
+"reference_id": "REALIA:3.21.6",
+"version": "1.0.4",
+"title": "標題：刑架和其他刑具（rack and other instruments of torture）",
+"media_type": "Text",
+"index_reference": "3.21.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.21.6\"><span class=\"thlex-key\">3.21.6</span> 標題：刑架和其他刑具（rack and other instruments of torture）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἄξων</span> <span class=\"thlex-translit\">(音譯： axōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/4Macc9:20\">4MA 9:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： καταπέλτης</span> <span class=\"thlex-translit\">(音譯： katapeltēs)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/4Macc11:26\">4MA 11:26</a>, <a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a>, <a href=\"https://ref.ly/4Macc9:26\">4MA 9:26</a>, <a href=\"https://ref.ly/4Macc11:9\">4MA 11:9</a>, <a href=\"https://ref.ly/4Macc18:20\">4MA 18:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： στρέβλη</span> <span class=\"thlex-translit\">(音譯： streblē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir33:27\">SIR 33:27</a>, <a href=\"https://ref.ly/4Macc7:4\">4MA 7:4</a>, <a href=\"https://ref.ly/4Macc7:14\">4MA 7:14</a>, <a href=\"https://ref.ly/4Macc8:11\">4MA 8:11</a>, <a href=\"https://ref.ly/4Macc8:24\">4MA 8:24</a>, <a href=\"https://ref.ly/4Macc9:22\">4MA 9:22</a>, <a href=\"https://ref.ly/4Macc14:12\">4MA 14:12</a>, <a href=\"https://ref.ly/4Macc15:24\">4MA 15:24</a>, <a href=\"https://ref.ly/4Macc15:25\">4MA 15:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： στρεβλωτήριον</span> <span class=\"thlex-translit\">(音譯： streblōtērion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： τροχός</span> <span class=\"thlex-translit\">(音譯： trochos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/4Macc5:32\">4MA 5:32</a>, <a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a>, <a href=\"https://ref.ly/4Macc9:12\">4MA 9:12</a>, <a href=\"https://ref.ly/4Macc9:17\">4MA 9:17</a>, <a href=\"https://ref.ly/4Macc9:19\">4MA 9:19</a>, <a href=\"https://ref.ly/4Macc9:20\">4MA 9:20</a>, <a href=\"https://ref.ly/4Macc10:8\">4MA 10:8</a>, <a href=\"https://ref.ly/4Macc11:10\">4MA 11:10</a>, <a href=\"https://ref.ly/4Macc11:17\">4MA 11:17</a>, <a href=\"https://ref.ly/4Macc15:22\">4MA 15:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： τύμπανον</span> <span class=\"thlex-translit\">(音譯： tumpanon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc6:19\">2MA 6:19</a>, <a href=\"https://ref.ly/2Macc6:28\">2MA 6:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>刑架是一個拷問的刑具。受刑者的雙手伸過頭頂，四肢伸展躺在桌子上。手和腳分別綁在桌子兩端的輪子或其他裝置上，這些裝置把四肢拉得越來越開，給人造成巨大的痛苦。受刑者被這樣扯拽的同時，可能還會遭受鞭打或其他方式的身體虐待。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>大多數文化都不知道這種刑具。翻譯者最好依循<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 的譯法，不要追求準確地描述刑架；例如，在<a href=\"https://ref.ly/2Macc6:19\">2MA 6:19</a> 中，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「嚴刑拷打的地方」。</p>\n<p>希臘文<em>trochos</em> 的字面意思是「輪子」。在<a href=\"https://ref.ly/4Macc5:32\">4MA 5:32</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 英文意為「拷問人的輪子」。在《次經‧馬加比四書》的大多數情況下，「輪子」和刑架相似，都是用來扯拽受刑者的，並且輪子似乎與火一起使用，受刑者在被扯拽的同時，還被火烤灼著。</p>\n<p>同樣，<a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a> 中的希臘文<em>katapeltēs</em> 似乎是指一種拉扯四肢、使關節脫臼的刑具。<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 把它譯為“catapults”（「彈弓」），但<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 譯為“pounding machines”（「投石車」）。但這似乎不符合<a href=\"https://ref.ly/4Macc11:9\">4MA 11:9</a>; <a href=\"https://ref.ly/4Macc11:10\">4MA 11:10</a> 中描述的酷刑，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 英文意為「他將要受刑的地方」。</p>\n<p>《次經‧馬加比四書》所列的部分刑具可能是更大刑具的構件；例如，<a href=\"https://ref.ly/4Macc11:10\">4MA 11:10</a> 中的「楔子」（“wedge”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ，希臘文<em>sfēn</em> ）、「鐵夾子」（<em>podagra sidērous</em> ）和「輪子」（<em>trochiaios</em> ）在施行<em>katapeltēs</em> 酷刑時都會用到。</p>\n<p>希臘文<em>axōn</em> 通常指的是輪子的軸（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">8.3 輪、車輪 (wheel)&lt;REALIA:8.3&gt;</a> ）。然而，在<a href=\"https://ref.ly/4Macc9:20\">4MA 9:20</a> 中，它不是指車輪的一個部件，而是指靜止不動的刑訊機器的一個部分。輪子是其運轉機構的一部分，這些輪子就像馬車上的輪子一樣，圍著一個中心軸轉動。</p>\n<p>《次經‧馬加比四書》還提到了其他一些刑具。這些刑具的結構大多不明確。我們在這裡列出它們的名稱以及翻譯建議。主要有：</p>\n<p>\n            <em>arthrembolon</em>\n            <a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a> 「關節脫臼器」（“joint-dislocator”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）、「牽拉架」（“stretching frame”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）</p>\n<p>\n            <em>daktulēthra</em>\n            <a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a> 「拇指夾」（“thumbscrew”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）、「鐵鉗」（“iron clamps”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）</p>\n<p>\n            <em>daktulēthra</em>\n            <a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a> 「骨頭軋碎器」（“bone-crusher”，可能與輪子有關）</p>\n<p>\n            <em>cheir sidēra</em>\n            <a href=\"https://ref.ly/4Macc8:13\">4MA 8:13</a>; <a href=\"https://ref.ly/4Macc11:10\">4MA 11:10</a> 「帶尖鈎的鐵手套」（“iron gauntlets having sharp hooks”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）、「末端有尖鈎的重鐵棒」（“heavy iron club with sharp hooks on its end”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "81009020",
+"start_ref_usfm": "4MA 9:20",
+"end_ref": "81009020",
+"end_ref_usfm": "4MA 9:20"
+},
+{
+"start_ref": "81011026",
+"start_ref_usfm": "4MA 11:26",
+"end_ref": "81011026",
+"end_ref_usfm": "4MA 11:26"
+},
+{
+"start_ref": "81008013",
+"start_ref_usfm": "4MA 8:13",
+"end_ref": "81008013",
+"end_ref_usfm": "4MA 8:13"
+},
+{
+"start_ref": "81009026",
+"start_ref_usfm": "4MA 9:26",
+"end_ref": "81009026",
+"end_ref_usfm": "4MA 9:26"
+},
+{
+"start_ref": "81011009",
+"start_ref_usfm": "4MA 11:9",
+"end_ref": "81011009",
+"end_ref_usfm": "4MA 11:9"
+},
+{
+"start_ref": "81018020",
+"start_ref_usfm": "4MA 18:20",
+"end_ref": "81018020",
+"end_ref_usfm": "4MA 18:20"
+},
+{
+"start_ref": "72033027",
+"start_ref_usfm": "SIR 33:27",
+"end_ref": "72033027",
+"end_ref_usfm": "SIR 33:27"
+},
+{
+"start_ref": "81007004",
+"start_ref_usfm": "4MA 7:4",
+"end_ref": "81007004",
+"end_ref_usfm": "4MA 7:4"
+},
+{
+"start_ref": "81007014",
+"start_ref_usfm": "4MA 7:14",
+"end_ref": "81007014",
+"end_ref_usfm": "4MA 7:14"
+},
+{
+"start_ref": "81008011",
+"start_ref_usfm": "4MA 8:11",
+"end_ref": "81008011",
+"end_ref_usfm": "4MA 8:11"
+},
+{
+"start_ref": "81008024",
+"start_ref_usfm": "4MA 8:24",
+"end_ref": "81008024",
+"end_ref_usfm": "4MA 8:24"
+},
+{
+"start_ref": "81009022",
+"start_ref_usfm": "4MA 9:22",
+"end_ref": "81009022",
+"end_ref_usfm": "4MA 9:22"
+},
+{
+"start_ref": "81014012",
+"start_ref_usfm": "4MA 14:12",
+"end_ref": "81014012",
+"end_ref_usfm": "4MA 14:12"
+},
+{
+"start_ref": "81015024",
+"start_ref_usfm": "4MA 15:24",
+"end_ref": "81015024",
+"end_ref_usfm": "4MA 15:24"
+},
+{
+"start_ref": "81015025",
+"start_ref_usfm": "4MA 15:25",
+"end_ref": "81015025",
+"end_ref_usfm": "4MA 15:25"
+},
+{
+"start_ref": "81005032",
+"start_ref_usfm": "4MA 5:32",
+"end_ref": "81005032",
+"end_ref_usfm": "4MA 5:32"
+},
+{
+"start_ref": "81009012",
+"start_ref_usfm": "4MA 9:12",
+"end_ref": "81009012",
+"end_ref_usfm": "4MA 9:12"
+},
+{
+"start_ref": "81009017",
+"start_ref_usfm": "4MA 9:17",
+"end_ref": "81009017",
+"end_ref_usfm": "4MA 9:17"
+},
+{
+"start_ref": "81009019",
+"start_ref_usfm": "4MA 9:19",
+"end_ref": "81009019",
+"end_ref_usfm": "4MA 9:19"
+},
+{
+"start_ref": "81010008",
+"start_ref_usfm": "4MA 10:8",
+"end_ref": "81010008",
+"end_ref_usfm": "4MA 10:8"
+},
+{
+"start_ref": "81011010",
+"start_ref_usfm": "4MA 11:10",
+"end_ref": "81011010",
+"end_ref_usfm": "4MA 11:10"
+},
+{
+"start_ref": "81011017",
+"start_ref_usfm": "4MA 11:17",
+"end_ref": "81011017",
+"end_ref_usfm": "4MA 11:17"
+},
+{
+"start_ref": "81015022",
+"start_ref_usfm": "4MA 15:22",
+"end_ref": "81015022",
+"end_ref_usfm": "4MA 15:22"
+},
+{
+"start_ref": "79006019",
+"start_ref_usfm": "2MA 6:19",
+"end_ref": "79006019",
+"end_ref_usfm": "2MA 6:19"
+},
+{
+"start_ref": "79006028",
+"start_ref_usfm": "2MA 6:28",
+"end_ref": "79006028",
+"end_ref_usfm": "2MA 6:28"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

@@ -1,0 +1,1566 @@
+[
+{
+"content_id": "REALIA:4.8",
+"reference_id": "REALIA:4.8",
+"version": "1.0.4",
+"title": "Burial and mourning",
+"media_type": "Text",
+"index_reference": "4.8",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8\"><span class=\"thlex-key\">4.8</span> Burial and mourning</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.1",
+"reference_id": "REALIA:4.8.1",
+"version": "1.0.4",
+"title": "Tomb, grave",
+"media_type": "Text",
+"index_reference": "4.8.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.1\"><span class=\"thlex-key\">4.8.1</span> Tomb, grave</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בַּיִת</span> <span class=\"thlex-translit\">(bayith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa14:18\">ISA 14:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גָּדִישׁ</span> <span class=\"thlex-translit\">(gadish)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job21:32\">JOB 21:32</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צְרִיחַ</span> <span class=\"thlex-translit\">(tsriach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:6\">1SA 13:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קְבוּרָה</span> <span class=\"thlex-translit\">(qvurah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen47:30\">GEN 47:30</a>, <a href=\"https://ref.ly/Deut34:6\">DEU 34:6</a>, <a href=\"https://ref.ly/1Sam10:2\">1SA 10:2</a>, <a href=\"https://ref.ly/2Kgs9:28\">2KI 9:28</a>, <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>, <a href=\"https://ref.ly/2Kgs23:30\">2KI 23:30</a>, <a href=\"https://ref.ly/2Chr26:23\">2CH 26:23</a>, <a href=\"https://ref.ly/Eccl6:3\">ECC 6:3</a>, <a href=\"https://ref.ly/Isa14:20\">ISA 14:20</a>, <a href=\"https://ref.ly/Jer22:19\">JER 22:19</a>, <a href=\"https://ref.ly/Ezek32:23\">EZK 32:23</a>, <a href=\"https://ref.ly/Ezek32:24\">EZK 32:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קֶבֶר</span> <span class=\"thlex-translit\">(qever)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen23:4\">GEN 23:4</a>, <a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:9\">GEN 23:9</a>, <a href=\"https://ref.ly/Gen23:20\">GEN 23:20</a>, <a href=\"https://ref.ly/Gen49:30\">GEN 49:30</a>, <a href=\"https://ref.ly/Gen50:5\">GEN 50:5</a>, <a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a>, <a href=\"https://ref.ly/Exod14:11\">EXO 14:11</a>, <a href=\"https://ref.ly/Num19:16\">NUM 19:16</a>, <a href=\"https://ref.ly/Num19:18\">NUM 19:18</a>, <a href=\"https://ref.ly/Judg8:32\">JDG 8:32</a>, <a href=\"https://ref.ly/Judg16:31\">JDG 16:31</a>, <a href=\"https://ref.ly/2Sam2:32\">2SA 2:32</a>, <a href=\"https://ref.ly/2Sam3:32\">2SA 3:32</a>, <a href=\"https://ref.ly/2Sam4:12\">2SA 4:12</a>, <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>, <a href=\"https://ref.ly/2Sam19:38\">2SA 19:38</a>, <a href=\"https://ref.ly/2Sam21:14\">2SA 21:14</a>, <a href=\"https://ref.ly/1Kgs13:22\">1KI 13:22</a>, <a href=\"https://ref.ly/1Kgs13:30\">1KI 13:30</a>, <a href=\"https://ref.ly/1Kgs13:31\">1KI 13:31</a>, <a href=\"https://ref.ly/1Kgs14:13\">1KI 14:13</a>, <a href=\"https://ref.ly/2Kgs13:21\">2KI 13:21</a>, <a href=\"https://ref.ly/2Kgs22:20\">2KI 22:20</a>, <a href=\"https://ref.ly/2Kgs23:6\">2KI 23:6</a>, <a href=\"https://ref.ly/2Kgs23:16\">2KI 23:16</a>, <a href=\"https://ref.ly/2Kgs23:16\">2KI 23:16</a>, <a href=\"https://ref.ly/2Kgs23:17\">2KI 23:17</a>, <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, <a href=\"https://ref.ly/2Chr21:20\">2CH 21:20</a>, <a href=\"https://ref.ly/2Chr24:25\">2CH 24:25</a>, <a href=\"https://ref.ly/2Chr28:27\">2CH 28:27</a>, <a href=\"https://ref.ly/2Chr32:33\">2CH 32:33</a>, <a href=\"https://ref.ly/2Chr34:4\">2CH 34:4</a>, <a href=\"https://ref.ly/2Chr34:28\">2CH 34:28</a>, <a href=\"https://ref.ly/2Chr35:24\">2CH 35:24</a>, <a href=\"https://ref.ly/Neh2:3\">NEH 2:3</a>, <a href=\"https://ref.ly/Neh2:5\">NEH 2:5</a>, <a href=\"https://ref.ly/Neh3:16\">NEH 3:16</a>, <a href=\"https://ref.ly/Job3:22\">JOB 3:22</a>, <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a>, <a href=\"https://ref.ly/Job10:19\">JOB 10:19</a>, <a href=\"https://ref.ly/Job17:1\">JOB 17:1</a>, <a href=\"https://ref.ly/Job21:32\">JOB 21:32</a>, <a href=\"https://ref.ly/Ps5:10\">PSA 5:10</a>, <a href=\"https://ref.ly/Ps88:6\">PSA 88:6</a>, <a href=\"https://ref.ly/Ps88:12\">PSA 88:12</a>, <a href=\"https://ref.ly/Isa14:19\">ISA 14:19</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa53:9\">ISA 53:9</a>, <a href=\"https://ref.ly/Isa65:4\">ISA 65:4</a>, <a href=\"https://ref.ly/Jer5:16\">JER 5:16</a>, <a href=\"https://ref.ly/Jer8:1\">JER 8:1</a>, <a href=\"https://ref.ly/Jer20:17\">JER 20:17</a>, <a href=\"https://ref.ly/Jer26:23\">JER 26:23</a>, <a href=\"https://ref.ly/Ezek32:22\">EZK 32:22</a>, <a href=\"https://ref.ly/Ezek32:23\">EZK 32:23</a>, <a href=\"https://ref.ly/Ezek32:25\">EZK 32:25</a>, <a href=\"https://ref.ly/Ezek32:26\">EZK 32:26</a>, <a href=\"https://ref.ly/Ezek37:12\">EZK 37:12</a>, <a href=\"https://ref.ly/Ezek37:12\">EZK 37:12</a>, <a href=\"https://ref.ly/Ezek37:13\">EZK 37:13</a>, <a href=\"https://ref.ly/Ezek37:13\">EZK 37:13</a>, <a href=\"https://ref.ly/Ezek39:11\">EZK 39:11</a>, <a href=\"https://ref.ly/Nah1:14\">NAM 1:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">μνῆμα</span> <span class=\"thlex-translit\">(mnēma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark5:5\">MRK 5:5</a>, <a href=\"https://ref.ly/Luke8:27\">LUK 8:27</a>, <a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a>, <a href=\"https://ref.ly/Luke24:1\">LUK 24:1</a>, <a href=\"https://ref.ly/Acts2:29\">ACT 2:29</a>, <a href=\"https://ref.ly/Acts7:16\">ACT 7:16</a>, <a href=\"https://ref.ly/Rev11:9\">REV 11:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">μνημεῖον</span> <span class=\"thlex-translit\">(mnēmeion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:9\">GEN 23:9</a>, <a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen49:30\">GEN 49:30</a>, <a href=\"https://ref.ly/Gen50:5\">GEN 50:5</a>, <a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa26:19\">ISA 26:19</a>, <a href=\"https://ref.ly/Ezek39:11\">EZK 39:11</a>, <a href=\"https://ref.ly/Matt8:28\">MAT 8:28</a>, <a href=\"https://ref.ly/Matt23:29\">MAT 23:29</a>, <a href=\"https://ref.ly/Matt27:52\">MAT 27:52</a>, <a href=\"https://ref.ly/Matt27:53\">MAT 27:53</a>, <a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a>, <a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a>, <a href=\"https://ref.ly/Matt28:8\">MAT 28:8</a>, <a href=\"https://ref.ly/Mark5:2\">MRK 5:2</a>, <a href=\"https://ref.ly/Mark6:29\">MRK 6:29</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark16:2\">MRK 16:2</a>, <a href=\"https://ref.ly/Mark16:3\">MRK 16:3</a>, <a href=\"https://ref.ly/Mark16:5\">MRK 16:5</a>, <a href=\"https://ref.ly/Mark16:8\">MRK 16:8</a>, <a href=\"https://ref.ly/Luke11:44\">LUK 11:44</a>, <a href=\"https://ref.ly/Luke11:47\">LUK 11:47</a>, <a href=\"https://ref.ly/Luke23:55\">LUK 23:55</a>, <a href=\"https://ref.ly/Luke24:2\">LUK 24:2</a>, <a href=\"https://ref.ly/Luke24:9\">LUK 24:9</a>, <a href=\"https://ref.ly/Luke24:12\">LUK 24:12</a>, <a href=\"https://ref.ly/Luke24:22\">LUK 24:22</a>, <a href=\"https://ref.ly/Luke24:24\">LUK 24:24</a>, <a href=\"https://ref.ly/John5:28\">JHN 5:28</a>, <a href=\"https://ref.ly/John11:17\">JHN 11:17</a>, <a href=\"https://ref.ly/John11:31\">JHN 11:31</a>, <a href=\"https://ref.ly/John11:38\">JHN 11:38</a>, <a href=\"https://ref.ly/John12:17\">JHN 12:17</a>, <a href=\"https://ref.ly/John19:41\">JHN 19:41</a>, <a href=\"https://ref.ly/John19:42\">JHN 19:42</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a>, <a href=\"https://ref.ly/John20:2\">JHN 20:2</a>, <a href=\"https://ref.ly/John20:3\">JHN 20:3</a>, <a href=\"https://ref.ly/John20:4\">JHN 20:4</a>, <a href=\"https://ref.ly/John20:6\">JHN 20:6</a>, <a href=\"https://ref.ly/John20:8\">JHN 20:8</a>, <a href=\"https://ref.ly/John20:11\">JHN 20:11</a>, <a href=\"https://ref.ly/John20:11\">JHN 20:11</a>, <a href=\"https://ref.ly/Acts13:29\">ACT 13:29</a>, <a href=\"https://ref.ly/Wis10:7\">WIS 10:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">τάφος</span> <span class=\"thlex-translit\">(tafos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a>, <a href=\"https://ref.ly/Matt23:29\">MAT 23:29</a>, <a href=\"https://ref.ly/Matt27:61\">MAT 27:61</a>, <a href=\"https://ref.ly/Matt27:64\">MAT 27:64</a>, <a href=\"https://ref.ly/Matt27:66\">MAT 27:66</a>, <a href=\"https://ref.ly/Matt28:1\">MAT 28:1</a>, <a href=\"https://ref.ly/Rom3:13\">ROM 3:13</a>, <a href=\"https://ref.ly/Tob4:4\">TOB 4:4</a>, <a href=\"https://ref.ly/Tob4:17\">TOB 4:17</a>, <a href=\"https://ref.ly/Tob6:15\">TOB 6:15</a>, <a href=\"https://ref.ly/Tob8:10\">TOB 8:10</a>, <a href=\"https://ref.ly/Tob8:18\">TOB 8:18</a>, <a href=\"https://ref.ly/Wis19:3\">WIS 19:3</a>, <a href=\"https://ref.ly/Sir30:18\">SIR 30:18</a>, <a href=\"https://ref.ly/1Macc2:70\">1MA 2:70</a>, <a href=\"https://ref.ly/1Macc9:19\">1MA 9:19</a>, <a href=\"https://ref.ly/1Macc13:27\">1MA 13:27</a>, <a href=\"https://ref.ly/1Macc13:30\">1MA 13:30</a>, <a href=\"https://ref.ly/2Macc5:10\">2MA 5:10</a>, <a href=\"https://ref.ly/2Macc12:39\">2MA 12:39</a>, <a href=\"https://ref.ly/3Macc6:31\">3MA 6:31</a>, <a href=\"https://ref.ly/1Esd1:29\">1ES 1:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">monumentum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd2:16\">2ES 2:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">sepulchrum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd2:23\">2ES 2:23</a>, <a href=\"https://ref.ly/2Esd5:35\">2ES 5:35</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0467_burial.jpg\" alt=\"Tomb with niches, with wall painting of man playing a flute and woman playing a harp (Beit Guvrin)\"><figcaption class=\"thlex-caption\">Tomb with niches, with wall painting of man playing a flute and woman playing a harp (Beit Guvrin) (© Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>The tomb was a construction for the burial of the dead. Since much of the land of Israel, especially in the hilly regions, has little topsoil, tombs were often hewn out of bedrock. In some cases natural caves were used for burial. The entrance to a tomb was closed with a stone (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.8.1.1 Stone for closing a tomb&lt;REALIA:4.8.1.1&gt;</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Death is a universal experience, and all languages and cultures have words to express the disposal of a dead body. In a number of languages it is important to distinguish clearly between a grave (a hole in the ground in which a corpse is placed) and a tomb (a construction built above the surface of the ground for housing one or more corpses). In some contexts, however, it may be better to use a more generic expression, for example, “places where people are buried” or “places where corpses are placed.”</p>\n<p>In some passages the word “grave” is used as a symbol for death. Translators should consider whether the physical burial place is in focus or rather the fact that a person has died. In the latter case, it may be better to use a term indicating “death.” This will be true especially in poetic passages. For example, <a href=\"https://ref.ly/Job3:22\">JOB 3:22</a> is literally “who rejoicing unto joy are glad when they find a grave,” but <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “They are not happy till they are dead and buried.” <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a> is literally “You will come to the grave at an old age,” but <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “you will live to a ripe old age.”</p>\n<p>Certain verses speak of “graves” in the plural. Here it will often be appropriate to use a word like “graveyard” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> in <a href=\"https://ref.ly/Job21:32\">JOB 21:32</a>) or “cemetery.”</p>\n<p>In the upper levels of Israelite society burial was often done in two stages. In the first stage the body was either laid on a kind of shelf inside a burial chamber or it was placed in a large box called a sarcophagus (“flesh eater”) in English. After about a year, when the flesh had rotted, the bones were moved to a designated place in the chamber. By New Testament times the bones were being placed into an ossuary (“bone box”). These practices gave rise to two expressions in the Hebrew language: “he lay down with his fathers” and “he was gathered to his fathers.” In <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, the place where the body was laid out (<em>mishkav</em> in Hebrew) is referred to in the burial of King Asa of Judah. Some translations render the word as “bier” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.8.4 Bier, coffin&lt;REALIA:4.8.4&gt;</a>), but the structure of the verse indicates that Asa’s body was taken into the tomb and laid in its permanent place, that is, on a shelf in the tomb. The rendering of <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> gives the sense better with “resting-place.”</p>\n<p>\n            <a href=\"https://ref.ly/1Sam13:6\">1SA 13:6</a>: The meaning of the Hebrew word <em>tsrichim</em> in this verse is uncertain. Some versions understand it to mean “tombs” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>, <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr>). These would be cave-like structures hewn out of the rock. Others use a more generic term, such as “pits” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) or “vaults” (<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>). Some have thought this word is related to a Hebrew word meaning “stronghold” or “tower” in <a href=\"https://ref.ly/Judg9:46\">JDG 9:46</a>, <a href=\"https://ref.ly/Judg9:49\">JDG 9:49</a>, but this meaning does not seem to fit the context here.</p>\n<p>In <a href=\"https://ref.ly/Matt23:29\">MAT 23:29</a> the Greek word <em>mnēmeion</em> may also be understood as referring to monuments built as memorials to people who have died. Here it may be translated “monuments to the dead.” This is also its meaning in <a href=\"https://ref.ly/Luke11:47\">LUK 11:47</a>. The Latin word <em>monumentum</em> in <a href=\"https://ref.ly/2Esd2:16\">2ES 2:16</a> may be understood in the same way.</p>\n<p>In <a href=\"https://ref.ly/Mark5:2\">MRK 5:2</a>  it is important to avoid a term that would designate merely graves, for the demoniac who met Jesus was not living down in graves in the ground, but had found some habitation either in burial caves or in tombs constructed above ground.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23014018",
+"start_ref_usfm": "ISA 14:18",
+"end_ref": "23014018",
+"end_ref_usfm": "ISA 14:18"
+},
+{
+"start_ref": "18021032",
+"start_ref_usfm": "JOB 21:32",
+"end_ref": "18021032",
+"end_ref_usfm": "JOB 21:32"
+},
+{
+"start_ref": "09013006",
+"start_ref_usfm": "1SA 13:6",
+"end_ref": "09013006",
+"end_ref_usfm": "1SA 13:6"
+},
+{
+"start_ref": "01035020",
+"start_ref_usfm": "GEN 35:20",
+"end_ref": "01035020",
+"end_ref_usfm": "GEN 35:20"
+},
+{
+"start_ref": "01047030",
+"start_ref_usfm": "GEN 47:30",
+"end_ref": "01047030",
+"end_ref_usfm": "GEN 47:30"
+},
+{
+"start_ref": "05034006",
+"start_ref_usfm": "DEU 34:6",
+"end_ref": "05034006",
+"end_ref_usfm": "DEU 34:6"
+},
+{
+"start_ref": "09010002",
+"start_ref_usfm": "1SA 10:2",
+"end_ref": "09010002",
+"end_ref_usfm": "1SA 10:2"
+},
+{
+"start_ref": "12009028",
+"start_ref_usfm": "2KI 9:28",
+"end_ref": "12009028",
+"end_ref_usfm": "2KI 9:28"
+},
+{
+"start_ref": "12021026",
+"start_ref_usfm": "2KI 21:26",
+"end_ref": "12021026",
+"end_ref_usfm": "2KI 21:26"
+},
+{
+"start_ref": "12023030",
+"start_ref_usfm": "2KI 23:30",
+"end_ref": "12023030",
+"end_ref_usfm": "2KI 23:30"
+},
+{
+"start_ref": "14026023",
+"start_ref_usfm": "2CH 26:23",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "21006003",
+"start_ref_usfm": "ECC 6:3",
+"end_ref": "21006003",
+"end_ref_usfm": "ECC 6:3"
+},
+{
+"start_ref": "23014020",
+"start_ref_usfm": "ISA 14:20",
+"end_ref": "23014020",
+"end_ref_usfm": "ISA 14:20"
+},
+{
+"start_ref": "24022019",
+"start_ref_usfm": "JER 22:19",
+"end_ref": "24022019",
+"end_ref_usfm": "JER 22:19"
+},
+{
+"start_ref": "26032023",
+"start_ref_usfm": "EZK 32:23",
+"end_ref": "26032023",
+"end_ref_usfm": "EZK 32:23"
+},
+{
+"start_ref": "26032024",
+"start_ref_usfm": "EZK 32:24",
+"end_ref": "26032024",
+"end_ref_usfm": "EZK 32:24"
+},
+{
+"start_ref": "01023004",
+"start_ref_usfm": "GEN 23:4",
+"end_ref": "01023004",
+"end_ref_usfm": "GEN 23:4"
+},
+{
+"start_ref": "01023006",
+"start_ref_usfm": "GEN 23:6",
+"end_ref": "01023006",
+"end_ref_usfm": "GEN 23:6"
+},
+{
+"start_ref": "01023009",
+"start_ref_usfm": "GEN 23:9",
+"end_ref": "01023009",
+"end_ref_usfm": "GEN 23:9"
+},
+{
+"start_ref": "01023020",
+"start_ref_usfm": "GEN 23:20",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "01049030",
+"start_ref_usfm": "GEN 49:30",
+"end_ref": "01049030",
+"end_ref_usfm": "GEN 49:30"
+},
+{
+"start_ref": "01050005",
+"start_ref_usfm": "GEN 50:5",
+"end_ref": "01050005",
+"end_ref_usfm": "GEN 50:5"
+},
+{
+"start_ref": "01050013",
+"start_ref_usfm": "GEN 50:13",
+"end_ref": "01050013",
+"end_ref_usfm": "GEN 50:13"
+},
+{
+"start_ref": "02014011",
+"start_ref_usfm": "EXO 14:11",
+"end_ref": "02014011",
+"end_ref_usfm": "EXO 14:11"
+},
+{
+"start_ref": "04019016",
+"start_ref_usfm": "NUM 19:16",
+"end_ref": "04019016",
+"end_ref_usfm": "NUM 19:16"
+},
+{
+"start_ref": "04019018",
+"start_ref_usfm": "NUM 19:18",
+"end_ref": "04019018",
+"end_ref_usfm": "NUM 19:18"
+},
+{
+"start_ref": "07008032",
+"start_ref_usfm": "JDG 8:32",
+"end_ref": "07008032",
+"end_ref_usfm": "JDG 8:32"
+},
+{
+"start_ref": "07016031",
+"start_ref_usfm": "JDG 16:31",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "10002032",
+"start_ref_usfm": "2SA 2:32",
+"end_ref": "10002032",
+"end_ref_usfm": "2SA 2:32"
+},
+{
+"start_ref": "10003032",
+"start_ref_usfm": "2SA 3:32",
+"end_ref": "10003032",
+"end_ref_usfm": "2SA 3:32"
+},
+{
+"start_ref": "10004012",
+"start_ref_usfm": "2SA 4:12",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+},
+{
+"start_ref": "10017023",
+"start_ref_usfm": "2SA 17:23",
+"end_ref": "10017023",
+"end_ref_usfm": "2SA 17:23"
+},
+{
+"start_ref": "10019038",
+"start_ref_usfm": "2SA 19:38",
+"end_ref": "10019038",
+"end_ref_usfm": "2SA 19:38"
+},
+{
+"start_ref": "10021014",
+"start_ref_usfm": "2SA 21:14",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "11013022",
+"start_ref_usfm": "1KI 13:22",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "11013030",
+"start_ref_usfm": "1KI 13:30",
+"end_ref": "11013030",
+"end_ref_usfm": "1KI 13:30"
+},
+{
+"start_ref": "11013031",
+"start_ref_usfm": "1KI 13:31",
+"end_ref": "11013031",
+"end_ref_usfm": "1KI 13:31"
+},
+{
+"start_ref": "11014013",
+"start_ref_usfm": "1KI 14:13",
+"end_ref": "11014013",
+"end_ref_usfm": "1KI 14:13"
+},
+{
+"start_ref": "12013021",
+"start_ref_usfm": "2KI 13:21",
+"end_ref": "12013021",
+"end_ref_usfm": "2KI 13:21"
+},
+{
+"start_ref": "12022020",
+"start_ref_usfm": "2KI 22:20",
+"end_ref": "12022020",
+"end_ref_usfm": "2KI 22:20"
+},
+{
+"start_ref": "12023006",
+"start_ref_usfm": "2KI 23:6",
+"end_ref": "12023006",
+"end_ref_usfm": "2KI 23:6"
+},
+{
+"start_ref": "12023016",
+"start_ref_usfm": "2KI 23:16",
+"end_ref": "12023016",
+"end_ref_usfm": "2KI 23:16"
+},
+{
+"start_ref": "12023017",
+"start_ref_usfm": "2KI 23:17",
+"end_ref": "12023017",
+"end_ref_usfm": "2KI 23:17"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "14021020",
+"start_ref_usfm": "2CH 21:20",
+"end_ref": "14021020",
+"end_ref_usfm": "2CH 21:20"
+},
+{
+"start_ref": "14024025",
+"start_ref_usfm": "2CH 24:25",
+"end_ref": "14024025",
+"end_ref_usfm": "2CH 24:25"
+},
+{
+"start_ref": "14028027",
+"start_ref_usfm": "2CH 28:27",
+"end_ref": "14028027",
+"end_ref_usfm": "2CH 28:27"
+},
+{
+"start_ref": "14032033",
+"start_ref_usfm": "2CH 32:33",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14034004",
+"start_ref_usfm": "2CH 34:4",
+"end_ref": "14034004",
+"end_ref_usfm": "2CH 34:4"
+},
+{
+"start_ref": "14034028",
+"start_ref_usfm": "2CH 34:28",
+"end_ref": "14034028",
+"end_ref_usfm": "2CH 34:28"
+},
+{
+"start_ref": "14035024",
+"start_ref_usfm": "2CH 35:24",
+"end_ref": "14035024",
+"end_ref_usfm": "2CH 35:24"
+},
+{
+"start_ref": "16002003",
+"start_ref_usfm": "NEH 2:3",
+"end_ref": "16002003",
+"end_ref_usfm": "NEH 2:3"
+},
+{
+"start_ref": "16002005",
+"start_ref_usfm": "NEH 2:5",
+"end_ref": "16002005",
+"end_ref_usfm": "NEH 2:5"
+},
+{
+"start_ref": "16003016",
+"start_ref_usfm": "NEH 3:16",
+"end_ref": "16003016",
+"end_ref_usfm": "NEH 3:16"
+},
+{
+"start_ref": "18003022",
+"start_ref_usfm": "JOB 3:22",
+"end_ref": "18003022",
+"end_ref_usfm": "JOB 3:22"
+},
+{
+"start_ref": "18005026",
+"start_ref_usfm": "JOB 5:26",
+"end_ref": "18005026",
+"end_ref_usfm": "JOB 5:26"
+},
+{
+"start_ref": "18010019",
+"start_ref_usfm": "JOB 10:19",
+"end_ref": "18010019",
+"end_ref_usfm": "JOB 10:19"
+},
+{
+"start_ref": "18017001",
+"start_ref_usfm": "JOB 17:1",
+"end_ref": "18017001",
+"end_ref_usfm": "JOB 17:1"
+},
+{
+"start_ref": "19005010",
+"start_ref_usfm": "PSA 5:10",
+"end_ref": "19005010",
+"end_ref_usfm": "PSA 5:10"
+},
+{
+"start_ref": "19088006",
+"start_ref_usfm": "PSA 88:6",
+"end_ref": "19088006",
+"end_ref_usfm": "PSA 88:6"
+},
+{
+"start_ref": "19088012",
+"start_ref_usfm": "PSA 88:12",
+"end_ref": "19088012",
+"end_ref_usfm": "PSA 88:12"
+},
+{
+"start_ref": "23014019",
+"start_ref_usfm": "ISA 14:19",
+"end_ref": "23014019",
+"end_ref_usfm": "ISA 14:19"
+},
+{
+"start_ref": "23022016",
+"start_ref_usfm": "ISA 22:16",
+"end_ref": "23022016",
+"end_ref_usfm": "ISA 22:16"
+},
+{
+"start_ref": "23053009",
+"start_ref_usfm": "ISA 53:9",
+"end_ref": "23053009",
+"end_ref_usfm": "ISA 53:9"
+},
+{
+"start_ref": "23065004",
+"start_ref_usfm": "ISA 65:4",
+"end_ref": "23065004",
+"end_ref_usfm": "ISA 65:4"
+},
+{
+"start_ref": "24005016",
+"start_ref_usfm": "JER 5:16",
+"end_ref": "24005016",
+"end_ref_usfm": "JER 5:16"
+},
+{
+"start_ref": "24008001",
+"start_ref_usfm": "JER 8:1",
+"end_ref": "24008001",
+"end_ref_usfm": "JER 8:1"
+},
+{
+"start_ref": "24020017",
+"start_ref_usfm": "JER 20:17",
+"end_ref": "24020017",
+"end_ref_usfm": "JER 20:17"
+},
+{
+"start_ref": "24026023",
+"start_ref_usfm": "JER 26:23",
+"end_ref": "24026023",
+"end_ref_usfm": "JER 26:23"
+},
+{
+"start_ref": "26032022",
+"start_ref_usfm": "EZK 32:22",
+"end_ref": "26032022",
+"end_ref_usfm": "EZK 32:22"
+},
+{
+"start_ref": "26032025",
+"start_ref_usfm": "EZK 32:25",
+"end_ref": "26032025",
+"end_ref_usfm": "EZK 32:25"
+},
+{
+"start_ref": "26032026",
+"start_ref_usfm": "EZK 32:26",
+"end_ref": "26032026",
+"end_ref_usfm": "EZK 32:26"
+},
+{
+"start_ref": "26037012",
+"start_ref_usfm": "EZK 37:12",
+"end_ref": "26037012",
+"end_ref_usfm": "EZK 37:12"
+},
+{
+"start_ref": "26037013",
+"start_ref_usfm": "EZK 37:13",
+"end_ref": "26037013",
+"end_ref_usfm": "EZK 37:13"
+},
+{
+"start_ref": "26039011",
+"start_ref_usfm": "EZK 39:11",
+"end_ref": "26039011",
+"end_ref_usfm": "EZK 39:11"
+},
+{
+"start_ref": "34001014",
+"start_ref_usfm": "NAM 1:14",
+"end_ref": "34001014",
+"end_ref_usfm": "NAM 1:14"
+},
+{
+"start_ref": "41005005",
+"start_ref_usfm": "MRK 5:5",
+"end_ref": "41005005",
+"end_ref_usfm": "MRK 5:5"
+},
+{
+"start_ref": "42008027",
+"start_ref_usfm": "LUK 8:27",
+"end_ref": "42008027",
+"end_ref_usfm": "LUK 8:27"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024001",
+"end_ref_usfm": "LUK 24:1"
+},
+{
+"start_ref": "44002029",
+"start_ref_usfm": "ACT 2:29",
+"end_ref": "44002029",
+"end_ref_usfm": "ACT 2:29"
+},
+{
+"start_ref": "44007016",
+"start_ref_usfm": "ACT 7:16",
+"end_ref": "44007016",
+"end_ref_usfm": "ACT 7:16"
+},
+{
+"start_ref": "66011009",
+"start_ref_usfm": "REV 11:9",
+"end_ref": "66011009",
+"end_ref_usfm": "REV 11:9"
+},
+{
+"start_ref": "23026019",
+"start_ref_usfm": "ISA 26:19",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008028",
+"end_ref_usfm": "MAT 8:28"
+},
+{
+"start_ref": "40023029",
+"start_ref_usfm": "MAT 23:29",
+"end_ref": "40023029",
+"end_ref_usfm": "MAT 23:29"
+},
+{
+"start_ref": "40027052",
+"start_ref_usfm": "MAT 27:52",
+"end_ref": "40027052",
+"end_ref_usfm": "MAT 27:52"
+},
+{
+"start_ref": "40027053",
+"start_ref_usfm": "MAT 27:53",
+"end_ref": "40027053",
+"end_ref_usfm": "MAT 27:53"
+},
+{
+"start_ref": "40027060",
+"start_ref_usfm": "MAT 27:60",
+"end_ref": "40027060",
+"end_ref_usfm": "MAT 27:60"
+},
+{
+"start_ref": "40028008",
+"start_ref_usfm": "MAT 28:8",
+"end_ref": "40028008",
+"end_ref_usfm": "MAT 28:8"
+},
+{
+"start_ref": "41005002",
+"start_ref_usfm": "MRK 5:2",
+"end_ref": "41005002",
+"end_ref_usfm": "MRK 5:2"
+},
+{
+"start_ref": "41006029",
+"start_ref_usfm": "MRK 6:29",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "41016002",
+"start_ref_usfm": "MRK 16:2",
+"end_ref": "41016002",
+"end_ref_usfm": "MRK 16:2"
+},
+{
+"start_ref": "41016003",
+"start_ref_usfm": "MRK 16:3",
+"end_ref": "41016003",
+"end_ref_usfm": "MRK 16:3"
+},
+{
+"start_ref": "41016005",
+"start_ref_usfm": "MRK 16:5",
+"end_ref": "41016005",
+"end_ref_usfm": "MRK 16:5"
+},
+{
+"start_ref": "41016008",
+"start_ref_usfm": "MRK 16:8",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+},
+{
+"start_ref": "42011044",
+"start_ref_usfm": "LUK 11:44",
+"end_ref": "42011044",
+"end_ref_usfm": "LUK 11:44"
+},
+{
+"start_ref": "42011047",
+"start_ref_usfm": "LUK 11:47",
+"end_ref": "42011047",
+"end_ref_usfm": "LUK 11:47"
+},
+{
+"start_ref": "42023055",
+"start_ref_usfm": "LUK 23:55",
+"end_ref": "42023055",
+"end_ref_usfm": "LUK 23:55"
+},
+{
+"start_ref": "42024002",
+"start_ref_usfm": "LUK 24:2",
+"end_ref": "42024002",
+"end_ref_usfm": "LUK 24:2"
+},
+{
+"start_ref": "42024009",
+"start_ref_usfm": "LUK 24:9",
+"end_ref": "42024009",
+"end_ref_usfm": "LUK 24:9"
+},
+{
+"start_ref": "42024012",
+"start_ref_usfm": "LUK 24:12",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "42024022",
+"start_ref_usfm": "LUK 24:22",
+"end_ref": "42024022",
+"end_ref_usfm": "LUK 24:22"
+},
+{
+"start_ref": "42024024",
+"start_ref_usfm": "LUK 24:24",
+"end_ref": "42024024",
+"end_ref_usfm": "LUK 24:24"
+},
+{
+"start_ref": "43005028",
+"start_ref_usfm": "JHN 5:28",
+"end_ref": "43005028",
+"end_ref_usfm": "JHN 5:28"
+},
+{
+"start_ref": "43011017",
+"start_ref_usfm": "JHN 11:17",
+"end_ref": "43011017",
+"end_ref_usfm": "JHN 11:17"
+},
+{
+"start_ref": "43011031",
+"start_ref_usfm": "JHN 11:31",
+"end_ref": "43011031",
+"end_ref_usfm": "JHN 11:31"
+},
+{
+"start_ref": "43011038",
+"start_ref_usfm": "JHN 11:38",
+"end_ref": "43011038",
+"end_ref_usfm": "JHN 11:38"
+},
+{
+"start_ref": "43012017",
+"start_ref_usfm": "JHN 12:17",
+"end_ref": "43012017",
+"end_ref_usfm": "JHN 12:17"
+},
+{
+"start_ref": "43019041",
+"start_ref_usfm": "JHN 19:41",
+"end_ref": "43019041",
+"end_ref_usfm": "JHN 19:41"
+},
+{
+"start_ref": "43019042",
+"start_ref_usfm": "JHN 19:42",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020001",
+"end_ref_usfm": "JHN 20:1"
+},
+{
+"start_ref": "43020002",
+"start_ref_usfm": "JHN 20:2",
+"end_ref": "43020002",
+"end_ref_usfm": "JHN 20:2"
+},
+{
+"start_ref": "43020003",
+"start_ref_usfm": "JHN 20:3",
+"end_ref": "43020003",
+"end_ref_usfm": "JHN 20:3"
+},
+{
+"start_ref": "43020004",
+"start_ref_usfm": "JHN 20:4",
+"end_ref": "43020004",
+"end_ref_usfm": "JHN 20:4"
+},
+{
+"start_ref": "43020006",
+"start_ref_usfm": "JHN 20:6",
+"end_ref": "43020006",
+"end_ref_usfm": "JHN 20:6"
+},
+{
+"start_ref": "43020008",
+"start_ref_usfm": "JHN 20:8",
+"end_ref": "43020008",
+"end_ref_usfm": "JHN 20:8"
+},
+{
+"start_ref": "43020011",
+"start_ref_usfm": "JHN 20:11",
+"end_ref": "43020011",
+"end_ref_usfm": "JHN 20:11"
+},
+{
+"start_ref": "44013029",
+"start_ref_usfm": "ACT 13:29",
+"end_ref": "44013029",
+"end_ref_usfm": "ACT 13:29"
+},
+{
+"start_ref": "71010007",
+"start_ref_usfm": "WIS 10:7",
+"end_ref": "71010007",
+"end_ref_usfm": "WIS 10:7"
+},
+{
+"start_ref": "40023027",
+"start_ref_usfm": "MAT 23:27",
+"end_ref": "40023027",
+"end_ref_usfm": "MAT 23:27"
+},
+{
+"start_ref": "40027061",
+"start_ref_usfm": "MAT 27:61",
+"end_ref": "40027061",
+"end_ref_usfm": "MAT 27:61"
+},
+{
+"start_ref": "40027064",
+"start_ref_usfm": "MAT 27:64",
+"end_ref": "40027064",
+"end_ref_usfm": "MAT 27:64"
+},
+{
+"start_ref": "40027066",
+"start_ref_usfm": "MAT 27:66",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028001",
+"end_ref_usfm": "MAT 28:1"
+},
+{
+"start_ref": "45003013",
+"start_ref_usfm": "ROM 3:13",
+"end_ref": "45003013",
+"end_ref_usfm": "ROM 3:13"
+},
+{
+"start_ref": "68004004",
+"start_ref_usfm": "TOB 4:4",
+"end_ref": "68004004",
+"end_ref_usfm": "TOB 4:4"
+},
+{
+"start_ref": "68004017",
+"start_ref_usfm": "TOB 4:17",
+"end_ref": "68004017",
+"end_ref_usfm": "TOB 4:17"
+},
+{
+"start_ref": "68006015",
+"start_ref_usfm": "TOB 6:15",
+"end_ref": "68006015",
+"end_ref_usfm": "TOB 6:15"
+},
+{
+"start_ref": "68008010",
+"start_ref_usfm": "TOB 8:10",
+"end_ref": "68008010",
+"end_ref_usfm": "TOB 8:10"
+},
+{
+"start_ref": "68008018",
+"start_ref_usfm": "TOB 8:18",
+"end_ref": "68008018",
+"end_ref_usfm": "TOB 8:18"
+},
+{
+"start_ref": "71019003",
+"start_ref_usfm": "WIS 19:3",
+"end_ref": "71019003",
+"end_ref_usfm": "WIS 19:3"
+},
+{
+"start_ref": "72030018",
+"start_ref_usfm": "SIR 30:18",
+"end_ref": "72030018",
+"end_ref_usfm": "SIR 30:18"
+},
+{
+"start_ref": "78002070",
+"start_ref_usfm": "1MA 2:70",
+"end_ref": "78002070",
+"end_ref_usfm": "1MA 2:70"
+},
+{
+"start_ref": "78009019",
+"start_ref_usfm": "1MA 9:19",
+"end_ref": "78009019",
+"end_ref_usfm": "1MA 9:19"
+},
+{
+"start_ref": "78013027",
+"start_ref_usfm": "1MA 13:27",
+"end_ref": "78013027",
+"end_ref_usfm": "1MA 13:27"
+},
+{
+"start_ref": "78013030",
+"start_ref_usfm": "1MA 13:30",
+"end_ref": "78013030",
+"end_ref_usfm": "1MA 13:30"
+},
+{
+"start_ref": "79005010",
+"start_ref_usfm": "2MA 5:10",
+"end_ref": "79005010",
+"end_ref_usfm": "2MA 5:10"
+},
+{
+"start_ref": "79012039",
+"start_ref_usfm": "2MA 12:39",
+"end_ref": "79012039",
+"end_ref_usfm": "2MA 12:39"
+},
+{
+"start_ref": "80006031",
+"start_ref_usfm": "3MA 6:31",
+"end_ref": "80006031",
+"end_ref_usfm": "3MA 6:31"
+},
+{
+"start_ref": "82001029",
+"start_ref_usfm": "1ES 1:29",
+"end_ref": "82001029",
+"end_ref_usfm": "1ES 1:29"
+},
+{
+"start_ref": "83002016",
+"start_ref_usfm": "2ES 2:16",
+"end_ref": "83002016",
+"end_ref_usfm": "2ES 2:16"
+},
+{
+"start_ref": "83002023",
+"start_ref_usfm": "2ES 2:23",
+"end_ref": "83002023",
+"end_ref_usfm": "2ES 2:23"
+},
+{
+"start_ref": "83005035",
+"start_ref_usfm": "2ES 5:35",
+"end_ref": "83005035",
+"end_ref_usfm": "2ES 5:35"
+},
+{
+"start_ref": "07009046",
+"start_ref_usfm": "JDG 9:46",
+"end_ref": "07009046",
+"end_ref_usfm": "JDG 9:46"
+},
+{
+"start_ref": "07009049",
+"start_ref_usfm": "JDG 9:49",
+"end_ref": "07009049",
+"end_ref_usfm": "JDG 9:49"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.5821,
+"match_method": "scored",
+"preferred_label": "Grave"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.8.1.1",
+"reference_id": "REALIA:4.8.1.1",
+"version": "1.0.4",
+"title": "Stone for closing a tomb",
+"media_type": "Text",
+"index_reference": "4.8.1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.1.1\"><span class=\"thlex-key\">4.8.1.1</span> Stone for closing a tomb</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λίθος</span> <span class=\"thlex-translit\">(lithos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a>, <a href=\"https://ref.ly/Matt27:66\">MAT 27:66</a>, <a href=\"https://ref.ly/Matt28:2\">MAT 28:2</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark16:3\">MRK 16:3</a>, <a href=\"https://ref.ly/Mark16:4\">MRK 16:4</a>, <a href=\"https://ref.ly/Luke24:2\">LUK 24:2</a>, <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>, <a href=\"https://ref.ly/John11:41\">JHN 11:41</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0468_stone_closure.jpg\" alt=\"Round stone for sealing a tomb entrance\"><figcaption class=\"thlex-caption\">Round stone for sealing a tomb entrance (© Ian Scott, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>A large, heavy stone was used to close the entrance to a cave or tomb cut out of the rock.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Two different methods were used to close tombs with stones, and it is unclear from the Gospels which method is described in the accounts of Jesus’ burial. In one method the stone was cylindrical. It sat on its side in a channel the same width as the stone, and it was pushed sideways until it covered the mouth of the tomb. By the second method the entrance to the tomb was reached by going down a short incline. The stone was spherical and was rolled down the incline until it plugged the tomb entrance.</p>\n<p>\n            <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>; <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>; <a href=\"https://ref.ly/John11:41\">JHN 11:41</a>: The place where Lazarus was buried is described as a cave with a stone placed at the entrance. In <a href=\"https://ref.ly/John11:38\">JHN 11:38</a> the Greek phrase that <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> renders “at the entrance” is ambiguous. It may mean “on it,” in which case the shaft of the burial tomb was vertical. Or it may mean “against it,” in which case the shaft was horizontal. Commentators are divided in their opinions, but the weight of evidence seems to favor a horizontal cave. In either case, the purpose of the stone was primarily to keep animals from entering the tomb and devouring the body. “A stone placed at the entrance” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>) may often be best translated “a stone covering the opening to the cave” or “a large stone covering the hole of the cave.” Note that the text does not state here, as in the case of Jesus’ burial, that the stone was “rolled” in front of the entrance.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027060",
+"start_ref_usfm": "MAT 27:60",
+"end_ref": "40027060",
+"end_ref_usfm": "MAT 27:60"
+},
+{
+"start_ref": "40027066",
+"start_ref_usfm": "MAT 27:66",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028002",
+"start_ref_usfm": "MAT 28:2",
+"end_ref": "40028002",
+"end_ref_usfm": "MAT 28:2"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "41016003",
+"start_ref_usfm": "MRK 16:3",
+"end_ref": "41016003",
+"end_ref_usfm": "MRK 16:3"
+},
+{
+"start_ref": "41016004",
+"start_ref_usfm": "MRK 16:4",
+"end_ref": "41016004",
+"end_ref_usfm": "MRK 16:4"
+},
+{
+"start_ref": "42024002",
+"start_ref_usfm": "LUK 24:2",
+"end_ref": "42024002",
+"end_ref_usfm": "LUK 24:2"
+},
+{
+"start_ref": "43011039",
+"start_ref_usfm": "JHN 11:39",
+"end_ref": "43011039",
+"end_ref_usfm": "JHN 11:39"
+},
+{
+"start_ref": "43011041",
+"start_ref_usfm": "JHN 11:41",
+"end_ref": "43011041",
+"end_ref_usfm": "JHN 11:41"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020001",
+"end_ref_usfm": "JHN 20:1"
+},
+{
+"start_ref": "43011038",
+"start_ref_usfm": "JHN 11:38",
+"end_ref": "43011038",
+"end_ref_usfm": "JHN 11:38"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.2",
+"reference_id": "REALIA:4.8.2",
+"version": "1.0.4",
+"title": "Burial mound",
+"media_type": "Text",
+"index_reference": "4.8.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.2\"><span class=\"thlex-key\">4.8.2</span> Burial mound</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">χειμών</span> <span class=\"thlex-translit\">(cheimōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir21:8\">SIR 21:8</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0469_burial_mound.jpg\" alt=\"A pile of stones sometimes marks a burial site\"><figcaption class=\"thlex-caption\">A pile of stones sometimes marks a burial site (© ניסים טבקה Pikiwiki Israel, CC BY 2.5, via Wikimedia Commons)</figcaption></figure>The burial mound was a pile of stones placed over the place of burial. Its purpose was to mark the burial site and to prevent animals from digging up the body.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Since the “burial mound” was just another kind of tomb, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has simply “tomb” in <a href=\"https://ref.ly/Sir21:8\">SIR 21:8</a>. There is a textual variation in this verse. Some manuscripts have “for the winter” instead of “for his burial mound” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). Most translations use a word for “tomb” and add a footnote giving the alternate reading (so <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "72021008",
+"start_ref_usfm": "SIR 21:8",
+"end_ref": "72021008",
+"end_ref_usfm": "SIR 21:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.3",
+"reference_id": "REALIA:4.8.3",
+"version": "1.0.4",
+"title": "Body preparation",
+"media_type": "Text",
+"index_reference": "4.8.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.3\"><span class=\"thlex-key\">4.8.3</span> Body preparation</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Burial cloth, shroud, grave clothes: See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.5.3.7 Linen&lt;REALIA:1.5.3.7&gt;</a>.</h2>\n</div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.3.1",
+"reference_id": "REALIA:4.8.3.1",
+"version": "1.0.4",
+"title": "Embalming oils",
+"media_type": "Text",
+"index_reference": "4.8.3.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.3.1\"><span class=\"thlex-key\">4.8.3.1</span> Embalming oils</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀλόη</span> <span class=\"thlex-translit\">(aloē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John19:39\">JHN 19:39</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἄρωμα</span> <span class=\"thlex-translit\">(arōma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark16:1\">MRK 16:1</a>, <a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a>, <a href=\"https://ref.ly/Luke24:1\">LUK 24:1</a>, <a href=\"https://ref.ly/John19:40\">JHN 19:40</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">μύρον</span> <span class=\"thlex-translit\">(muron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σμύρνα</span> <span class=\"thlex-translit\">(smurna)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John19:39\">JHN 19:39</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Embalming oils were aromatic oils or salves used especially in preparing a dead body for burial in a way that it would be preserved. See also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">10.6.1.1 Myrrh&lt;REALIA:10.6.1.1&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a> we find the Hebrew expression <em>bsamim uznim mruqachim</em> in the context of the burial of King Asa of Judah. The text says that spices and aromatic oils were placed in the tomb (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “the tomb was filled with spices and sweet-smelling oils”). There is no reason to assume that Asa’s body was embalmed (like Jacob’s body in <a href=\"https://ref.ly/Gen50:2\">GEN 50:2</a>; <a href=\"https://ref.ly/Gen50:3\">GEN 50:3</a>), although <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> comes close with “They used spices and perfumed oils to prepare his body for burial.”</p>\n<p>In <a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a> translators may use a descriptive phrase to render the Greek word <em>muron</em>, for example, “perfumed oil for preserving the body” or “… to keep the body from rotting.”</p>\n<p>Ingredients mentioned in the New Testament for embalming oils are “myrrh” (<em>smurna</em> in Greek) and “aloes” (<em>aloē</em> in Greek). Most translators borrow terms for these ingredients and then use some kind of marginal note to explain the nature of their substance.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019039",
+"end_ref_usfm": "JHN 19:39"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016001",
+"end_ref_usfm": "MRK 16:1"
+},
+{
+"start_ref": "42023056",
+"start_ref_usfm": "LUK 23:56",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024001",
+"end_ref_usfm": "LUK 24:1"
+},
+{
+"start_ref": "43019040",
+"start_ref_usfm": "JHN 19:40",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "01050002",
+"start_ref_usfm": "GEN 50:2",
+"end_ref": "01050002",
+"end_ref_usfm": "GEN 50:2"
+},
+{
+"start_ref": "01050003",
+"start_ref_usfm": "GEN 50:3",
+"end_ref": "01050003",
+"end_ref_usfm": "GEN 50:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Aloes",
+"type": "realia",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Aloes"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.8.4",
+"reference_id": "REALIA:4.8.4",
+"version": "1.0.4",
+"title": "Bier, coffin",
+"media_type": "Text",
+"index_reference": "4.8.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.4\"><span class=\"thlex-key\">4.8.4</span> Bier, coffin</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֲרוֹן</span> <span class=\"thlex-translit\">(’aron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen50:26\">GEN 50:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִטָּה</span> <span class=\"thlex-translit\">(mitah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σορός</span> <span class=\"thlex-translit\">(soros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0470_coffin.jpg\" alt=\"Stone coffins or ossuaries in the garden of Dominus Flevit on the Mount of Olives\"><figcaption class=\"thlex-caption\">Stone coffins or ossuaries in the garden of Dominus Flevit on the Mount of Olives (© Deror Avi, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>The bier was a board on which a body was carried to its place of burial, and the coffin was a box in which a body was placed for burial.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In <a href=\"https://ref.ly/Gen50:26\">GEN 50:26</a> the Hebrew word <em>’aron</em> is literally “box,” but it means “coffin” in this context.</p>\n<p>In <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a> the Hebrew word <em>mitah</em> is literally “bed.” The context, however, makes it clear that the object is serving as a bier or, less likely, a coffin.</p>\n<p>\n            <a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a>: In this verse some translations render the Greek word <em>soros</em> as “coffin” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>). This word can also refer to a “bier,” and that is its more probable meaning here. In some languages it may be necessary to use a descriptive expression, for example, “board on which the body was being carried” or “box in which the body lay.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01050026",
+"start_ref_usfm": "GEN 50:26",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003031",
+"end_ref_usfm": "2SA 3:31"
+},
+{
+"start_ref": "42007014",
+"start_ref_usfm": "LUK 7:14",
+"end_ref": "42007014",
+"end_ref_usfm": "LUK 7:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Bier",
+"type": "realia",
+"confidence": 0.7195,
+"match_method": "scored",
+"preferred_label": "Bier"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.8.5",
+"reference_id": "REALIA:4.8.5",
+"version": "1.0.4",
+"title": "Sackcloth, mourning clothes",
+"media_type": "Text",
+"index_reference": "4.8.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.5\"><span class=\"thlex-key\">4.8.5</span> Sackcloth, mourning clothes</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בֶּגֶד, אֵבֶל</span> <span class=\"thlex-translit\">(bigdey ’evel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שַׂק</span> <span class=\"thlex-translit\">(saq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a>, <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a>, <a href=\"https://ref.ly/2Sam21:10\">2SA 21:10</a>, <a href=\"https://ref.ly/1Kgs20:31\">1KI 20:31</a>, <a href=\"https://ref.ly/1Kgs20:32\">1KI 20:32</a>, <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>, <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>, <a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a>, <a href=\"https://ref.ly/2Kgs19:1\">2KI 19:1</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a>, <a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a>, <a href=\"https://ref.ly/Neh9:1\">NEH 9:1</a>, <a href=\"https://ref.ly/Esth4:1\">EST 4:1</a>, <a href=\"https://ref.ly/Esth4:2\">EST 4:2</a>, <a href=\"https://ref.ly/Esth4:3\">EST 4:3</a>, <a href=\"https://ref.ly/Esth4:4\">EST 4:4</a>, <a href=\"https://ref.ly/Job16:15\">JOB 16:15</a>, <a href=\"https://ref.ly/Ps30:12\">PSA 30:12</a>, <a href=\"https://ref.ly/Ps35:13\">PSA 35:13</a>, <a href=\"https://ref.ly/Ps69:12\">PSA 69:12</a>, <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa15:3\">ISA 15:3</a>, <a href=\"https://ref.ly/Isa20:2\">ISA 20:2</a>, <a href=\"https://ref.ly/Isa22:12\">ISA 22:12</a>, <a href=\"https://ref.ly/Isa37:1\">ISA 37:1</a>, <a href=\"https://ref.ly/Isa37:2\">ISA 37:2</a>, <a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>, <a href=\"https://ref.ly/Jer4:8\">JER 4:8</a>, <a href=\"https://ref.ly/Jer6:26\">JER 6:26</a>, <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a>, <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>, <a href=\"https://ref.ly/Lam2:10\">LAM 2:10</a>, <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>, <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>, <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>, <a href=\"https://ref.ly/Joel1:8\">JOL 1:8</a>, <a href=\"https://ref.ly/Joel1:13\">JOL 1:13</a>, <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>, <a href=\"https://ref.ly/Jonah3:5\">JON 3:5</a>, <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>, <a href=\"https://ref.ly/Jonah3:8\">JON 3:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σάκκος</span> <span class=\"thlex-translit\">(sakkos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a>, <a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a>, <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev11:3\">REV 11:3</a>, <a href=\"https://ref.ly/Jdt4:10\">JDT 4:10</a>, <a href=\"https://ref.ly/Jdt4:11\">JDT 4:11</a>, <a href=\"https://ref.ly/Jdt4:12\">JDT 4:12</a>, <a href=\"https://ref.ly/Jdt4:14\">JDT 4:14</a>, <a href=\"https://ref.ly/Jdt8:5\">JDT 8:5</a>, <a href=\"https://ref.ly/Jdt9:1\">JDT 9:1</a>, <a href=\"https://ref.ly/Jdt10:3\">JDT 10:3</a>, <a href=\"https://ref.ly/EsthGr4:1\">ESG 4:1</a>, <a href=\"https://ref.ly/EsthGr4:2\">ESG 4:2</a>, <a href=\"https://ref.ly/EsthGr4:3\">ESG 4:3</a>, <a href=\"https://ref.ly/EsthGr4:4\">ESG 4:4</a>, <a href=\"https://ref.ly/Bar4:20\">BAR 4:20</a>, <a href=\"https://ref.ly/1Macc2:14\">1MA 2:14</a>, <a href=\"https://ref.ly/1Macc3:47\">1MA 3:47</a>, <a href=\"https://ref.ly/2Macc3:19\">2MA 3:19</a>, <a href=\"https://ref.ly/2Macc10:25\">2MA 10:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">saccus</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd16:2\">2ES 16:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Sackcloth was a coarse dark material made of goat or camel hair. It was worn next to the skin as a sign of mourning or repentance (<a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Customs associated with mourning vary greatly in different cultures, and in some the clothing or lack of clothing is not relevant. In most languages “sackcloth” is described as “coarse cloth” and sometimes as “heavy cloth.” It will often be best to clarify the relation between these clothes and mourning; for example, “clothes that show someone is mourning for the dead.”</p>\n<p>In some languages there may exist an equivalent symbol of mourning, such as body painting, smearing ashes over the face or chest, carrying objects such as bags symbolizing a needy widow’s mourning, or wearing a cord of mourning around the neck. There are dangers as well as advantages in such a cultural translation. Particular aspects of the Israelite culture are lost, and there may be undesirable meanings associated with the local practice. Whenever this is done, all of its ramifications should be checked carefully. Generally it will be preferable to use the Israelite custom, with a footnote explaining its meaning or providing the equivalent custom. A footnote might read “Mourning clothes were coarse pieces of cloth sewed together from woven goat or camel hair.”</p>\n<p>\n            <a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a> does not specifically mention sackcloth but speaks of “mourning clothes.” It was the Jewish custom to tear the outer garment as a sign of despair or sadness. However, this verse indicates something more than just tearing the clothing. For the literal clause “put on mourning clothes,” <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> have “Put on funeral clothes.” Where no special custom is known, or where a known one would be inappropriate for the context of this story, it may be possible to expand this clause to “Go and put on special clothes that will make David think you are sad because someone has died.”</p>\n<p>\n            <a href=\"https://ref.ly/Job16:15\">JOB 16:15</a>: The first half of this verse is literally “I have sewed sackcloth upon my skin” (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). This may suggest that Job will wear the sackcloth permanently, or that he wears it next to his skin. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “I mourn and wear clothes made of sackcloth” avoids expressing either suggestion. <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>, however, translates “The mourning clothes are my second skin,” which implies that Job will wear them all the time. This line may be rendered “I have put mourning clothes on my body,” “I have dressed myself in the clothes of those who mourn for the dead,” or “I wear the rough cloth of those who are in mourning.”</p>\n<p>In some passages the wearing of sackcloth is not an act of mourning because of death but rather an expression of sorrow and penitence. See, for example, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>; <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>; <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>.</p>\n<p>\n            <a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a>: The last part of this verse is literally “they would have repented long ago in sackcloth and ashes” (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>; see also <a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a>). Instead of retaining the reference to putting on “sackcloth and ashes,” some translations have said simply “long ago they would have shown to everyone that they were turning from their sins.” However, translators should try to retain these cultural actions in the text, since they were a common aspect of biblical culture.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10014002",
+"start_ref_usfm": "2SA 14:2",
+"end_ref": "10014002",
+"end_ref_usfm": "2SA 14:2"
+},
+{
+"start_ref": "01037034",
+"start_ref_usfm": "GEN 37:34",
+"end_ref": "01037034",
+"end_ref_usfm": "GEN 37:34"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003031",
+"end_ref_usfm": "2SA 3:31"
+},
+{
+"start_ref": "10021010",
+"start_ref_usfm": "2SA 21:10",
+"end_ref": "10021010",
+"end_ref_usfm": "2SA 21:10"
+},
+{
+"start_ref": "11020031",
+"start_ref_usfm": "1KI 20:31",
+"end_ref": "11020031",
+"end_ref_usfm": "1KI 20:31"
+},
+{
+"start_ref": "11020032",
+"start_ref_usfm": "1KI 20:32",
+"end_ref": "11020032",
+"end_ref_usfm": "1KI 20:32"
+},
+{
+"start_ref": "11021027",
+"start_ref_usfm": "1KI 21:27",
+"end_ref": "11021027",
+"end_ref_usfm": "1KI 21:27"
+},
+{
+"start_ref": "12006030",
+"start_ref_usfm": "2KI 6:30",
+"end_ref": "12006030",
+"end_ref_usfm": "2KI 6:30"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019001",
+"end_ref_usfm": "2KI 19:1"
+},
+{
+"start_ref": "12019002",
+"start_ref_usfm": "2KI 19:2",
+"end_ref": "12019002",
+"end_ref_usfm": "2KI 19:2"
+},
+{
+"start_ref": "13021016",
+"start_ref_usfm": "1CH 21:16",
+"end_ref": "13021016",
+"end_ref_usfm": "1CH 21:16"
+},
+{
+"start_ref": "16009001",
+"start_ref_usfm": "NEH 9:1",
+"end_ref": "16009001",
+"end_ref_usfm": "NEH 9:1"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004001",
+"end_ref_usfm": "EST 4:1"
+},
+{
+"start_ref": "17004002",
+"start_ref_usfm": "EST 4:2",
+"end_ref": "17004002",
+"end_ref_usfm": "EST 4:2"
+},
+{
+"start_ref": "17004003",
+"start_ref_usfm": "EST 4:3",
+"end_ref": "17004003",
+"end_ref_usfm": "EST 4:3"
+},
+{
+"start_ref": "17004004",
+"start_ref_usfm": "EST 4:4",
+"end_ref": "17004004",
+"end_ref_usfm": "EST 4:4"
+},
+{
+"start_ref": "18016015",
+"start_ref_usfm": "JOB 16:15",
+"end_ref": "18016015",
+"end_ref_usfm": "JOB 16:15"
+},
+{
+"start_ref": "19030012",
+"start_ref_usfm": "PSA 30:12",
+"end_ref": "19030012",
+"end_ref_usfm": "PSA 30:12"
+},
+{
+"start_ref": "19035013",
+"start_ref_usfm": "PSA 35:13",
+"end_ref": "19035013",
+"end_ref_usfm": "PSA 35:13"
+},
+{
+"start_ref": "19069012",
+"start_ref_usfm": "PSA 69:12",
+"end_ref": "19069012",
+"end_ref_usfm": "PSA 69:12"
+},
+{
+"start_ref": "23003024",
+"start_ref_usfm": "ISA 3:24",
+"end_ref": "23003024",
+"end_ref_usfm": "ISA 3:24"
+},
+{
+"start_ref": "23015003",
+"start_ref_usfm": "ISA 15:3",
+"end_ref": "23015003",
+"end_ref_usfm": "ISA 15:3"
+},
+{
+"start_ref": "23020002",
+"start_ref_usfm": "ISA 20:2",
+"end_ref": "23020002",
+"end_ref_usfm": "ISA 20:2"
+},
+{
+"start_ref": "23022012",
+"start_ref_usfm": "ISA 22:12",
+"end_ref": "23022012",
+"end_ref_usfm": "ISA 22:12"
+},
+{
+"start_ref": "23037001",
+"start_ref_usfm": "ISA 37:1",
+"end_ref": "23037001",
+"end_ref_usfm": "ISA 37:1"
+},
+{
+"start_ref": "23037002",
+"start_ref_usfm": "ISA 37:2",
+"end_ref": "23037002",
+"end_ref_usfm": "ISA 37:2"
+},
+{
+"start_ref": "23050003",
+"start_ref_usfm": "ISA 50:3",
+"end_ref": "23050003",
+"end_ref_usfm": "ISA 50:3"
+},
+{
+"start_ref": "23058005",
+"start_ref_usfm": "ISA 58:5",
+"end_ref": "23058005",
+"end_ref_usfm": "ISA 58:5"
+},
+{
+"start_ref": "24004008",
+"start_ref_usfm": "JER 4:8",
+"end_ref": "24004008",
+"end_ref_usfm": "JER 4:8"
+},
+{
+"start_ref": "24006026",
+"start_ref_usfm": "JER 6:26",
+"end_ref": "24006026",
+"end_ref_usfm": "JER 6:26"
+},
+{
+"start_ref": "24048037",
+"start_ref_usfm": "JER 48:37",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "24049003",
+"start_ref_usfm": "JER 49:3",
+"end_ref": "24049003",
+"end_ref_usfm": "JER 49:3"
+},
+{
+"start_ref": "25002010",
+"start_ref_usfm": "LAM 2:10",
+"end_ref": "25002010",
+"end_ref_usfm": "LAM 2:10"
+},
+{
+"start_ref": "26007018",
+"start_ref_usfm": "EZK 7:18",
+"end_ref": "26007018",
+"end_ref_usfm": "EZK 7:18"
+},
+{
+"start_ref": "26027031",
+"start_ref_usfm": "EZK 27:31",
+"end_ref": "26027031",
+"end_ref_usfm": "EZK 27:31"
+},
+{
+"start_ref": "27009003",
+"start_ref_usfm": "DAN 9:3",
+"end_ref": "27009003",
+"end_ref_usfm": "DAN 9:3"
+},
+{
+"start_ref": "29001008",
+"start_ref_usfm": "JOL 1:8",
+"end_ref": "29001008",
+"end_ref_usfm": "JOL 1:8"
+},
+{
+"start_ref": "29001013",
+"start_ref_usfm": "JOL 1:13",
+"end_ref": "29001013",
+"end_ref_usfm": "JOL 1:13"
+},
+{
+"start_ref": "30008010",
+"start_ref_usfm": "AMO 8:10",
+"end_ref": "30008010",
+"end_ref_usfm": "AMO 8:10"
+},
+{
+"start_ref": "32003005",
+"start_ref_usfm": "JON 3:5",
+"end_ref": "32003005",
+"end_ref_usfm": "JON 3:5"
+},
+{
+"start_ref": "32003006",
+"start_ref_usfm": "JON 3:6",
+"end_ref": "32003006",
+"end_ref_usfm": "JON 3:6"
+},
+{
+"start_ref": "32003008",
+"start_ref_usfm": "JON 3:8",
+"end_ref": "32003008",
+"end_ref_usfm": "JON 3:8"
+},
+{
+"start_ref": "40011021",
+"start_ref_usfm": "MAT 11:21",
+"end_ref": "40011021",
+"end_ref_usfm": "MAT 11:21"
+},
+{
+"start_ref": "42010013",
+"start_ref_usfm": "LUK 10:13",
+"end_ref": "42010013",
+"end_ref_usfm": "LUK 10:13"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "66011003",
+"start_ref_usfm": "REV 11:3",
+"end_ref": "66011003",
+"end_ref_usfm": "REV 11:3"
+},
+{
+"start_ref": "69004010",
+"start_ref_usfm": "JDT 4:10",
+"end_ref": "69004010",
+"end_ref_usfm": "JDT 4:10"
+},
+{
+"start_ref": "69004011",
+"start_ref_usfm": "JDT 4:11",
+"end_ref": "69004011",
+"end_ref_usfm": "JDT 4:11"
+},
+{
+"start_ref": "69004012",
+"start_ref_usfm": "JDT 4:12",
+"end_ref": "69004012",
+"end_ref_usfm": "JDT 4:12"
+},
+{
+"start_ref": "69004014",
+"start_ref_usfm": "JDT 4:14",
+"end_ref": "69004014",
+"end_ref_usfm": "JDT 4:14"
+},
+{
+"start_ref": "69008005",
+"start_ref_usfm": "JDT 8:5",
+"end_ref": "69008005",
+"end_ref_usfm": "JDT 8:5"
+},
+{
+"start_ref": "69009001",
+"start_ref_usfm": "JDT 9:1",
+"end_ref": "69009001",
+"end_ref_usfm": "JDT 9:1"
+},
+{
+"start_ref": "69010003",
+"start_ref_usfm": "JDT 10:3",
+"end_ref": "69010003",
+"end_ref_usfm": "JDT 10:3"
+},
+{
+"start_ref": "70004001",
+"start_ref_usfm": "ESG 4:1",
+"end_ref": "70004001",
+"end_ref_usfm": "ESG 4:1"
+},
+{
+"start_ref": "70004002",
+"start_ref_usfm": "ESG 4:2",
+"end_ref": "70004002",
+"end_ref_usfm": "ESG 4:2"
+},
+{
+"start_ref": "70004003",
+"start_ref_usfm": "ESG 4:3",
+"end_ref": "70004003",
+"end_ref_usfm": "ESG 4:3"
+},
+{
+"start_ref": "70004004",
+"start_ref_usfm": "ESG 4:4",
+"end_ref": "70004004",
+"end_ref_usfm": "ESG 4:4"
+},
+{
+"start_ref": "73004020",
+"start_ref_usfm": "BAR 4:20",
+"end_ref": "73004020",
+"end_ref_usfm": "BAR 4:20"
+},
+{
+"start_ref": "78002014",
+"start_ref_usfm": "1MA 2:14",
+"end_ref": "78002014",
+"end_ref_usfm": "1MA 2:14"
+},
+{
+"start_ref": "78003047",
+"start_ref_usfm": "1MA 3:47",
+"end_ref": "78003047",
+"end_ref_usfm": "1MA 3:47"
+},
+{
+"start_ref": "79003019",
+"start_ref_usfm": "2MA 3:19",
+"end_ref": "79003019",
+"end_ref_usfm": "2MA 3:19"
+},
+{
+"start_ref": "79010025",
+"start_ref_usfm": "2MA 10:25",
+"end_ref": "79010025",
+"end_ref_usfm": "2MA 10:25"
+},
+{
+"start_ref": "83016002",
+"start_ref_usfm": "2ES 16:2",
+"end_ref": "83016002",
+"end_ref_usfm": "2ES 16:2"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.6525,
+"match_method": "scored",
+"preferred_label": "Sackcloth"
+}
+]
+}
+}
+]

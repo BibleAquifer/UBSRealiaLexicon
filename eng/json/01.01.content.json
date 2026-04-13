@@ -1,0 +1,2356 @@
+[
+{
+"content_id": "REALIA:1.1",
+"reference_id": "REALIA:1.1",
+"version": "1.0.4",
+"title": "Agriculture and farming",
+"media_type": "Text",
+"index_reference": "1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1\"><span class=\"thlex-key\">1.1</span> Agriculture and farming</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.1.1",
+"reference_id": "REALIA:1.1.1",
+"version": "1.0.4",
+"title": "Yoke",
+"media_type": "Text",
+"index_reference": "1.1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.1\"><span class=\"thlex-key\">1.1.1</span> Yoke</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מוֹט, מוֹטָה</span> <span class=\"thlex-translit\">(mot, motah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a>, <a href=\"https://ref.ly/Isa58:6\">ISA 58:6</a>, <a href=\"https://ref.ly/Isa58:6\">ISA 58:6</a>, <a href=\"https://ref.ly/Isa58:9\">ISA 58:9</a>, <a href=\"https://ref.ly/Jer27:2\">JER 27:2</a>, <a href=\"https://ref.ly/Jer28:10\">JER 28:10</a>, <a href=\"https://ref.ly/Jer28:12\">JER 28:12</a>, <a href=\"https://ref.ly/Jer28:13\">JER 28:13</a>, <a href=\"https://ref.ly/Jer28:13\">JER 28:13</a>, <a href=\"https://ref.ly/Ezek30:18\">EZK 30:18</a>, <a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a>, <a href=\"https://ref.ly/Nah1:13\">NAM 1:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֹל</span> <span class=\"thlex-translit\">(‘ol)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen27:40\">GEN 27:40</a>, <a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a>, <a href=\"https://ref.ly/Num19:2\">NUM 19:2</a>, <a href=\"https://ref.ly/Deut21:3\">DEU 21:3</a>, <a href=\"https://ref.ly/Deut28:48\">DEU 28:48</a>, <a href=\"https://ref.ly/1Sam6:7\">1SA 6:7</a>, <a href=\"https://ref.ly/1Kgs12:4\">1KI 12:4</a>, <a href=\"https://ref.ly/1Kgs12:4\">1KI 12:4</a>, <a href=\"https://ref.ly/1Kgs12:11\">1KI 12:11</a>, <a href=\"https://ref.ly/1Kgs12:11\">1KI 12:11</a>, <a href=\"https://ref.ly/1Kgs12:14\">1KI 12:14</a>, <a href=\"https://ref.ly/1Kgs12:14\">1KI 12:14</a>, <a href=\"https://ref.ly/2Chr10:4\">2CH 10:4</a>, <a href=\"https://ref.ly/2Chr10:4\">2CH 10:4</a>, <a href=\"https://ref.ly/2Chr10:11\">2CH 10:11</a>, <a href=\"https://ref.ly/2Chr10:11\">2CH 10:11</a>, <a href=\"https://ref.ly/2Chr10:14\">2CH 10:14</a>, <a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a>, <a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a>, <a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a>, <a href=\"https://ref.ly/Isa14:25\">ISA 14:25</a>, <a href=\"https://ref.ly/Isa47:6\">ISA 47:6</a>, <a href=\"https://ref.ly/Jer2:20\">JER 2:20</a>, <a href=\"https://ref.ly/Jer5:5\">JER 5:5</a>, <a href=\"https://ref.ly/Jer27:8\">JER 27:8</a>, <a href=\"https://ref.ly/Jer27:11\">JER 27:11</a>, <a href=\"https://ref.ly/Jer27:12\">JER 27:12</a>, <a href=\"https://ref.ly/Jer28:2\">JER 28:2</a>, <a href=\"https://ref.ly/Jer28:4\">JER 28:4</a>, <a href=\"https://ref.ly/Jer28:11\">JER 28:11</a>, <a href=\"https://ref.ly/Jer28:14\">JER 28:14</a>, <a href=\"https://ref.ly/Jer30:8\">JER 30:8</a>, <a href=\"https://ref.ly/Lam1:14\">LAM 1:14</a>, <a href=\"https://ref.ly/Lam3:27\">LAM 3:27</a>, <a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a>, <a href=\"https://ref.ly/Hos11:4\">HOS 11:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">βοοζύγιον</span> <span class=\"thlex-translit\">(boozugion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir26:7\">SIR 26:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἑτεροζυγέω</span> <span class=\"thlex-translit\">(heterozugeō)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Cor6:14\">2CO 6:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κλοιός</span> <span class=\"thlex-translit\">(kloios)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir6:24\">SIR 6:24</a>, <a href=\"https://ref.ly/Sir6:29\">SIR 6:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ζυγός</span> <span class=\"thlex-translit\">(zugos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:29\">MAT 11:29</a>, <a href=\"https://ref.ly/Matt11:30\">MAT 11:30</a>, <a href=\"https://ref.ly/Acts15:10\">ACT 15:10</a>, <a href=\"https://ref.ly/Gal5:1\">GAL 5:1</a>, <a href=\"https://ref.ly/1Tim6:1\">1TI 6:1</a>, <a href=\"https://ref.ly/Sir21:25\">SIR 21:25</a>, <a href=\"https://ref.ly/Sir28:19\">SIR 28:19</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/Sir28:20\">SIR 28:20</a>, <a href=\"https://ref.ly/Sir28:25\">SIR 28:25</a>, <a href=\"https://ref.ly/Sir33:27\">SIR 33:27</a>, <a href=\"https://ref.ly/Sir40:1\">SIR 40:1</a>, <a href=\"https://ref.ly/Sir42:4\">SIR 42:4</a>, <a href=\"https://ref.ly/Sir51:26\">SIR 51:26</a>, <a href=\"https://ref.ly/1Macc8:18\">1MA 8:18</a>, <a href=\"https://ref.ly/1Macc8:31\">1MA 8:31</a>, <a href=\"https://ref.ly/1Macc13:41\">1MA 13:41</a>, <a href=\"https://ref.ly/3Macc4:9\">3MA 4:9</a>, <a href=\"https://ref.ly/PssSol7:9\">PSS 7:9</a>, <a href=\"https://ref.ly/PssSol17:30\">PSS 17:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0931_yokedoxen.jpg\" alt=\"Yoked oxen\"><figcaption class=\"thlex-caption\">Yoked oxen (© Wikimedia Commons)</figcaption></figure>The yoke was a bar or frame of wood by which two draft animals were joined at the neck so that they could work together effectively in pulling a plow, threshing board, harrow, or wagon. A similar device was used on human beings, but then it was usually a single harness, not the double one used for animals.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0316_slaves_in_yokes.jpg\" alt=\"Slaves in yokes\"><figcaption class=\"thlex-caption\">Slaves in yokes (© Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>The yoke was secured to the necks of the animals by means of a kind of collar made of wood, cane, or rope. The center of the yoke was attached, by means of a rope or a bar, to the object to be drawn. The animals pulled together, side by side. A yoke was sometimes placed on a human being who had been taken captive (<a href=\"https://ref.ly/Jer28:10\">JER 28:10</a>) or made a slave, to restrict movement or to prevent escape.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Where the yoking of draft animals is unknown or unfamiliar, in <a href=\"https://ref.ly/Num19:2\">NUM 19:2</a> (and similarly for <a href=\"https://ref.ly/Deut21:3\">DEU 21:3</a>) translators may follow <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, which renders the literal text “on which a yoke has never been placed” as “which has never been worked.”</p>\n<p>Always in the New Testament and frequently in the Old Testament, “yoke” appears in figurative contexts. It then becomes a symbol of the subjection and servitude of slaves. In such cases (for example, <a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a>; <a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a>; <a href=\"https://ref.ly/Jer28:2\">JER 28:2</a>, <a href=\"https://ref.ly/Jer28:14\">JER 28:14</a>; <a href=\"https://ref.ly/Jer30:8\">JER 30:8</a>; <a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a>; <a href=\"https://ref.ly/Nah1:13\">NAM 1:13</a>; <a href=\"https://ref.ly/Acts15:10\">ACT 15:10</a>; <a href=\"https://ref.ly/Gal5:1\">GAL 5:1</a>; <a href=\"https://ref.ly/1Tim6:1\">1TI 6:1</a>), translators may avoid the literal meaning and translate the figurative sense (<a href=\"https://ref.ly/Lev26:13\">LEV 26:13</a>: “… I broke the power that held you down …” [<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>]). Similarly, in <a href=\"https://ref.ly/Sir40:1\">SIR 40:1</a><abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “… A heavy burden lies on all of us ….”</p>\n<p>For the possible reference to a yoke at <a href=\"https://ref.ly/Lam5:5\">LAM 5:5</a>, see the comments in <em>A Handbook on Lamentations</em>, page 134.</p>\n<p>In <a href=\"https://ref.ly/Sir33:27\">SIR 33:27</a> a yoke is associated with the wearing of a special “harness” or “collar.” This was a device of rope, leather, cane, or wood worn around the neck. The yoke was attached to it. Since it is associated in this verse with control of the animal’s movements, the Italian common language translation (<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr>) renders the word as “reins.” The use of <em>kloios</em> in <a href=\"https://ref.ly/Sir6:24\">SIR 6:24</a>; <a href=\"https://ref.ly/Sir6:29\">SIR 6:29</a> is symbolic. In many languages it will be possible to retain the reference to chains and the yoke. However, where a language does not permit such usage, we may say something like “Let all of your actions be ruled by Wisdom” (verse 24) and “If you allow Wisdom to rule you, you will be kept safe, and you will be in control of what happens to you” (verse 29).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "03026013",
+"start_ref_usfm": "LEV 26:13",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "23058006",
+"start_ref_usfm": "ISA 58:6",
+"end_ref": "23058006",
+"end_ref_usfm": "ISA 58:6"
+},
+{
+"start_ref": "23058009",
+"start_ref_usfm": "ISA 58:9",
+"end_ref": "23058009",
+"end_ref_usfm": "ISA 58:9"
+},
+{
+"start_ref": "24027002",
+"start_ref_usfm": "JER 27:2",
+"end_ref": "24027002",
+"end_ref_usfm": "JER 27:2"
+},
+{
+"start_ref": "24028010",
+"start_ref_usfm": "JER 28:10",
+"end_ref": "24028010",
+"end_ref_usfm": "JER 28:10"
+},
+{
+"start_ref": "24028012",
+"start_ref_usfm": "JER 28:12",
+"end_ref": "24028012",
+"end_ref_usfm": "JER 28:12"
+},
+{
+"start_ref": "24028013",
+"start_ref_usfm": "JER 28:13",
+"end_ref": "24028013",
+"end_ref_usfm": "JER 28:13"
+},
+{
+"start_ref": "26030018",
+"start_ref_usfm": "EZK 30:18",
+"end_ref": "26030018",
+"end_ref_usfm": "EZK 30:18"
+},
+{
+"start_ref": "26034027",
+"start_ref_usfm": "EZK 34:27",
+"end_ref": "26034027",
+"end_ref_usfm": "EZK 34:27"
+},
+{
+"start_ref": "34001013",
+"start_ref_usfm": "NAM 1:13",
+"end_ref": "34001013",
+"end_ref_usfm": "NAM 1:13"
+},
+{
+"start_ref": "01027040",
+"start_ref_usfm": "GEN 27:40",
+"end_ref": "01027040",
+"end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "04019002",
+"start_ref_usfm": "NUM 19:2",
+"end_ref": "04019002",
+"end_ref_usfm": "NUM 19:2"
+},
+{
+"start_ref": "05021003",
+"start_ref_usfm": "DEU 21:3",
+"end_ref": "05021003",
+"end_ref_usfm": "DEU 21:3"
+},
+{
+"start_ref": "05028048",
+"start_ref_usfm": "DEU 28:48",
+"end_ref": "05028048",
+"end_ref_usfm": "DEU 28:48"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006007",
+"end_ref_usfm": "1SA 6:7"
+},
+{
+"start_ref": "11012004",
+"start_ref_usfm": "1KI 12:4",
+"end_ref": "11012004",
+"end_ref_usfm": "1KI 12:4"
+},
+{
+"start_ref": "11012011",
+"start_ref_usfm": "1KI 12:11",
+"end_ref": "11012011",
+"end_ref_usfm": "1KI 12:11"
+},
+{
+"start_ref": "11012014",
+"start_ref_usfm": "1KI 12:14",
+"end_ref": "11012014",
+"end_ref_usfm": "1KI 12:14"
+},
+{
+"start_ref": "14010004",
+"start_ref_usfm": "2CH 10:4",
+"end_ref": "14010004",
+"end_ref_usfm": "2CH 10:4"
+},
+{
+"start_ref": "14010011",
+"start_ref_usfm": "2CH 10:11",
+"end_ref": "14010011",
+"end_ref_usfm": "2CH 10:11"
+},
+{
+"start_ref": "14010014",
+"start_ref_usfm": "2CH 10:14",
+"end_ref": "14010014",
+"end_ref_usfm": "2CH 10:14"
+},
+{
+"start_ref": "23009003",
+"start_ref_usfm": "ISA 9:3",
+"end_ref": "23009003",
+"end_ref_usfm": "ISA 9:3"
+},
+{
+"start_ref": "23010027",
+"start_ref_usfm": "ISA 10:27",
+"end_ref": "23010027",
+"end_ref_usfm": "ISA 10:27"
+},
+{
+"start_ref": "23014025",
+"start_ref_usfm": "ISA 14:25",
+"end_ref": "23014025",
+"end_ref_usfm": "ISA 14:25"
+},
+{
+"start_ref": "23047006",
+"start_ref_usfm": "ISA 47:6",
+"end_ref": "23047006",
+"end_ref_usfm": "ISA 47:6"
+},
+{
+"start_ref": "24002020",
+"start_ref_usfm": "JER 2:20",
+"end_ref": "24002020",
+"end_ref_usfm": "JER 2:20"
+},
+{
+"start_ref": "24005005",
+"start_ref_usfm": "JER 5:5",
+"end_ref": "24005005",
+"end_ref_usfm": "JER 5:5"
+},
+{
+"start_ref": "24027008",
+"start_ref_usfm": "JER 27:8",
+"end_ref": "24027008",
+"end_ref_usfm": "JER 27:8"
+},
+{
+"start_ref": "24027011",
+"start_ref_usfm": "JER 27:11",
+"end_ref": "24027011",
+"end_ref_usfm": "JER 27:11"
+},
+{
+"start_ref": "24027012",
+"start_ref_usfm": "JER 27:12",
+"end_ref": "24027012",
+"end_ref_usfm": "JER 27:12"
+},
+{
+"start_ref": "24028002",
+"start_ref_usfm": "JER 28:2",
+"end_ref": "24028002",
+"end_ref_usfm": "JER 28:2"
+},
+{
+"start_ref": "24028004",
+"start_ref_usfm": "JER 28:4",
+"end_ref": "24028004",
+"end_ref_usfm": "JER 28:4"
+},
+{
+"start_ref": "24028011",
+"start_ref_usfm": "JER 28:11",
+"end_ref": "24028011",
+"end_ref_usfm": "JER 28:11"
+},
+{
+"start_ref": "24028014",
+"start_ref_usfm": "JER 28:14",
+"end_ref": "24028014",
+"end_ref_usfm": "JER 28:14"
+},
+{
+"start_ref": "24030008",
+"start_ref_usfm": "JER 30:8",
+"end_ref": "24030008",
+"end_ref_usfm": "JER 30:8"
+},
+{
+"start_ref": "25001014",
+"start_ref_usfm": "LAM 1:14",
+"end_ref": "25001014",
+"end_ref_usfm": "LAM 1:14"
+},
+{
+"start_ref": "25003027",
+"start_ref_usfm": "LAM 3:27",
+"end_ref": "25003027",
+"end_ref_usfm": "LAM 3:27"
+},
+{
+"start_ref": "28011004",
+"start_ref_usfm": "HOS 11:4",
+"end_ref": "28011004",
+"end_ref_usfm": "HOS 11:4"
+},
+{
+"start_ref": "72026007",
+"start_ref_usfm": "SIR 26:7",
+"end_ref": "72026007",
+"end_ref_usfm": "SIR 26:7"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47006014",
+"end_ref_usfm": "2CO 6:14"
+},
+{
+"start_ref": "72006024",
+"start_ref_usfm": "SIR 6:24",
+"end_ref": "72006024",
+"end_ref_usfm": "SIR 6:24"
+},
+{
+"start_ref": "72006029",
+"start_ref_usfm": "SIR 6:29",
+"end_ref": "72006029",
+"end_ref_usfm": "SIR 6:29"
+},
+{
+"start_ref": "40011029",
+"start_ref_usfm": "MAT 11:29",
+"end_ref": "40011029",
+"end_ref_usfm": "MAT 11:29"
+},
+{
+"start_ref": "40011030",
+"start_ref_usfm": "MAT 11:30",
+"end_ref": "40011030",
+"end_ref_usfm": "MAT 11:30"
+},
+{
+"start_ref": "44015010",
+"start_ref_usfm": "ACT 15:10",
+"end_ref": "44015010",
+"end_ref_usfm": "ACT 15:10"
+},
+{
+"start_ref": "48005001",
+"start_ref_usfm": "GAL 5:1",
+"end_ref": "48005001",
+"end_ref_usfm": "GAL 5:1"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006001",
+"end_ref_usfm": "1TI 6:1"
+},
+{
+"start_ref": "72021025",
+"start_ref_usfm": "SIR 21:25",
+"end_ref": "72021025",
+"end_ref_usfm": "SIR 21:25"
+},
+{
+"start_ref": "72028019",
+"start_ref_usfm": "SIR 28:19",
+"end_ref": "72028019",
+"end_ref_usfm": "SIR 28:19"
+},
+{
+"start_ref": "72028020",
+"start_ref_usfm": "SIR 28:20",
+"end_ref": "72028020",
+"end_ref_usfm": "SIR 28:20"
+},
+{
+"start_ref": "72028025",
+"start_ref_usfm": "SIR 28:25",
+"end_ref": "72028025",
+"end_ref_usfm": "SIR 28:25"
+},
+{
+"start_ref": "72033027",
+"start_ref_usfm": "SIR 33:27",
+"end_ref": "72033027",
+"end_ref_usfm": "SIR 33:27"
+},
+{
+"start_ref": "72040001",
+"start_ref_usfm": "SIR 40:1",
+"end_ref": "72040001",
+"end_ref_usfm": "SIR 40:1"
+},
+{
+"start_ref": "72042004",
+"start_ref_usfm": "SIR 42:4",
+"end_ref": "72042004",
+"end_ref_usfm": "SIR 42:4"
+},
+{
+"start_ref": "72051026",
+"start_ref_usfm": "SIR 51:26",
+"end_ref": "72051026",
+"end_ref_usfm": "SIR 51:26"
+},
+{
+"start_ref": "78008018",
+"start_ref_usfm": "1MA 8:18",
+"end_ref": "78008018",
+"end_ref_usfm": "1MA 8:18"
+},
+{
+"start_ref": "78008031",
+"start_ref_usfm": "1MA 8:31",
+"end_ref": "78008031",
+"end_ref_usfm": "1MA 8:31"
+},
+{
+"start_ref": "78013041",
+"start_ref_usfm": "1MA 13:41",
+"end_ref": "78013041",
+"end_ref_usfm": "1MA 13:41"
+},
+{
+"start_ref": "80004009",
+"start_ref_usfm": "3MA 4:9",
+"end_ref": "80004009",
+"end_ref_usfm": "3MA 4:9"
+},
+{
+"start_ref": "87007009",
+"start_ref_usfm": "PSS 7:9",
+"end_ref": "87007009",
+"end_ref_usfm": "PSS 7:9"
+},
+{
+"start_ref": "87017030",
+"start_ref_usfm": "PSS 17:30",
+"end_ref": "87017030",
+"end_ref_usfm": "PSS 17:30"
+},
+{
+"start_ref": "25005005",
+"start_ref_usfm": "LAM 5:5",
+"end_ref": "25005005",
+"end_ref_usfm": "LAM 5:5"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.871,
+"match_method": "scored",
+"preferred_label": "Yoke"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.2",
+"reference_id": "REALIA:1.1.2",
+"version": "1.0.4",
+"title": "Goad",
+"media_type": "Text",
+"index_reference": "1.1.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.2\"><span class=\"thlex-key\">1.1.2</span> Goad</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">דָּרְבָן</span> <span class=\"thlex-translit\">(darvan)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a>, <a href=\"https://ref.ly/Eccl12:11\">ECC 12:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַלְמַד</span> <span class=\"thlex-translit\">(malmad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg3:31\">JDG 3:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κέντρον</span> <span class=\"thlex-translit\">(kentron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Acts26:14\">ACT 26:14</a>, <a href=\"https://ref.ly/Sir38:25\">SIR 38:25</a>, <a href=\"https://ref.ly/4Macc14:19\">4MA 14:19</a>, <a href=\"https://ref.ly/PssSol16:4\">PSS 16:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0966_goad_oxen_en.jpg\" alt=\"Drawing of a man using a goad to spur on a team of oxen\"><figcaption class=\"thlex-caption\">Drawing of a man using a goad to spur on a team of oxen (© Unknown - Wikimedia Commons)</figcaption></figure>The goad was a stick, sometimes tipped with a metal point (<em>darvan</em>), used in driving draft animals or herds of domestic animals, such as sheep. The goad had to be long enough to reach the animal from the driver’s position, thus 1–2 meters (3–6 feet).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The driver of a cart or other load stuck the point of the goad into the buttocks of an animal that was not pulling hard enough or in the right direction. The pain stimulus caused the animal to move or change direction.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Where draft animals are not known, “a goad” in <a href=\"https://ref.ly/Judg3:31\">JDG 3:31</a> may be translated “a pointed stick” or “a rod with a sharp metal point.” <a href=\"https://ref.ly/Eccl12:11\">ECC 12:11</a> may be expanded as follows: “The sayings of the wise are like the sharp sticks that shepherds use to guide sheep …” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>; similarly the German common language translation [<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>]) or “The words of experienced men are like goads that stimulate the spirit …” (French common language translation [<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr>]). Another possible rendering is “The words of wise men are sharp and pointed …” (Dutch common language translation [<abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr>]).</p>\n<p>\n            <a href=\"https://ref.ly/Acts26:14\">ACT 26:14</a>: This is the only place in the New Testament where the word goad occurs. It is in the phrase “to kick against the goads” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), meaning to react against authority in such a way as to cause harm or suffering to yourself — to hurt yourself by reacting against a person or command. An alternative rendering for the last half of this verse is “Saul, why are you persecuting me? You are hurting yourself by your resistance.”</p>\n<p>In <a href=\"https://ref.ly/Sir38:25\">SIR 38:25</a> the activity of the worker is in focus, so it is unnecessary to find a word to translate this object; for example, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “How can a farm hand gain knowledge, when his only ambition is to drive the oxen and make them work …” Another possibility is “… to get the oxen to move when they want to stop pulling …?”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "21012011",
+"start_ref_usfm": "ECC 12:11",
+"end_ref": "21012011",
+"end_ref_usfm": "ECC 12:11"
+},
+{
+"start_ref": "07003031",
+"start_ref_usfm": "JDG 3:31",
+"end_ref": "07003031",
+"end_ref_usfm": "JDG 3:31"
+},
+{
+"start_ref": "44026014",
+"start_ref_usfm": "ACT 26:14",
+"end_ref": "44026014",
+"end_ref_usfm": "ACT 26:14"
+},
+{
+"start_ref": "72038025",
+"start_ref_usfm": "SIR 38:25",
+"end_ref": "72038025",
+"end_ref_usfm": "SIR 38:25"
+},
+{
+"start_ref": "81014019",
+"start_ref_usfm": "4MA 14:19",
+"end_ref": "81014019",
+"end_ref_usfm": "4MA 14:19"
+},
+{
+"start_ref": "87016004",
+"start_ref_usfm": "PSS 16:4",
+"end_ref": "87016004",
+"end_ref_usfm": "PSS 16:4"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Goad",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Goad"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.3",
+"reference_id": "REALIA:1.1.3",
+"version": "1.0.4",
+"title": "Whip, scourge",
+"media_type": "Text",
+"index_reference": "1.1.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.3\"><span class=\"thlex-key\">1.1.3</span> Whip, scourge</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שׁוֹט, שֹׁטֵט</span> <span class=\"thlex-translit\">(shot, shotet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Josh23:13\">JOS 23:13</a>, <a href=\"https://ref.ly/1Kgs12:11\">1KI 12:11</a>, <a href=\"https://ref.ly/1Kgs12:14\">1KI 12:14</a>, <a href=\"https://ref.ly/2Chr10:11\">2CH 10:11</a>, <a href=\"https://ref.ly/2Chr10:14\">2CH 10:14</a>, <a href=\"https://ref.ly/Job5:21\">JOB 5:21</a>, <a href=\"https://ref.ly/Job9:23\">JOB 9:23</a>, <a href=\"https://ref.ly/Prov26:3\">PRO 26:3</a>, <a href=\"https://ref.ly/Isa10:26\">ISA 10:26</a>, <a href=\"https://ref.ly/Isa28:15\">ISA 28:15</a>, <a href=\"https://ref.ly/Isa28:18\">ISA 28:18</a>, <a href=\"https://ref.ly/Nah3:2\">NAM 3:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">μαστιγόω, μαστίζω, μάστιξ</span> <span class=\"thlex-translit\">(mastigoō (verb), mastizō (verb), mastix)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt10:17\">MAT 10:17</a>, <a href=\"https://ref.ly/Matt20:19\">MAT 20:19</a>, <a href=\"https://ref.ly/Matt23:34\">MAT 23:34</a>, <a href=\"https://ref.ly/Mark10:34\">MRK 10:34</a>, <a href=\"https://ref.ly/Luke18:33\">LUK 18:33</a>, <a href=\"https://ref.ly/John19:1\">JHN 19:1</a>, <a href=\"https://ref.ly/Acts22:24\">ACT 22:24</a>, <a href=\"https://ref.ly/Acts22:25\">ACT 22:25</a>, <a href=\"https://ref.ly/Heb11:36\">HEB 11:36</a>, <a href=\"https://ref.ly/Heb12:6\">HEB 12:6</a>, <a href=\"https://ref.ly/Tob13:16\">TOB 13:16</a>, <a href=\"https://ref.ly/Jdt8:27\">JDT 8:27</a>, <a href=\"https://ref.ly/Wis5:11\">WIS 5:11</a>, <a href=\"https://ref.ly/Wis12:22\">WIS 12:22</a>, <a href=\"https://ref.ly/Wis16:16\">WIS 16:16</a>, <a href=\"https://ref.ly/Sir30:14\">SIR 30:14</a>, <a href=\"https://ref.ly/Sir23:2\">SIR 23:2</a>, <a href=\"https://ref.ly/Sir23:11\">SIR 23:11</a>, <a href=\"https://ref.ly/Sir26:6\">SIR 26:6</a>, <a href=\"https://ref.ly/Sir28:17\">SIR 28:17</a>, <a href=\"https://ref.ly/Sir30:1\">SIR 30:1</a>, <a href=\"https://ref.ly/Sir39:28\">SIR 39:28</a>, <a href=\"https://ref.ly/Sir40:9\">SIR 40:9</a>, <a href=\"https://ref.ly/Sir22:6\">SIR 22:6</a>, <a href=\"https://ref.ly/2Macc3:26\">2MA 3:26</a>, <a href=\"https://ref.ly/2Macc3:34\">2MA 3:34</a>, <a href=\"https://ref.ly/2Macc3:38\">2MA 3:38</a>, <a href=\"https://ref.ly/2Macc5:18\">2MA 5:18</a>, <a href=\"https://ref.ly/2Macc6:30\">2MA 6:30</a>, <a href=\"https://ref.ly/3Macc2:21\">3MA 2:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">φραγέλλιον, φραγελλόω</span> <span class=\"thlex-translit\">(fragellion, fragelloō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:26\">MAT 27:26</a>, <a href=\"https://ref.ly/Mark15:15\">MRK 15:15</a>, <a href=\"https://ref.ly/John2:15\">JHN 2:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">flagellum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd16:20\">2ES 16:20</a>, <a href=\"https://ref.ly/2Esd16:21\">2ES 16:21</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0967_whip_man.jpg\" alt=\"Whip\"><figcaption class=\"thlex-caption\">Whip (© Clyde L. Cheney - Wikimedia Commons)</figcaption></figure>The whip was an instrument consisting of either a single or multiple thongs with or without weighted tips on the ends. The thongs were usually leather, and the weighted tips would normally have been made of metal in order to increase the force of the blow and to inflict more severe punishment.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0317_soldier_with_whip.jpg\" alt=\"Soldier with a whip\"><figcaption class=\"thlex-caption\">Soldier with a whip (© Johnbod, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>When the whip was used on draft animals, it was intended to cause them to move faster. This was done either by striking the animal with the whip or by flicking the whip so that the end of it made a cracking sound, frightening the animal. The whip used on animals was normally without the weighted tips. When the whip was used on human beings, it was for punishment (see <a href=\"https://ref.ly/Deut25:2\">DEU 25:2</a>; <a href=\"https://ref.ly/Deut25:3\">DEU 25:3</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Where the word “whip” or “scourge” is used figuratively, it will usually be possible to preserve the meaning without keeping the figure. For example, for the literal clause “You shall be hid from the scourge of the tongue” (<a href=\"https://ref.ly/Job5:21\">JOB 5:21</a> in <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “God will rescue you from slander.”</p>\n<p>\n            <a href=\"https://ref.ly/Prov26:3\">PRO 26:3</a>: For the literal phrase “A whip for the horse” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), it may be better to use a verb to describe the action; for example, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “You have to whip a horse.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "06023013",
+"start_ref_usfm": "JOS 23:13",
+"end_ref": "06023013",
+"end_ref_usfm": "JOS 23:13"
+},
+{
+"start_ref": "11012011",
+"start_ref_usfm": "1KI 12:11",
+"end_ref": "11012011",
+"end_ref_usfm": "1KI 12:11"
+},
+{
+"start_ref": "11012014",
+"start_ref_usfm": "1KI 12:14",
+"end_ref": "11012014",
+"end_ref_usfm": "1KI 12:14"
+},
+{
+"start_ref": "14010011",
+"start_ref_usfm": "2CH 10:11",
+"end_ref": "14010011",
+"end_ref_usfm": "2CH 10:11"
+},
+{
+"start_ref": "14010014",
+"start_ref_usfm": "2CH 10:14",
+"end_ref": "14010014",
+"end_ref_usfm": "2CH 10:14"
+},
+{
+"start_ref": "18005021",
+"start_ref_usfm": "JOB 5:21",
+"end_ref": "18005021",
+"end_ref_usfm": "JOB 5:21"
+},
+{
+"start_ref": "18009023",
+"start_ref_usfm": "JOB 9:23",
+"end_ref": "18009023",
+"end_ref_usfm": "JOB 9:23"
+},
+{
+"start_ref": "20026003",
+"start_ref_usfm": "PRO 26:3",
+"end_ref": "20026003",
+"end_ref_usfm": "PRO 26:3"
+},
+{
+"start_ref": "23010026",
+"start_ref_usfm": "ISA 10:26",
+"end_ref": "23010026",
+"end_ref_usfm": "ISA 10:26"
+},
+{
+"start_ref": "23028015",
+"start_ref_usfm": "ISA 28:15",
+"end_ref": "23028015",
+"end_ref_usfm": "ISA 28:15"
+},
+{
+"start_ref": "23028018",
+"start_ref_usfm": "ISA 28:18",
+"end_ref": "23028018",
+"end_ref_usfm": "ISA 28:18"
+},
+{
+"start_ref": "34003002",
+"start_ref_usfm": "NAM 3:2",
+"end_ref": "34003002",
+"end_ref_usfm": "NAM 3:2"
+},
+{
+"start_ref": "40010017",
+"start_ref_usfm": "MAT 10:17",
+"end_ref": "40010017",
+"end_ref_usfm": "MAT 10:17"
+},
+{
+"start_ref": "40020019",
+"start_ref_usfm": "MAT 20:19",
+"end_ref": "40020019",
+"end_ref_usfm": "MAT 20:19"
+},
+{
+"start_ref": "40023034",
+"start_ref_usfm": "MAT 23:34",
+"end_ref": "40023034",
+"end_ref_usfm": "MAT 23:34"
+},
+{
+"start_ref": "41010034",
+"start_ref_usfm": "MRK 10:34",
+"end_ref": "41010034",
+"end_ref_usfm": "MRK 10:34"
+},
+{
+"start_ref": "42018033",
+"start_ref_usfm": "LUK 18:33",
+"end_ref": "42018033",
+"end_ref_usfm": "LUK 18:33"
+},
+{
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019001",
+"end_ref_usfm": "JHN 19:1"
+},
+{
+"start_ref": "44022024",
+"start_ref_usfm": "ACT 22:24",
+"end_ref": "44022024",
+"end_ref_usfm": "ACT 22:24"
+},
+{
+"start_ref": "44022025",
+"start_ref_usfm": "ACT 22:25",
+"end_ref": "44022025",
+"end_ref_usfm": "ACT 22:25"
+},
+{
+"start_ref": "58011036",
+"start_ref_usfm": "HEB 11:36",
+"end_ref": "58011036",
+"end_ref_usfm": "HEB 11:36"
+},
+{
+"start_ref": "58012006",
+"start_ref_usfm": "HEB 12:6",
+"end_ref": "58012006",
+"end_ref_usfm": "HEB 12:6"
+},
+{
+"start_ref": "68013016",
+"start_ref_usfm": "TOB 13:16",
+"end_ref": "68013016",
+"end_ref_usfm": "TOB 13:16"
+},
+{
+"start_ref": "69008027",
+"start_ref_usfm": "JDT 8:27",
+"end_ref": "69008027",
+"end_ref_usfm": "JDT 8:27"
+},
+{
+"start_ref": "71005011",
+"start_ref_usfm": "WIS 5:11",
+"end_ref": "71005011",
+"end_ref_usfm": "WIS 5:11"
+},
+{
+"start_ref": "71012022",
+"start_ref_usfm": "WIS 12:22",
+"end_ref": "71012022",
+"end_ref_usfm": "WIS 12:22"
+},
+{
+"start_ref": "71016016",
+"start_ref_usfm": "WIS 16:16",
+"end_ref": "71016016",
+"end_ref_usfm": "WIS 16:16"
+},
+{
+"start_ref": "72030014",
+"start_ref_usfm": "SIR 30:14",
+"end_ref": "72030014",
+"end_ref_usfm": "SIR 30:14"
+},
+{
+"start_ref": "72023002",
+"start_ref_usfm": "SIR 23:2",
+"end_ref": "72023002",
+"end_ref_usfm": "SIR 23:2"
+},
+{
+"start_ref": "72023011",
+"start_ref_usfm": "SIR 23:11",
+"end_ref": "72023011",
+"end_ref_usfm": "SIR 23:11"
+},
+{
+"start_ref": "72026006",
+"start_ref_usfm": "SIR 26:6",
+"end_ref": "72026006",
+"end_ref_usfm": "SIR 26:6"
+},
+{
+"start_ref": "72028017",
+"start_ref_usfm": "SIR 28:17",
+"end_ref": "72028017",
+"end_ref_usfm": "SIR 28:17"
+},
+{
+"start_ref": "72030001",
+"start_ref_usfm": "SIR 30:1",
+"end_ref": "72030001",
+"end_ref_usfm": "SIR 30:1"
+},
+{
+"start_ref": "72039028",
+"start_ref_usfm": "SIR 39:28",
+"end_ref": "72039028",
+"end_ref_usfm": "SIR 39:28"
+},
+{
+"start_ref": "72040009",
+"start_ref_usfm": "SIR 40:9",
+"end_ref": "72040009",
+"end_ref_usfm": "SIR 40:9"
+},
+{
+"start_ref": "72022006",
+"start_ref_usfm": "SIR 22:6",
+"end_ref": "72022006",
+"end_ref_usfm": "SIR 22:6"
+},
+{
+"start_ref": "79003026",
+"start_ref_usfm": "2MA 3:26",
+"end_ref": "79003026",
+"end_ref_usfm": "2MA 3:26"
+},
+{
+"start_ref": "79003034",
+"start_ref_usfm": "2MA 3:34",
+"end_ref": "79003034",
+"end_ref_usfm": "2MA 3:34"
+},
+{
+"start_ref": "79003038",
+"start_ref_usfm": "2MA 3:38",
+"end_ref": "79003038",
+"end_ref_usfm": "2MA 3:38"
+},
+{
+"start_ref": "79005018",
+"start_ref_usfm": "2MA 5:18",
+"end_ref": "79005018",
+"end_ref_usfm": "2MA 5:18"
+},
+{
+"start_ref": "79006030",
+"start_ref_usfm": "2MA 6:30",
+"end_ref": "79006030",
+"end_ref_usfm": "2MA 6:30"
+},
+{
+"start_ref": "80002021",
+"start_ref_usfm": "3MA 2:21",
+"end_ref": "80002021",
+"end_ref_usfm": "3MA 2:21"
+},
+{
+"start_ref": "40027026",
+"start_ref_usfm": "MAT 27:26",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "41015015",
+"start_ref_usfm": "MRK 15:15",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "43002015",
+"start_ref_usfm": "JHN 2:15",
+"end_ref": "43002015",
+"end_ref_usfm": "JHN 2:15"
+},
+{
+"start_ref": "83016020",
+"start_ref_usfm": "2ES 16:20",
+"end_ref": "83016020",
+"end_ref_usfm": "2ES 16:20"
+},
+{
+"start_ref": "83016021",
+"start_ref_usfm": "2ES 16:21",
+"end_ref": "83016021",
+"end_ref_usfm": "2ES 16:21"
+},
+{
+"start_ref": "05025002",
+"start_ref_usfm": "DEU 25:2",
+"end_ref": "05025002",
+"end_ref_usfm": "DEU 25:2"
+},
+{
+"start_ref": "05025003",
+"start_ref_usfm": "DEU 25:3",
+"end_ref": "05025003",
+"end_ref_usfm": "DEU 25:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Whip",
+"type": "realia",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "Whip"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.4",
+"reference_id": "REALIA:1.1.4",
+"version": "1.0.4",
+"title": "Muzzle",
+"media_type": "Text",
+"index_reference": "1.1.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.4\"><span class=\"thlex-key\">1.1.4</span> Muzzle</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חסם</span> <span class=\"thlex-translit\">(chasam (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut25:4\">DEU 25:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַחְסוֹם</span> <span class=\"thlex-translit\">(machsom)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps39:2\">PSA 39:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">φιμός</span> <span class=\"thlex-translit\">(fimos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir20:29\">SIR 20:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">φιμόω</span> <span class=\"thlex-translit\">(fimoō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Tim5:18\">1TI 5:18</a>, <a href=\"https://ref.ly/Sus1:60\">SUS 1:60</a>, <a href=\"https://ref.ly/4Macc1:35\">4MA 1:35</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κημόω</span> <span class=\"thlex-translit\">(kēmoō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Cor9:9\">1CO 9:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0318_muzzle.jpg\" alt=\"Muzzled cow used for threshing\"><figcaption class=\"thlex-caption\">Muzzled cow used for threshing (Matson Collection, Library of Congress, Public domain)</figcaption></figure>The muzzle was a guard placed over or around the mouth of an animal to prevent it from biting or eating. It was made of rope or leather strips formed into a loose mesh; this allowed the animal to breathe while preventing it from getting anything into its mouth.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The two New Testament references are quotations from <a href=\"https://ref.ly/Deut25:4\">DEU 25:4</a> (where <a href=\"https://ref.ly/1Tim5:18\">1TI 5:18</a> follows the Septuagint and <a href=\"https://ref.ly/1Cor9:9\">1CO 9:9</a> uses an equivalent verb). In some languages it may be necessary to use some kind of descriptive equivalent of “to muzzle an ox,” for example, “to tie the mouth of an ox so that it cannot eat” or “to cover the mouth of an ox so that it cannot eat.” In <a href=\"https://ref.ly/Ps39:2\">PSA 39:2</a> the literal text “I will guard my mouth with a muzzle” may be rendered “I will keep silent” (compare <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “I will not say anything”).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05025004",
+"start_ref_usfm": "DEU 25:4",
+"end_ref": "05025004",
+"end_ref_usfm": "DEU 25:4"
+},
+{
+"start_ref": "19039002",
+"start_ref_usfm": "PSA 39:2",
+"end_ref": "19039002",
+"end_ref_usfm": "PSA 39:2"
+},
+{
+"start_ref": "72020029",
+"start_ref_usfm": "SIR 20:29",
+"end_ref": "72020029",
+"end_ref_usfm": "SIR 20:29"
+},
+{
+"start_ref": "54005018",
+"start_ref_usfm": "1TI 5:18",
+"end_ref": "54005018",
+"end_ref_usfm": "1TI 5:18"
+},
+{
+"start_ref": "76001060",
+"start_ref_usfm": "SUS 1:60",
+"end_ref": "76001060",
+"end_ref_usfm": "SUS 1:60"
+},
+{
+"start_ref": "81001035",
+"start_ref_usfm": "4MA 1:35",
+"end_ref": "81001035",
+"end_ref_usfm": "4MA 1:35"
+},
+{
+"start_ref": "46009009",
+"start_ref_usfm": "1CO 9:9",
+"end_ref": "46009009",
+"end_ref_usfm": "1CO 9:9"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:ToMuzzle",
+"type": "realia",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "To Muzzle"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.5",
+"reference_id": "REALIA:1.1.5",
+"version": "1.0.4",
+"title": "Plow and plowshare",
+"media_type": "Text",
+"index_reference": "1.1.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.5\"><span class=\"thlex-key\">1.1.5</span> Plow and plowshare</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֵת</span> <span class=\"thlex-translit\">(’eth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a>, <a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a>, <a href=\"https://ref.ly/Joel4:10\">JOL 4:10</a>, <a href=\"https://ref.ly/Mic4:3\">MIC 4:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חרשׁ</span> <span class=\"thlex-translit\">(charash (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut22:10\">DEU 22:10</a>, <a href=\"https://ref.ly/Judg14:18\">JDG 14:18</a>, <a href=\"https://ref.ly/1Sam8:12\">1SA 8:12</a>, <a href=\"https://ref.ly/1Kgs19:19\">1KI 19:19</a>, <a href=\"https://ref.ly/Job1:14\">JOB 1:14</a>, <a href=\"https://ref.ly/Job4:8\">JOB 4:8</a>, <a href=\"https://ref.ly/Ps129:3\">PSA 129:3</a>, <a href=\"https://ref.ly/Ps129:3\">PSA 129:3</a>, <a href=\"https://ref.ly/Prov20:4\">PRO 20:4</a>, <a href=\"https://ref.ly/Isa28:24\">ISA 28:24</a>, <a href=\"https://ref.ly/Isa28:24\">ISA 28:24</a>, <a href=\"https://ref.ly/Jer26:18\">JER 26:18</a>, <a href=\"https://ref.ly/Hos10:11\">HOS 10:11</a>, <a href=\"https://ref.ly/Hos10:13\">HOS 10:13</a>, <a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a>, <a href=\"https://ref.ly/Amos9:13\">AMO 9:13</a>, <a href=\"https://ref.ly/Mic3:12\">MIC 3:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀροτριάω</span> <span class=\"thlex-translit\">(arotriaō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke17:7\">LUK 17:7</a>, <a href=\"https://ref.ly/1Cor9:10\">1CO 9:10</a>, <a href=\"https://ref.ly/1Cor9:10\">1CO 9:10</a>, <a href=\"https://ref.ly/Sir6:19\">SIR 6:19</a>, <a href=\"https://ref.ly/Sir7:12\">SIR 7:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἄροτρον</span> <span class=\"thlex-translit\">(arotron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke9:62\">LUK 9:62</a>, <a href=\"https://ref.ly/Sir38:25\">SIR 38:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0319_plowing_en.jpg\" alt=\"Egyptian model of a man plowing\"><figcaption class=\"thlex-caption\">Egyptian model of a man plowing (Metropolitan Museum of Art, Public domain, MMA)</figcaption></figure>The plow consisted of a flat triangular blade (the “plowshare”) made of hard wood or metal, connected to a handle. In another design the plowshare was a wooden bar covered with a cylindrical, pointed metal sleeve. Ropes or a wooden pole attached to the handle were connected to the yoke and pulled by one or more animals.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The plow was used to cut the soil in preparation for the sowing of seed or the planting of seedlings. (The soil might also be plowed again after the seed was scattered, in order to cover the seed and protect it from the birds and from the sun.) The point of the plowshare cut a shallow furrow in the earth. Plows did not turn over the soil but were used simply to break the surface, seldom to a depth of more than 25 centimeters (10 inches). A man could pull the plow, but more often it was pulled by either oxen or donkeys, while a man walked behind and directed the animals and held the plow in its proper line and depth in the soil.</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0005_plow.jpg\" alt=\"Plow\"><figcaption class=\"thlex-caption\">Plow (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>Some have suggested that an <em>’eth</em> was a kind of sharp instrument that was used to cut the soil prior to the actual plowing.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In most parts of the world at least some type of plow is known. Where a plow is unknown, translators may use the name of a tool used for the same kind of agricultural work, such as “hoe.” This will not be possible where the text refers to plowing with animals (for example, <a href=\"https://ref.ly/Deut22:10\">DEU 22:10</a>; <a href=\"https://ref.ly/1Kgs19:19\">1KI 19:19</a>). <em>’Eth</em> refers to the physical similarity of the plowshare and the sword in <a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a>; <a href=\"https://ref.ly/Joel4:10\">JOL 4:10</a>; and <a href=\"https://ref.ly/Mic4:3\">MIC 4:3</a>. Where plows are unknown, in these passages translators may substitute some other farming tool, which could reasonably be formed from a sword or machete or cutlass.</p>\n<p>The Hebrew verb <em>charash</em> is used figuratively in several passages. In <a href=\"https://ref.ly/Jer26:18\">JER 26:18</a> and <a href=\"https://ref.ly/Mic3:12\">MIC 3:12</a> it speaks of the total destruction of Jerusalem, and in <a href=\"https://ref.ly/Job4:8\">JOB 4:8</a> and <a href=\"https://ref.ly/Hos10:13\">HOS 10:13</a> it expresses the idea that doing an evil deed will bring an evil result. For the figurative use of plowing in <a href=\"https://ref.ly/Ps129:3\">PSA 129:3</a>, see <em>A Handbook on Psalms</em>, page 1080.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "23002004",
+"start_ref_usfm": "ISA 2:4",
+"end_ref": "23002004",
+"end_ref_usfm": "ISA 2:4"
+},
+{
+"start_ref": "29004010",
+"start_ref_usfm": "JOL 4:10",
+"end_ref": "29004010",
+"end_ref_usfm": "JOL 4:10"
+},
+{
+"start_ref": "33004003",
+"start_ref_usfm": "MIC 4:3",
+"end_ref": "33004003",
+"end_ref_usfm": "MIC 4:3"
+},
+{
+"start_ref": "05022010",
+"start_ref_usfm": "DEU 22:10",
+"end_ref": "05022010",
+"end_ref_usfm": "DEU 22:10"
+},
+{
+"start_ref": "07014018",
+"start_ref_usfm": "JDG 14:18",
+"end_ref": "07014018",
+"end_ref_usfm": "JDG 14:18"
+},
+{
+"start_ref": "09008012",
+"start_ref_usfm": "1SA 8:12",
+"end_ref": "09008012",
+"end_ref_usfm": "1SA 8:12"
+},
+{
+"start_ref": "11019019",
+"start_ref_usfm": "1KI 19:19",
+"end_ref": "11019019",
+"end_ref_usfm": "1KI 19:19"
+},
+{
+"start_ref": "18001014",
+"start_ref_usfm": "JOB 1:14",
+"end_ref": "18001014",
+"end_ref_usfm": "JOB 1:14"
+},
+{
+"start_ref": "18004008",
+"start_ref_usfm": "JOB 4:8",
+"end_ref": "18004008",
+"end_ref_usfm": "JOB 4:8"
+},
+{
+"start_ref": "19129003",
+"start_ref_usfm": "PSA 129:3",
+"end_ref": "19129003",
+"end_ref_usfm": "PSA 129:3"
+},
+{
+"start_ref": "20020004",
+"start_ref_usfm": "PRO 20:4",
+"end_ref": "20020004",
+"end_ref_usfm": "PRO 20:4"
+},
+{
+"start_ref": "23028024",
+"start_ref_usfm": "ISA 28:24",
+"end_ref": "23028024",
+"end_ref_usfm": "ISA 28:24"
+},
+{
+"start_ref": "24026018",
+"start_ref_usfm": "JER 26:18",
+"end_ref": "24026018",
+"end_ref_usfm": "JER 26:18"
+},
+{
+"start_ref": "28010011",
+"start_ref_usfm": "HOS 10:11",
+"end_ref": "28010011",
+"end_ref_usfm": "HOS 10:11"
+},
+{
+"start_ref": "28010013",
+"start_ref_usfm": "HOS 10:13",
+"end_ref": "28010013",
+"end_ref_usfm": "HOS 10:13"
+},
+{
+"start_ref": "30006012",
+"start_ref_usfm": "AMO 6:12",
+"end_ref": "30006012",
+"end_ref_usfm": "AMO 6:12"
+},
+{
+"start_ref": "30009013",
+"start_ref_usfm": "AMO 9:13",
+"end_ref": "30009013",
+"end_ref_usfm": "AMO 9:13"
+},
+{
+"start_ref": "33003012",
+"start_ref_usfm": "MIC 3:12",
+"end_ref": "33003012",
+"end_ref_usfm": "MIC 3:12"
+},
+{
+"start_ref": "42017007",
+"start_ref_usfm": "LUK 17:7",
+"end_ref": "42017007",
+"end_ref_usfm": "LUK 17:7"
+},
+{
+"start_ref": "46009010",
+"start_ref_usfm": "1CO 9:10",
+"end_ref": "46009010",
+"end_ref_usfm": "1CO 9:10"
+},
+{
+"start_ref": "72006019",
+"start_ref_usfm": "SIR 6:19",
+"end_ref": "72006019",
+"end_ref_usfm": "SIR 6:19"
+},
+{
+"start_ref": "72007012",
+"start_ref_usfm": "SIR 7:12",
+"end_ref": "72007012",
+"end_ref_usfm": "SIR 7:12"
+},
+{
+"start_ref": "42009062",
+"start_ref_usfm": "LUK 9:62",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+},
+{
+"start_ref": "72038025",
+"start_ref_usfm": "SIR 38:25",
+"end_ref": "72038025",
+"end_ref_usfm": "SIR 38:25"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.1.6",
+"reference_id": "REALIA:1.1.6",
+"version": "1.0.4",
+"title": "Sickle",
+"media_type": "Text",
+"index_reference": "1.1.6",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.6\"><span class=\"thlex-key\">1.1.6</span> Sickle</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חֶרְמֵשׁ</span> <span class=\"thlex-translit\">(chermesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut16:9\">DEU 16:9</a>, <a href=\"https://ref.ly/Deut23:26\">DEU 23:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַגָּל</span> <span class=\"thlex-translit\">(magal)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer50:16\">JER 50:16</a>, <a href=\"https://ref.ly/Joel4:13\">JOL 4:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">δρέπανον</span> <span class=\"thlex-translit\">(drepanon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark4:29\">MRK 4:29</a>, <a href=\"https://ref.ly/Rev14:14\">REV 14:14</a>, <a href=\"https://ref.ly/Rev14:15\">REV 14:15</a>, <a href=\"https://ref.ly/Rev14:16\">REV 14:16</a>, <a href=\"https://ref.ly/Rev14:17\">REV 14:17</a>, <a href=\"https://ref.ly/Rev14:18\">REV 14:18</a>, <a href=\"https://ref.ly/Rev14:18\">REV 14:18</a>, <a href=\"https://ref.ly/Rev14:19\">REV 14:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0320_cutting_grain_sickle.jpg\" alt=\"Man cutting grain with a sickle\"><figcaption class=\"thlex-caption\">Man cutting grain with a sickle (The Pictorial New Testament, The Religious Tract Society 1881, Public domain)</figcaption></figure>The sickle was a large, curved knife used for cutting ripe grain. It had a short wooden handle (15–20 centimeters, 6–8 inches).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0321_sickle.jpg\" alt=\"Sickle\"><figcaption class=\"thlex-caption\">Sickle (© Juan R. Lascorz, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>The implement was swung in a circular motion close to the ground, cutting off the grass or grain. Using the sickle required bending over in order to cut close to the ground, while the longer handle of the scythe allowed the worker to stand erect (see also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.15.1 Scythe (chariot weapon)&lt;REALIA:2.15.1&gt;</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Where there is no receptor-language term for “sickle,” translators may often use a descriptive phrase, such as “curved knife for cutting grain,” “reaping hook,” or “machete for reaping.” In <a href=\"https://ref.ly/Rev14:0\">REV 14:0</a> the word sickle is used in idiomatic expressions that could be confusing to the reader. For example, in <a href=\"https://ref.ly/Rev14:15\">REV 14:15</a>, rather than the literal “Put in your sickle, and reap” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), it may be clearer to say “Use your sickle and reap the harvest” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>). The long-handled scythe was unknown in ancient Israel. Where a translator must choose between a short-handled implement and a long-handled one, the former will be more accurate.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016009",
+"end_ref_usfm": "DEU 16:9"
+},
+{
+"start_ref": "05023026",
+"start_ref_usfm": "DEU 23:26",
+"end_ref": "05023026",
+"end_ref_usfm": "DEU 23:26"
+},
+{
+"start_ref": "24050016",
+"start_ref_usfm": "JER 50:16",
+"end_ref": "24050016",
+"end_ref_usfm": "JER 50:16"
+},
+{
+"start_ref": "29004013",
+"start_ref_usfm": "JOL 4:13",
+"end_ref": "29004013",
+"end_ref_usfm": "JOL 4:13"
+},
+{
+"start_ref": "41004029",
+"start_ref_usfm": "MRK 4:29",
+"end_ref": "41004029",
+"end_ref_usfm": "MRK 4:29"
+},
+{
+"start_ref": "66014014",
+"start_ref_usfm": "REV 14:14",
+"end_ref": "66014014",
+"end_ref_usfm": "REV 14:14"
+},
+{
+"start_ref": "66014015",
+"start_ref_usfm": "REV 14:15",
+"end_ref": "66014015",
+"end_ref_usfm": "REV 14:15"
+},
+{
+"start_ref": "66014016",
+"start_ref_usfm": "REV 14:16",
+"end_ref": "66014016",
+"end_ref_usfm": "REV 14:16"
+},
+{
+"start_ref": "66014017",
+"start_ref_usfm": "REV 14:17",
+"end_ref": "66014017",
+"end_ref_usfm": "REV 14:17"
+},
+{
+"start_ref": "66014018",
+"start_ref_usfm": "REV 14:18",
+"end_ref": "66014018",
+"end_ref_usfm": "REV 14:18"
+},
+{
+"start_ref": "66014019",
+"start_ref_usfm": "REV 14:19",
+"end_ref": "66014019",
+"end_ref_usfm": "REV 14:19"
+},
+{
+"start_ref": "66014000",
+"start_ref_usfm": "REV 14:0",
+"end_ref": "66014000",
+"end_ref_usfm": "REV 14:0"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Sickle",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Sickle"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.7",
+"reference_id": "REALIA:1.1.7",
+"version": "1.0.4",
+"title": "Sheaf",
+"media_type": "Text",
+"index_reference": "1.1.7",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.7\"><span class=\"thlex-key\">1.1.7</span> Sheaf</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֲלֻמָּה</span> <span class=\"thlex-translit\">(’alumah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:7\">GEN 37:7</a>, <a href=\"https://ref.ly/Gen37:7\">GEN 37:7</a>, <a href=\"https://ref.ly/Gen37:7\">GEN 37:7</a>, <a href=\"https://ref.ly/Gen37:7\">GEN 37:7</a>, <a href=\"https://ref.ly/Ps126:6\">PSA 126:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עָמִיר</span> <span class=\"thlex-translit\">(‘amir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer9:21\">JER 9:21</a>, <a href=\"https://ref.ly/Amos2:13\">AMO 2:13</a>, <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>, <a href=\"https://ref.ly/Zech12:6\">ZEC 12:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עמר</span> <span class=\"thlex-translit\">(‘imer (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps129:7\">PSA 129:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֹמֶר</span> <span class=\"thlex-translit\">(‘omer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev23:12\">LEV 23:12</a>, <a href=\"https://ref.ly/Lev23:15\">LEV 23:15</a>, <a href=\"https://ref.ly/Deut24:19\">DEU 24:19</a>, <a href=\"https://ref.ly/Ruth2:7\">RUT 2:7</a>, <a href=\"https://ref.ly/Ruth2:15\">RUT 2:15</a>, <a href=\"https://ref.ly/Job24:10\">JOB 24:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">δράγμα</span> <span class=\"thlex-translit\">(dragma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt8:3\">JDT 8:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0934_sheaf.jpg\" alt=\"Sheaves of grain from the harvest\"><figcaption class=\"thlex-caption\">Sheaves of grain from the harvest ( Jakub Hałun © Wikimedia Commons)</figcaption></figure>The sheaf was a bundle made by binding together the stalks and ears of a crop that had been harvested. The binding was most often done with stalks of the grain itself.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Grain was harvested by cutting the stalks low to the ground with a sickle (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.6 Sickle&lt;REALIA:1.1.6&gt;</a>) or even by pulling them up by hand. The stalks were then gathered into bundles and tied together around the middle, making a sheaf. If the sheaves were not collected immediately, they could be left in the field in a standing position to keep the heads of grain off the damp ground. After the sheaves were collected, they were taken to the threshing floor (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.1 Threshing floor&lt;REALIA:1.1.8.1&gt;</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>For the word “sheaf,” translators may use a descriptive phrase, such as “bundle of harvested grain.” In some cultures the practice of tying grain into bundles is unknown. Some languages may have to say something like “bunch of grain you tie together.” In some cases it will be necessary to specify what kind of grain is involved. It may be possible to render “sheaf” in a more general sense as “harvest” (so <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> in <a href=\"https://ref.ly/Ps126:6\">PSA 126:6</a>; compare <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> in <a href=\"https://ref.ly/Job24:10\">JOB 24:10</a>, where it has “wheat”) or even “grain” (so <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> in <a href=\"https://ref.ly/Amos2:13\">AMO 2:13</a> and <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>). Another passage where <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> renders “sheaf” in a broader sense is <a href=\"https://ref.ly/Jdt8:3\">JDT 8:3</a>. The literal <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> text has “as he stood overseeing the men who were binding sheaves in the field,” but <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “while in the fields supervising the farm workers.”</p>\n<p>The Hebrew words <em>‘amir</em> and <em>‘omer</em> actually indicate a heap of many sheaves gathered at the edge of the field before being transported to the threshing floor, so the focus of <a href=\"https://ref.ly/Amos2:13\">AMO 2:13</a> is on the collective weight of the grain.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037007",
+"start_ref_usfm": "GEN 37:7",
+"end_ref": "01037007",
+"end_ref_usfm": "GEN 37:7"
+},
+{
+"start_ref": "19126006",
+"start_ref_usfm": "PSA 126:6",
+"end_ref": "19126006",
+"end_ref_usfm": "PSA 126:6"
+},
+{
+"start_ref": "24009021",
+"start_ref_usfm": "JER 9:21",
+"end_ref": "24009021",
+"end_ref_usfm": "JER 9:21"
+},
+{
+"start_ref": "30002013",
+"start_ref_usfm": "AMO 2:13",
+"end_ref": "30002013",
+"end_ref_usfm": "AMO 2:13"
+},
+{
+"start_ref": "33004012",
+"start_ref_usfm": "MIC 4:12",
+"end_ref": "33004012",
+"end_ref_usfm": "MIC 4:12"
+},
+{
+"start_ref": "38012006",
+"start_ref_usfm": "ZEC 12:6",
+"end_ref": "38012006",
+"end_ref_usfm": "ZEC 12:6"
+},
+{
+"start_ref": "19129007",
+"start_ref_usfm": "PSA 129:7",
+"end_ref": "19129007",
+"end_ref_usfm": "PSA 129:7"
+},
+{
+"start_ref": "03023012",
+"start_ref_usfm": "LEV 23:12",
+"end_ref": "03023012",
+"end_ref_usfm": "LEV 23:12"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023015",
+"end_ref_usfm": "LEV 23:15"
+},
+{
+"start_ref": "05024019",
+"start_ref_usfm": "DEU 24:19",
+"end_ref": "05024019",
+"end_ref_usfm": "DEU 24:19"
+},
+{
+"start_ref": "08002007",
+"start_ref_usfm": "RUT 2:7",
+"end_ref": "08002007",
+"end_ref_usfm": "RUT 2:7"
+},
+{
+"start_ref": "08002015",
+"start_ref_usfm": "RUT 2:15",
+"end_ref": "08002015",
+"end_ref_usfm": "RUT 2:15"
+},
+{
+"start_ref": "18024010",
+"start_ref_usfm": "JOB 24:10",
+"end_ref": "18024010",
+"end_ref_usfm": "JOB 24:10"
+},
+{
+"start_ref": "69008003",
+"start_ref_usfm": "JDT 8:3",
+"end_ref": "69008003",
+"end_ref_usfm": "JDT 8:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Sheaf",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Sheaf"
+},
+{
+"id": "realia:Sickle",
+"type": "realia",
+"confidence": 0.6214,
+"match_method": "scored",
+"preferred_label": "Sickle"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.8",
+"reference_id": "REALIA:1.1.8",
+"version": "1.0.4",
+"title": "Threshing and winnowing",
+"media_type": "Text",
+"index_reference": "1.1.8",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8\"><span class=\"thlex-key\">1.1.8</span> Threshing and winnowing</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Threshing was the process of separating the grain from the straw by beating it with flails or having animals trample it or dragging a threshing board (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.2 Threshing board, sledge&lt;REALIA:1.1.8.2&gt;</a>) over it</h2>\n<div class=\"thlex-paragraphs\">\n<p>Winnowing consisted of throwing the straw, chaff, grain, and dust into the wind with a wooden winnowing fork (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.3 Winnowing fork&lt;REALIA:1.1.8.3&gt;</a>) or a winnowing basket (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.4 Sieve, winnowing basket&lt;REALIA:1.1.8.4&gt;</a>). The heavier grains would fall back on the threshing floor or into the basket, while the wind would carry away the dust, the chaff, and the straw. The stalks of grain, which had thus been cut and separated from the heads of grain, were used for fodder for the animals.</p>\n<p>In the land of Israel the wind normally begins to blow about two o’clock in the afternoon and continues through the evening and into the night. It is important that the wind is not too strong or blustery, and this may explain why the evening was regarded as the best time for winnowing.</p>\n<p>The final stage of winnowing consisted of sifting the remaining foreign bodies out of the grain. This was done with a kind of sieve made of a wooden hoop to the bottom of which was fixed a mesh of crisscrossed strips of cane, leather, tree bark, or straw.</p>\n<p>Where a technical term for winnowing is lacking, it is sometimes possible to use a descriptive phrase, such as “shaking out the dirt from the grain,” “separating the grain from the chaff,” or “separating the grain from the leaves.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.1.8.1",
+"reference_id": "REALIA:1.1.8.1",
+"version": "1.0.4",
+"title": "Threshing floor",
+"media_type": "Text",
+"index_reference": "1.1.8.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.1\"><span class=\"thlex-key\">1.1.8.1</span> Threshing floor</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">אִדְּרֵי</span> <span class=\"thlex-translit\">(’idar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan2:35\">DAN 2:35</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֹּרֶן</span> <span class=\"thlex-translit\">(goren)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num15:20\">NUM 15:20</a>, <a href=\"https://ref.ly/Num18:27\">NUM 18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>, <a href=\"https://ref.ly/Deut15:14\">DEU 15:14</a>, <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a>, <a href=\"https://ref.ly/Judg6:37\">JDG 6:37</a>, <a href=\"https://ref.ly/Ruth3:2\">RUT 3:2</a>, <a href=\"https://ref.ly/Ruth3:3\">RUT 3:3</a>, <a href=\"https://ref.ly/Ruth3:6\">RUT 3:6</a>, <a href=\"https://ref.ly/Ruth3:14\">RUT 3:14</a>, <a href=\"https://ref.ly/1Sam23:1\">1SA 23:1</a>, <a href=\"https://ref.ly/2Sam24:16\">2SA 24:16</a>, <a href=\"https://ref.ly/2Sam24:18\">2SA 24:18</a>, <a href=\"https://ref.ly/2Sam24:21\">2SA 24:21</a>, <a href=\"https://ref.ly/2Sam24:24\">2SA 24:24</a>, <a href=\"https://ref.ly/1Kgs22:10\">1KI 22:10</a>, <a href=\"https://ref.ly/2Kgs6:27\">2KI 6:27</a>, <a href=\"https://ref.ly/1Chr21:15\">1CH 21:15</a>, <a href=\"https://ref.ly/1Chr21:18\">1CH 21:18</a>, <a href=\"https://ref.ly/1Chr21:21\">1CH 21:21</a>, <a href=\"https://ref.ly/1Chr21:22\">1CH 21:22</a>, <a href=\"https://ref.ly/1Chr21:28\">1CH 21:28</a>, <a href=\"https://ref.ly/2Chr3:1\">2CH 3:1</a>, <a href=\"https://ref.ly/2Chr18:9\">2CH 18:9</a>, <a href=\"https://ref.ly/Job39:12\">JOB 39:12</a>, <a href=\"https://ref.ly/Isa21:10\">ISA 21:10</a>, <a href=\"https://ref.ly/Jer2:25\">JER 2:25</a>, <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a>, <a href=\"https://ref.ly/Hos9:1\">HOS 9:1</a>, <a href=\"https://ref.ly/Hos9:2\">HOS 9:2</a>, <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>, <a href=\"https://ref.ly/Joel2:24\">JOL 2:24</a>, <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἅλων</span> <span class=\"thlex-translit\">(halōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a>, <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">area</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd4:30\">2ES 4:30</a>, <a href=\"https://ref.ly/2Esd4:39\">2ES 4:39</a>, <a href=\"https://ref.ly/2Esd9:17\">2ES 9:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0322_threshing_floor.jpg\" alt=\"Threshing floor\"><figcaption class=\"thlex-caption\">Threshing floor (© Klearchos Kapoutsis, CC BY 2.0, via Wikimedia Commons)</figcaption></figure>The threshing floor was a level, circular area about 7.5 to 12 meters (25–40 feet) in diameter. It was usually located near the fields where the grain was grown, and if possible it was in an elevated area that was exposed to the breeze (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.3 Winnowing fork&lt;REALIA:1.1.8.3&gt;</a>). Where possible, the threshing floor was located near the village so that the grain could be guarded. The floor was either bedrock or earth that was packed down to make it hard. It was often bordered with rocks to hold in the grain.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>After grain has been cut, the individual kernels have to be separated from the stalk and the outer seed covering. The cut grain was laid out on the threshing floor. The process of separating the stalks and seed coverings from the kernels could be done by several methods: 1) dragging a threshing sledge (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.2 Threshing board, sledge&lt;REALIA:1.1.8.2&gt;</a>) over the grain, 2) having animals walk back and forth over it, or 3) beating it with some implement.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a> and <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a> the threshing floor symbolizes judgment or punishment. Where threshing is unknown and the meaning would not be clear, it may be made explicit; for example, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> renders <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a> b as follows: “They do not realize that they have been gathered together to be punished in the same way that grain is brought in to be threshed.” Compare also the alternative suggested by <em>A Handbook on The Gospel of Matthew</em> for <a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a>: “He is ready to judge and separate the good people from the bad, like the farmer who is ready to separate the grain from the chaff with his winnowing fork; he will keep safe the good, like the farmer puts wheat into his granary, and just as the farmer clears his threshing floor of the chaff and burns it in a fire, he will cause the bad people to burn in a fire that never goes out” (page 70).</p>\n<p>In <a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a> and <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a> the meaning of <em>halōn</em> as “threshing floor” forms the basis for the figurative extension of meaning referring to the threshed grain still lying on the threshing floor. This meaning may be made clear by rendering the literal text “he will clear his threshing floor” as “he will thresh out completely all of the grain.” On the other hand, it is possible to interpret <em>halōn</em> in both New Testament references in a literal sense and translate “he will clean up his threshing floor,” that is, by gathering up the grain and getting rid of the straw and chaff.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27002035",
+"start_ref_usfm": "DAN 2:35",
+"end_ref": "27002035",
+"end_ref_usfm": "DAN 2:35"
+},
+{
+"start_ref": "04015020",
+"start_ref_usfm": "NUM 15:20",
+"end_ref": "04015020",
+"end_ref_usfm": "NUM 15:20"
+},
+{
+"start_ref": "04018027",
+"start_ref_usfm": "NUM 18:27",
+"end_ref": "04018027",
+"end_ref_usfm": "NUM 18:27"
+},
+{
+"start_ref": "04018030",
+"start_ref_usfm": "NUM 18:30",
+"end_ref": "04018030",
+"end_ref_usfm": "NUM 18:30"
+},
+{
+"start_ref": "05015014",
+"start_ref_usfm": "DEU 15:14",
+"end_ref": "05015014",
+"end_ref_usfm": "DEU 15:14"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016013",
+"end_ref_usfm": "DEU 16:13"
+},
+{
+"start_ref": "07006037",
+"start_ref_usfm": "JDG 6:37",
+"end_ref": "07006037",
+"end_ref_usfm": "JDG 6:37"
+},
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+},
+{
+"start_ref": "08003003",
+"start_ref_usfm": "RUT 3:3",
+"end_ref": "08003003",
+"end_ref_usfm": "RUT 3:3"
+},
+{
+"start_ref": "08003006",
+"start_ref_usfm": "RUT 3:6",
+"end_ref": "08003006",
+"end_ref_usfm": "RUT 3:6"
+},
+{
+"start_ref": "08003014",
+"start_ref_usfm": "RUT 3:14",
+"end_ref": "08003014",
+"end_ref_usfm": "RUT 3:14"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023001",
+"end_ref_usfm": "1SA 23:1"
+},
+{
+"start_ref": "10024016",
+"start_ref_usfm": "2SA 24:16",
+"end_ref": "10024016",
+"end_ref_usfm": "2SA 24:16"
+},
+{
+"start_ref": "10024018",
+"start_ref_usfm": "2SA 24:18",
+"end_ref": "10024018",
+"end_ref_usfm": "2SA 24:18"
+},
+{
+"start_ref": "10024021",
+"start_ref_usfm": "2SA 24:21",
+"end_ref": "10024021",
+"end_ref_usfm": "2SA 24:21"
+},
+{
+"start_ref": "10024024",
+"start_ref_usfm": "2SA 24:24",
+"end_ref": "10024024",
+"end_ref_usfm": "2SA 24:24"
+},
+{
+"start_ref": "11022010",
+"start_ref_usfm": "1KI 22:10",
+"end_ref": "11022010",
+"end_ref_usfm": "1KI 22:10"
+},
+{
+"start_ref": "12006027",
+"start_ref_usfm": "2KI 6:27",
+"end_ref": "12006027",
+"end_ref_usfm": "2KI 6:27"
+},
+{
+"start_ref": "13021015",
+"start_ref_usfm": "1CH 21:15",
+"end_ref": "13021015",
+"end_ref_usfm": "1CH 21:15"
+},
+{
+"start_ref": "13021018",
+"start_ref_usfm": "1CH 21:18",
+"end_ref": "13021018",
+"end_ref_usfm": "1CH 21:18"
+},
+{
+"start_ref": "13021021",
+"start_ref_usfm": "1CH 21:21",
+"end_ref": "13021021",
+"end_ref_usfm": "1CH 21:21"
+},
+{
+"start_ref": "13021022",
+"start_ref_usfm": "1CH 21:22",
+"end_ref": "13021022",
+"end_ref_usfm": "1CH 21:22"
+},
+{
+"start_ref": "13021028",
+"start_ref_usfm": "1CH 21:28",
+"end_ref": "13021028",
+"end_ref_usfm": "1CH 21:28"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003001",
+"end_ref_usfm": "2CH 3:1"
+},
+{
+"start_ref": "14018009",
+"start_ref_usfm": "2CH 18:9",
+"end_ref": "14018009",
+"end_ref_usfm": "2CH 18:9"
+},
+{
+"start_ref": "18039012",
+"start_ref_usfm": "JOB 39:12",
+"end_ref": "18039012",
+"end_ref_usfm": "JOB 39:12"
+},
+{
+"start_ref": "23021010",
+"start_ref_usfm": "ISA 21:10",
+"end_ref": "23021010",
+"end_ref_usfm": "ISA 21:10"
+},
+{
+"start_ref": "24002025",
+"start_ref_usfm": "JER 2:25",
+"end_ref": "24002025",
+"end_ref_usfm": "JER 2:25"
+},
+{
+"start_ref": "24051033",
+"start_ref_usfm": "JER 51:33",
+"end_ref": "24051033",
+"end_ref_usfm": "JER 51:33"
+},
+{
+"start_ref": "28009001",
+"start_ref_usfm": "HOS 9:1",
+"end_ref": "28009001",
+"end_ref_usfm": "HOS 9:1"
+},
+{
+"start_ref": "28009002",
+"start_ref_usfm": "HOS 9:2",
+"end_ref": "28009002",
+"end_ref_usfm": "HOS 9:2"
+},
+{
+"start_ref": "28013003",
+"start_ref_usfm": "HOS 13:3",
+"end_ref": "28013003",
+"end_ref_usfm": "HOS 13:3"
+},
+{
+"start_ref": "29002024",
+"start_ref_usfm": "JOL 2:24",
+"end_ref": "29002024",
+"end_ref_usfm": "JOL 2:24"
+},
+{
+"start_ref": "33004012",
+"start_ref_usfm": "MIC 4:12",
+"end_ref": "33004012",
+"end_ref_usfm": "MIC 4:12"
+},
+{
+"start_ref": "40003012",
+"start_ref_usfm": "MAT 3:12",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "42003017",
+"start_ref_usfm": "LUK 3:17",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+},
+{
+"start_ref": "83004030",
+"start_ref_usfm": "2ES 4:30",
+"end_ref": "83004030",
+"end_ref_usfm": "2ES 4:30"
+},
+{
+"start_ref": "83004039",
+"start_ref_usfm": "2ES 4:39",
+"end_ref": "83004039",
+"end_ref_usfm": "2ES 4:39"
+},
+{
+"start_ref": "83009017",
+"start_ref_usfm": "2ES 9:17",
+"end_ref": "83009017",
+"end_ref_usfm": "2ES 9:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:ThreshingFloor",
+"type": "realia",
+"confidence": 0.959,
+"match_method": "scored",
+"preferred_label": "Threshing Floor"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.8.2",
+"reference_id": "REALIA:1.1.8.2",
+"version": "1.0.4",
+"title": "Threshing board, sledge",
+"media_type": "Text",
+"index_reference": "1.1.8.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.2\"><span class=\"thlex-key\">1.1.8.2</span> Threshing board, sledge</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חָרוּץ</span> <span class=\"thlex-translit\">(charuts)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:22\">JOB 41:22</a>, <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa41:15\">ISA 41:15</a>, <a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מוֹרַג</span> <span class=\"thlex-translit\">(morag)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam24:22\">2SA 24:22</a>, <a href=\"https://ref.ly/1Chr21:23\">1CH 21:23</a>, <a href=\"https://ref.ly/Isa41:15\">ISA 41:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֲגָלָה</span> <span class=\"thlex-translit\">(‘agalah, ‘eglah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa28:28\">ISA 28:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0323_threshing_board_bottom.jpg\" alt=\"Bottom of a threshing board\"><figcaption class=\"thlex-caption\">Bottom of a threshing board (© Renyrt, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>The threshing board was a flat wooden surface made of a single piece of wood or several boards attached side-by-side. It measured roughly 1.5 by 1 meter (5 by 3 feet). On one surface a number of small holes were carved, and into these holes hard, sharp stones (flint or basalt) or metal pieces were tightly wedged.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0325_threshing_board.jpg\" alt=\"Iron threshing board\"><figcaption class=\"thlex-caption\">Iron threshing board (© CarlosVdeHabsburgo, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>The threshing board, with the stone side downward, was dragged over the stalks of grain by a draft animal, to which it was attached by ropes. To increase the weight (and the effectiveness) of the implement, the farmer might stand or sit on the board as it was pulled. As the board with its embedded stones passed over the grain, the kernels were separated from the stalks and the seed coverings, while the straw was cut into chaff. See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8 Threshing and winnowing&lt;REALIA:1.1.8&gt;</a> above.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0073_man_holding_winnowing_fork.png\" alt=\"\n            \"><figcaption class=\"thlex-caption\">\n             (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>\n            <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>; <a href=\"https://ref.ly/Isa28:28\">ISA 28:28</a> uses several terms for instruments that performed basically the same function. The <em>‘agalah</em> /<em>‘eglah</em> was probably a sledge with sharp discs and a seat on top. The point of the agricultural reference in verse 27 is that the seeds mentioned, dill and cumin, are too small to be threshed in the same way as larger grains such as wheat and barley. The Hebrew word <em>charuts</em> probably indicates a threshing board with iron spikes instead of stones. The Hebrew word <em>’ofan</em> in verse 27 refers to the wheel of a cart (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">8.3 Wheel&lt;REALIA:8.3&gt;</a>).</p>\n<p>\n            <a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a> speaks of “threshing sledges of iron” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). This does not mean that the platform was made of iron but rather that iron spikes were protruding from the wooden platform instead of the usual stones. This language in <a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a> is probably figurative, and where that sense would be lost, the last half of this verse may be expanded to say “because they destroyed the people of Gilead like someone threshes grain with iron-studded sledges.” Or it may be rendered nonfiguratively as in <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, which reads “They treated the people of Gilead with savage cruelty.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18041022",
+"start_ref_usfm": "JOB 41:22",
+"end_ref": "18041022",
+"end_ref_usfm": "JOB 41:22"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028027",
+"end_ref_usfm": "ISA 28:27"
+},
+{
+"start_ref": "23041015",
+"start_ref_usfm": "ISA 41:15",
+"end_ref": "23041015",
+"end_ref_usfm": "ISA 41:15"
+},
+{
+"start_ref": "30001003",
+"start_ref_usfm": "AMO 1:3",
+"end_ref": "30001003",
+"end_ref_usfm": "AMO 1:3"
+},
+{
+"start_ref": "10024022",
+"start_ref_usfm": "2SA 24:22",
+"end_ref": "10024022",
+"end_ref_usfm": "2SA 24:22"
+},
+{
+"start_ref": "13021023",
+"start_ref_usfm": "1CH 21:23",
+"end_ref": "13021023",
+"end_ref_usfm": "1CH 21:23"
+},
+{
+"start_ref": "23028028",
+"start_ref_usfm": "ISA 28:28",
+"end_ref": "23028028",
+"end_ref_usfm": "ISA 28:28"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Threshing-sledge",
+"type": "realia",
+"confidence": 0.7209,
+"match_method": "scored",
+"preferred_label": "Threshing-Sledge"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.8.3",
+"reference_id": "REALIA:1.1.8.3",
+"version": "1.0.4",
+"title": "Winnowing fork",
+"media_type": "Text",
+"index_reference": "1.1.8.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.3\"><span class=\"thlex-key\">1.1.8.3</span> Winnowing fork</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">זרה</span> <span class=\"thlex-translit\">(zarah (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ruth3:2\">RUT 3:2</a>, <a href=\"https://ref.ly/Prov20:8\">PRO 20:8</a>, <a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a>, <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a>, <a href=\"https://ref.ly/Isa41:16\">ISA 41:16</a>, <a href=\"https://ref.ly/Jer4:11\">JER 4:11</a>, <a href=\"https://ref.ly/Jer15:7\">JER 15:7</a>, <a href=\"https://ref.ly/Jer51:2\">JER 51:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִזְרֶה</span> <span class=\"thlex-translit\">(mizreh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a>, <a href=\"https://ref.ly/Jer15:7\">JER 15:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">רַחַת</span> <span class=\"thlex-translit\">(rachath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λικμάω</span> <span class=\"thlex-translit\">(likmaō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir5:9\">SIR 5:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πτύον</span> <span class=\"thlex-translit\">(ptuon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a>, <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0072_man_holding_goad_with_ox_pulling_threshing_sledge.png\" alt=\"\n            \"><figcaption class=\"thlex-caption\">\n             (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The winnowing fork was a wooden fork-like implement, with five to seven prongs, for throwing threshed grain into the air so that the wind might separate the straw and chaff from the grain.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8 Threshing and winnowing&lt;REALIA:1.1.8&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0006_winnowing_fork.jpg\" alt=\"A winnowing fork is used in separating grain from chaff\"><figcaption class=\"thlex-caption\">A winnowing fork is used in separating grain from chaff (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>Where there is no receptor-language term for a winnowing fork, translators may choose a descriptive phrase, for example, “a tool for throwing threshed grain into the air in order to let the chaff blow away.”</p>\n<p>The Hebrew verb <em>zarah</em> means literally “to scatter.” It refers to a variety of operations in Scripture, including the process of winnowing.</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0326_winnowing_shovel.jpg\" alt=\"Wooden Spade, possibly used in winnowing (watercolor and graphite on paper, Archie Thompson, 1938)\"><figcaption class=\"thlex-caption\">Wooden Spade, possibly used in winnowing (watercolor and graphite on paper, Archie Thompson, 1938) (National Gallery of Art, CC0, via Wikimedia Commons)</figcaption></figure>The Hebrew word <em>rachath</em> appears only once in Scripture at <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a>, where its meaning is uncertain. It probably refers to a wooden implement with a long, flat blade attached to a long handle, similar to a spade but made of wood. The verse names two objects for performing the different stages of winnowing. The point of the verse is that even the food given to the animals will have been thoroughly prepared. Some translations eliminate the need to translate an implement by following the Septuagint; for example, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> has “Even the oxen and donkeys that plow your fields will be fed the finest grain.”</p>\n<p>In <a href=\"https://ref.ly/Sir5:9\">SIR 5:9</a> the activity of winnowing is used in a proverb. The literal text of the New Revised Standard Version (<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>) says “Do not winnow in every wind, or follow every path,” but <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> restructures (and reverses the order of) verses 9 and 10 to give the meaning of the proverb: “Don’t try to please everyone or agree with everything people say.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003002",
+"end_ref_usfm": "RUT 3:2"
+},
+{
+"start_ref": "20020008",
+"start_ref_usfm": "PRO 20:8",
+"end_ref": "20020008",
+"end_ref_usfm": "PRO 20:8"
+},
+{
+"start_ref": "20020026",
+"start_ref_usfm": "PRO 20:26",
+"end_ref": "20020026",
+"end_ref_usfm": "PRO 20:26"
+},
+{
+"start_ref": "23030024",
+"start_ref_usfm": "ISA 30:24",
+"end_ref": "23030024",
+"end_ref_usfm": "ISA 30:24"
+},
+{
+"start_ref": "23041016",
+"start_ref_usfm": "ISA 41:16",
+"end_ref": "23041016",
+"end_ref_usfm": "ISA 41:16"
+},
+{
+"start_ref": "24004011",
+"start_ref_usfm": "JER 4:11",
+"end_ref": "24004011",
+"end_ref_usfm": "JER 4:11"
+},
+{
+"start_ref": "24015007",
+"start_ref_usfm": "JER 15:7",
+"end_ref": "24015007",
+"end_ref_usfm": "JER 15:7"
+},
+{
+"start_ref": "24051002",
+"start_ref_usfm": "JER 51:2",
+"end_ref": "24051002",
+"end_ref_usfm": "JER 51:2"
+},
+{
+"start_ref": "72005009",
+"start_ref_usfm": "SIR 5:9",
+"end_ref": "72005009",
+"end_ref_usfm": "SIR 5:9"
+},
+{
+"start_ref": "40003012",
+"start_ref_usfm": "MAT 3:12",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "42003017",
+"start_ref_usfm": "LUK 3:17",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:WinnowingFork",
+"type": "realia",
+"confidence": 0.7455,
+"match_method": "scored",
+"preferred_label": "Winnowing Fork"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.8.4",
+"reference_id": "REALIA:1.1.8.4",
+"version": "1.0.4",
+"title": "Sieve, winnowing basket",
+"media_type": "Text",
+"index_reference": "1.1.8.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8.4\"><span class=\"thlex-key\">1.1.8.4</span> Sieve, winnowing basket</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כְּבָרָה</span> <span class=\"thlex-translit\">(kvarah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Amos9:9\">AMO 9:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נָפָה</span> <span class=\"thlex-translit\">(nafah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נוף</span> <span class=\"thlex-translit\">(nuf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κόσκινον</span> <span class=\"thlex-translit\">(koskinon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir27:4\">SIR 27:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σινιάζω</span> <span class=\"thlex-translit\">(siniazō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke22:31\">LUK 22:31</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0327_sieve.jpg\" alt=\"Winnowing baskets or sieves for separating grain and chaff\"><figcaption class=\"thlex-caption\">Winnowing baskets or sieves for separating grain and chaff (© Israel Government Press Office)</figcaption></figure>The second stage of winnowing was carried out with a shallow, flat circular kind of sieve. This sieve had a mesh bottom made of straw, cord, strips of bark, or reed. The fineness of the mesh varied according to the purpose for which it was intended.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Some languages may have a different word for an instrument that sifts dry things, like grains, and one that allows liquids to pass through but keeps the solids. In all of the references above it is the former instrument that is intended.</p>\n<p>\n            <a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a>: This verse comes in a context that describes the punishment and destruction of the nations, which is compared to shaking something back and forth in a sieve in the third line of this verse: “to sift the nations with the sieve of destruction” (<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>). <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> expands the four Hebrew words in this line to “He shakes the nations in his sieve and throws them out like worthless chaff.” In some languages even such an expansion will not give sufficient understanding, and it may be best to drop the image of the sieve. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> drops both the picture of the sieve and the following one of putting a bit in the mouth of an animal and combines them into “It [the wind] sweeps nations to destruction and puts an end to their evil plans.” Almost all translations consulted attempt to maintain the image of sifting. The Hebrew word <em>nafah</em> may indicate a finer sieve, more appropriate for something like flour.</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0007_winnowing_women.jpg\" alt=\"Woman sifting grain with a sieve\"><figcaption class=\"thlex-caption\">Woman sifting grain with a sieve (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/Amos9:9\">AMO 9:9</a>: The Hebrew word for sieve here probably refers to a coarse type of sieve in which stones are kept while the grain passes through. The same type of sieve was also used by bricklayers, who separated the larger stones from the fine sand that they used for mortar. The picture used here could therefore be based on either grain or sand. It does not really matter which picture the translator chooses, since the important point is that not one of the stones gets through the sieve. They will all be caught and then discarded.</p>\n<p>God is commanding the enemy to treat Israel like this; none of the sinners among the people of Israel will escape punishment, just as no stone gets through the sieve. It may be possible to translate “I will shake/sift the people of Israel like someone shakes sand [or, grain] in a sieve, through which not a single stone falls to the ground. I will shake/sift them to remove the bad people from among them.”</p>\n<p>While the physical object “sieve” is not mentioned in <a href=\"https://ref.ly/Luke22:31\">LUK 22:31</a>, the act of sifting is. Some languages will find it more natural to speak of the instrument with which the action is performed; compare <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> “… to pass you all through a sieve, as is done with grain to separate it.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "30009009",
+"start_ref_usfm": "AMO 9:9",
+"end_ref": "30009009",
+"end_ref_usfm": "AMO 9:9"
+},
+{
+"start_ref": "23030028",
+"start_ref_usfm": "ISA 30:28",
+"end_ref": "23030028",
+"end_ref_usfm": "ISA 30:28"
+},
+{
+"start_ref": "72027004",
+"start_ref_usfm": "SIR 27:4",
+"end_ref": "72027004",
+"end_ref_usfm": "SIR 27:4"
+},
+{
+"start_ref": "42022031",
+"start_ref_usfm": "LUK 22:31",
+"end_ref": "42022031",
+"end_ref_usfm": "LUK 22:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Sieve",
+"type": "realia",
+"confidence": 0.611,
+"match_method": "scored",
+"preferred_label": "Sieve"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.9",
+"reference_id": "REALIA:1.1.9",
+"version": "1.0.4",
+"title": "Iron tools",
+"media_type": "Text",
+"index_reference": "1.1.9",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9\"><span class=\"thlex-key\">1.1.9</span> Iron tools</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> presents a special problem to the translator, with a list of between five and seven different implements, depending on how the somewhat obscure Hebrew is interpreted. The following list is according to the translation order of <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>:</h2>\n<div class=\"thlex-paragraphs\">\n<p>“Plowshare” (<em>macharesheth</em>): Some commentators have suggested that this first word in the list is a general term, meaning “tools for working the soil.” What follow would then be separate instruments, including the <em>machareshah</em>, which appears in Hebrew with exactly the same consonants, made different only by the vowel points. This interpretation is, however, far from certain.</p>\n<p>“Mattock” (<em>’eth</em>): This possibly means “plowshare” (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.5 Plow and plowshare&lt;REALIA:1.1.5&gt;</a>), although ancient mattocks (a kind of hoe) have been found.</p>\n<p>“Axe” (<em>qardom</em>): This is translated also by the Septuagint as “axe” (<em>axinē</em> in Greek). More precisely, it was probably an axe-like implement with a blade that was perpendicular to the handle. The implement served as a kind of hoe for loosening the soil or like an adze for shaping wood (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9.3 Axe, adze&lt;REALIA:1.1.9.3&gt;</a>).</p>\n<p>“Sickle” (<em>machareshah</em>): Here again <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> has followed the Septuagint in translating “sickle” (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.6 Sickle&lt;REALIA:1.1.6&gt;</a>). However, another ancient translator renders the word as a kind of small garden hoe used for loosening and weeding the soil, and this interpretation is preferred here (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9.1 Hoe&lt;REALIA:1.1.9.1&gt;</a>).</p>\n<p>“The charge was a pim” (<em>haptsirah fim</em>): See the discussion on <em>pim</em><a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">Pim&lt;REALIA:11.1.3&gt;</a></p>\n<p>“A third of a shekel” (<em>shlosh qilshon</em>): Here again the meaning of the Hebrew is uncertain. Many translations see this as a second (and lower) price for sharpening two of the smaller implements. This translation assumes that letters have been reversed in the Hebrew text (see Hebrew Old Testament Text Project [<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr>]). A number of commentators and translators prefer to see here another kind of farming implement, a kind of three-pronged rake or fork on a wooden handle. If it was a rake, it was used to scrape together loose cuttings. However, more likely it was a fork, which would need its points sharpened from time to time. Such a fork was used to lift piles of cuttings.</p>\n<p>“Goad” (<em>darvan</em>): See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.2 Goad&lt;REALIA:1.1.2&gt;</a>.</p>\n<p>The general point of this passage is that the Israelites were forced to take their blunt farming implements to the Philistines for sharpening. Where a language lacks equivalent words for several of the implements, a translation may express the idea with a general statement by rendering verses 20–21 as follows: “The Israelites had to go to the Philistines to have their iron farming tools sharpened. The price varied according to the tool.” Another possible model is “… to sharpen their iron farming tools which had become blunted. The price varied according to the tool.” See also the comments on this passage in <em>A Handbook on the First and Second Books of Samuel</em>, pages 267–269.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Mattock",
+"type": "realia",
+"confidence": 0.6115,
+"match_method": "scored",
+"preferred_label": "Mattock"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.9.1",
+"reference_id": "REALIA:1.1.9.1",
+"version": "1.0.4",
+"title": "Hoe",
+"media_type": "Text",
+"index_reference": "1.1.9.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.1\"><span class=\"thlex-key\">1.1.9.1</span> Hoe</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַחֲרֵשָׁה</span> <span class=\"thlex-translit\">(machareshah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַעְדֵּר</span> <span class=\"thlex-translit\">(ma‘der)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa7:25\">ISA 7:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0328_hoe.jpg\" alt=\"Man using a hoe\"><figcaption class=\"thlex-caption\">Man using a hoe (Metropolitan Museum of Art, CC0, MMA)</figcaption></figure>The hoe was a flat metal blade, 10–20 centimeters (4–8 inches) wide, mounted on a wooden handle with the blade at a right angle to the handle. The illustration to the left shows the blade without a handle.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>This implement was used to loosen the soil, especially for weeding.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0329_hoe_blade_roman.jpg\" alt=\"Hoe blade (Roman)\"><figcaption class=\"thlex-caption\">Hoe blade (Roman) (© Giovanni Dall&#x27;Orto, Attribution, via Wikimedia Commons)</figcaption></figure>See the note on <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.9 Iron tools&lt;REALIA:1.1.9&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "23007025",
+"start_ref_usfm": "ISA 7:25",
+"end_ref": "23007025",
+"end_ref_usfm": "ISA 7:25"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Hoe",
+"type": "realia",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Hoe"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.9.2",
+"reference_id": "REALIA:1.1.9.2",
+"version": "1.0.4",
+"title": "Fork",
+"media_type": "Text",
+"index_reference": "1.1.9.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.2\"><span class=\"thlex-key\">1.1.9.2</span> Fork</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שְׁלֹשׁ קִלְּשֹׁון</span> <span class=\"thlex-translit\">(shlosh qilshon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0008_fork.jpg\" alt=\"Three-pronged fork heads\"><figcaption class=\"thlex-caption\">Three-pronged fork heads (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>The fork was an iron head consisting of two or three pointed prongs attached to the end of a wooden handle approximately 1–1.3 meters (3–4 feet) in length.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The fork was used by farmers and field workers to lift piles of cuttings.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>See the discussion on <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>; <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a> above.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Fork.2",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Fork"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.9.3",
+"reference_id": "REALIA:1.1.9.3",
+"version": "1.0.4",
+"title": "Axe, adze",
+"media_type": "Text",
+"index_reference": "1.1.9.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.3\"><span class=\"thlex-key\">1.1.9.3</span> Axe, adze</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בַּרְזֶל</span> <span class=\"thlex-translit\">(barzel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut19:5\">DEU 19:5</a>, <a href=\"https://ref.ly/2Kgs6:5\">2KI 6:5</a>, <a href=\"https://ref.ly/2Kgs6:6\">2KI 6:6</a>, <a href=\"https://ref.ly/Isa10:34\">ISA 10:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גַּרְזֶן</span> <span class=\"thlex-translit\">(garzen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut19:5\">DEU 19:5</a>, <a href=\"https://ref.ly/Deut20:19\">DEU 20:19</a>, <a href=\"https://ref.ly/1Kgs6:7\">1KI 6:7</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַעֲצָד</span> <span class=\"thlex-translit\">(ma‘atsad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer10:3\">JER 10:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קַרְדֹּם</span> <span class=\"thlex-translit\">(qardom)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg9:48\">JDG 9:48</a>, <a href=\"https://ref.ly/1Sam13:20\">1SA 13:20</a>, <a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a>, <a href=\"https://ref.ly/Ps74:5\">PSA 74:5</a>, <a href=\"https://ref.ly/Jer46:22\">JER 46:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀξίνη</span> <span class=\"thlex-translit\">(axinē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt3:10\">MAT 3:10</a>, <a href=\"https://ref.ly/Luke3:9\">LUK 3:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πέλεκυς</span> <span class=\"thlex-translit\">(pelekus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/EpJer1:13\">LJE 1:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0330_adze.jpg\" alt=\"Adze with wooden handle\"><figcaption class=\"thlex-caption\">Adze with wooden handle (Metropolitan Museum of Art, CC0, via Wikimedia Commons)</figcaption></figure>The axe or adze was an instrument with a metal, sharp-edged head attached to a wooden handle about the length of a man’s arm. The handle was usually wedged tightly into a hole opposite the sharp blade, and it could be held more firmly in place by cords bound around the head and handle. The blade of the axe (<em>garzen</em>) was parallel to the handle, while the blade of the adze (<em>qardom</em>) was perpendicular to the handle.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0331_axe.jpg\" alt=\"Various bronze socketed axe and adze heads, Syria and Iran (2nd-1st millenia BCE, San Antonio Museum of Art, Near Eastern collection)\"><figcaption class=\"thlex-caption\">Various bronze socketed axe and adze heads, Syria and Iran (2nd-1st millenia BCE, San Antonio Museum of Art, Near Eastern collection) (© Zereshk, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>It was used to cut down trees and woody plants as well as to chop them into smaller pieces. It could also serve as a carpenter’s tool for shaping wood.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>It is likely that the axe mentioned in <a href=\"https://ref.ly/EpJer1:13\">LJE 1:13</a> is a kind of weapon rather than a work tool. While the general form of the implement was the same, some languages may make a distinction between the work tool and the weapon. It is also possible to translate the first half of this verse more generally; for example, “Sometimes they are holding weapons.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05019005",
+"start_ref_usfm": "DEU 19:5",
+"end_ref": "05019005",
+"end_ref_usfm": "DEU 19:5"
+},
+{
+"start_ref": "12006005",
+"start_ref_usfm": "2KI 6:5",
+"end_ref": "12006005",
+"end_ref_usfm": "2KI 6:5"
+},
+{
+"start_ref": "12006006",
+"start_ref_usfm": "2KI 6:6",
+"end_ref": "12006006",
+"end_ref_usfm": "2KI 6:6"
+},
+{
+"start_ref": "23010034",
+"start_ref_usfm": "ISA 10:34",
+"end_ref": "23010034",
+"end_ref_usfm": "ISA 10:34"
+},
+{
+"start_ref": "05020019",
+"start_ref_usfm": "DEU 20:19",
+"end_ref": "05020019",
+"end_ref_usfm": "DEU 20:19"
+},
+{
+"start_ref": "11006007",
+"start_ref_usfm": "1KI 6:7",
+"end_ref": "11006007",
+"end_ref_usfm": "1KI 6:7"
+},
+{
+"start_ref": "23010015",
+"start_ref_usfm": "ISA 10:15",
+"end_ref": "23010015",
+"end_ref_usfm": "ISA 10:15"
+},
+{
+"start_ref": "24010003",
+"start_ref_usfm": "JER 10:3",
+"end_ref": "24010003",
+"end_ref_usfm": "JER 10:3"
+},
+{
+"start_ref": "07009048",
+"start_ref_usfm": "JDG 9:48",
+"end_ref": "07009048",
+"end_ref_usfm": "JDG 9:48"
+},
+{
+"start_ref": "09013020",
+"start_ref_usfm": "1SA 13:20",
+"end_ref": "09013020",
+"end_ref_usfm": "1SA 13:20"
+},
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "19074005",
+"start_ref_usfm": "PSA 74:5",
+"end_ref": "19074005",
+"end_ref_usfm": "PSA 74:5"
+},
+{
+"start_ref": "24046022",
+"start_ref_usfm": "JER 46:22",
+"end_ref": "24046022",
+"end_ref_usfm": "JER 46:22"
+},
+{
+"start_ref": "40003010",
+"start_ref_usfm": "MAT 3:10",
+"end_ref": "40003010",
+"end_ref_usfm": "MAT 3:10"
+},
+{
+"start_ref": "42003009",
+"start_ref_usfm": "LUK 3:9",
+"end_ref": "42003009",
+"end_ref_usfm": "LUK 3:9"
+},
+{
+"start_ref": "74001013",
+"start_ref_usfm": "LJE 1:13",
+"end_ref": "74001013",
+"end_ref_usfm": "LJE 1:13"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 0.6015,
+"match_method": "scored",
+"preferred_label": "Axe"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.9.4",
+"reference_id": "REALIA:1.1.9.4",
+"version": "1.0.4",
+"title": "Pruning knife",
+"media_type": "Text",
+"index_reference": "1.1.9.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.9.4\"><span class=\"thlex-key\">1.1.9.4</span> Pruning knife</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַזְמֵרָה</span> <span class=\"thlex-translit\">(mazmerah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a>, <a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a>, <a href=\"https://ref.ly/Joel4:10\">JOL 4:10</a>, <a href=\"https://ref.ly/Mic4:3\">MIC 4:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0332_pruning_hook.jpg\" alt=\"Pruning hook\"><figcaption class=\"thlex-caption\">Pruning hook (Lax1, Public domain, via Wikimedia Commons)</figcaption></figure>The pruning knife was a knife or metal blade, sometimes attached to a long wooden handle.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The pruning process involved cutting away or cutting back unproductive branches so they could produce better.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>All of the references, except <a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a>, are to making spears into pruning knives or vice versa. Where metal plows and pruning knives are not used as agricultural tools, some adjustment in this figure will be necessary. The essential point is that instruments of war and bloodshed will be replaced by instruments of peace and prosperity (or the opposite in <a href=\"https://ref.ly/Joel4:10\">JOL 4:10</a>). If iron instruments are not used in an area, it may not be possible to keep the idea that the weapons themselves are made into agricultural tools. In such a case, a translator can simply say that people will destroy their weapons and make tools for farming instead.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23002004",
+"start_ref_usfm": "ISA 2:4",
+"end_ref": "23002004",
+"end_ref_usfm": "ISA 2:4"
+},
+{
+"start_ref": "23018005",
+"start_ref_usfm": "ISA 18:5",
+"end_ref": "23018005",
+"end_ref_usfm": "ISA 18:5"
+},
+{
+"start_ref": "29004010",
+"start_ref_usfm": "JOL 4:10",
+"end_ref": "29004010",
+"end_ref_usfm": "JOL 4:10"
+},
+{
+"start_ref": "33004003",
+"start_ref_usfm": "MIC 4:3",
+"end_ref": "33004003",
+"end_ref_usfm": "MIC 4:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:PruningKnife",
+"type": "realia",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Pruning Knife"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.10",
+"reference_id": "REALIA:1.1.10",
+"version": "1.0.4",
+"title": "Wine press",
+"media_type": "Text",
+"index_reference": "1.1.10",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.10\"><span class=\"thlex-key\">1.1.10</span> Wine press</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גַּת</span> <span class=\"thlex-translit\">(gath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>, <a href=\"https://ref.ly/Neh13:15\">NEH 13:15</a>, <a href=\"https://ref.ly/Isa63:2\">ISA 63:2</a>, <a href=\"https://ref.ly/Lam1:15\">LAM 1:15</a>, <a href=\"https://ref.ly/Joel4:13\">JOL 4:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יֶקֶב</span> <span class=\"thlex-translit\">(yeqev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num18:27\">NUM 18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>, <a href=\"https://ref.ly/Deut15:14\">DEU 15:14</a>, <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a>, <a href=\"https://ref.ly/Judg7:25\">JDG 7:25</a>, <a href=\"https://ref.ly/2Kgs6:27\">2KI 6:27</a>, <a href=\"https://ref.ly/Job24:11\">JOB 24:11</a>, <a href=\"https://ref.ly/Prov3:10\">PRO 3:10</a>, <a href=\"https://ref.ly/Isa5:2\">ISA 5:2</a>, <a href=\"https://ref.ly/Isa16:10\">ISA 16:10</a>, <a href=\"https://ref.ly/Jer48:33\">JER 48:33</a>, <a href=\"https://ref.ly/Hos9:2\">HOS 9:2</a>, <a href=\"https://ref.ly/Joel2:24\">JOL 2:24</a>, <a href=\"https://ref.ly/Joel4:13\">JOL 4:13</a>, <a href=\"https://ref.ly/Hag2:16\">HAG 2:16</a>, <a href=\"https://ref.ly/Zech14:10\">ZEC 14:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פּוּרָה</span> <span class=\"thlex-translit\">(purah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa63:3\">ISA 63:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ληνός</span> <span class=\"thlex-translit\">(lēnos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>, <a href=\"https://ref.ly/Rev14:19\">REV 14:19</a>, <a href=\"https://ref.ly/Rev14:20\">REV 14:20</a>, <a href=\"https://ref.ly/Rev14:20\">REV 14:20</a>, <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>, <a href=\"https://ref.ly/Sir33:17\">SIR 33:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὑπολήνιον</span> <span class=\"thlex-translit\">(hupolēnion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">The Greek word <em>hupolēnion</em> in <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a> refers to the wine trough/vat.</h2>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0968_winepress_en.jpg\" alt=\"Man in a winepress\"><figcaption class=\"thlex-caption\">Man in a winepress (© James Emery - Wikimedia Commons)</figcaption></figure>The wine press was a place for pressing out the juice of grapes for the making of wine (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">9.1 Wine&lt;REALIA:9.1&gt;</a>), vinegar, and grape honey. Ancient wine presses consisted of large treading floors on which the grapes were trampled in order to extract the juice. Depending on the topography, a wine press floor could be larger and shallower than the one depicted in the illustration below. Beneath the wine press floor was placed (or cut out of the rock) a trough or vat into which flowed the grape juice that had just been pressed out.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>gath</em> usually indicates the treading floor or the entire installation, while <em>yeqev</em> is the collecting vat.</p>\n<p>A descriptive equivalent of “wine press” may be “place where the juice of grapes was squeezed out” or “… pressed out” (similarly <em>Parole de Vie</em> [PV] in <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>). The Spanish common language translation (<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr>) has “place where wine is made” (<a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>). For “wine trough,” translators may use a descriptive phrase, such as “place where the juice of the grapes was collected.”</p>\n<p>The Hebrew word <em>purah</em> may refer to a measure of pressed juice or the act of pressing out the juice in a wine press. In <a href=\"https://ref.ly/Isa63:3\">ISA 63:3</a> most translations render it “wine press.” For the first line of this verse the New Jewish Publication Society Version (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>) is more accurate with “I trod out a vintage alone.” Good models are <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “I have trampled the nations like grapes” and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “I alone stomped the grapes!”</p>\n<p>The Greek word <em>lēnos</em> means a depression, hole, trough, or pit. The operation of pressing grapes involved more than one such depression; there was one (in the land of Israel it was a flat surface) in which the grapes were placed and tread, and one or more into which the juice flowed. <em>Lēnos</em> can refer to either of these, and it will usually be sufficient to render it something like “pit to crush the grapes in” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>; <a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>).</p>\n<p>\n            <em>Lēnos</em> is the word used in <a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>. In the parallel passage in <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a> a different Greek word is used (<em>hupolēnion</em>), a word that means a pit which lies below the <em>lēnos</em>, that is, a “collection pit” into which the juice flowed from the upper surface where the grapes were crushed. translations render both words the same, usually “wine press” or its equivalent. Some translations (<em>Traduction œcuménique de la Bible</em> [<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr>], <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, New International Version [<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>], New American Standard Bible [<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr>]) use a different word or expression in Mark; for example, <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> has “vat under the wine press.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006011",
+"end_ref_usfm": "JDG 6:11"
+},
+{
+"start_ref": "16013015",
+"start_ref_usfm": "NEH 13:15",
+"end_ref": "16013015",
+"end_ref_usfm": "NEH 13:15"
+},
+{
+"start_ref": "23063002",
+"start_ref_usfm": "ISA 63:2",
+"end_ref": "23063002",
+"end_ref_usfm": "ISA 63:2"
+},
+{
+"start_ref": "25001015",
+"start_ref_usfm": "LAM 1:15",
+"end_ref": "25001015",
+"end_ref_usfm": "LAM 1:15"
+},
+{
+"start_ref": "29004013",
+"start_ref_usfm": "JOL 4:13",
+"end_ref": "29004013",
+"end_ref_usfm": "JOL 4:13"
+},
+{
+"start_ref": "04018027",
+"start_ref_usfm": "NUM 18:27",
+"end_ref": "04018027",
+"end_ref_usfm": "NUM 18:27"
+},
+{
+"start_ref": "04018030",
+"start_ref_usfm": "NUM 18:30",
+"end_ref": "04018030",
+"end_ref_usfm": "NUM 18:30"
+},
+{
+"start_ref": "05015014",
+"start_ref_usfm": "DEU 15:14",
+"end_ref": "05015014",
+"end_ref_usfm": "DEU 15:14"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016013",
+"end_ref_usfm": "DEU 16:13"
+},
+{
+"start_ref": "07007025",
+"start_ref_usfm": "JDG 7:25",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "12006027",
+"start_ref_usfm": "2KI 6:27",
+"end_ref": "12006027",
+"end_ref_usfm": "2KI 6:27"
+},
+{
+"start_ref": "18024011",
+"start_ref_usfm": "JOB 24:11",
+"end_ref": "18024011",
+"end_ref_usfm": "JOB 24:11"
+},
+{
+"start_ref": "20003010",
+"start_ref_usfm": "PRO 3:10",
+"end_ref": "20003010",
+"end_ref_usfm": "PRO 3:10"
+},
+{
+"start_ref": "23005002",
+"start_ref_usfm": "ISA 5:2",
+"end_ref": "23005002",
+"end_ref_usfm": "ISA 5:2"
+},
+{
+"start_ref": "23016010",
+"start_ref_usfm": "ISA 16:10",
+"end_ref": "23016010",
+"end_ref_usfm": "ISA 16:10"
+},
+{
+"start_ref": "24048033",
+"start_ref_usfm": "JER 48:33",
+"end_ref": "24048033",
+"end_ref_usfm": "JER 48:33"
+},
+{
+"start_ref": "28009002",
+"start_ref_usfm": "HOS 9:2",
+"end_ref": "28009002",
+"end_ref_usfm": "HOS 9:2"
+},
+{
+"start_ref": "29002024",
+"start_ref_usfm": "JOL 2:24",
+"end_ref": "29002024",
+"end_ref_usfm": "JOL 2:24"
+},
+{
+"start_ref": "37002016",
+"start_ref_usfm": "HAG 2:16",
+"end_ref": "37002016",
+"end_ref_usfm": "HAG 2:16"
+},
+{
+"start_ref": "38014010",
+"start_ref_usfm": "ZEC 14:10",
+"end_ref": "38014010",
+"end_ref_usfm": "ZEC 14:10"
+},
+{
+"start_ref": "23063003",
+"start_ref_usfm": "ISA 63:3",
+"end_ref": "23063003",
+"end_ref_usfm": "ISA 63:3"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021033",
+"end_ref_usfm": "MAT 21:33"
+},
+{
+"start_ref": "66014019",
+"start_ref_usfm": "REV 14:19",
+"end_ref": "66014019",
+"end_ref_usfm": "REV 14:19"
+},
+{
+"start_ref": "66014020",
+"start_ref_usfm": "REV 14:20",
+"end_ref": "66014020",
+"end_ref_usfm": "REV 14:20"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "72033017",
+"start_ref_usfm": "SIR 33:17",
+"end_ref": "72033017",
+"end_ref_usfm": "SIR 33:17"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012001",
+"end_ref_usfm": "MRK 12:1"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.9704,
+"match_method": "scored",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.5544,
+"match_method": "scored",
+"preferred_label": "Must"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.11",
+"reference_id": "REALIA:1.1.11",
+"version": "1.0.4",
+"title": "Watchtower",
+"media_type": "Text",
+"index_reference": "1.1.11",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.11\"><span class=\"thlex-key\">1.1.11</span> Watchtower</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִגְדָּל</span> <span class=\"thlex-translit\">(migdal)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen35:21\">GEN 35:21</a>, <a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a>, <a href=\"https://ref.ly/Isa5:2\">ISA 5:2</a>, <a href=\"https://ref.ly/Mic4:8\">MIC 4:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πύργος</span> <span class=\"thlex-translit\">(purgos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>, <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>, <a href=\"https://ref.ly/Luke14:28\">LUK 14:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0074_watchtower_in_vineyard.png\" alt=\"OAI-0074_watchtower_in_vineyard\"></figure>The watchtower was a structure made of stone, sometimes round but more often rectangular. It was normally built on a high place in or near a vineyard. It stood 2–5 meters (6–16 feet) high and was mounted by a ladder or steps. During the grape harvest, it was the custom for the owner of a vineyard or one of his family members or servants to spend the night on the watchtower to guard against animals or thieves who might try to steal the grapes. Similar towers could also be built to watch over other property, such as sheep and goats.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>English uses basically the same expression to describe this structure in a farmer’s field and a lookout point on a city wall (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.13.3.3 Watchtower, tower&lt;REALIA:3.13.3.3&gt;</a>). In some languages, however, the two structures may have very different terms. In a few verses (for example, <a href=\"https://ref.ly/1Chr27:25\">1CH 27:25</a>; <a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a>; <a href=\"https://ref.ly/Sir37:14\">SIR 37:14</a>), it is not entirely clear from the context which type of tower is intended; in <a href=\"https://ref.ly/Gen35:21\">GEN 35:21</a> and <a href=\"https://ref.ly/Mic4:8\">MIC 4:8</a> the reference may be to either one, or it may even be a place name.</p>\n<p>Some translators may want to use a descriptive phrase for “watchtower,” for example, “tower to keep watch over the vineyard” (PV; <a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01035021",
+"start_ref_usfm": "GEN 35:21",
+"end_ref": "01035021",
+"end_ref_usfm": "GEN 35:21"
+},
+{
+"start_ref": "14026010",
+"start_ref_usfm": "2CH 26:10",
+"end_ref": "14026010",
+"end_ref_usfm": "2CH 26:10"
+},
+{
+"start_ref": "23005002",
+"start_ref_usfm": "ISA 5:2",
+"end_ref": "23005002",
+"end_ref_usfm": "ISA 5:2"
+},
+{
+"start_ref": "33004008",
+"start_ref_usfm": "MIC 4:8",
+"end_ref": "33004008",
+"end_ref_usfm": "MIC 4:8"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021033",
+"end_ref_usfm": "MAT 21:33"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012001",
+"end_ref_usfm": "MRK 12:1"
+},
+{
+"start_ref": "42014028",
+"start_ref_usfm": "LUK 14:28",
+"end_ref": "42014028",
+"end_ref_usfm": "LUK 14:28"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027025",
+"end_ref_usfm": "1CH 27:25"
+},
+{
+"start_ref": "72037014",
+"start_ref_usfm": "SIR 37:14",
+"end_ref": "72037014",
+"end_ref_usfm": "SIR 37:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.8222,
+"match_method": "scored",
+"preferred_label": "Tower"
+},
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "Watch-Tower"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.1.12",
+"reference_id": "REALIA:1.1.12",
+"version": "1.0.4",
+"title": "Irrigation channel, canal",
+"media_type": "Text",
+"index_reference": "1.1.12",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.12\"><span class=\"thlex-key\">1.1.12</span> Irrigation channel, canal</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יְאֹר</span> <span class=\"thlex-translit\">(y’or)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod7:19\">EXO 7:19</a>, <a href=\"https://ref.ly/Exod8:1\">EXO 8:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נָהָר</span> <span class=\"thlex-translit\">(nahar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">διῶρυξ</span> <span class=\"thlex-translit\">(diōrux)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir24:30\">SIR 24:30</a>, <a href=\"https://ref.ly/Sir24:31\">SIR 24:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὑδραγωγός</span> <span class=\"thlex-translit\">(udragōgos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir24:30\">SIR 24:30</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0333_irrigation_channel.jpg\" alt=\"An irrigation channel that runs down from Wadi Kelt to Jericho\"><figcaption class=\"thlex-caption\">An irrigation channel that runs down from Wadi Kelt to Jericho (© Bukvoed, CC BY 4.0, via Wikimedia Commons)</figcaption></figure>The irrigation canal was a small channel cut into the rock or dug into the ground to transfer water from a larger source such as a river into a cultivated plot of ground. The reference in <a href=\"https://ref.ly/Sir24:30\">SIR 24:30</a> gives a good description of its function: “an irrigation canal bringing water from a river into a garden” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>). Gardens could be watered by a system of smaller channels running off a larger channel and feeding into all parts of the garden, using gravity to deliver the water.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Hebrew word <em>y’or</em> normally refers to the Nile River. However, most translations agree that in <a href=\"https://ref.ly/Exod7:19\">EXO 7:19</a> and <a href=\"https://ref.ly/Exod8:5\">EXO 8:5</a> (1) it means “irrigation canal.” Similarly, the Hebrew word <em>nahar</em> normally means “river,” but in <a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a>, where it is plural in Hebrew, most translation render it “canals” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) or “channels” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02007019",
+"start_ref_usfm": "EXO 7:19",
+"end_ref": "02007019",
+"end_ref_usfm": "EXO 7:19"
+},
+{
+"start_ref": "02008001",
+"start_ref_usfm": "EXO 8:1",
+"end_ref": "02008001",
+"end_ref_usfm": "EXO 8:1"
+},
+{
+"start_ref": "23019006",
+"start_ref_usfm": "ISA 19:6",
+"end_ref": "23019006",
+"end_ref_usfm": "ISA 19:6"
+},
+{
+"start_ref": "72024030",
+"start_ref_usfm": "SIR 24:30",
+"end_ref": "72024030",
+"end_ref_usfm": "SIR 24:30"
+},
+{
+"start_ref": "72024031",
+"start_ref_usfm": "SIR 24:31",
+"end_ref": "72024031",
+"end_ref_usfm": "SIR 24:31"
+},
+{
+"start_ref": "02008005",
+"start_ref_usfm": "EXO 8:5",
+"end_ref": "02008005",
+"end_ref_usfm": "EXO 8:5"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

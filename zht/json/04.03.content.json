@@ -1,0 +1,1445 @@
+[
+{
+"content_id": "REALIA:4.3",
+"reference_id": "REALIA:4.3",
+"version": "1.0.4",
+"title": "標題：帳幕和聖殿中的器具（furniture of the Tabernacle and Temple）",
+"media_type": "Text",
+"index_reference": "4.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3\"><span class=\"thlex-key\">4.3</span> 標題：帳幕和聖殿中的器具（furniture of the Tabernacle and Temple）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>所羅門建造的聖殿保留或仿造了帳幕中的一些器具。約櫃和燈臺等物件被保存下來，它們從臨時聖所遷到固定的聖所後並沒有改變。然而，有一件器具變化很大，這個器具可能會讓讀者和翻譯者感到十分困惑。在帳幕的祭壇和聖所之間放著一個很大的洗濯盆，有兩種用途：（1）供準備獻祭或進入聖所的祭司洗手洗腳；（2）洗潔準備獻上的祭牲。</p>\n<p>帳幕中的這個洗濯盆沒有出現在所羅門聖殿的描述中。所羅門聖殿中有兩個洗濯盆，用於兩種不同的洗濯。<a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a> 記敘如下：「他又造十個盆：五個放在南邊，五個放在北邊，作洗滌之用。獻燔祭所用之物都在盆內洗滌；但銅海是為祭司洗滌用的」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）。祭司洗滌用的水裝在一個稱作「海」的大缸內。洗滌眾多祭牲的水裝在十個盆裡，這十個盆放在可移動的架子上。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.1",
+"reference_id": "REALIA:4.3.1",
+"version": "1.0.4",
+"title": "標題：帳幕：洗濯盆、盆、碗（Tabernacle: washstand, basin, bowl）",
+"media_type": "Text",
+"index_reference": "4.3.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.1\"><span class=\"thlex-key\">4.3.1</span> 標題：帳幕：洗濯盆、盆、碗（Tabernacle: washstand, basin, bowl）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כִּיּוֹר</span> <span class=\"thlex-translit\">(音譯： kiyor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:18\">EXO 30:18</a>, <a href=\"https://ref.ly/Exod30:28\">EXO 30:28</a>, <a href=\"https://ref.ly/Exod31:9\">EXO 31:9</a>, <a href=\"https://ref.ly/Exod35:16\">EXO 35:16</a>, <a href=\"https://ref.ly/Exod38:8\">EXO 38:8</a>, <a href=\"https://ref.ly/Exod39:39\">EXO 39:39</a>, <a href=\"https://ref.ly/Exod40:7\">EXO 40:7</a>, <a href=\"https://ref.ly/Exod40:11\">EXO 40:11</a>, <a href=\"https://ref.ly/Exod40:30\">EXO 40:30</a>, <a href=\"https://ref.ly/Lev8:11\">LEV 8:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>洗濯盆是一個很大的銅盆，放在一個銅底座上，祭司用它來洗手和洗腳。盆的頂部很可能是開口的，以便加水，底部可能有出水口可以放水。根據<a href=\"https://ref.ly/Exod30:18\">EXO 30:18</a> ，洗濯盆放在「會幕和祭壇之間」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>祭司每天開始供職之前，會遵照誡命洗淨手和腳。這是一種潔淨的儀式，洗濯盆就用來盛放這個禮儀所需用的水。</p>\n<p>有些英文譯本（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）採用“laver”（「水盆」）一詞，但這個詞很含糊，普通讀者很難明白。<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 採用的“bowl”（「碗」）可能會讓人想到比實際尺寸小得多的器具。最好譯作「大碗」（“large bowl”；如<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）或「大盆」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030018",
+"start_ref_usfm": "EXO 30:18",
+"end_ref": "02030018",
+"end_ref_usfm": "EXO 30:18"
+},
+{
+"start_ref": "02030028",
+"start_ref_usfm": "EXO 30:28",
+"end_ref": "02030028",
+"end_ref_usfm": "EXO 30:28"
+},
+{
+"start_ref": "02031009",
+"start_ref_usfm": "EXO 31:9",
+"end_ref": "02031009",
+"end_ref_usfm": "EXO 31:9"
+},
+{
+"start_ref": "02035016",
+"start_ref_usfm": "EXO 35:16",
+"end_ref": "02035016",
+"end_ref_usfm": "EXO 35:16"
+},
+{
+"start_ref": "02038008",
+"start_ref_usfm": "EXO 38:8",
+"end_ref": "02038008",
+"end_ref_usfm": "EXO 38:8"
+},
+{
+"start_ref": "02039039",
+"start_ref_usfm": "EXO 39:39",
+"end_ref": "02039039",
+"end_ref_usfm": "EXO 39:39"
+},
+{
+"start_ref": "02040007",
+"start_ref_usfm": "EXO 40:7",
+"end_ref": "02040007",
+"end_ref_usfm": "EXO 40:7"
+},
+{
+"start_ref": "02040011",
+"start_ref_usfm": "EXO 40:11",
+"end_ref": "02040011",
+"end_ref_usfm": "EXO 40:11"
+},
+{
+"start_ref": "02040030",
+"start_ref_usfm": "EXO 40:30",
+"end_ref": "02040030",
+"end_ref_usfm": "EXO 40:30"
+},
+{
+"start_ref": "03008011",
+"start_ref_usfm": "LEV 8:11",
+"end_ref": "03008011",
+"end_ref_usfm": "LEV 8:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.5675,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.3.2",
+"reference_id": "REALIA:4.3.2",
+"version": "1.0.4",
+"title": "標題：聖殿：海（Temple: sea, tank）",
+"media_type": "Text",
+"index_reference": "4.3.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.2\"><span class=\"thlex-key\">4.3.2</span> 標題：聖殿：海（Temple: sea, tank）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： יָם</span> <span class=\"thlex-translit\">(音譯： yam)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a>, <a href=\"https://ref.ly/1Kgs7:25\">1KI 7:25</a>, <a href=\"https://ref.ly/1Kgs7:25\">1KI 7:25</a>, <a href=\"https://ref.ly/1Kgs7:39\">1KI 7:39</a>, <a href=\"https://ref.ly/1Kgs7:44\">1KI 7:44</a>, <a href=\"https://ref.ly/1Kgs7:44\">1KI 7:44</a>, <a href=\"https://ref.ly/2Kgs16:17\">2KI 16:17</a>, <a href=\"https://ref.ly/2Kgs25:13\">2KI 25:13</a>, <a href=\"https://ref.ly/2Kgs25:16\">2KI 25:16</a>, <a href=\"https://ref.ly/1Chr18:8\">1CH 18:8</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/2Chr4:3\">2CH 4:3</a>, <a href=\"https://ref.ly/2Chr4:4\">2CH 4:4</a>, <a href=\"https://ref.ly/2Chr4:4\">2CH 4:4</a>, <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>, <a href=\"https://ref.ly/2Chr4:10\">2CH 4:10</a>, <a href=\"https://ref.ly/2Chr4:15\">2CH 4:15</a>, <a href=\"https://ref.ly/Jer52:17\">JER 52:17</a>, <a href=\"https://ref.ly/Jer52:20\">JER 52:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0026_bronze_sea.jpg\" alt=\"藝術家繪製的銅海\"><figcaption class=\"thlex-caption\">藝術家繪製的銅海 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>「海」是一個非常大的水槽或水池，用銅製成，深2.5米（8英呎），直徑5米（16.5英呎），邊緣周長約15米（49英呎）。海的壁厚近8厘米（約3英吋），淨重約為25—30噸或更重。描述海的兩處經文存在容量差異；<a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a> 給出的容量是38,000升（10,000加侖），而<a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a> 給出的容量是57,000升（15,000加侖）。從文本來看，我們並不清楚海的形狀是像碗（半球形）還是像一個直立的圓柱體。根據<a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a> 和<a href=\"https://ref.ly/2Chr4:3\">2CH 4:3</a> 的描述，其外緣鑄有兩排銅葫蘆（<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 譯作“panels”「鑲板」；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯作“plants”「植物」）作為裝飾。海的「腿」是十二隻銅牛，分為四組，每組三隻，頭朝外面，海馱在牛的背上。<a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a> 說明水是供祭司洗滌之用，但沒有給出細節。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在有些語言中，最好使用描述性短語來翻譯「海」；<a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a> 可譯為，「稱為海的大圓碗」（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直譯）。雖然這個盆在希伯來文中稱為<em>yam</em> （「海」），但沒有理由在譯文中保留這個比喻性的名稱。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007023",
+"end_ref_usfm": "1KI 7:23"
+},
+{
+"start_ref": "11007024",
+"start_ref_usfm": "1KI 7:24",
+"end_ref": "11007024",
+"end_ref_usfm": "1KI 7:24"
+},
+{
+"start_ref": "11007025",
+"start_ref_usfm": "1KI 7:25",
+"end_ref": "11007025",
+"end_ref_usfm": "1KI 7:25"
+},
+{
+"start_ref": "11007039",
+"start_ref_usfm": "1KI 7:39",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "11007044",
+"start_ref_usfm": "1KI 7:44",
+"end_ref": "11007044",
+"end_ref_usfm": "1KI 7:44"
+},
+{
+"start_ref": "12016017",
+"start_ref_usfm": "2KI 16:17",
+"end_ref": "12016017",
+"end_ref_usfm": "2KI 16:17"
+},
+{
+"start_ref": "12025013",
+"start_ref_usfm": "2KI 25:13",
+"end_ref": "12025013",
+"end_ref_usfm": "2KI 25:13"
+},
+{
+"start_ref": "12025016",
+"start_ref_usfm": "2KI 25:16",
+"end_ref": "12025016",
+"end_ref_usfm": "2KI 25:16"
+},
+{
+"start_ref": "13018008",
+"start_ref_usfm": "1CH 18:8",
+"end_ref": "13018008",
+"end_ref_usfm": "1CH 18:8"
+},
+{
+"start_ref": "14004002",
+"start_ref_usfm": "2CH 4:2",
+"end_ref": "14004002",
+"end_ref_usfm": "2CH 4:2"
+},
+{
+"start_ref": "14004003",
+"start_ref_usfm": "2CH 4:3",
+"end_ref": "14004003",
+"end_ref_usfm": "2CH 4:3"
+},
+{
+"start_ref": "14004004",
+"start_ref_usfm": "2CH 4:4",
+"end_ref": "14004004",
+"end_ref_usfm": "2CH 4:4"
+},
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+},
+{
+"start_ref": "14004010",
+"start_ref_usfm": "2CH 4:10",
+"end_ref": "14004010",
+"end_ref_usfm": "2CH 4:10"
+},
+{
+"start_ref": "14004015",
+"start_ref_usfm": "2CH 4:15",
+"end_ref": "14004015",
+"end_ref_usfm": "2CH 4:15"
+},
+{
+"start_ref": "24052017",
+"start_ref_usfm": "JER 52:17",
+"end_ref": "24052017",
+"end_ref_usfm": "JER 52:17"
+},
+{
+"start_ref": "24052020",
+"start_ref_usfm": "JER 52:20",
+"end_ref": "24052020",
+"end_ref_usfm": "JER 52:20"
+},
+{
+"start_ref": "11007026",
+"start_ref_usfm": "1KI 7:26",
+"end_ref": "11007026",
+"end_ref_usfm": "1KI 7:26"
+},
+{
+"start_ref": "14004005",
+"start_ref_usfm": "2CH 4:5",
+"end_ref": "14004005",
+"end_ref_usfm": "2CH 4:5"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.3",
+"reference_id": "REALIA:4.3.3",
+"version": "1.0.4",
+"title": "標題：聖殿：可移動的座、盆座（Temple: movable stand, cart, stand, base）",
+"media_type": "Text",
+"index_reference": "4.3.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.3\"><span class=\"thlex-key\">4.3.3</span> 標題：聖殿：可移動的座、盆座（Temple: movable stand, cart, stand, base）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>帶輪子的箱子</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מְכוֹנָה</span> <span class=\"thlex-translit\">(音譯： mkonah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:39\">1KI 7:39</a>, <a href=\"https://ref.ly/1Kgs7:43\">1KI 7:43</a>, <a href=\"https://ref.ly/1Kgs7:43\">1KI 7:43</a>, <a href=\"https://ref.ly/2Kgs16:17\">2KI 16:17</a>, <a href=\"https://ref.ly/2Kgs25:13\">2KI 25:13</a>, <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a>, <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a>, <a href=\"https://ref.ly/Jer27:19\">JER 27:19</a>, <a href=\"https://ref.ly/Jer52:17\">JER 52:17</a>, <a href=\"https://ref.ly/Jer52:20\">JER 52:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>盛水的容器</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כִּיּוֹר</span> <span class=\"thlex-translit\">(音譯： kiyor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:40\">1KI 7:40</a>, <a href=\"https://ref.ly/1Kgs7:43\">1KI 7:43</a>, <a href=\"https://ref.ly/2Kgs16:17\">2KI 16:17</a>, <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>, <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0027_laver_stand.jpg\" alt=\"洗濯盆的活動支架\"><figcaption class=\"thlex-caption\">洗濯盆的活動支架 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/1Kgs7:27-1Kgs7:39\">1KI 7:27–1KI 7:39</a> 詳細描述了可移動的盆座。這是一個長約2米（6.5英呎），寬2米（6.5英呎），深1.5米（5英呎）的箱子。側面是銅板，裝飾著各種動物的圖案。箱子放在四個輪子上，箱的四角與輪軸相連。輪子的直徑約65厘米（25英吋）。箱子頂部的角是四個把手，因此這是一種帶裝飾的大推車。</p>\n<p>箱子的頂部是敞開的，內側的上部襯有一個圓形的長條或襯套，裡面放著一個圓形的銅製容器。這個容器的形狀可能像碗或盆，或者更有可能像一個逐漸變細變尖的圓錐。根據<a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a> 的描述，容器中盛有水，用來清洗將被焚燒為祭的祭牲（參<a href=\"https://ref.ly/Lev1:9\">LEV 1:9</a> ，<a href=\"https://ref.ly/Lev1:13\">LEV 1:13</a> ）。考慮到這輛推車的大小，青銅材質，而且裡面裝有大量的水（約800升或200加侖），即使有輪子也會很難移動。估計每個盆座在裝滿水的時候有2—3噸重。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <strong>帶輪子的箱子</strong> ：對於希伯來文<em>mkonah</em> ，有些譯本將其譯作一個通常靜止不動的物件（<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 和<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 譯作“base”「座」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 譯作“stand”「架子」），還有些譯本將其譯作一個通常移動的物件（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 和<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> 譯作“cart”「小車」；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 譯作“trolley”「手推車」）。也許<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 和<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 的“movable stand”（「可移動支架」）比上述詞語都更加合適，這個短語表示物件通常放在一個固定位置，但設計成在必要時可以移動。<a href=\"https://ref.ly/1Kgs7:39\">1KI 7:39</a> 可能表示十個架子或小車的位置是固定的。</p>\n<p>\n            <strong>盛水的容器</strong> ：在上文所列的經文中，我們查閱的大多數譯本都將希伯來文<em>kiyor</em> 譯作「盆」（“basin”；如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）。或許更好的譯法是「大桶」或「大缸」（“vat”；<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> ）。雖然<em>kiyor</em> 一詞也用來指帳幕中的洗濯盆，但在聖殿裡，這個詞所指的物件的結構卻大不相同。</p>\n<p>如上所述，<a href=\"https://ref.ly/1Kgs7:27-1Kgs7:39\">1KI 7:27–1KI 7:39</a> 詳細地描述了可移動盆座的結構，還提到其他幾個配件。這些配件包括構成箱壁的長方形或正方形鑲板（希伯來文<em>misgaroth</em> ），固定鑲板的框架（<em>shlabim</em> ），帶輻條的輪子（<em>’ofanim</em> ；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">8.3 輪、車輪 (wheel)&lt;REALIA:8.3&gt;</a> ），輪軸（<em>sarnim</em> 或<em>yadoth</em> ），以及水盆四角的支撐物（<em>yadoth</em> 或<em>kthefoth</em>)。盆座頂部的圓形開口（<em>‘agol</em> ）裝飾著「雕刻的圖案」（“carvings”，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ；<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 譯作“engravings”「雕刻」；<em>miqla‘oth</em> ），底部飾有或刻有狀似「花環」的東西（“wreaths”，<em>loyoth</em> ；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 譯作“spiral figures”「螺旋圖案」）。盛水的容器放在一個襯環（<em>kothereth</em> ，字面意為「王冠」）裡。參《〈列王紀上下〉手冊》（<em>A Handbook on 1–2 Kings</em> ）關於這些經文的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007038",
+"start_ref_usfm": "1KI 7:38",
+"end_ref": "11007038",
+"end_ref_usfm": "1KI 7:38"
+},
+{
+"start_ref": "11007039",
+"start_ref_usfm": "1KI 7:39",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "11007043",
+"start_ref_usfm": "1KI 7:43",
+"end_ref": "11007043",
+"end_ref_usfm": "1KI 7:43"
+},
+{
+"start_ref": "12016017",
+"start_ref_usfm": "2KI 16:17",
+"end_ref": "12016017",
+"end_ref_usfm": "2KI 16:17"
+},
+{
+"start_ref": "12025013",
+"start_ref_usfm": "2KI 25:13",
+"end_ref": "12025013",
+"end_ref_usfm": "2KI 25:13"
+},
+{
+"start_ref": "14004014",
+"start_ref_usfm": "2CH 4:14",
+"end_ref": "14004014",
+"end_ref_usfm": "2CH 4:14"
+},
+{
+"start_ref": "24027019",
+"start_ref_usfm": "JER 27:19",
+"end_ref": "24027019",
+"end_ref_usfm": "JER 27:19"
+},
+{
+"start_ref": "24052017",
+"start_ref_usfm": "JER 52:17",
+"end_ref": "24052017",
+"end_ref_usfm": "JER 52:17"
+},
+{
+"start_ref": "24052020",
+"start_ref_usfm": "JER 52:20",
+"end_ref": "24052020",
+"end_ref_usfm": "JER 52:20"
+},
+{
+"start_ref": "11007030",
+"start_ref_usfm": "1KI 7:30",
+"end_ref": "11007030",
+"end_ref_usfm": "1KI 7:30"
+},
+{
+"start_ref": "11007040",
+"start_ref_usfm": "1KI 7:40",
+"end_ref": "11007040",
+"end_ref_usfm": "1KI 7:40"
+},
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+},
+{
+"start_ref": "11007027",
+"start_ref_usfm": "1KI 7:27",
+"end_ref": "11007027",
+"end_ref_usfm": "1KI 7:27"
+},
+{
+"start_ref": "03001009",
+"start_ref_usfm": "LEV 1:9",
+"end_ref": "03001009",
+"end_ref_usfm": "LEV 1:9"
+},
+{
+"start_ref": "03001013",
+"start_ref_usfm": "LEV 1:13",
+"end_ref": "03001013",
+"end_ref_usfm": "LEV 1:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.4",
+"reference_id": "REALIA:4.3.4",
+"version": "1.0.4",
+"title": "標題：燈臺（lampstand, menorah）",
+"media_type": "Text",
+"index_reference": "4.3.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4\"><span class=\"thlex-key\">4.3.4</span> 標題：燈臺（lampstand, menorah）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מְנוֹרָה</span> <span class=\"thlex-translit\">(音譯： mnorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>, <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a>, <a href=\"https://ref.ly/Exod25:35\">EXO 25:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>, <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:9\">NUM 4:9</a>, <a href=\"https://ref.ly/Num8:2\">NUM 8:2</a>, <a href=\"https://ref.ly/Num8:3\">NUM 8:3</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a>, <a href=\"https://ref.ly/2Chr4:20\">2CH 4:20</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/Jer52:19\">JER 52:19</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>, <a href=\"https://ref.ly/Zech4:11\">ZEC 4:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λυχνία</span> <span class=\"thlex-translit\">(音譯： luchnia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a>, <a href=\"https://ref.ly/Sir26:17\">SIR 26:17</a>, <a href=\"https://ref.ly/1Macc1:21\">1MA 1:21</a>, <a href=\"https://ref.ly/1Macc4:49\">1MA 4:49</a>, <a href=\"https://ref.ly/1Macc4:50\">1MA 4:50</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： candelabrum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd10:22\">2ES 10:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0038_lampstand_parts_hant.jpg\" alt=\"燈臺的枝子\"><figcaption class=\"thlex-caption\">燈臺的枝子 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>關於帳幕內燈臺的構造，見<a href=\"https://ref.ly/Exod25:31-Exod25:40\">EXO 25:31–EXO 25:40</a>; <a href=\"https://ref.ly/Exod37:17-Exod37:24\">EXO 37:17–EXO 37:24</a> ；<a href=\"https://ref.ly/Lev24:1-Lev24:4\">LEV 24:1–LEV 24:4</a> 。燈臺是用一塊純金錘出來的，由五個部分組成：座、幹（或花梗），以及帶有花萼和花瓣的（花）杯。燈臺中心有一個幹，立在座上，從幹兩旁伸出六個枝子，共為七枝。每個枝子頂部都有一盞油燈。</p>\n<p>按照上帝的指示，帳幕裡面只有一個燈臺。然而，在所羅門建造和裝飾聖殿時，經文（ <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a> ；<a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a> ）說他設立了十個燈臺。文中沒有解釋為什麼燈臺增加到十個。所羅門又造了十張桌子和十個盆放在殿內，而在帳幕裡這些物品都只有一件。根據一個猶太傳統的說法，十個燈臺是在那個指定的燈臺之外另加的，而「在右邊」和「在左邊」是指擺在唯一神聖燈臺的右邊和左邊。經文沒有說明所羅門時期的燈臺樣式發生任何變化，他所做的十個燈臺可能看起來和帳幕裡的那個燈臺是一樣的。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0037_lampstand_parts_hant.jpg\" alt=\"OAI-0037_lampstand_parts_hant\"></figure>關於油燈的基本使用方式，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 油燈和燈心 (Oil lamp and wick)&lt;REALIA:5.1&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.2 燈臺 (lampstand)&lt;REALIA:5.2&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於許多文化中沒有專門表示「燈臺」的詞語，因此「燈臺」可能要翻譯成「燈座」或「放燈的東西」。應該強調的是，這個物件上面放置的不是蠟燭而是油燈（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 油燈和燈心 (Oil lamp and wick)&lt;REALIA:5.1&gt;</a> ）。</p>\n<p>燈臺（希伯來文<em>mnorah</em> ）大體上是用花的結構來描述的。翻譯者了解這一點，就能找出合適的術語來翻譯燈臺的各部分。似花的部分包括「幹」（「花梗」）、「花蕾」或「花萼」，以及類似開放的花朵的「杯」。<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 提供了以下腳註：「希伯來文本使用的術語很難解釋，學者認為燈臺的裝飾式樣取自植物和花卉。」</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0008_levite_lampstand.png\" alt=\"利未人在聖殿中點燃七枝燈臺\"><figcaption class=\"thlex-caption\">利未人在聖殿中點燃七枝燈臺 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>\n            <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a> 列出了燈臺的各部分，但<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 只概括性地翻譯，英文意為：「整個燈臺，包括裝飾的花，要用一塊金子錘出來。」<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 的翻譯更加凝練，意為：「燈臺所有的部分都要由一塊［金子］做成。」對於這節經文，有些譯本可能會採用這種譯法，不過在後面的經文中，燈臺的各個部分仍然需要翻譯出來。</p>\n<p>\n            <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a> ：這節經文的希伯來文本字面意思是「純淨的燈臺」（<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 同），這可能是指燈臺的神聖或禮儀上的潔淨，而不是指燈臺是用金子製成。例如，<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 英文意為「禮儀上潔淨的燈臺」。但大多數版本（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）都將其解作「純金的燈臺」。如果遵循「純金」的解釋，這裡「純淨」的概念可能要表達為「不含其他物質」或「純粹由金子做成」。有些語言可能需要借用表示「金子」的詞語，如果是這樣，翻譯者應在術語簡釋中作出解釋。</p>\n<p>燈臺的各個部分由下到上依次是：</p>\n<p>|<em>Yarek</em> （<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a> ，<a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a> ；<a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> ）：這個希伯來文詞語指承載整個燈臺的「座」或「腳」。在<a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> ，字面意為「從座到花」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 同）的希伯來文短語可譯作「從頂到底」（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。</p>\n<p>\n            <em>Qaneh</em> （<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> ，12次；<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，12次）：這個希伯來文詞語的字面意為「蘆葦」，在<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> 和<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，它表示長而直的花梗。從燈臺中心的梗伸出六支這樣的梗，每邊三支對稱，因此共為七支。<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 捨棄了花的比喻，稱其為「臂」。在多枝燭臺為人所知的地方，這種譯法是很自然的，但是如果人們不知道這種物件，「臂」聽起來可能會很奇怪。</p>\n<p>\n            <em>Gavi‘a</em> （<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a> ，<a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>; <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a> ，<a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a> ，<a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>; <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a> ）：這個希伯來文詞語指燈臺七個枝子頂端的杯。這七個杯裡放著橄欖油和燈心，點燃後可以發光。杯的形狀顯然像是開放的花朵。<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯作“flower-like cups”（「花狀的杯」；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 類似）。<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 僅譯作“cups”（「杯」），而<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 譯作“decorative flowers”（「裝飾性的花朵」）。</p>\n<p>\n            <em>Kaftor</em> （<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> ，8次；<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，8次）：這個希伯文詞語也用來指柱子的「柱頂」（“capital”；如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 在<a href=\"https://ref.ly/Amos9:1\">AMO 9:1</a> 的譯文；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.5 柱子、柱頂 (column, pillar, capital)&lt;REALIA:3.5&gt;</a> ）。在這裡，這個詞似乎表示一種球狀疙瘩，一種球形或蛋形的鼓起，位於三對枝子的連接處，以及花朵與幹的連接處。大多數譯本保留了花的比喻，將其譯作「花蕾」（“buds”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）或「花萼」（“calyxes”；<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）。</p>\n<p>\n            <em>Perach</em> （<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> ，4次；<a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> ，4次；<a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> ；<a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a> ；<a href=\"https://ref.ly/2Chr4:21\">2CH 4:21</a> ）：這個希伯來文詞語意為「花」，或者更確切地說，是由開放的花瓣形成的「花頭」。燈臺的花形成了杯。雖然大多數譯本都保留了這個詞語的比喻性表達「花」，但表達方式各不相同。有些譯本作「花瓣」（“petals”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ），有些譯作「花」（“flowers”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025031",
+"start_ref_usfm": "EXO 25:31",
+"end_ref": "02025031",
+"end_ref_usfm": "EXO 25:31"
+},
+{
+"start_ref": "02025032",
+"start_ref_usfm": "EXO 25:32",
+"end_ref": "02025032",
+"end_ref_usfm": "EXO 25:32"
+},
+{
+"start_ref": "02025033",
+"start_ref_usfm": "EXO 25:33",
+"end_ref": "02025033",
+"end_ref_usfm": "EXO 25:33"
+},
+{
+"start_ref": "02025034",
+"start_ref_usfm": "EXO 25:34",
+"end_ref": "02025034",
+"end_ref_usfm": "EXO 25:34"
+},
+{
+"start_ref": "02025035",
+"start_ref_usfm": "EXO 25:35",
+"end_ref": "02025035",
+"end_ref_usfm": "EXO 25:35"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035014",
+"start_ref_usfm": "EXO 35:14",
+"end_ref": "02035014",
+"end_ref_usfm": "EXO 35:14"
+},
+{
+"start_ref": "02037017",
+"start_ref_usfm": "EXO 37:17",
+"end_ref": "02037017",
+"end_ref_usfm": "EXO 37:17"
+},
+{
+"start_ref": "02037018",
+"start_ref_usfm": "EXO 37:18",
+"end_ref": "02037018",
+"end_ref_usfm": "EXO 37:18"
+},
+{
+"start_ref": "02037019",
+"start_ref_usfm": "EXO 37:19",
+"end_ref": "02037019",
+"end_ref_usfm": "EXO 37:19"
+},
+{
+"start_ref": "02037020",
+"start_ref_usfm": "EXO 37:20",
+"end_ref": "02037020",
+"end_ref_usfm": "EXO 37:20"
+},
+{
+"start_ref": "02039037",
+"start_ref_usfm": "EXO 39:37",
+"end_ref": "02039037",
+"end_ref_usfm": "EXO 39:37"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024004",
+"start_ref_usfm": "LEV 24:4",
+"end_ref": "03024004",
+"end_ref_usfm": "LEV 24:4"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004009",
+"start_ref_usfm": "NUM 4:9",
+"end_ref": "04004009",
+"end_ref_usfm": "NUM 4:9"
+},
+{
+"start_ref": "04008002",
+"start_ref_usfm": "NUM 8:2",
+"end_ref": "04008002",
+"end_ref_usfm": "NUM 8:2"
+},
+{
+"start_ref": "04008003",
+"start_ref_usfm": "NUM 8:3",
+"end_ref": "04008003",
+"end_ref_usfm": "NUM 8:3"
+},
+{
+"start_ref": "04008004",
+"start_ref_usfm": "NUM 8:4",
+"end_ref": "04008004",
+"end_ref_usfm": "NUM 8:4"
+},
+{
+"start_ref": "11007049",
+"start_ref_usfm": "1KI 7:49",
+"end_ref": "11007049",
+"end_ref_usfm": "1KI 7:49"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "13028015",
+"start_ref_usfm": "1CH 28:15",
+"end_ref": "13028015",
+"end_ref_usfm": "1CH 28:15"
+},
+{
+"start_ref": "14004007",
+"start_ref_usfm": "2CH 4:7",
+"end_ref": "14004007",
+"end_ref_usfm": "2CH 4:7"
+},
+{
+"start_ref": "14004020",
+"start_ref_usfm": "2CH 4:20",
+"end_ref": "14004020",
+"end_ref_usfm": "2CH 4:20"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "24052019",
+"start_ref_usfm": "JER 52:19",
+"end_ref": "24052019",
+"end_ref_usfm": "JER 52:19"
+},
+{
+"start_ref": "38004002",
+"start_ref_usfm": "ZEC 4:2",
+"end_ref": "38004002",
+"end_ref_usfm": "ZEC 4:2"
+},
+{
+"start_ref": "38004011",
+"start_ref_usfm": "ZEC 4:11",
+"end_ref": "38004011",
+"end_ref_usfm": "ZEC 4:11"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+},
+{
+"start_ref": "72026017",
+"start_ref_usfm": "SIR 26:17",
+"end_ref": "72026017",
+"end_ref_usfm": "SIR 26:17"
+},
+{
+"start_ref": "78001021",
+"start_ref_usfm": "1MA 1:21",
+"end_ref": "78001021",
+"end_ref_usfm": "1MA 1:21"
+},
+{
+"start_ref": "78004049",
+"start_ref_usfm": "1MA 4:49",
+"end_ref": "78004049",
+"end_ref_usfm": "1MA 4:49"
+},
+{
+"start_ref": "78004050",
+"start_ref_usfm": "1MA 4:50",
+"end_ref": "78004050",
+"end_ref_usfm": "1MA 4:50"
+},
+{
+"start_ref": "83010022",
+"start_ref_usfm": "2ES 10:22",
+"end_ref": "83010022",
+"end_ref_usfm": "2ES 10:22"
+},
+{
+"start_ref": "02025040",
+"start_ref_usfm": "EXO 25:40",
+"end_ref": "02025040",
+"end_ref_usfm": "EXO 25:40"
+},
+{
+"start_ref": "02037024",
+"start_ref_usfm": "EXO 37:24",
+"end_ref": "02037024",
+"end_ref_usfm": "EXO 37:24"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024001",
+"end_ref_usfm": "LEV 24:1"
+},
+{
+"start_ref": "02025000",
+"start_ref_usfm": "EXO 25:0",
+"end_ref": "02025000",
+"end_ref_usfm": "EXO 25:0"
+},
+{
+"start_ref": "02037000",
+"start_ref_usfm": "EXO 37:0",
+"end_ref": "02037000",
+"end_ref_usfm": "EXO 37:0"
+},
+{
+"start_ref": "30009001",
+"start_ref_usfm": "AMO 9:1",
+"end_ref": "30009001",
+"end_ref_usfm": "AMO 9:1"
+},
+{
+"start_ref": "14004021",
+"start_ref_usfm": "2CH 4:21",
+"end_ref": "14004021",
+"end_ref_usfm": "2CH 4:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 0.7514,
+"match_method": "scored",
+"preferred_label": "Lampstand"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.3.4.1",
+"reference_id": "REALIA:4.3.4.1",
+"version": "1.0.4",
+"title": "標題：油燈套蓋、燈剪（Snuffer, wick trimmer）",
+"media_type": "Text",
+"index_reference": "4.3.4.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4.1\"><span class=\"thlex-key\">4.3.4.1</span> 標題：油燈套蓋、燈剪（Snuffer, wick trimmer）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מְזַמֶּרֶת</span> <span class=\"thlex-translit\">(音譯： mzamereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:50\">1KI 7:50</a>, <a href=\"https://ref.ly/2Kgs12:14\">2KI 12:14</a>, <a href=\"https://ref.ly/2Kgs25:14\">2KI 25:14</a>, <a href=\"https://ref.ly/2Chr4:22\">2CH 4:22</a>, <a href=\"https://ref.ly/Jer52:18\">JER 52:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>油燈套蓋是一種蓋子，蓋在燃燒著的燈心上，通過隔斷空氣來達到熄滅燈火的目的。經文提到聖殿用的油燈套蓋是由金子做的。</p>\n<p>燈剪是一種剪刀，用來剪斷燒焦了的燈心，以減少油燈燃燒冒出來的煙。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>關於希伯來文<em>mzamereth</em> 具體指什麼，各譯本存在分歧。這個詞可能指某種樂器，但是我們查閱的譯本都沒有反映這個意思。同一個希伯來文詞根也可以表示「剪、修剪」（參<a href=\"https://ref.ly/Lev25:4\">LEV 25:4</a> ），正是根據這一點，有些譯本（如<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）將其解作一種剪刀，用來剪斷燒焦了的燈心。還有譯本（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）認為這是一種蓋子，罩在燃燒著的燈心上面使其熄滅。另外一種解釋是，這是一個放在燈盞下面的小盤子，用來接住燈心燒焦後產生的灰燼。</p>\n<p>如果當地不知道油燈或者至少不用蠟燭作大範圍照明，翻譯者很難找到合適的詞語來翻譯這個希伯來文詞語。即使是像「燈剪」（“wick trimmers”；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）或「油燈套蓋」（“lamp snuffers”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）這樣的表達，也不易為現代讀者所理解。建議翻譯者選擇一個大多數人能夠理解的表達，並在可能情況下附加註釋或術語簡釋條目，來描述油燈的使用方法（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 油燈和燈心 (Oil lamp and wick)&lt;REALIA:5.1&gt;</a> ）。</p>\n<p>幔子、帷幔、帷帳：參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.14.1.6 幔子、帷幔、帷帳 (curtain, veil, drape)&lt;REALIA:3.14.1.6&gt;</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007050",
+"start_ref_usfm": "1KI 7:50",
+"end_ref": "11007050",
+"end_ref_usfm": "1KI 7:50"
+},
+{
+"start_ref": "12012014",
+"start_ref_usfm": "2KI 12:14",
+"end_ref": "12012014",
+"end_ref_usfm": "2KI 12:14"
+},
+{
+"start_ref": "12025014",
+"start_ref_usfm": "2KI 25:14",
+"end_ref": "12025014",
+"end_ref_usfm": "2KI 25:14"
+},
+{
+"start_ref": "14004022",
+"start_ref_usfm": "2CH 4:22",
+"end_ref": "14004022",
+"end_ref_usfm": "2CH 4:22"
+},
+{
+"start_ref": "24052018",
+"start_ref_usfm": "JER 52:18",
+"end_ref": "24052018",
+"end_ref_usfm": "JER 52:18"
+},
+{
+"start_ref": "03025004",
+"start_ref_usfm": "LEV 25:4",
+"end_ref": "03025004",
+"end_ref_usfm": "LEV 25:4"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:WickTrimmer",
+"type": "realia",
+"confidence": 0.7542,
+"match_method": "scored",
+"preferred_label": "Wick Trimmer"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.3.5",
+"reference_id": "REALIA:4.3.5",
+"version": "1.0.4",
+"title": "標題：擺放供餅的桌子（table for consecrated bread）",
+"media_type": "Text",
+"index_reference": "4.3.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.5\"><span class=\"thlex-key\">4.3.5</span> 標題：擺放供餅的桌子（table for consecrated bread）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֻׁלְחָן</span> <span class=\"thlex-translit\">(音譯： shulchan (lechem hapanim, hama‘areketh))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod25:28\">EXO 25:28</a>, <a href=\"https://ref.ly/Exod25:30\">EXO 25:30</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:13\">EXO 35:13</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:14\">EXO 37:14</a>, <a href=\"https://ref.ly/Exod37:15\">EXO 37:15</a>, <a href=\"https://ref.ly/Exod37:16\">EXO 37:16</a>, <a href=\"https://ref.ly/Exod39:36\">EXO 39:36</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:22\">EXO 40:22</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:6\">LEV 24:6</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:7\">NUM 4:7</a>, <a href=\"https://ref.ly/1Kgs7:48\">1KI 7:48</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/2Chr4:19\">2CH 4:19</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/2Chr29:18\">2CH 29:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： τράπεζα, πρόθεσις</span> <span class=\"thlex-translit\">(音譯： trapeza (tēs protheseōs))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a>, <a href=\"https://ref.ly/1Macc1:22\">1MA 1:22</a>, <a href=\"https://ref.ly/1Macc4:49\">1MA 4:49</a>, <a href=\"https://ref.ly/1Macc4:51\">1MA 4:51</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0448_showbread.jpg\" alt=\"擺放著陳設餅或「神聖同在餅」的桌子（亭納公園（Timnah Park））\"><figcaption class=\"thlex-caption\">擺放著陳設餅或「神聖同在餅」的桌子（亭納公園（Timnah Park）） (© Mboesch, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>關於桌子構造的描述，見<a href=\"https://ref.ly/Exod25:23-Exod25:28\">EXO 25:23–EXO 25:28</a> 。桌子用金合歡木做成，用金包裹，長約1米（40英吋），寬50厘米（20英吋），高75厘米（30英吋）。根據上帝關於帳幕器具的吩咐，只有一張桌子用來擺放供餅。所羅門建造聖殿時，除了將燈臺和洗濯盆的數目增加到10個之外，還將供桌的數目增加到了10張。因為上帝在西奈山上指示摩西每件物品只做一件，所以可能只有一張正式的桌子，而其他桌子只作某種裝飾之用。無論如何，<em>shulchan</em> 一詞用來指所有這種桌子，對於這個詞在<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> 出現的單數和複數形式，翻譯者應使用<a href=\"https://ref.ly/2Chr4:0\">2CH 4:0</a> 中所用的同一個詞來翻譯。<a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a> 提到「銀桌子」，聖經中沒有其他地方提到銀桌子，其用途也沒有說明。這些桌子可以譯作「用銀包裹的桌子」。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Lev24:6\">LEV 24:6</a> ：在希伯來文本中，這節經文包含一個字面意為「純淨的桌子」（<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 同）的短語。這裡的問題與第4節中「純淨的燈臺」相同。「純淨的」可能指金子，也可能指在禮儀上是潔淨的。<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 英文意為「禮儀上潔淨的桌子」。燈臺與桌子這兩個問題應該用同樣的方法解決。如果按照「純金」來理解，最好譯作「用純金包裹的桌子」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯），而不是「用純金做的桌子」（參<a href=\"https://ref.ly/Exod25:24\">EXO 25:24</a> ，<a href=\"https://ref.ly/Exod37:11\">EXO 37:11</a> ）。</p>\n<p>供桌的兩側安著環，把槓從環中穿過即可抬起桌子。與抬約櫃的槓不同，抬這張桌子和其他物件的槓在物件擺放在指定位置後要抽出來。參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.1 約櫃 (Covenant Box, Ark of the Covenant)&lt;REALIA:4.1&gt;</a> 中的討論。</p>\n<p>另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.7 吃飯的桌子、飯桌 (table for eating)&lt;REALIA:5.7&gt;</a> 中的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025023",
+"end_ref_usfm": "EXO 25:23"
+},
+{
+"start_ref": "02025028",
+"start_ref_usfm": "EXO 25:28",
+"end_ref": "02025028",
+"end_ref_usfm": "EXO 25:28"
+},
+{
+"start_ref": "02025030",
+"start_ref_usfm": "EXO 25:30",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035013",
+"start_ref_usfm": "EXO 35:13",
+"end_ref": "02035013",
+"end_ref_usfm": "EXO 35:13"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037010",
+"end_ref_usfm": "EXO 37:10"
+},
+{
+"start_ref": "02037014",
+"start_ref_usfm": "EXO 37:14",
+"end_ref": "02037014",
+"end_ref_usfm": "EXO 37:14"
+},
+{
+"start_ref": "02037015",
+"start_ref_usfm": "EXO 37:15",
+"end_ref": "02037015",
+"end_ref_usfm": "EXO 37:15"
+},
+{
+"start_ref": "02037016",
+"start_ref_usfm": "EXO 37:16",
+"end_ref": "02037016",
+"end_ref_usfm": "EXO 37:16"
+},
+{
+"start_ref": "02039036",
+"start_ref_usfm": "EXO 39:36",
+"end_ref": "02039036",
+"end_ref_usfm": "EXO 39:36"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040022",
+"start_ref_usfm": "EXO 40:22",
+"end_ref": "02040022",
+"end_ref_usfm": "EXO 40:22"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024006",
+"start_ref_usfm": "LEV 24:6",
+"end_ref": "03024006",
+"end_ref_usfm": "LEV 24:6"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "11007048",
+"start_ref_usfm": "1KI 7:48",
+"end_ref": "11007048",
+"end_ref_usfm": "1KI 7:48"
+},
+{
+"start_ref": "13028016",
+"start_ref_usfm": "1CH 28:16",
+"end_ref": "13028016",
+"end_ref_usfm": "1CH 28:16"
+},
+{
+"start_ref": "14004019",
+"start_ref_usfm": "2CH 4:19",
+"end_ref": "14004019",
+"end_ref_usfm": "2CH 4:19"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029018",
+"end_ref_usfm": "2CH 29:18"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+},
+{
+"start_ref": "78001022",
+"start_ref_usfm": "1MA 1:22",
+"end_ref": "78001022",
+"end_ref_usfm": "1MA 1:22"
+},
+{
+"start_ref": "78004049",
+"start_ref_usfm": "1MA 4:49",
+"end_ref": "78004049",
+"end_ref_usfm": "1MA 4:49"
+},
+{
+"start_ref": "78004051",
+"start_ref_usfm": "1MA 4:51",
+"end_ref": "78004051",
+"end_ref_usfm": "1MA 4:51"
+},
+{
+"start_ref": "02025000",
+"start_ref_usfm": "EXO 25:0",
+"end_ref": "02025000",
+"end_ref_usfm": "EXO 25:0"
+},
+{
+"start_ref": "14004000",
+"start_ref_usfm": "2CH 4:0",
+"end_ref": "14004000",
+"end_ref_usfm": "2CH 4:0"
+},
+{
+"start_ref": "02025024",
+"start_ref_usfm": "EXO 25:24",
+"end_ref": "02025024",
+"end_ref_usfm": "EXO 25:24"
+},
+{
+"start_ref": "02037011",
+"start_ref_usfm": "EXO 37:11",
+"end_ref": "02037011",
+"end_ref_usfm": "EXO 37:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.5.1",
+"reference_id": "REALIA:4.3.5.1",
+"version": "1.0.4",
+"title": "標題：供餅（consecrated bread, bread of the presence, showbread）",
+"media_type": "Text",
+"index_reference": "4.3.5.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.5.1\"><span class=\"thlex-key\">4.3.5.1</span> 標題：供餅（consecrated bread, bread of the presence, showbread）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： לֶחֶם</span> <span class=\"thlex-translit\">(音譯： lechem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod40:23\">EXO 40:23</a>, <a href=\"https://ref.ly/1Sam21:7\">1SA 21:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： לֶחֶם, פָּנֶה</span> <span class=\"thlex-translit\">(音譯： lechem hapanim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:30\">EXO 25:30</a>, <a href=\"https://ref.ly/Exod35:13\">EXO 35:13</a>, <a href=\"https://ref.ly/Exod39:36\">EXO 39:36</a>, <a href=\"https://ref.ly/1Sam21:7\">1SA 21:7</a>, <a href=\"https://ref.ly/1Kgs7:48\">1KI 7:48</a>, <a href=\"https://ref.ly/2Chr4:19\">2CH 4:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： לֶחֶם, מַעֲרֶכֶת</span> <span class=\"thlex-translit\">(音譯： lechem hama‘areketh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr9:32\">1CH 9:32</a>, <a href=\"https://ref.ly/1Chr23:29\">1CH 23:29</a>, <a href=\"https://ref.ly/Neh10:34\">NEH 10:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： לֶחֶם, קֹדֶשׁ</span> <span class=\"thlex-translit\">(音譯： lechem qodesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam21:5\">1SA 21:5</a>, <a href=\"https://ref.ly/1Sam21:5\">1SA 21:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַעֲרֶכֶת</span> <span class=\"thlex-translit\">(音譯： ma‘areketh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/2Chr2:3\">2CH 2:3</a>, <a href=\"https://ref.ly/2Chr29:18\">2CH 29:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַעֲרֶכֶת, לֶחֶם</span> <span class=\"thlex-translit\">(音譯： ma‘areketh lechem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： פָּנֶה</span> <span class=\"thlex-translit\">(音譯： panim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num4:7\">NUM 4:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קֹדֶשׁ</span> <span class=\"thlex-translit\">(音譯： qodesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam21:7\">1SA 21:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἄρτος</span> <span class=\"thlex-translit\">(音譯： artos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc4:51\">1MA 4:51</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἄρτος, πρόθεσις</span> <span class=\"thlex-translit\">(音譯： artoi tēs protheseōs)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:4\">MAT 12:4</a>, <a href=\"https://ref.ly/Mark2:26\">MRK 2:26</a>, <a href=\"https://ref.ly/Luke6:4\">LUK 6:4</a>, <a href=\"https://ref.ly/2Macc10:3\">2MA 10:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： πρόθεσις</span> <span class=\"thlex-translit\">(音譯： prothesis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc1:22\">1MA 1:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： πρόθεσις, ἄρτος</span> <span class=\"thlex-translit\">(音譯： prothesis tōn artōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>供餅是擺在上帝面前的供物，先是擺放在帳幕裡，後來擺放在聖殿裡。經文沒有說明餅的大小和形狀，但是從新約時期開始，在猶太文獻中有詳細的描述。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>英文“showbread”譯自一個希伯來文短語，短語的字面意思是「面的餅／臨在的餅」或「陳設的餅」。翻譯者不應試圖模仿這個英文術語。在有些語言中，這個詞被譯作「擺在上帝面前的餅」或「擺在上帝臨在中的餅」。還有譯本譯作「神聖的餅」（“sacred bread”，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ；“sacred loaves of bread”，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ），甚或「特殊的餅」（“special bread”； <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ；<a href=\"https://ref.ly/1Chr9:32\">1CH 9:32</a> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02040023",
+"start_ref_usfm": "EXO 40:23",
+"end_ref": "02040023",
+"end_ref_usfm": "EXO 40:23"
+},
+{
+"start_ref": "09021007",
+"start_ref_usfm": "1SA 21:7",
+"end_ref": "09021007",
+"end_ref_usfm": "1SA 21:7"
+},
+{
+"start_ref": "02025030",
+"start_ref_usfm": "EXO 25:30",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02035013",
+"start_ref_usfm": "EXO 35:13",
+"end_ref": "02035013",
+"end_ref_usfm": "EXO 35:13"
+},
+{
+"start_ref": "02039036",
+"start_ref_usfm": "EXO 39:36",
+"end_ref": "02039036",
+"end_ref_usfm": "EXO 39:36"
+},
+{
+"start_ref": "11007048",
+"start_ref_usfm": "1KI 7:48",
+"end_ref": "11007048",
+"end_ref_usfm": "1KI 7:48"
+},
+{
+"start_ref": "14004019",
+"start_ref_usfm": "2CH 4:19",
+"end_ref": "14004019",
+"end_ref_usfm": "2CH 4:19"
+},
+{
+"start_ref": "13009032",
+"start_ref_usfm": "1CH 9:32",
+"end_ref": "13009032",
+"end_ref_usfm": "1CH 9:32"
+},
+{
+"start_ref": "13023029",
+"start_ref_usfm": "1CH 23:29",
+"end_ref": "13023029",
+"end_ref_usfm": "1CH 23:29"
+},
+{
+"start_ref": "16010034",
+"start_ref_usfm": "NEH 10:34",
+"end_ref": "16010034",
+"end_ref_usfm": "NEH 10:34"
+},
+{
+"start_ref": "09021005",
+"start_ref_usfm": "1SA 21:5",
+"end_ref": "09021005",
+"end_ref_usfm": "1SA 21:5"
+},
+{
+"start_ref": "13028016",
+"start_ref_usfm": "1CH 28:16",
+"end_ref": "13028016",
+"end_ref_usfm": "1CH 28:16"
+},
+{
+"start_ref": "14002003",
+"start_ref_usfm": "2CH 2:3",
+"end_ref": "14002003",
+"end_ref_usfm": "2CH 2:3"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029018",
+"end_ref_usfm": "2CH 29:18"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "78004051",
+"start_ref_usfm": "1MA 4:51",
+"end_ref": "78004051",
+"end_ref_usfm": "1MA 4:51"
+},
+{
+"start_ref": "40012004",
+"start_ref_usfm": "MAT 12:4",
+"end_ref": "40012004",
+"end_ref_usfm": "MAT 12:4"
+},
+{
+"start_ref": "41002026",
+"start_ref_usfm": "MRK 2:26",
+"end_ref": "41002026",
+"end_ref_usfm": "MRK 2:26"
+},
+{
+"start_ref": "42006004",
+"start_ref_usfm": "LUK 6:4",
+"end_ref": "42006004",
+"end_ref_usfm": "LUK 6:4"
+},
+{
+"start_ref": "79010003",
+"start_ref_usfm": "2MA 10:3",
+"end_ref": "79010003",
+"end_ref_usfm": "2MA 10:3"
+},
+{
+"start_ref": "78001022",
+"start_ref_usfm": "1MA 1:22",
+"end_ref": "78001022",
+"end_ref_usfm": "1MA 1:22"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.6",
+"reference_id": "REALIA:4.3.6",
+"version": "1.0.4",
+"title": "標題：預備祭牲的桌子（tables for preparing sacrificial victims）",
+"media_type": "Text",
+"index_reference": "4.3.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.6\"><span class=\"thlex-key\">4.3.6</span> 標題：預備祭牲的桌子（tables for preparing sacrificial victims）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֻׁלְחָן</span> <span class=\"thlex-translit\">(音譯： shulchan)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod25:27\">EXO 25:27</a>, <a href=\"https://ref.ly/Exod25:28\">EXO 25:28</a>, <a href=\"https://ref.ly/Exod25:30\">EXO 25:30</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:13\">EXO 35:13</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:14\">EXO 37:14</a>, <a href=\"https://ref.ly/Exod37:15\">EXO 37:15</a>, <a href=\"https://ref.ly/Exod37:16\">EXO 37:16</a>, <a href=\"https://ref.ly/Exod39:36\">EXO 39:36</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:22\">EXO 40:22</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:6\">LEV 24:6</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:7\">NUM 4:7</a>, <a href=\"https://ref.ly/Judg1:7\">JDG 1:7</a>, <a href=\"https://ref.ly/1Sam20:29\">1SA 20:29</a>, <a href=\"https://ref.ly/1Sam20:34\">1SA 20:34</a>, <a href=\"https://ref.ly/2Sam9:7\">2SA 9:7</a>, <a href=\"https://ref.ly/2Sam9:10\">2SA 9:10</a>, <a href=\"https://ref.ly/2Sam9:11\">2SA 9:11</a>, <a href=\"https://ref.ly/2Sam9:13\">2SA 9:13</a>, <a href=\"https://ref.ly/2Sam19:29\">2SA 19:29</a>, <a href=\"https://ref.ly/1Kgs2:7\">1KI 2:7</a>, <a href=\"https://ref.ly/1Kgs5:7\">1KI 5:7</a>, <a href=\"https://ref.ly/1Kgs7:48\">1KI 7:48</a>, <a href=\"https://ref.ly/1Kgs10:5\">1KI 10:5</a>, <a href=\"https://ref.ly/1Kgs13:20\">1KI 13:20</a>, <a href=\"https://ref.ly/1Kgs18:19\">1KI 18:19</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/2Chr4:8\">2CH 4:8</a>, <a href=\"https://ref.ly/2Chr4:19\">2CH 4:19</a>, <a href=\"https://ref.ly/2Chr9:4\">2CH 9:4</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/2Chr29:18\">2CH 29:18</a>, <a href=\"https://ref.ly/Neh5:17\">NEH 5:17</a>, <a href=\"https://ref.ly/Job36:16\">JOB 36:16</a>, <a href=\"https://ref.ly/Ps23:5\">PSA 23:5</a>, <a href=\"https://ref.ly/Ps69:23\">PSA 69:23</a>, <a href=\"https://ref.ly/Ps78:19\">PSA 78:19</a>, <a href=\"https://ref.ly/Ps128:3\">PSA 128:3</a>, <a href=\"https://ref.ly/Prov9:2\">PRO 9:2</a>, <a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a>, <a href=\"https://ref.ly/Isa28:8\">ISA 28:8</a>, <a href=\"https://ref.ly/Isa65:11\">ISA 65:11</a>, <a href=\"https://ref.ly/Ezek23:41\">EZK 23:41</a>, <a href=\"https://ref.ly/Ezek39:20\">EZK 39:20</a>, <a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>, <a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>, <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>, <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>, <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>, <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>, <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a>, <a href=\"https://ref.ly/Ezek41:22\">EZK 41:22</a>, <a href=\"https://ref.ly/Ezek44:16\">EZK 44:16</a>, <a href=\"https://ref.ly/Dan11:27\">DAN 11:27</a>, <a href=\"https://ref.ly/Mal1:7\">MAL 1:7</a>, <a href=\"https://ref.ly/Mal1:12\">MAL 1:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>鈎子</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שְׁפַתַּיִם</span> <span class=\"thlex-translit\">(音譯： shfatayim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0449_sacrifice_table.jpg\" alt=\"祭品送上祭壇前可能在這桌子上準備\"><figcaption class=\"thlex-caption\">祭品送上祭壇前可能在這桌子上準備 (Gary Todd, Israel Museum, CC0, via Wikimedia Commons)</figcaption></figure>以西結在異象中看到，聖殿北門的門廊內外有一些石頭鑿成的桌子。這些桌子用於宰殺和收拾祭牲。桌子高50厘米（20英吋），桌面是正方形，邊長75厘米（30英吋）。經文沒有交代桌子是有桌腿還是放在基座上。有些桌子上放著用來宰殺祭牲、剝皮和去除內臟的器具。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>與帳幕裡的器具不同，這些桌子似乎不能移動。對於<a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>; <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>; <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>; <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>; <a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a> 的理解，有一個問題與桌子的數目有關。大多數譯本認為這裡總共有8張桌子，4張在門廊內，4張在門廊外。（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為：「41~用來宰殺祭牲的桌子共有八張：四張在屋子裡，四張在院子裡。42~廂房裡有四張預備全牲祭的桌子，是用鑿出來的石頭做成的……」。然而，有些譯本認為共有12張桌子。（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 英文意為：「41~門廊這邊有四張桌子，那邊也有四張桌子，共八張，用來宰殺祭牲。42~另外，還有四張預備燔祭牲的桌子，是用鑿出來的石頭做成的……」）。</p>\n<p>第43節有幾個相互關聯的問題，需要翻譯者處理。我們無法確定希伯來文<em>shfatayim</em> 的意思。在第一個字母略加改變的情況下，有些譯本將其解作「臺／壁架／架子」（“ledges/shelves”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）；另一些譯本將其解作「鈎子」（“hooks”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> ）。除了意思不明之外，這個物件的位置也有疑問。希伯來文本（在描述桌子的中途）說，這個物件「在裡面的周圍」。如果意思是在桌子的周圍，這是沒有意義的（<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 英文意為「架子……固定在裡面的周圍」）。我們如何想像架子在桌子裡面的周圍呢？<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直接忽略了「在裡面」，英文意為「臺寬三英吋，圍繞著桌子的邊緣」。有些譯本設想「在周圍」指的是門廊的牆壁，而非桌子，從而避開了這個問題（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 英文意為「在房間周圍的牆壁上有一個寬三英吋的架子」）。然而，我們很難看出如此狹窄的架子能做什麼用途。將<em>shfatayim</em> 譯作「鈎子」只是解決了部分問題。75毫米（3英吋）的長度對於鈎子是合理的，不過在桌子「裡面的周圍」這個問題，對於架子和鈎子來說都是一樣的。然而，如果「鈎子釘在周圍的牆上」（<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 直譯），那麼我們可以想像這種鈎子有幾種可能的用途。這些鈎子可以用來懸掛工具，或者按照猶太傳統，用來懸掛剛剛宰殺的祭牲以便剝皮（在桌子上很難剝皮）。<em>shfatayim</em> 一詞的形式表明這個物件含有成雙的東西，所以<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 譯作“double-pronged hooks”（「雙叉鈎」）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025023",
+"end_ref_usfm": "EXO 25:23"
+},
+{
+"start_ref": "02025027",
+"start_ref_usfm": "EXO 25:27",
+"end_ref": "02025027",
+"end_ref_usfm": "EXO 25:27"
+},
+{
+"start_ref": "02025028",
+"start_ref_usfm": "EXO 25:28",
+"end_ref": "02025028",
+"end_ref_usfm": "EXO 25:28"
+},
+{
+"start_ref": "02025030",
+"start_ref_usfm": "EXO 25:30",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035013",
+"start_ref_usfm": "EXO 35:13",
+"end_ref": "02035013",
+"end_ref_usfm": "EXO 35:13"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037010",
+"end_ref_usfm": "EXO 37:10"
+},
+{
+"start_ref": "02037014",
+"start_ref_usfm": "EXO 37:14",
+"end_ref": "02037014",
+"end_ref_usfm": "EXO 37:14"
+},
+{
+"start_ref": "02037015",
+"start_ref_usfm": "EXO 37:15",
+"end_ref": "02037015",
+"end_ref_usfm": "EXO 37:15"
+},
+{
+"start_ref": "02037016",
+"start_ref_usfm": "EXO 37:16",
+"end_ref": "02037016",
+"end_ref_usfm": "EXO 37:16"
+},
+{
+"start_ref": "02039036",
+"start_ref_usfm": "EXO 39:36",
+"end_ref": "02039036",
+"end_ref_usfm": "EXO 39:36"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040022",
+"start_ref_usfm": "EXO 40:22",
+"end_ref": "02040022",
+"end_ref_usfm": "EXO 40:22"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024006",
+"start_ref_usfm": "LEV 24:6",
+"end_ref": "03024006",
+"end_ref_usfm": "LEV 24:6"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "07001007",
+"start_ref_usfm": "JDG 1:7",
+"end_ref": "07001007",
+"end_ref_usfm": "JDG 1:7"
+},
+{
+"start_ref": "09020029",
+"start_ref_usfm": "1SA 20:29",
+"end_ref": "09020029",
+"end_ref_usfm": "1SA 20:29"
+},
+{
+"start_ref": "09020034",
+"start_ref_usfm": "1SA 20:34",
+"end_ref": "09020034",
+"end_ref_usfm": "1SA 20:34"
+},
+{
+"start_ref": "10009007",
+"start_ref_usfm": "2SA 9:7",
+"end_ref": "10009007",
+"end_ref_usfm": "2SA 9:7"
+},
+{
+"start_ref": "10009010",
+"start_ref_usfm": "2SA 9:10",
+"end_ref": "10009010",
+"end_ref_usfm": "2SA 9:10"
+},
+{
+"start_ref": "10009011",
+"start_ref_usfm": "2SA 9:11",
+"end_ref": "10009011",
+"end_ref_usfm": "2SA 9:11"
+},
+{
+"start_ref": "10009013",
+"start_ref_usfm": "2SA 9:13",
+"end_ref": "10009013",
+"end_ref_usfm": "2SA 9:13"
+},
+{
+"start_ref": "10019029",
+"start_ref_usfm": "2SA 19:29",
+"end_ref": "10019029",
+"end_ref_usfm": "2SA 19:29"
+},
+{
+"start_ref": "11002007",
+"start_ref_usfm": "1KI 2:7",
+"end_ref": "11002007",
+"end_ref_usfm": "1KI 2:7"
+},
+{
+"start_ref": "11005007",
+"start_ref_usfm": "1KI 5:7",
+"end_ref": "11005007",
+"end_ref_usfm": "1KI 5:7"
+},
+{
+"start_ref": "11007048",
+"start_ref_usfm": "1KI 7:48",
+"end_ref": "11007048",
+"end_ref_usfm": "1KI 7:48"
+},
+{
+"start_ref": "11010005",
+"start_ref_usfm": "1KI 10:5",
+"end_ref": "11010005",
+"end_ref_usfm": "1KI 10:5"
+},
+{
+"start_ref": "11013020",
+"start_ref_usfm": "1KI 13:20",
+"end_ref": "11013020",
+"end_ref_usfm": "1KI 13:20"
+},
+{
+"start_ref": "11018019",
+"start_ref_usfm": "1KI 18:19",
+"end_ref": "11018019",
+"end_ref_usfm": "1KI 18:19"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "13028016",
+"start_ref_usfm": "1CH 28:16",
+"end_ref": "13028016",
+"end_ref_usfm": "1CH 28:16"
+},
+{
+"start_ref": "14004008",
+"start_ref_usfm": "2CH 4:8",
+"end_ref": "14004008",
+"end_ref_usfm": "2CH 4:8"
+},
+{
+"start_ref": "14004019",
+"start_ref_usfm": "2CH 4:19",
+"end_ref": "14004019",
+"end_ref_usfm": "2CH 4:19"
+},
+{
+"start_ref": "14009004",
+"start_ref_usfm": "2CH 9:4",
+"end_ref": "14009004",
+"end_ref_usfm": "2CH 9:4"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029018",
+"end_ref_usfm": "2CH 29:18"
+},
+{
+"start_ref": "16005017",
+"start_ref_usfm": "NEH 5:17",
+"end_ref": "16005017",
+"end_ref_usfm": "NEH 5:17"
+},
+{
+"start_ref": "18036016",
+"start_ref_usfm": "JOB 36:16",
+"end_ref": "18036016",
+"end_ref_usfm": "JOB 36:16"
+},
+{
+"start_ref": "19023005",
+"start_ref_usfm": "PSA 23:5",
+"end_ref": "19023005",
+"end_ref_usfm": "PSA 23:5"
+},
+{
+"start_ref": "19069023",
+"start_ref_usfm": "PSA 69:23",
+"end_ref": "19069023",
+"end_ref_usfm": "PSA 69:23"
+},
+{
+"start_ref": "19078019",
+"start_ref_usfm": "PSA 78:19",
+"end_ref": "19078019",
+"end_ref_usfm": "PSA 78:19"
+},
+{
+"start_ref": "19128003",
+"start_ref_usfm": "PSA 128:3",
+"end_ref": "19128003",
+"end_ref_usfm": "PSA 128:3"
+},
+{
+"start_ref": "20009002",
+"start_ref_usfm": "PRO 9:2",
+"end_ref": "20009002",
+"end_ref_usfm": "PRO 9:2"
+},
+{
+"start_ref": "23021005",
+"start_ref_usfm": "ISA 21:5",
+"end_ref": "23021005",
+"end_ref_usfm": "ISA 21:5"
+},
+{
+"start_ref": "23028008",
+"start_ref_usfm": "ISA 28:8",
+"end_ref": "23028008",
+"end_ref_usfm": "ISA 28:8"
+},
+{
+"start_ref": "23065011",
+"start_ref_usfm": "ISA 65:11",
+"end_ref": "23065011",
+"end_ref_usfm": "ISA 65:11"
+},
+{
+"start_ref": "26023041",
+"start_ref_usfm": "EZK 23:41",
+"end_ref": "26023041",
+"end_ref_usfm": "EZK 23:41"
+},
+{
+"start_ref": "26039020",
+"start_ref_usfm": "EZK 39:20",
+"end_ref": "26039020",
+"end_ref_usfm": "EZK 39:20"
+},
+{
+"start_ref": "26040039",
+"start_ref_usfm": "EZK 40:39",
+"end_ref": "26040039",
+"end_ref_usfm": "EZK 40:39"
+},
+{
+"start_ref": "26040040",
+"start_ref_usfm": "EZK 40:40",
+"end_ref": "26040040",
+"end_ref_usfm": "EZK 40:40"
+},
+{
+"start_ref": "26040041",
+"start_ref_usfm": "EZK 40:41",
+"end_ref": "26040041",
+"end_ref_usfm": "EZK 40:41"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "26040043",
+"start_ref_usfm": "EZK 40:43",
+"end_ref": "26040043",
+"end_ref_usfm": "EZK 40:43"
+},
+{
+"start_ref": "26041022",
+"start_ref_usfm": "EZK 41:22",
+"end_ref": "26041022",
+"end_ref_usfm": "EZK 41:22"
+},
+{
+"start_ref": "26044016",
+"start_ref_usfm": "EZK 44:16",
+"end_ref": "26044016",
+"end_ref_usfm": "EZK 44:16"
+},
+{
+"start_ref": "27011027",
+"start_ref_usfm": "DAN 11:27",
+"end_ref": "27011027",
+"end_ref_usfm": "DAN 11:27"
+},
+{
+"start_ref": "39001007",
+"start_ref_usfm": "MAL 1:7",
+"end_ref": "39001007",
+"end_ref_usfm": "MAL 1:7"
+},
+{
+"start_ref": "39001012",
+"start_ref_usfm": "MAL 1:12",
+"end_ref": "39001012",
+"end_ref_usfm": "MAL 1:12"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

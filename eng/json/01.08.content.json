@@ -1,0 +1,731 @@
+[
+{
+"content_id": "REALIA:1.8",
+"reference_id": "REALIA:1.8",
+"version": "1.0.4",
+"title": "Builders",
+"media_type": "Text",
+"index_reference": "1.8",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8\"><span class=\"thlex-key\">1.8</span> Builders</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.8.1",
+"reference_id": "REALIA:1.8.1",
+"version": "1.0.4",
+"title": "Brick mold, brickkiln",
+"media_type": "Text",
+"index_reference": "1.8.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.1\"><span class=\"thlex-key\">1.8.1</span> Brick mold, brickkiln</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַלְבֵּן</span> <span class=\"thlex-translit\">(malben)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a>, <a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0356_brick_mold.jpg\" alt=\"A brick mold from a foundation deposit for Hatshepsut&#x27;s temple (Egypt)\"><figcaption class=\"thlex-caption\">A brick mold from a foundation deposit for Hatshepsut&#x27;s temple (Egypt) (Metropolitan Museum of Art, CC0, via Wikimedia Commons)</figcaption></figure>\n          </p>\n<p>\n            <strong>Brick mold</strong>: This was a small, rectangular wooden container (about 20–25 by 10 centimeters [8–10 by 4 inches]) used to form each brick into the same shape and size as the other bricks (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.8.2 Brick&lt;REALIA:1.8.2&gt;</a>).</p>\n<p>\n            <strong>Brickkiln</strong>: This was a large outdoor oven for baking bricks to harden them (see the illustration at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.11.1 Smelting furnace, kiln&lt;REALIA:1.11.1&gt;</a>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0357_brick.jpg\" alt=\"Mud bricks (original mud bricks of the outer gate structure of Philistine Ashkelon)\"><figcaption class=\"thlex-caption\">Mud bricks (original mud bricks of the outer gate structure of Philistine Ashkelon) (© Ian Scott, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>The mold was packed full with clay or other material from which bricks were made. Once the material was shaped, the brick was removed from the mold and left in the sun to dry. In some places the hardening process was facilitated by baking the bricks in a kiln or oven.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a>: The Hebrew word <em>malben</em> is only a proposed <em>qere</em> reading; it is unattested in any ancient manuscript or version. However, the text as it stands is unintelligible. <abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> suggests “brickkiln,” which is more or less what is found in most translations. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> have “making bricks,” <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> uses “build with bricks,” and <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> has “brickworks.”</p>\n<p>\n            <a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a>: The following is adapted from <em>A Handbook on The Books of Nahum, Habakkuk, and Zephaniah</em> (pages 55–56): The last half of this verse speaks about various parts of the process of making bricks. The first two parts are “go into the clay, tread the mortar” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). They refer to the trampling of the clay underfoot to make it soft enough to be shaped. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> drops the repetition and expresses this aspect of the brick making in a single clause: “Trample the clay to make bricks.” When the clay was soft enough, it was put into a brick mold. The bricks were then removed from the mold to dry in the sun. Nahum tells the people of Nineveh to “take hold of the brick mold” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>), or as <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> puts it more clearly, “get the brick molds ready.” The last half of this verse can also be rendered “Trample the clay that you use to make bricks, and prepare the brick molds” or “Use your feet to soften the clay that will be used to make bricks ….”</p>\n<p>See also the discussion at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.20.1 Pavement, The Pavement&lt;REALIA:3.20.1&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10012031",
+"start_ref_usfm": "2SA 12:31",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "34003014",
+"start_ref_usfm": "NAM 3:14",
+"end_ref": "34003014",
+"end_ref_usfm": "NAM 3:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:BrickMold",
+"type": "realia",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Brick Mold"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.2",
+"reference_id": "REALIA:1.8.2",
+"version": "1.0.4",
+"title": "Brick",
+"media_type": "Text",
+"index_reference": "1.8.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.2\"><span class=\"thlex-key\">1.8.2</span> Brick</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לְבֵנָה</span> <span class=\"thlex-translit\">(lvenah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen11:3\">GEN 11:3</a>, <a href=\"https://ref.ly/Gen11:3\">GEN 11:3</a>, <a href=\"https://ref.ly/Exod1:14\">EXO 1:14</a>, <a href=\"https://ref.ly/Exod5:8\">EXO 5:8</a>, <a href=\"https://ref.ly/Exod5:16\">EXO 5:16</a>, <a href=\"https://ref.ly/Exod5:18\">EXO 5:18</a>, <a href=\"https://ref.ly/Exod5:19\">EXO 5:19</a>, <a href=\"https://ref.ly/Isa9:9\">ISA 9:9</a>, <a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a>, <a href=\"https://ref.ly/Ezek4:1\">EZK 4:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πλίνθος</span> <span class=\"thlex-translit\">(plinthos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt5:11\">JDT 5:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The brick was a building block made of clay in a mold and either dried in the sun or hardened in an oven.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Bricks were used as a building material, especially in places where stone or wood was scarce.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>For <a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a> see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.2.4 Incense altar&lt;REALIA:4.2.4&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011003",
+"start_ref_usfm": "GEN 11:3",
+"end_ref": "01011003",
+"end_ref_usfm": "GEN 11:3"
+},
+{
+"start_ref": "02001014",
+"start_ref_usfm": "EXO 1:14",
+"end_ref": "02001014",
+"end_ref_usfm": "EXO 1:14"
+},
+{
+"start_ref": "02005008",
+"start_ref_usfm": "EXO 5:8",
+"end_ref": "02005008",
+"end_ref_usfm": "EXO 5:8"
+},
+{
+"start_ref": "02005016",
+"start_ref_usfm": "EXO 5:16",
+"end_ref": "02005016",
+"end_ref_usfm": "EXO 5:16"
+},
+{
+"start_ref": "02005018",
+"start_ref_usfm": "EXO 5:18",
+"end_ref": "02005018",
+"end_ref_usfm": "EXO 5:18"
+},
+{
+"start_ref": "02005019",
+"start_ref_usfm": "EXO 5:19",
+"end_ref": "02005019",
+"end_ref_usfm": "EXO 5:19"
+},
+{
+"start_ref": "23009009",
+"start_ref_usfm": "ISA 9:9",
+"end_ref": "23009009",
+"end_ref_usfm": "ISA 9:9"
+},
+{
+"start_ref": "23065003",
+"start_ref_usfm": "ISA 65:3",
+"end_ref": "23065003",
+"end_ref_usfm": "ISA 65:3"
+},
+{
+"start_ref": "26004001",
+"start_ref_usfm": "EZK 4:1",
+"end_ref": "26004001",
+"end_ref_usfm": "EZK 4:1"
+},
+{
+"start_ref": "69005011",
+"start_ref_usfm": "JDT 5:11",
+"end_ref": "69005011",
+"end_ref_usfm": "JDT 5:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Brick",
+"type": "realia",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Brick"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.3",
+"reference_id": "REALIA:1.8.3",
+"version": "1.0.4",
+"title": "Plaster, stucco, whitewash",
+"media_type": "Text",
+"index_reference": "1.8.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.3\"><span class=\"thlex-key\">1.8.3</span> Plaster, stucco, whitewash</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">גִּיר</span> <span class=\"thlex-translit\">(gir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">טפל</span> <span class=\"thlex-translit\">(tafal (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>, <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>, <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שִׂיד, שׂיד</span> <span class=\"thlex-translit\">(sid)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>, <a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>, <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>, <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">טוח, טִיחַ</span> <span class=\"thlex-translit\">(tuach (verb), tiach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev14:42\">LEV 14:42</a>, <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>, <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a>, <a href=\"https://ref.ly/1Chr29:4\">1CH 29:4</a>, <a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a>, <a href=\"https://ref.ly/Ezek13:11\">EZK 13:11</a>, <a href=\"https://ref.ly/Ezek13:12\">EZK 13:12</a>, <a href=\"https://ref.ly/Ezek13:12\">EZK 13:12</a>, <a href=\"https://ref.ly/Ezek13:14\">EZK 13:14</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">תָּפֵל</span> <span class=\"thlex-translit\">(tafel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a>, <a href=\"https://ref.ly/Ezek13:11\">EZK 13:11</a>, <a href=\"https://ref.ly/Ezek13:14\">EZK 13:14</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κονιάω</span> <span class=\"thlex-translit\">(koniaō (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a>, <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ψαμμωτός</span> <span class=\"thlex-translit\">(psammōtos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0052_plaster_covering.jpg\" alt=\"Plaster covering a stone wall\"><figcaption class=\"thlex-caption\">Plaster covering a stone wall (© Ray Pritz by United Bible Societies)</figcaption></figure>Plaster was a wet, pasty material used to cover a wall. It filled in holes and cracks, and when it dried, it left the wall smooth. Different materials were used, among them mud or a composition of lime, water, and sand. The plaster served to fill and seal spaces between the building stones and thus protect the surface from water seepage. Because it made a smooth surface, the plaster also served as a base for decorating walls with paint.</p>\n<p>Whitewash was lime mixed with water. It was painted on walls to make them white and cover ugly rough surfaces. Whitewash did not strengthen a structure but only beautified it. Even where decorations were not added, it was common to cover the plaster layer with whitewash.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0358_painted_plaster.jpg\" alt=\"Painted plaster\"><figcaption class=\"thlex-caption\">Painted plaster (British Museum, Public domain, via Wikimedia Commons)</figcaption></figure>“Plaster” may be translated “dry earth” or “dried mud.” This would be an accurate description of a material widely used at that time and a quite natural translation in many languages of the world (<a href=\"https://ref.ly/Lev14:41\">LEV 14:41</a>; <a href=\"https://ref.ly/Lev14:42\">LEV 14:42</a>; <a href=\"https://ref.ly/Lev14:45\">LEV 14:45</a>; <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a> uses the Hebrew word <em>‘afar</em>, which was just soil mixed with water to make mud). Where a distinction is made between kinds of plaster or sealant, it should be noted that some of the above references are to plaster made with lime (<a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>; <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a>). In some languages it may be necessary to resort to a general term meaning “covering” or “stucco.”</p>\n<p>The Hebrew word <em>tafal</em> (<a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>; <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>; <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a>) is always used in a figurative sense, and normally it will not be necessary to find a literal translation; for example, in <a href=\"https://ref.ly/Job13:4\">JOB 13:4</a> the literal text “you plaster with lies” may be rendered “You hide the truth with your lies” (<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr>) or “You cover up your ignorance with lies” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>).</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0053_whitewashed_buildings.jpg\" alt=\"Whitewashed buildings\"><figcaption class=\"thlex-caption\">Whitewashed buildings (© Ray Pritz by United Bible Societies)</figcaption></figure>The purpose of plastering a wall was to make it more attractive than just rough stones. This underlying purpose is reflected in <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ’s rendering for the last half of <a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a>: “a firm wall, finely decorated.”</p>\n<p>The references to whitewash in Ezekiel and the New Testament are symbolic. This should be kept in mind when trying to render the meaning; for example, in <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a> the literal text “And her prophets have spread whitewash for them” is expanded by <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> to “The prophets have hidden these sins like workers covering a wall with white­wash.” Where whitewash or some equivalent paint is unknown, translators may follow <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, which has “And the prophets try to cover this up.”</p>\n<p>In some of the references above it is not clear whether plaster or whitewash is intended. Some languages will require the translator to make a choice between the two. In most cases the context will help with the choice of terms. These following texts probably refer to plaster: <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>; <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>; <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a>; <a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>; <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>; <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a>; <a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a>. The remaining references are probably to whitewash.</p>\n<p>\n            <a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a>: For many languages the closest equivalent of the phrase “whitewashed tombs” is simply “tombs that have been painted white.”</p>\n<p>\n            <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a>: A literal translation of the phrase “whitewashed wall” is rarely meaningful. Sometimes you can use a descriptive phrase, such as “dirty wall that is made to look white” or “… to look clean.” In other instances you may wish to focus upon the function suggested by the idiom “whitewashed wall” and use a phrase such as “one who has been made to look good but really isn’t.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27005005",
+"start_ref_usfm": "DAN 5:5",
+"end_ref": "27005005",
+"end_ref_usfm": "DAN 5:5"
+},
+{
+"start_ref": "18013004",
+"start_ref_usfm": "JOB 13:4",
+"end_ref": "18013004",
+"end_ref_usfm": "JOB 13:4"
+},
+{
+"start_ref": "18014017",
+"start_ref_usfm": "JOB 14:17",
+"end_ref": "18014017",
+"end_ref_usfm": "JOB 14:17"
+},
+{
+"start_ref": "19119069",
+"start_ref_usfm": "PSA 119:69",
+"end_ref": "19119069",
+"end_ref_usfm": "PSA 119:69"
+},
+{
+"start_ref": "05027002",
+"start_ref_usfm": "DEU 27:2",
+"end_ref": "05027002",
+"end_ref_usfm": "DEU 27:2"
+},
+{
+"start_ref": "05027004",
+"start_ref_usfm": "DEU 27:4",
+"end_ref": "05027004",
+"end_ref_usfm": "DEU 27:4"
+},
+{
+"start_ref": "03014042",
+"start_ref_usfm": "LEV 14:42",
+"end_ref": "03014042",
+"end_ref_usfm": "LEV 14:42"
+},
+{
+"start_ref": "03014043",
+"start_ref_usfm": "LEV 14:43",
+"end_ref": "03014043",
+"end_ref_usfm": "LEV 14:43"
+},
+{
+"start_ref": "03014048",
+"start_ref_usfm": "LEV 14:48",
+"end_ref": "03014048",
+"end_ref_usfm": "LEV 14:48"
+},
+{
+"start_ref": "13029004",
+"start_ref_usfm": "1CH 29:4",
+"end_ref": "13029004",
+"end_ref_usfm": "1CH 29:4"
+},
+{
+"start_ref": "26013010",
+"start_ref_usfm": "EZK 13:10",
+"end_ref": "26013010",
+"end_ref_usfm": "EZK 13:10"
+},
+{
+"start_ref": "26013011",
+"start_ref_usfm": "EZK 13:11",
+"end_ref": "26013011",
+"end_ref_usfm": "EZK 13:11"
+},
+{
+"start_ref": "26013012",
+"start_ref_usfm": "EZK 13:12",
+"end_ref": "26013012",
+"end_ref_usfm": "EZK 13:12"
+},
+{
+"start_ref": "26013014",
+"start_ref_usfm": "EZK 13:14",
+"end_ref": "26013014",
+"end_ref_usfm": "EZK 13:14"
+},
+{
+"start_ref": "26013015",
+"start_ref_usfm": "EZK 13:15",
+"end_ref": "26013015",
+"end_ref_usfm": "EZK 13:15"
+},
+{
+"start_ref": "26022028",
+"start_ref_usfm": "EZK 22:28",
+"end_ref": "26022028",
+"end_ref_usfm": "EZK 22:28"
+},
+{
+"start_ref": "40023027",
+"start_ref_usfm": "MAT 23:27",
+"end_ref": "40023027",
+"end_ref_usfm": "MAT 23:27"
+},
+{
+"start_ref": "44023003",
+"start_ref_usfm": "ACT 23:3",
+"end_ref": "44023003",
+"end_ref_usfm": "ACT 23:3"
+},
+{
+"start_ref": "72022017",
+"start_ref_usfm": "SIR 22:17",
+"end_ref": "72022017",
+"end_ref_usfm": "SIR 22:17"
+},
+{
+"start_ref": "03014041",
+"start_ref_usfm": "LEV 14:41",
+"end_ref": "03014041",
+"end_ref_usfm": "LEV 14:41"
+},
+{
+"start_ref": "03014045",
+"start_ref_usfm": "LEV 14:45",
+"end_ref": "03014045",
+"end_ref_usfm": "LEV 14:45"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Plaster",
+"type": "realia",
+"confidence": 0.642,
+"match_method": "scored",
+"preferred_label": "Plaster"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.4",
+"reference_id": "REALIA:1.8.4",
+"version": "1.0.4",
+"title": "Squared stones for building",
+"media_type": "Text",
+"index_reference": "1.8.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.4\"><span class=\"thlex-key\">1.8.4</span> Squared stones for building</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֶבֶן, גָּזִית</span> <span class=\"thlex-translit\">(gazith, ’even gazith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod20:25\">EXO 20:25</a>, <a href=\"https://ref.ly/1Kgs5:31\">1KI 5:31</a>, <a href=\"https://ref.ly/1Kgs6:36\">1KI 6:36</a>, <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>, <a href=\"https://ref.ly/1Kgs7:11\">1KI 7:11</a>, <a href=\"https://ref.ly/1Kgs7:12\">1KI 7:12</a>, <a href=\"https://ref.ly/1Chr22:2\">1CH 22:2</a>, <a href=\"https://ref.ly/Isa9:9\">ISA 9:9</a>, <a href=\"https://ref.ly/Lam3:9\">LAM 3:9</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Amos5:11\">AMO 5:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λίθος, λαξεύω</span> <span class=\"thlex-translit\">(lithos lelaxeumenos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt1:2\">JDT 1:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λίθος, ξυστός</span> <span class=\"thlex-translit\">(lithos xustos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:8\">1ES 6:8</a>, <a href=\"https://ref.ly/1Esd6:24\">1ES 6:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λίθος, τετράποδος</span> <span class=\"thlex-translit\">(lithos tetrapodos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc10:11\">1MA 10:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0359_squared_stone.jpg\" alt=\"Herodian squared stones in the Western Wall, Jerusalem\"><figcaption class=\"thlex-caption\">Herodian squared stones in the Western Wall, Jerusalem (© Gilabrand, CC BY 3.0, via Wikimedia Commons)</figcaption></figure>Squared stones were stones (often quarried from the bedrock) that were cut square so that they could be laid one on another to form a wall or building.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The size of building stones varied considerably, from stones that could be lifted by a man to some which were several meters long and weighed many tons. Translators should avoid a word that means simply bricks or small stones. We may say “very large stones that have been cut into square blocks.”</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0054_ceiling_wall_en.jpg\" alt=\"Ceiling, wall, tefachoth\"><figcaption class=\"thlex-caption\">Ceiling, wall, tefachoth (© Ray Pritz by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>: This verse describes building stones that were smoothed on both back and front. They were used for each wall, from bottom to top. For the top of the wall, the Hebrew text uses the word <em>tfachoth</em>, which is usually rendered as “eaves” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) or “coping” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>). In many languages such a technical term will be lacking or not widely understood (like “eaves” and “coping” in common English). It has recently been suggested, however, that the <em>tfachoth</em> were actually a decorative feature at the top of the wall, resembling two or three inverted steps between the ceiling and the wall.</p>\n<p>Normally it is not necessary to translate such an unsure term with great architectural precision, and for the whole verse it will be preferable to follow a version like <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, which says “From the foundation all the way to the top, these buildings and the courtyard were made out of the best stones carefully cut to size, then smoothed on every side with saws,” or <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, which has “All these buildings were made with blocks of fine stone. First they were carefully cut. Then they were trimmed with a saw in the front and back. These fine stones went from the foundations of the buildings to the top of the walls. Even the courtyard was made with blocks of stone.”</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0019_building_stone.png\" alt=\"Men moving a building stone\"><figcaption class=\"thlex-caption\">Men moving a building stone (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The stones in <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a> are said to form a “table” (<em>shulchan</em> in Hebrew). See the discussion at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.3.6 Tables for preparing sacrificial victims&lt;REALIA:4.3.6&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020025",
+"start_ref_usfm": "EXO 20:25",
+"end_ref": "02020025",
+"end_ref_usfm": "EXO 20:25"
+},
+{
+"start_ref": "11005031",
+"start_ref_usfm": "1KI 5:31",
+"end_ref": "11005031",
+"end_ref_usfm": "1KI 5:31"
+},
+{
+"start_ref": "11006036",
+"start_ref_usfm": "1KI 6:36",
+"end_ref": "11006036",
+"end_ref_usfm": "1KI 6:36"
+},
+{
+"start_ref": "11007009",
+"start_ref_usfm": "1KI 7:9",
+"end_ref": "11007009",
+"end_ref_usfm": "1KI 7:9"
+},
+{
+"start_ref": "11007011",
+"start_ref_usfm": "1KI 7:11",
+"end_ref": "11007011",
+"end_ref_usfm": "1KI 7:11"
+},
+{
+"start_ref": "11007012",
+"start_ref_usfm": "1KI 7:12",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "13022002",
+"start_ref_usfm": "1CH 22:2",
+"end_ref": "13022002",
+"end_ref_usfm": "1CH 22:2"
+},
+{
+"start_ref": "23009009",
+"start_ref_usfm": "ISA 9:9",
+"end_ref": "23009009",
+"end_ref_usfm": "ISA 9:9"
+},
+{
+"start_ref": "25003009",
+"start_ref_usfm": "LAM 3:9",
+"end_ref": "25003009",
+"end_ref_usfm": "LAM 3:9"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "30005011",
+"start_ref_usfm": "AMO 5:11",
+"end_ref": "30005011",
+"end_ref_usfm": "AMO 5:11"
+},
+{
+"start_ref": "69001002",
+"start_ref_usfm": "JDT 1:2",
+"end_ref": "69001002",
+"end_ref_usfm": "JDT 1:2"
+},
+{
+"start_ref": "82006008",
+"start_ref_usfm": "1ES 6:8",
+"end_ref": "82006008",
+"end_ref_usfm": "1ES 6:8"
+},
+{
+"start_ref": "82006024",
+"start_ref_usfm": "1ES 6:24",
+"end_ref": "82006024",
+"end_ref_usfm": "1ES 6:24"
+},
+{
+"start_ref": "78010011",
+"start_ref_usfm": "1MA 10:11",
+"end_ref": "78010011",
+"end_ref_usfm": "1MA 10:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.8.4.1",
+"reference_id": "REALIA:1.8.4.1",
+"version": "1.0.4",
+"title": "Stone plane, saw",
+"media_type": "Text",
+"index_reference": "1.8.4.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.4.1\"><span class=\"thlex-key\">1.8.4.1</span> Stone plane, saw</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְגֵרָה</span> <span class=\"thlex-translit\">(mgerah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a>, <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>, <a href=\"https://ref.ly/1Chr20:3\">1CH 20:3</a>, <a href=\"https://ref.ly/1Chr20:3\">1CH 20:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The stone plane/saw was an instrument used in the preparation of building stones.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a>: There is disagreement among scholars concerning the precise action that is being described here, and this is reflected in the different translations. It is possible to understand that David tortured or killed the inhabitants of Rabbah with various implements, including saws (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr>). Most modern translations, however, understand the text to mean that David put the people to work with those implements (for example, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> “He also brought out the people of the city and forced them to work with saws, iron picks, and axes …”). This is the preferred interpretation. While the argument is more complicated for the parallel text at <a href=\"https://ref.ly/1Chr20:3\">1CH 20:3</a> (which is not identical), most translations give the same rendering there.</p>\n<p>It now seems probable that translations have been inaccurate in rendering the Hebrew word <em>mgerah</em> as “saw[s].” Archaeology knows of no use of saws either to quarry or to shape stones in the time period described. Many building stones have been found which were finely smoothed, but these stones show none of the marks that would have been left by a saw. It has been proposed that the <em>mgerah</em> was a heavy metal instrument with a wide rough surface, like that of a file. This instrument was pushed and pulled across the surface of the stone until it was quite smooth. This would have been heavy and exhausting work, appropriate for captives or slaves (see Barkay, pages 32–37).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10012031",
+"start_ref_usfm": "2SA 12:31",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "11007009",
+"start_ref_usfm": "1KI 7:9",
+"end_ref": "11007009",
+"end_ref_usfm": "1KI 7:9"
+},
+{
+"start_ref": "13020003",
+"start_ref_usfm": "1CH 20:3",
+"end_ref": "13020003",
+"end_ref_usfm": "1CH 20:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:StonePlane",
+"type": "realia",
+"confidence": 0.9325,
+"match_method": "scored",
+"preferred_label": "Stone Plane"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.5",
+"reference_id": "REALIA:1.8.5",
+"version": "1.0.4",
+"title": "Plumb line",
+"media_type": "Text",
+"index_reference": "1.8.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.5\"><span class=\"thlex-key\">1.8.5</span> Plumb line</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֲנָךְ</span> <span class=\"thlex-translit\">(’anak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a>, <a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a>, <a href=\"https://ref.ly/Amos7:8\">AMO 7:8</a>, <a href=\"https://ref.ly/Amos7:8\">AMO 7:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֶבֶן בְּדִ֛יל</span> <span class=\"thlex-translit\">(’even bedil)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Zech4:10\">ZEC 4:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִשְׁקֶלֶת, מִשְׁקֹלֶת</span> <span class=\"thlex-translit\">(mishqeleth, mishqoleth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a>, <a href=\"https://ref.ly/Isa28:17\">ISA 28:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0936_plumb_line.png\" alt=\"A plumb line is used to check verticality\"><figcaption class=\"thlex-caption\">A plumb line is used to check verticality (© Pearson Scott Foresman © Wikimedia Commons)</figcaption></figure>The plumb line was a weight suspended on the end of a string, used by builders to determine, for example, if all the stones in a wall were vertically straight.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0937_plumb_line.jpg\" alt=\"A craftsman checking verticality with a plumb line\"><figcaption class=\"thlex-caption\">A craftsman checking verticality with a plumb line (© Salil Kumar Mukherjee © Wikimedia Commons)</figcaption></figure>In many cultures the only tool similar to the plumb line is the water-level, and the Pidgin English word “wataplan” has often become part of the vocabulary. This measures the horizontal plane rather than the vertical one, but might serve the purpose. Where there is no word for plumb line or where an existing word would not be understood by most readers, it may be necessary to use a descriptive phrase, as does <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> at <a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a> by saying “a weight tied to the end of it. The string and weight had been used to measure the straightness of the wall.” In addition, some kind of illustration to show the shape and use of the tool might be helpful. In <a href=\"https://ref.ly/Amos7:8\">AMO 7:8</a><abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> translates “plumb line” as “measuring line.” “Measuring line” is also used by <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> at <a href=\"https://ref.ly/Isa28:17\">ISA 28:17</a> (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.8.6 Measuring rod, measuring line&lt;REALIA:1.8.6&gt;</a>).</p>\n<p>In <a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a> the Hebrew text is literally “And I will stretch out over Jerusalem the measuring line of Samaria and the plumb line of the house of Ahab.” Here both “the measuring line” and “the plumb line” are used symbolically, so translators may convey the meaning without actually referring to them. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> may serve as a model: “I will punish Jerusalem as I did Samaria, as I did King Ahab of Israel and his descendants.” Compare <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>: “Jerusalem is as sinful as Ahab and the people of Samaria were.”</p>\n<p>\n            <a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a>: The LORD is seen as standing on or by a wall, which in Hebrew is called “a wall of a plumb line.” The translation “plumb line” is not fully certain but no other suggestion is as good. <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> tries to make sense out of the phrase “a wall of a plumb line” by saying “a wall that had been built with the use of a plumb line” (similarly <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <em>The Translator’s Old Testament</em> [TOT]). On the other hand, it may be better to follow most modern English translations (<abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr>, <abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>, <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>) as well as many commentators who have something like “standing by a wall with a plumb line in his hand” for the last half of this verse. They consider “of a plumb line” to be the result of a copying mistake. A possible model for the whole verse is “The LORD caused me to see again in a vision. I saw him on the top of a wall stretching out a cord to see whether the wall was straight.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "30007007",
+"start_ref_usfm": "AMO 7:7",
+"end_ref": "30007007",
+"end_ref_usfm": "AMO 7:7"
+},
+{
+"start_ref": "30007008",
+"start_ref_usfm": "AMO 7:8",
+"end_ref": "30007008",
+"end_ref_usfm": "AMO 7:8"
+},
+{
+"start_ref": "38004010",
+"start_ref_usfm": "ZEC 4:10",
+"end_ref": "38004010",
+"end_ref_usfm": "ZEC 4:10"
+},
+{
+"start_ref": "12021013",
+"start_ref_usfm": "2KI 21:13",
+"end_ref": "12021013",
+"end_ref_usfm": "2KI 21:13"
+},
+{
+"start_ref": "23028017",
+"start_ref_usfm": "ISA 28:17",
+"end_ref": "23028017",
+"end_ref_usfm": "ISA 28:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:PlumbLine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Plumb Line"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.6",
+"reference_id": "REALIA:1.8.6",
+"version": "1.0.4",
+"title": "Measuring rod, measuring line",
+"media_type": "Text",
+"index_reference": "1.8.6",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.6\"><span class=\"thlex-key\">1.8.6</span> Measuring rod, measuring line</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>Rod</strong>:</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קָנֶה</span> <span class=\"thlex-translit\">(qaneh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κάλαμος</span> <span class=\"thlex-translit\">(kalamos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Rev21:15\">REV 21:15</a>, <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>Line</strong>:</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חֶבֶל, מִדָּה</span> <span class=\"thlex-translit\">(chevel, chevel midah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>, <a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>, <a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>, <a href=\"https://ref.ly/Ps78:55\">PSA 78:55</a>, <a href=\"https://ref.ly/Amos7:17\">AMO 7:17</a>, <a href=\"https://ref.ly/Mic2:5\">MIC 2:5</a>, <a href=\"https://ref.ly/Zech2:5\">ZEC 2:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חוּט</span> <span class=\"thlex-translit\">(chut)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:15\">1KI 7:15</a>, <a href=\"https://ref.ly/Jer52:21\">JER 52:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פָּתִיל</span> <span class=\"thlex-translit\">(pathil)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קַו, קָוֶה, מִדָּה</span> <span class=\"thlex-translit\">(qaw, qaw midah, qaweh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/Job38:5\">JOB 38:5</a>, <a href=\"https://ref.ly/Isa28:17\">ISA 28:17</a>, <a href=\"https://ref.ly/Isa34:11\">ISA 34:11</a>, <a href=\"https://ref.ly/Isa34:17\">ISA 34:17</a>, <a href=\"https://ref.ly/Isa44:13\">ISA 44:13</a>, <a href=\"https://ref.ly/Jer31:39\">JER 31:39</a>, <a href=\"https://ref.ly/Jer31:39\">JER 31:39</a>, <a href=\"https://ref.ly/Lam2:8\">LAM 2:8</a>, <a href=\"https://ref.ly/Ezek47:3\">EZK 47:3</a>, <a href=\"https://ref.ly/Zech1:16\">ZEC 1:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0360_measuring_line.jpg\" alt=\"Surveyors measure a plot of land using rope with knots tied at regular intervals (facsimile, painted by Charles K. Wilkinson; tomb of Menna, original ca. 1400–1352 BCE)\"><figcaption class=\"thlex-caption\">Surveyors measure a plot of land using rope with knots tied at regular intervals (facsimile, painted by Charles K. Wilkinson; tomb of Menna, original ca. 1400–1352 BCE) (Metropolitan Museum of Art, Public domain)</figcaption></figure>The measuring rod/line was an instrument used for measuring length. It could be a reed, stick, or rope.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The equivalent for “measuring rod” may be simply “measuring stick” or “stick with which to count the distance.”</p>\n<p>\n            <a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a>: The declaration of judgment in this verse was given before the capture and exile of Judah but after the defeat of the northern kingdom with its capital in Samaria. The “measuring line” is used as a device to indicate that the sins of the southern kingdom with its capital in Jerusalem are just as bad as those of the northern kingdom with its capital Samaria. Some common-language translations choose to drop the image of the “measuring line” in favor of a direct statement of the essence of the judgment; for example, the first half of this verse in <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> reads “Jerusalem is as sinful as Ahab and the people of Samaria were” (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.8.5 Plumb line&lt;REALIA:1.8.5&gt;</a>).</p>\n<p>\n            <a href=\"https://ref.ly/Mic2:5\">MIC 2:5</a>: The Hebrew word <em>chevel</em> in this verse refers to a line used to measure out property for ownership. The prophet is saying that when the exiles of Judah return, the families of the rich people will have no share or plot of land. The Hebrew refers specifically to the process by which the family shares were chosen. The “lot” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) was probably a set of stones with special markings on them (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.9 Lots&lt;REALIA:4.9&gt;</a>). The stone chosen would show what God’s will was in that particular case. The “line” is the measuring line used to mark out the family plots. The lots may have been used to show where the measuring line should be placed. Most translators prefer to express the general procedure of parceling out the land and its significance rather than trying to render the specific instruments involved in the procedure; for example, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> has “And so you will never again own property among the LORD’s people,” and <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “So then, when the time comes for the land to be given back to the LORD’s people, there will be no share for any of you.”</p>\n<p>\n            <a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>: <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> renders the Greek phrase of three words near the beginning of this verse as “a measuring rod like a staff.” However, the meaning of the Greek is better expressed by <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> “a long cane like a measuring rod”; compare <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “a stick that looked like a measuring-rod,” <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> “a long cane to use as a measuring rod,” <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> “a reed like a measuring rod,” and the Chewa common language translation, which has “a reed for measuring with that looked like a walking stick.” The first Greek word in this phrase is <em>kalamos</em>. It designates a reed or a cane (see its use in <a href=\"https://ref.ly/Rev21:15\">REV 21:15</a>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a>, where <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> has “measuring stick”). The third Greek word, <em>rhabdos</em>, refers to a staff or a rod here. Elsewhere in Revelation it refers to the “iron rod” (or, “scepter”) used by Jesus Christ (<a href=\"https://ref.ly/Rev12:5\">REV 12:5</a>; <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>) and his followers (<a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>). It is better to follow <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> or <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> in translating the passage here. See also the remarks at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.2.4 Rod, club, shepherd’s staff&lt;REALIA:1.2.4&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26040006",
+"start_ref_usfm": "EZK 40:6",
+"end_ref": "26040006",
+"end_ref_usfm": "EZK 40:6"
+},
+{
+"start_ref": "26040007",
+"start_ref_usfm": "EZK 40:7",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "26040008",
+"start_ref_usfm": "EZK 40:8",
+"end_ref": "26040008",
+"end_ref_usfm": "EZK 40:8"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26042016",
+"start_ref_usfm": "EZK 42:16",
+"end_ref": "26042016",
+"end_ref_usfm": "EZK 42:16"
+},
+{
+"start_ref": "26042017",
+"start_ref_usfm": "EZK 42:17",
+"end_ref": "26042017",
+"end_ref_usfm": "EZK 42:17"
+},
+{
+"start_ref": "26042018",
+"start_ref_usfm": "EZK 42:18",
+"end_ref": "26042018",
+"end_ref_usfm": "EZK 42:18"
+},
+{
+"start_ref": "26042019",
+"start_ref_usfm": "EZK 42:19",
+"end_ref": "26042019",
+"end_ref_usfm": "EZK 42:19"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66021015",
+"start_ref_usfm": "REV 21:15",
+"end_ref": "66021015",
+"end_ref_usfm": "REV 21:15"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "10008002",
+"start_ref_usfm": "2SA 8:2",
+"end_ref": "10008002",
+"end_ref_usfm": "2SA 8:2"
+},
+{
+"start_ref": "19078055",
+"start_ref_usfm": "PSA 78:55",
+"end_ref": "19078055",
+"end_ref_usfm": "PSA 78:55"
+},
+{
+"start_ref": "30007017",
+"start_ref_usfm": "AMO 7:17",
+"end_ref": "30007017",
+"end_ref_usfm": "AMO 7:17"
+},
+{
+"start_ref": "33002005",
+"start_ref_usfm": "MIC 2:5",
+"end_ref": "33002005",
+"end_ref_usfm": "MIC 2:5"
+},
+{
+"start_ref": "38002005",
+"start_ref_usfm": "ZEC 2:5",
+"end_ref": "38002005",
+"end_ref_usfm": "ZEC 2:5"
+},
+{
+"start_ref": "11007015",
+"start_ref_usfm": "1KI 7:15",
+"end_ref": "11007015",
+"end_ref_usfm": "1KI 7:15"
+},
+{
+"start_ref": "24052021",
+"start_ref_usfm": "JER 52:21",
+"end_ref": "24052021",
+"end_ref_usfm": "JER 52:21"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007023",
+"end_ref_usfm": "1KI 7:23"
+},
+{
+"start_ref": "12021013",
+"start_ref_usfm": "2KI 21:13",
+"end_ref": "12021013",
+"end_ref_usfm": "2KI 21:13"
+},
+{
+"start_ref": "14004002",
+"start_ref_usfm": "2CH 4:2",
+"end_ref": "14004002",
+"end_ref_usfm": "2CH 4:2"
+},
+{
+"start_ref": "18038005",
+"start_ref_usfm": "JOB 38:5",
+"end_ref": "18038005",
+"end_ref_usfm": "JOB 38:5"
+},
+{
+"start_ref": "23028017",
+"start_ref_usfm": "ISA 28:17",
+"end_ref": "23028017",
+"end_ref_usfm": "ISA 28:17"
+},
+{
+"start_ref": "23034011",
+"start_ref_usfm": "ISA 34:11",
+"end_ref": "23034011",
+"end_ref_usfm": "ISA 34:11"
+},
+{
+"start_ref": "23034017",
+"start_ref_usfm": "ISA 34:17",
+"end_ref": "23034017",
+"end_ref_usfm": "ISA 34:17"
+},
+{
+"start_ref": "23044013",
+"start_ref_usfm": "ISA 44:13",
+"end_ref": "23044013",
+"end_ref_usfm": "ISA 44:13"
+},
+{
+"start_ref": "24031039",
+"start_ref_usfm": "JER 31:39",
+"end_ref": "24031039",
+"end_ref_usfm": "JER 31:39"
+},
+{
+"start_ref": "25002008",
+"start_ref_usfm": "LAM 2:8",
+"end_ref": "25002008",
+"end_ref_usfm": "LAM 2:8"
+},
+{
+"start_ref": "26047003",
+"start_ref_usfm": "EZK 47:3",
+"end_ref": "26047003",
+"end_ref_usfm": "EZK 47:3"
+},
+{
+"start_ref": "38001016",
+"start_ref_usfm": "ZEC 1:16",
+"end_ref": "38001016",
+"end_ref_usfm": "ZEC 1:16"
+},
+{
+"start_ref": "66012005",
+"start_ref_usfm": "REV 12:5",
+"end_ref": "66012005",
+"end_ref_usfm": "REV 12:5"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "66002027",
+"start_ref_usfm": "REV 2:27",
+"end_ref": "66002027",
+"end_ref_usfm": "REV 2:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.7372,
+"match_method": "scored",
+"preferred_label": "Measuring Reed"
+}
+]
+}
+}
+]

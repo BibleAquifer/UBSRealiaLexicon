@@ -1,0 +1,731 @@
+[
+{
+"content_id": "REALIA:1.8",
+"reference_id": "REALIA:1.8",
+"version": "1.0.4",
+"title": "標題：建築工（builders）",
+"media_type": "Text",
+"index_reference": "1.8",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8\"><span class=\"thlex-key\">1.8</span> 標題：建築工（builders）</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.8.1",
+"reference_id": "REALIA:1.8.1",
+"version": "1.0.4",
+"title": "標題：磚模、磚窰（brick mold, brickkiln）",
+"media_type": "Text",
+"index_reference": "1.8.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.1\"><span class=\"thlex-key\">1.8.1</span> 標題：磚模、磚窰（brick mold, brickkiln）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַלְבֵּן</span> <span class=\"thlex-translit\">(音譯： malben)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a>, <a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0356_brick_mold.jpg\" alt=\"哈特謝普蘇特（Hatshepsut）神廟地基磚模（埃及）\"><figcaption class=\"thlex-caption\">哈特謝普蘇特（Hatshepsut）神廟地基磚模（埃及） (Metropolitan Museum of Art, CC0, via Wikimedia Commons)</figcaption></figure>\n          </p>\n<p>\n            <strong>磚模</strong> ：這是一種長方形的木製容器，不是很大，約20–25×10厘米（8–10×4英吋），用來製作形狀和大小完全相同的泥磚（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.8.2 磚 (brick)&lt;REALIA:1.8.2&gt;</a> ）。</p>\n<p>\n            <strong>磚窰</strong> ：這是一個大型室外烤爐，用來燒磚使其變得堅硬（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.11.1 窰、爐 (smelting furnace, kiln)&lt;REALIA:1.11.1&gt;</a> 中的插圖）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0357_brick.jpg\" alt=\"泥磚（非利士亞實基倫外城門結構的原用泥磚）\"><figcaption class=\"thlex-caption\">泥磚（非利士亞實基倫外城門結構的原用泥磚） (© Ian Scott, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>工人把黏土或其他製磚材料填充在磚模中。待材料定型後，再把磚從模具中脫出並在陽光下曬乾。有些地方會把磚放在磚窰裡面烘烤使其變硬。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a> ：希伯來文<em>malben</em> 只是馬索拉學者認為經文有錯誤，所以在頁旁特別註明的一種讀法；不過，這個建議讀法未見於任何古代抄本或譯本中。但是，現有文本也是讀不通的。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 建議譯作「磚窰」，這是大多數譯本的譯法。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 和<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 譯成“making bricks”（「做磚」），<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯成“build with bricks”（「用磚建造」），<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 譯成“brickworks”（「砌磚工作」）。</p>\n<p>\n            <a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a> ：下文改述自《〈那鴻書〉、〈哈巴谷書〉和〈西番雅書〉手冊》（<em>A Handbook on The Books of Nahum, Habakkuk, and Zephaniah</em> ，第55—56頁）：這節經文的後半部分講述了製磚的各個步驟。前兩個步驟是「走到黏土裡面，踩踏泥漿」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯），指的是用腳踹踏黏土，使其足夠柔軟以便成型。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 沒有採用並列句，只用一個分句來表達做磚的這個環節：「踹泥以製磚。」在黏土足夠柔軟之後，就被放入到磚模裡面。然後，把成型的磚從模具中取出，放在陽光下曬乾。那鴻吩咐尼尼微人「抓住磚模」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯），<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 的表述更加清楚，英文直譯「將磚模準備就緒」。這節經文的後半部分也可以譯成，「踩踏用來製磚的黏土，並準備磚模」，或「用你的腳使製磚所用的黏土變得柔軟，並準備磚模」。</p>\n<p>另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.20.1 鋪道、石板地、鋪石地、鋪華石處 (pavement, The Pavement)&lt;REALIA:3.20.1&gt;</a> 中的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10012031",
+"start_ref_usfm": "2SA 12:31",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "34003014",
+"start_ref_usfm": "NAM 3:14",
+"end_ref": "34003014",
+"end_ref_usfm": "NAM 3:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:BrickMold",
+"type": "realia",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Brick Mold"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.2",
+"reference_id": "REALIA:1.8.2",
+"version": "1.0.4",
+"title": "標題：磚（brick）",
+"media_type": "Text",
+"index_reference": "1.8.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.2\"><span class=\"thlex-key\">1.8.2</span> 標題：磚（brick）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： לְבֵנָה</span> <span class=\"thlex-translit\">(音譯： lvenah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen11:3\">GEN 11:3</a>, <a href=\"https://ref.ly/Gen11:3\">GEN 11:3</a>, <a href=\"https://ref.ly/Exod1:14\">EXO 1:14</a>, <a href=\"https://ref.ly/Exod5:8\">EXO 5:8</a>, <a href=\"https://ref.ly/Exod5:16\">EXO 5:16</a>, <a href=\"https://ref.ly/Exod5:18\">EXO 5:18</a>, <a href=\"https://ref.ly/Exod5:19\">EXO 5:19</a>, <a href=\"https://ref.ly/Isa9:9\">ISA 9:9</a>, <a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a>, <a href=\"https://ref.ly/Ezek4:1\">EZK 4:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： πλίνθος</span> <span class=\"thlex-translit\">(音譯： plinthos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt5:11\">JDT 5:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>磚是用黏土製成的建築砌塊，使用模具成型，放在陽光下曬乾或在磚窰中加熱硬化。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>磚被廣泛用作建築材料，特別是在石頭或木材稀缺的地方。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>關於<a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a> ，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.2.4 香壇 (incense altar)&lt;REALIA:4.2.4&gt;</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011003",
+"start_ref_usfm": "GEN 11:3",
+"end_ref": "01011003",
+"end_ref_usfm": "GEN 11:3"
+},
+{
+"start_ref": "02001014",
+"start_ref_usfm": "EXO 1:14",
+"end_ref": "02001014",
+"end_ref_usfm": "EXO 1:14"
+},
+{
+"start_ref": "02005008",
+"start_ref_usfm": "EXO 5:8",
+"end_ref": "02005008",
+"end_ref_usfm": "EXO 5:8"
+},
+{
+"start_ref": "02005016",
+"start_ref_usfm": "EXO 5:16",
+"end_ref": "02005016",
+"end_ref_usfm": "EXO 5:16"
+},
+{
+"start_ref": "02005018",
+"start_ref_usfm": "EXO 5:18",
+"end_ref": "02005018",
+"end_ref_usfm": "EXO 5:18"
+},
+{
+"start_ref": "02005019",
+"start_ref_usfm": "EXO 5:19",
+"end_ref": "02005019",
+"end_ref_usfm": "EXO 5:19"
+},
+{
+"start_ref": "23009009",
+"start_ref_usfm": "ISA 9:9",
+"end_ref": "23009009",
+"end_ref_usfm": "ISA 9:9"
+},
+{
+"start_ref": "23065003",
+"start_ref_usfm": "ISA 65:3",
+"end_ref": "23065003",
+"end_ref_usfm": "ISA 65:3"
+},
+{
+"start_ref": "26004001",
+"start_ref_usfm": "EZK 4:1",
+"end_ref": "26004001",
+"end_ref_usfm": "EZK 4:1"
+},
+{
+"start_ref": "69005011",
+"start_ref_usfm": "JDT 5:11",
+"end_ref": "69005011",
+"end_ref_usfm": "JDT 5:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Brick",
+"type": "realia",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Brick"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.3",
+"reference_id": "REALIA:1.8.3",
+"version": "1.0.4",
+"title": "標題：灰泥、石灰、白塗料（plaster, stucco, whitewash）",
+"media_type": "Text",
+"index_reference": "1.8.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.3\"><span class=\"thlex-key\">1.8.3</span> 標題：灰泥、石灰、白塗料（plaster, stucco, whitewash）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">蘭：גִּיר</span> <span class=\"thlex-translit\">(音譯： gir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： טפל</span> <span class=\"thlex-translit\">(音譯： tafal（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>, <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>, <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שִׂיד, שׂיד</span> <span class=\"thlex-translit\">(音譯： sid)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>, <a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>, <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>, <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： טוח, טִיחַ</span> <span class=\"thlex-translit\">(音譯： tuach（動詞）, tiach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Lev14:42\">LEV 14:42</a>, <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>, <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a>, <a href=\"https://ref.ly/1Chr29:4\">1CH 29:4</a>, <a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a>, <a href=\"https://ref.ly/Ezek13:11\">EZK 13:11</a>, <a href=\"https://ref.ly/Ezek13:12\">EZK 13:12</a>, <a href=\"https://ref.ly/Ezek13:12\">EZK 13:12</a>, <a href=\"https://ref.ly/Ezek13:14\">EZK 13:14</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תָּפֵל</span> <span class=\"thlex-translit\">(音譯： tafel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek13:10\">EZK 13:10</a>, <a href=\"https://ref.ly/Ezek13:11\">EZK 13:11</a>, <a href=\"https://ref.ly/Ezek13:14\">EZK 13:14</a>, <a href=\"https://ref.ly/Ezek13:15\">EZK 13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κονιάω</span> <span class=\"thlex-translit\">(音譯： koniaō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a>, <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ψαμμωτός</span> <span class=\"thlex-translit\">(音譯： psammōtos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0052_plaster_covering.jpg\" alt=\"覆蓋石牆的石膏灰泥\"><figcaption class=\"thlex-caption\">覆蓋石牆的石膏灰泥 (© Ray Pritz by United Bible Societies)</figcaption></figure>灰泥是一種濕潤的糊狀材料，用於塗抹牆壁。灰泥把孔洞和裂縫填充平整，乾燥後就使牆壁變得光滑。灰泥有多種材料，例如泥或者石灰、水、沙子的混合物。灰泥能填充和密封建築石材之間的空隙，從而防止表面滲水。灰泥抹平後可以得到光滑的表面，所以也用作牆壁的基底，然後刷油漆進行裝飾。</p>\n<p>白塗料（石灰水）是石灰和水的混合物，刷在牆上使其變白，覆蓋不好看的粗糙表面。白塗料並不會使牆壁更加堅固，只有美化的作用。即使在不加裝飾的地方，也經常會用白塗料粉刷灰泥層。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0358_painted_plaster.jpg\" alt=\"彩繪石膏\"><figcaption class=\"thlex-caption\">彩繪石膏 (British Museum, Public domain, via Wikimedia Commons)</figcaption></figure>「灰泥」可以翻譯為「乾土」或「乾泥」。對於當時這種廣泛使用的材料，此描述相當準確，也是世界許多語言中非常自然的譯法。（<a href=\"https://ref.ly/Lev14:41\">LEV 14:41</a>; <a href=\"https://ref.ly/Lev14:42\">LEV 14:42</a>; <a href=\"https://ref.ly/Lev14:45\">LEV 14:45</a>; <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a> 用的是希伯來文<em>‘afar</em> ，這只是土和水混合而成的泥）。如果目標語言區分各種灰泥和填縫材料，那麼翻譯者需要注意，上面提到的部分經文是指用石灰製成的灰泥（<a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>; <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a> ）。有些語言可能需要使用意為「覆蓋物」或「石灰」的泛稱。</p>\n<p>希伯來文<em>tafal</em> （<a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>; <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>; <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a> ）始終用作比喻，通常沒有必要採用字面翻譯；例如，在<a href=\"https://ref.ly/Job13:4\">JOB 13:4</a> 中，原文字面意為「你用謊言抹泥」一語，可以譯為「你用謊言掩蓋真相」（<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 直譯）或「你用謊言掩蓋你的無知」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯）。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0053_whitewashed_buildings.jpg\" alt=\"粉刷過的建築物\"><figcaption class=\"thlex-caption\">粉刷過的建築物 (© Ray Pritz by United Bible Societies)</figcaption></figure>牆壁抹灰的目的是遮蓋粗糙的石頭牆面，使其更加好看。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 在<a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a> 中的譯文反映出這個隱含的目的，英文直譯作「堅固的牆，有精美的裝飾」。</p>\n<p>《以西結書》和新約中提到的粉刷具有象徵意義，翻譯者需要牢記這一點；例如，在<a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a> 中，原文字面意為「她的先知為他們粉刷」一語在<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 中採用了擴展翻譯，英文直譯為：「先知掩飾了這些罪行，就像工人用白塗料粉刷牆壁。」如果當地文化不知道白塗料或其他類似塗料，翻譯者可以借鑒<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ，英文直譯為：「先知試圖掩蓋這事。」</p>\n<p>在本詞條的一些參考經文中，我們不確定經文指的是灰泥還是白塗料。有些語言要求翻譯者在兩者之間做出選擇。在大多數情況下，翻譯者能夠根據上下文選擇詞語。下述經節可能指的是灰泥：<a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>; <a href=\"https://ref.ly/Lev14:43\">LEV 14:43</a>; <a href=\"https://ref.ly/Lev14:48\">LEV 14:48</a>; <a href=\"https://ref.ly/Deut27:2\">DEU 27:2</a>; <a href=\"https://ref.ly/Deut27:4\">DEU 27:4</a>; <a href=\"https://ref.ly/Ps119:69\">PSA 119:69</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a>; <a href=\"https://ref.ly/Sir22:17\">SIR 22:17</a> 。其餘經文很可能指的是白塗料。</p>\n<p>\n            <a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a> ：在許多語言中，與「粉飾了的墳墓」最接近的對應語是「塗成白色的墳墓」。</p>\n<p>\n            <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a> ：字面翻譯短語「粉飾的牆」通常沒有任何意義。有些時候，翻譯者可以採用描述性的短語；例如，「外表很白其實裡面很骯髒的牆」，或「看起來乾淨其實裡面骯髒的牆」。還有些情況下，可以明確說明「粉飾的牆」這個慣用語的隱含意思，譯成「外表好看但內心並不是這樣的人」等。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27005005",
+"start_ref_usfm": "DAN 5:5",
+"end_ref": "27005005",
+"end_ref_usfm": "DAN 5:5"
+},
+{
+"start_ref": "18013004",
+"start_ref_usfm": "JOB 13:4",
+"end_ref": "18013004",
+"end_ref_usfm": "JOB 13:4"
+},
+{
+"start_ref": "18014017",
+"start_ref_usfm": "JOB 14:17",
+"end_ref": "18014017",
+"end_ref_usfm": "JOB 14:17"
+},
+{
+"start_ref": "19119069",
+"start_ref_usfm": "PSA 119:69",
+"end_ref": "19119069",
+"end_ref_usfm": "PSA 119:69"
+},
+{
+"start_ref": "05027002",
+"start_ref_usfm": "DEU 27:2",
+"end_ref": "05027002",
+"end_ref_usfm": "DEU 27:2"
+},
+{
+"start_ref": "05027004",
+"start_ref_usfm": "DEU 27:4",
+"end_ref": "05027004",
+"end_ref_usfm": "DEU 27:4"
+},
+{
+"start_ref": "03014042",
+"start_ref_usfm": "LEV 14:42",
+"end_ref": "03014042",
+"end_ref_usfm": "LEV 14:42"
+},
+{
+"start_ref": "03014043",
+"start_ref_usfm": "LEV 14:43",
+"end_ref": "03014043",
+"end_ref_usfm": "LEV 14:43"
+},
+{
+"start_ref": "03014048",
+"start_ref_usfm": "LEV 14:48",
+"end_ref": "03014048",
+"end_ref_usfm": "LEV 14:48"
+},
+{
+"start_ref": "13029004",
+"start_ref_usfm": "1CH 29:4",
+"end_ref": "13029004",
+"end_ref_usfm": "1CH 29:4"
+},
+{
+"start_ref": "26013010",
+"start_ref_usfm": "EZK 13:10",
+"end_ref": "26013010",
+"end_ref_usfm": "EZK 13:10"
+},
+{
+"start_ref": "26013011",
+"start_ref_usfm": "EZK 13:11",
+"end_ref": "26013011",
+"end_ref_usfm": "EZK 13:11"
+},
+{
+"start_ref": "26013012",
+"start_ref_usfm": "EZK 13:12",
+"end_ref": "26013012",
+"end_ref_usfm": "EZK 13:12"
+},
+{
+"start_ref": "26013014",
+"start_ref_usfm": "EZK 13:14",
+"end_ref": "26013014",
+"end_ref_usfm": "EZK 13:14"
+},
+{
+"start_ref": "26013015",
+"start_ref_usfm": "EZK 13:15",
+"end_ref": "26013015",
+"end_ref_usfm": "EZK 13:15"
+},
+{
+"start_ref": "26022028",
+"start_ref_usfm": "EZK 22:28",
+"end_ref": "26022028",
+"end_ref_usfm": "EZK 22:28"
+},
+{
+"start_ref": "40023027",
+"start_ref_usfm": "MAT 23:27",
+"end_ref": "40023027",
+"end_ref_usfm": "MAT 23:27"
+},
+{
+"start_ref": "44023003",
+"start_ref_usfm": "ACT 23:3",
+"end_ref": "44023003",
+"end_ref_usfm": "ACT 23:3"
+},
+{
+"start_ref": "72022017",
+"start_ref_usfm": "SIR 22:17",
+"end_ref": "72022017",
+"end_ref_usfm": "SIR 22:17"
+},
+{
+"start_ref": "03014041",
+"start_ref_usfm": "LEV 14:41",
+"end_ref": "03014041",
+"end_ref_usfm": "LEV 14:41"
+},
+{
+"start_ref": "03014045",
+"start_ref_usfm": "LEV 14:45",
+"end_ref": "03014045",
+"end_ref_usfm": "LEV 14:45"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Plaster",
+"type": "realia",
+"confidence": 0.642,
+"match_method": "scored",
+"preferred_label": "Plaster"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.4",
+"reference_id": "REALIA:1.8.4",
+"version": "1.0.4",
+"title": "標題：建築用方石（squared stones for building）",
+"media_type": "Text",
+"index_reference": "1.8.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.4\"><span class=\"thlex-key\">1.8.4</span> 標題：建築用方石（squared stones for building）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֶבֶן, גָּזִית</span> <span class=\"thlex-translit\">(音譯： gazith, ’even gazith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod20:25\">EXO 20:25</a>, <a href=\"https://ref.ly/1Kgs5:31\">1KI 5:31</a>, <a href=\"https://ref.ly/1Kgs6:36\">1KI 6:36</a>, <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>, <a href=\"https://ref.ly/1Kgs7:11\">1KI 7:11</a>, <a href=\"https://ref.ly/1Kgs7:12\">1KI 7:12</a>, <a href=\"https://ref.ly/1Chr22:2\">1CH 22:2</a>, <a href=\"https://ref.ly/Isa9:9\">ISA 9:9</a>, <a href=\"https://ref.ly/Lam3:9\">LAM 3:9</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Amos5:11\">AMO 5:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος, λαξεύω</span> <span class=\"thlex-translit\">(音譯： lithos lelaxeumenos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt1:2\">JDT 1:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος, ξυστός</span> <span class=\"thlex-translit\">(音譯： lithos xustos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd6:8\">1ES 6:8</a>, <a href=\"https://ref.ly/1Esd6:24\">1ES 6:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος, τετράποδος</span> <span class=\"thlex-translit\">(音譯： lithos tetrapodos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc10:11\">1MA 10:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0359_squared_stone.jpg\" alt=\"耶路撒冷西牆的希律時期方形石塊\"><figcaption class=\"thlex-caption\">耶路撒冷西牆的希律時期方形石塊 (© Gilabrand, CC BY 3.0, via Wikimedia Commons)</figcaption></figure>方石是切成方形的石塊，使其能夠堆砌起來，建成牆或建築物。這些石頭通常從基岩中開採。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>建築用石的大小差別很大，從一個人可以搬起來的石頭，一直到長達幾米、重達數十噸的大石頭都有。翻譯者應避免使用表示磚塊或小石塊的詞語，可以說「非常大的、切成方塊的石頭」。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0054_ceiling_wall_hant.jpg\" alt=\"天花板，牆壁和牆頂裝飾\"><figcaption class=\"thlex-caption\">天花板，牆壁和牆頂裝飾 (© Ray Pritz by United Bible Societies)</figcaption></figure>\n            <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a> ：這節經文描述了前後都修鑿整齊的建築石材。這些石材用來建造每一面牆壁，從底部到頂部。對於牆的頂部，希伯來文本使用了<em>tfachoth</em> 一詞，通常譯為「屋簷」（“eaves”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）或「壓頂板」（“coping”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）。許多語言沒有這些建築術語，或者不為人熟知（如日常英文中不太常用“eaves”和“coping”）。然而，最近有學者提出，<em>tfachoth</em> 實際上是牆頂的一種裝飾，就像是在天花板和牆壁之間有兩個或三個倒置的臺階。</p>\n<p>一般來說，翻譯者不必使用準確的建築術語來翻譯這種不確定的詞語；整節經文可以像<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 那樣翻譯，英文直譯為：「從地基一直到頂部，這些建築物和庭院所用的石頭，都是品質最好的，並準確切割成所需要的大小，然後用鋸子將每一面都鋸齊。」或者借鑒<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ，英文直譯為：「所有這些建築物都是用貴重的石塊建成。先把石塊準確切割成型。然後用鋸修整正面和背面。從建築物的地基到牆壁的頂部，都使用了這種貴重的石塊。甚至庭院也是用石塊建成的。」</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0019_building_stone.png\" alt=\"搬運建築石材的人\"><figcaption class=\"thlex-caption\">搬運建築石材的人 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>\n            <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a> 中提到的「桌子」（希伯來文<em>shulchan</em> ）是用石頭做成的。參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.3.6 預備祭牲的桌子 (tables for preparing sacrificial victims)&lt;REALIA:4.3.6&gt;</a> 中的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020025",
+"start_ref_usfm": "EXO 20:25",
+"end_ref": "02020025",
+"end_ref_usfm": "EXO 20:25"
+},
+{
+"start_ref": "11005031",
+"start_ref_usfm": "1KI 5:31",
+"end_ref": "11005031",
+"end_ref_usfm": "1KI 5:31"
+},
+{
+"start_ref": "11006036",
+"start_ref_usfm": "1KI 6:36",
+"end_ref": "11006036",
+"end_ref_usfm": "1KI 6:36"
+},
+{
+"start_ref": "11007009",
+"start_ref_usfm": "1KI 7:9",
+"end_ref": "11007009",
+"end_ref_usfm": "1KI 7:9"
+},
+{
+"start_ref": "11007011",
+"start_ref_usfm": "1KI 7:11",
+"end_ref": "11007011",
+"end_ref_usfm": "1KI 7:11"
+},
+{
+"start_ref": "11007012",
+"start_ref_usfm": "1KI 7:12",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "13022002",
+"start_ref_usfm": "1CH 22:2",
+"end_ref": "13022002",
+"end_ref_usfm": "1CH 22:2"
+},
+{
+"start_ref": "23009009",
+"start_ref_usfm": "ISA 9:9",
+"end_ref": "23009009",
+"end_ref_usfm": "ISA 9:9"
+},
+{
+"start_ref": "25003009",
+"start_ref_usfm": "LAM 3:9",
+"end_ref": "25003009",
+"end_ref_usfm": "LAM 3:9"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "30005011",
+"start_ref_usfm": "AMO 5:11",
+"end_ref": "30005011",
+"end_ref_usfm": "AMO 5:11"
+},
+{
+"start_ref": "69001002",
+"start_ref_usfm": "JDT 1:2",
+"end_ref": "69001002",
+"end_ref_usfm": "JDT 1:2"
+},
+{
+"start_ref": "82006008",
+"start_ref_usfm": "1ES 6:8",
+"end_ref": "82006008",
+"end_ref_usfm": "1ES 6:8"
+},
+{
+"start_ref": "82006024",
+"start_ref_usfm": "1ES 6:24",
+"end_ref": "82006024",
+"end_ref_usfm": "1ES 6:24"
+},
+{
+"start_ref": "78010011",
+"start_ref_usfm": "1MA 10:11",
+"end_ref": "78010011",
+"end_ref_usfm": "1MA 10:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.8.4.1",
+"reference_id": "REALIA:1.8.4.1",
+"version": "1.0.4",
+"title": "標題：線鋸、鋸（Stone plane, saw）",
+"media_type": "Text",
+"index_reference": "1.8.4.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.4.1\"><span class=\"thlex-key\">1.8.4.1</span> 標題：線鋸、鋸（Stone plane, saw）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מְגֵרָה</span> <span class=\"thlex-translit\">(音譯： mgerah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a>, <a href=\"https://ref.ly/1Kgs7:9\">1KI 7:9</a>, <a href=\"https://ref.ly/1Chr20:3\">1CH 20:3</a>, <a href=\"https://ref.ly/1Chr20:3\">1CH 20:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>線鋸／鋸是製備建築石材所用的工具。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/2Sam12:31\">2SA 12:31</a> ：關於這節經文描述的活動具體是什麼，學者的意見有分歧，不同譯本的翻譯反映出此一現象。這節經文可以理解為：大衛用各種器具折磨或殺死拉巴的居民，包括使用鋸（<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> ）。然而，大多數現代譯本認為經文的意思是大衛迫使他們使用這些器具做工；例如，「他還把城裡的人拉出來，強迫他們用鋸、鐵耙、鐵斧工作……」（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直譯）。這是首選的解釋。雖然學者對平行經文（不完全相同）<a href=\"https://ref.ly/1Chr20:3\">1CH 20:3</a> 的爭論更為複雜，但大多數譯本在兩處的譯文都是相同的。</p>\n<p>現在看來，將希伯來文<em>mgerah</em> 譯為「鋸」可能是不準確的。考古人員沒有發現那個時期的人們使用鋸來開採或切割石頭。已發現的許多建築用石材確實進行了精細的修整，但這些石頭上並沒有鋸子留下的痕跡。有人提出，<em>mgerah</em> 是一種沉重的金屬工具，具有很寬的粗糙表面，就像銼刀一樣。人們使用這種工具沿著石頭表面反覆推拉，直到把石頭磨得非常光滑。這是一項非常費力的苦工，可能是由俘虜或奴隸做的（參巴爾凱，第32—37頁）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10012031",
+"start_ref_usfm": "2SA 12:31",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "11007009",
+"start_ref_usfm": "1KI 7:9",
+"end_ref": "11007009",
+"end_ref_usfm": "1KI 7:9"
+},
+{
+"start_ref": "13020003",
+"start_ref_usfm": "1CH 20:3",
+"end_ref": "13020003",
+"end_ref_usfm": "1CH 20:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:StonePlane",
+"type": "realia",
+"confidence": 0.9325,
+"match_method": "scored",
+"preferred_label": "Stone Plane"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.5",
+"reference_id": "REALIA:1.8.5",
+"version": "1.0.4",
+"title": "標題：準繩、鉛垂線（plumb line）",
+"media_type": "Text",
+"index_reference": "1.8.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.5\"><span class=\"thlex-key\">1.8.5</span> 標題：準繩、鉛垂線（plumb line）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֲנָךְ</span> <span class=\"thlex-translit\">(音譯： ’anak)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a>, <a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a>, <a href=\"https://ref.ly/Amos7:8\">AMO 7:8</a>, <a href=\"https://ref.ly/Amos7:8\">AMO 7:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֶבֶן בְּדִ֛יל</span> <span class=\"thlex-translit\">(音譯： ’Even bedil)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Zech4:10\">ZEC 4:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִשְׁקֶלֶת, מִשְׁקֹלֶת</span> <span class=\"thlex-translit\">(音譯： mishqeleth, mishqoleth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a>, <a href=\"https://ref.ly/Isa28:17\">ISA 28:17</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0936_plumb_line.png\" alt=\"使用鉛垂線檢查垂直度的建築工人\"><figcaption class=\"thlex-caption\">使用鉛垂線檢查垂直度的建築工人 (© Pearson Scott Foresman © Wikimedia Commons)</figcaption></figure>鉛垂線由繩子和懸掛在繩子末端的重物構成，具有多種功能，例如，建築工人用它來測定牆壁中的所有石頭是否都沿豎直方向成直線。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0937_plumb_line.jpg\" alt=\"使用鉛垂線檢查垂直度的工匠\"><figcaption class=\"thlex-caption\">使用鉛垂線檢查垂直度的工匠 (© Salil Kumar Mukherjee © Wikimedia Commons)</figcaption></figure>在許多文化中，與鉛垂線類似的唯一工具是水平儀，還有人也會使用洋涇浜的英文單詞wataplan。水平儀測量的是水平面而非垂直面，但也可以達到相同的目的。如果目標語言沒有鉛垂線一詞，或者已有的詞語不為大多數讀者所知，則可能需要使用一個描述性的短語；例如，<a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a> 可作，「線的末端繫著一個重物。線和重物用來測量牆面是否筆直」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯）。此外，翻譯者也可以提供插圖，描繪這種工具的形狀和用途。在<a href=\"https://ref.ly/Amos7:8\">AMO 7:8</a> ，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 將“plumb line”（「鉛垂線」）譯為“measuring line”（「測量繩」）。<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 在<a href=\"https://ref.ly/Isa28:17\">ISA 28:17</a> 也使用了「測量繩」一詞（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.8.6 丈量的竿、丈量的線 (measuring rod, measuring line)&lt;REALIA:1.8.6&gt;</a> ）。</p>\n<p>在<a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a> 中，希伯來文本的字面意思是：「我必要把撒瑪利亞的測量繩和亞哈家的鉛垂線拉在耶路撒冷之上。」這裡使用的「測量繩」和「鉛垂線」都是象徵，因此翻譯者不必提及這兩件物品，可以直接將其象徵意義表達出來。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 的譯法可以作為範例，英文直譯作：「我要懲罰耶路撒冷，就像我先前懲罰撒瑪利亞，以及懲罰以色列王亞哈和他的後裔一樣。」比較<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ，英文直譯「耶路撒冷與亞哈和撒瑪利亞人一樣有罪」。</p>\n<p>\n            <a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a> ：這節經文描繪上帝站在牆上或牆邊，希伯來文本稱這面牆為「鉛垂線的牆」。「鉛垂線」這個譯法不能完全確定正確，但沒有其他更好的建議。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 試圖使「鉛垂線的牆」一語有意義，英文直譯作：「使用鉛垂線建造而成的牆」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 和TOT 的譯法類似。另一方面，翻譯者最好依循大多數現代英文譯本（<abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> ）和許多解經家的做法，將這節經文的後半部分譯成：「他手裡拿著鉛垂線站在牆邊。」他們認為「鉛垂線的」一語是文士抄寫錯誤的結果。整節經文可以譯成，「主使我再一次在異象中看見。我看見他在牆的頂部拉出一根繩子，看牆是不是豎直的。」</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "30007007",
+"start_ref_usfm": "AMO 7:7",
+"end_ref": "30007007",
+"end_ref_usfm": "AMO 7:7"
+},
+{
+"start_ref": "30007008",
+"start_ref_usfm": "AMO 7:8",
+"end_ref": "30007008",
+"end_ref_usfm": "AMO 7:8"
+},
+{
+"start_ref": "38004010",
+"start_ref_usfm": "ZEC 4:10",
+"end_ref": "38004010",
+"end_ref_usfm": "ZEC 4:10"
+},
+{
+"start_ref": "12021013",
+"start_ref_usfm": "2KI 21:13",
+"end_ref": "12021013",
+"end_ref_usfm": "2KI 21:13"
+},
+{
+"start_ref": "23028017",
+"start_ref_usfm": "ISA 28:17",
+"end_ref": "23028017",
+"end_ref_usfm": "ISA 28:17"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:PlumbLine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Plumb Line"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.8.6",
+"reference_id": "REALIA:1.8.6",
+"version": "1.0.4",
+"title": "標題：丈量的竿、丈量的線（measuring rod, measuring line）",
+"media_type": "Text",
+"index_reference": "1.8.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.8.6\"><span class=\"thlex-key\">1.8.6</span> 標題：丈量的竿、丈量的線（measuring rod, measuring line）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>竿</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קָנֶה</span> <span class=\"thlex-translit\">(音譯： qaneh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κάλαμος</span> <span class=\"thlex-translit\">(音譯： kalamos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Rev21:15\">REV 21:15</a>, <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>線</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חֶבֶל, מִדָּה</span> <span class=\"thlex-translit\">(音譯： chevel, chevel midah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>, <a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>, <a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>, <a href=\"https://ref.ly/Ps78:55\">PSA 78:55</a>, <a href=\"https://ref.ly/Amos7:17\">AMO 7:17</a>, <a href=\"https://ref.ly/Mic2:5\">MIC 2:5</a>, <a href=\"https://ref.ly/Zech2:5\">ZEC 2:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חוּט</span> <span class=\"thlex-translit\">(音譯： chut)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:15\">1KI 7:15</a>, <a href=\"https://ref.ly/Jer52:21\">JER 52:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： פָּתִיל</span> <span class=\"thlex-translit\">(音譯： pathil)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קַו, קָוֶה, מִדָּה</span> <span class=\"thlex-translit\">(音譯： qaw, qaw midah, qaweh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/Job38:5\">JOB 38:5</a>, <a href=\"https://ref.ly/Isa28:17\">ISA 28:17</a>, <a href=\"https://ref.ly/Isa34:11\">ISA 34:11</a>, <a href=\"https://ref.ly/Isa34:17\">ISA 34:17</a>, <a href=\"https://ref.ly/Isa44:13\">ISA 44:13</a>, <a href=\"https://ref.ly/Jer31:39\">JER 31:39</a>, <a href=\"https://ref.ly/Jer31:39\">JER 31:39</a>, <a href=\"https://ref.ly/Lam2:8\">LAM 2:8</a>, <a href=\"https://ref.ly/Ezek47:3\">EZK 47:3</a>, <a href=\"https://ref.ly/Zech1:16\">ZEC 1:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0360_measuring_line.jpg\" alt=\"測量員用每隔一定距離打結的繩子量度一塊土地（摹本，由查爾斯威爾金森（Charles K. Wilkinson）製作；原圖來自門娜墓（tomb of Menna），約公元前1400-1352年）\"><figcaption class=\"thlex-caption\">測量員用每隔一定距離打結的繩子量度一塊土地（摹本，由查爾斯威爾金森（Charles K. Wilkinson）製作；原圖來自門娜墓（tomb of Menna），約公元前1400–1352年） (Metropolitan Museum of Art, Public domain)</figcaption></figure>丈量的竿或線是用來測量長度的工具，可以用蘆葦稈、木條或繩子做成。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>「丈量的竿」可以簡單地譯為「量桿」或「用來計量距離的桿」。</p>\n<p>\n            <a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a> ：這節經文宣告的審判是在猶大亡國和被擄之前發出的，不過是在建都撒瑪利亞的北國覆滅之後。「丈量的線」用作一種工具，表明都城為耶路撒冷的南國，與都城為撒瑪利亞的北國，兩者的罪惡同樣嚴重。有些通俗譯本捨棄了「丈量的線」的比喻，轉而直接陳述審判的性質；例如，將這節經文的前半部分譯為，「耶路撒冷與亞哈和撒瑪利亞人一樣有罪」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.8.5 準繩、鉛垂線 (plumb line)&lt;REALIA:1.8.5&gt;</a> ）。</p>\n<p>\n            <a href=\"https://ref.ly/Mic2:5\">MIC 2:5</a> ：這節經文中的希伯來文<em>chevel</em> 指的是丈量地產所用的繩。先知說，當被擄的猶大人歸回時，富人將得不到地產。希伯來文具體說明了選擇各家地產的過程。「籤」（“Lot”，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）可能是一套帶有特殊標記的石子（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.9 鬮、籤 (lots)&lt;REALIA:4.9&gt;</a> ）。選出來的石頭就表明了上帝在特定案例下的旨意。「繩」是標記各家的土地所用的丈量線。籤可能用來指明丈量線應放的位置。大多數翻譯者認為，在譯文中陳述土地劃分的一般程序及其重要意義，比嘗試譯出這個程序所用的具體工具更加重要；例如，「所以你們永遠不會再在耶和華的子民中擁有產業」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯），「因此，在土地要交還給耶和華的子民的時候，你們全都沒有份」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯）。</p>\n<p>\n            <a href=\"https://ref.ly/Rev11:1\">REV 11:1</a> ：<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 將這節經文靠近開頭處、由三個單詞組成的希臘文短語譯為“a measuring rod like a staff”（「一根丈量的竿，像一根杖」）。然而，<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 譯作“a long cane like a measuring rod”（「一根像是丈量竿的長棍」）；比較<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 的“a stick that looked like a measuring-rod”（「一根看似丈量竿的棍子」），<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 的“a long cane to use as a measuring rod”（「一根用作丈量竿的長棍」），<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 的“a reed like a measuring rod”（「一根像丈量竿一樣的蘆葦」），切瓦文通俗譯本「用於測量的蘆葦，看起來像一根手杖」。這個短語中的第一個希臘文詞語是<em>kalamos</em> ，指一根蘆葦或藤子（參這個詞語在<a href=\"https://ref.ly/Rev21:15\">REV 21:15</a>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a> 中的用法，該處<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 譯作“measuring stick”「丈量桿」）。第三個希臘文詞語<em>rhabdos</em> 在這裡指的是杖或竿。在《啟示錄》的其他地方，這個詞指的是耶穌基督（<a href=\"https://ref.ly/Rev12:5\">REV 12:5</a> ，<a href=\"https://ref.ly/Rev19:15\">REV 19:15</a> ）及其追隨者（<a href=\"https://ref.ly/Rev2:27\">REV 2:27</a> ）使用的「鐵杖」（或「權杖」）。在翻譯這節經文時，最好依循<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 或<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.2.4 竿、木棍、牧羊杖 (rod, club, shepherd’s staff)&lt;REALIA:1.2.4&gt;</a> 中的討論。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26040006",
+"start_ref_usfm": "EZK 40:6",
+"end_ref": "26040006",
+"end_ref_usfm": "EZK 40:6"
+},
+{
+"start_ref": "26040007",
+"start_ref_usfm": "EZK 40:7",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "26040008",
+"start_ref_usfm": "EZK 40:8",
+"end_ref": "26040008",
+"end_ref_usfm": "EZK 40:8"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26042016",
+"start_ref_usfm": "EZK 42:16",
+"end_ref": "26042016",
+"end_ref_usfm": "EZK 42:16"
+},
+{
+"start_ref": "26042017",
+"start_ref_usfm": "EZK 42:17",
+"end_ref": "26042017",
+"end_ref_usfm": "EZK 42:17"
+},
+{
+"start_ref": "26042018",
+"start_ref_usfm": "EZK 42:18",
+"end_ref": "26042018",
+"end_ref_usfm": "EZK 42:18"
+},
+{
+"start_ref": "26042019",
+"start_ref_usfm": "EZK 42:19",
+"end_ref": "26042019",
+"end_ref_usfm": "EZK 42:19"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66021015",
+"start_ref_usfm": "REV 21:15",
+"end_ref": "66021015",
+"end_ref_usfm": "REV 21:15"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "10008002",
+"start_ref_usfm": "2SA 8:2",
+"end_ref": "10008002",
+"end_ref_usfm": "2SA 8:2"
+},
+{
+"start_ref": "19078055",
+"start_ref_usfm": "PSA 78:55",
+"end_ref": "19078055",
+"end_ref_usfm": "PSA 78:55"
+},
+{
+"start_ref": "30007017",
+"start_ref_usfm": "AMO 7:17",
+"end_ref": "30007017",
+"end_ref_usfm": "AMO 7:17"
+},
+{
+"start_ref": "33002005",
+"start_ref_usfm": "MIC 2:5",
+"end_ref": "33002005",
+"end_ref_usfm": "MIC 2:5"
+},
+{
+"start_ref": "38002005",
+"start_ref_usfm": "ZEC 2:5",
+"end_ref": "38002005",
+"end_ref_usfm": "ZEC 2:5"
+},
+{
+"start_ref": "11007015",
+"start_ref_usfm": "1KI 7:15",
+"end_ref": "11007015",
+"end_ref_usfm": "1KI 7:15"
+},
+{
+"start_ref": "24052021",
+"start_ref_usfm": "JER 52:21",
+"end_ref": "24052021",
+"end_ref_usfm": "JER 52:21"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007023",
+"end_ref_usfm": "1KI 7:23"
+},
+{
+"start_ref": "12021013",
+"start_ref_usfm": "2KI 21:13",
+"end_ref": "12021013",
+"end_ref_usfm": "2KI 21:13"
+},
+{
+"start_ref": "14004002",
+"start_ref_usfm": "2CH 4:2",
+"end_ref": "14004002",
+"end_ref_usfm": "2CH 4:2"
+},
+{
+"start_ref": "18038005",
+"start_ref_usfm": "JOB 38:5",
+"end_ref": "18038005",
+"end_ref_usfm": "JOB 38:5"
+},
+{
+"start_ref": "23028017",
+"start_ref_usfm": "ISA 28:17",
+"end_ref": "23028017",
+"end_ref_usfm": "ISA 28:17"
+},
+{
+"start_ref": "23034011",
+"start_ref_usfm": "ISA 34:11",
+"end_ref": "23034011",
+"end_ref_usfm": "ISA 34:11"
+},
+{
+"start_ref": "23034017",
+"start_ref_usfm": "ISA 34:17",
+"end_ref": "23034017",
+"end_ref_usfm": "ISA 34:17"
+},
+{
+"start_ref": "23044013",
+"start_ref_usfm": "ISA 44:13",
+"end_ref": "23044013",
+"end_ref_usfm": "ISA 44:13"
+},
+{
+"start_ref": "24031039",
+"start_ref_usfm": "JER 31:39",
+"end_ref": "24031039",
+"end_ref_usfm": "JER 31:39"
+},
+{
+"start_ref": "25002008",
+"start_ref_usfm": "LAM 2:8",
+"end_ref": "25002008",
+"end_ref_usfm": "LAM 2:8"
+},
+{
+"start_ref": "26047003",
+"start_ref_usfm": "EZK 47:3",
+"end_ref": "26047003",
+"end_ref_usfm": "EZK 47:3"
+},
+{
+"start_ref": "38001016",
+"start_ref_usfm": "ZEC 1:16",
+"end_ref": "38001016",
+"end_ref_usfm": "ZEC 1:16"
+},
+{
+"start_ref": "66012005",
+"start_ref_usfm": "REV 12:5",
+"end_ref": "66012005",
+"end_ref_usfm": "REV 12:5"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "66002027",
+"start_ref_usfm": "REV 2:27",
+"end_ref": "66002027",
+"end_ref_usfm": "REV 2:27"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.7372,
+"match_method": "scored",
+"preferred_label": "Measuring Reed"
+}
+]
+}
+}
+]
