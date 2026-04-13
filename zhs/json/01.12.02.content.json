@@ -48,7 +48,16 @@
 "end_ref_usfm": "JHN 20:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Nail",
+"type": "realia",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Nail"
+}
+]
 }
 }
 ]

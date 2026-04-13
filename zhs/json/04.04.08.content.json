@@ -114,7 +114,16 @@
 "end_ref_usfm": "NUM 7:85"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Dish",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Dish"
+}
+]
 }
 }
 ]

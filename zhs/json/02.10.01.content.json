@@ -210,7 +210,16 @@
 "end_ref_usfm": "1SA 17:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.7697,
+"match_method": "scored",
+"preferred_label": "Large Shield"
+}
+]
 }
 }
 ]

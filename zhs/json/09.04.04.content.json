@@ -354,7 +354,16 @@
 "end_ref_usfm": "1ES 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.8877,
+"match_method": "scored",
+"preferred_label": "Unleavened Bread"
+}
+]
 }
 }
 ]

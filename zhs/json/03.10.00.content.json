@@ -138,7 +138,16 @@
 "end_ref_usfm": "SIR 48:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Pool"
+}
+]
 }
 }
 ]

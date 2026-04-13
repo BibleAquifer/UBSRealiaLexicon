@@ -444,7 +444,16 @@
 "end_ref_usfm": "LUK 19:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Talent",
+"type": "realia",
+"confidence": 0.8444,
+"match_method": "scored",
+"preferred_label": "Talent"
+}
+]
 }
 }
 ]

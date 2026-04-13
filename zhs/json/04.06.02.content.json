@@ -354,7 +354,16 @@
 "end_ref_usfm": "1MA 5:68"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:GravenImage",
+"type": "realia",
+"confidence": 0.8749,
+"match_method": "scored",
+"preferred_label": "Graven Image"
+}
+]
 }
 }
 ]

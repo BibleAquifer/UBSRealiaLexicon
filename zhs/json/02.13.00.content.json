@@ -54,7 +54,16 @@
 "end_ref_usfm": "2CH 18:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:CoatOfMail",
+"type": "realia",
+"confidence": 0.5658,
+"match_method": "scored",
+"preferred_label": "Coat of Mail"
+}
+]
 }
 }
 ]

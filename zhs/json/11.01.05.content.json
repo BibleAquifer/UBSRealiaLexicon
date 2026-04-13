@@ -24,7 +24,16 @@
 "end_ref_usfm": "JHN 19:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Pound",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Pound"
+}
+]
 }
 }
 ]

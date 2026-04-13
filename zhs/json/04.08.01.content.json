@@ -894,7 +894,16 @@
 "end_ref_usfm": "JDG 9:49"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.5821,
+"match_method": "scored",
+"preferred_label": "Grave"
+}
+]
 }
 },
 {
@@ -976,7 +985,8 @@
 "end_ref_usfm": "JHN 11:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

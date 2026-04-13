@@ -408,7 +408,16 @@
 "end_ref_usfm": "ACT 9:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Basket",
+"type": "realia",
+"confidence": 0.8121,
+"match_method": "scored",
+"preferred_label": "Basket"
+}
+]
 }
 }
 ]

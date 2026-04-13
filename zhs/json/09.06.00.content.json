@@ -78,7 +78,16 @@
 "end_ref_usfm": "BEL 1:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Stew",
+"type": "realia",
+"confidence": 0.6472,
+"match_method": "scored",
+"preferred_label": "Stew"
+}
+]
 }
 }
 ]

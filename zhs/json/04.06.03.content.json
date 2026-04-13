@@ -192,7 +192,16 @@
 "end_ref_usfm": "JER 51:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:MoltenImage",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Molten Image"
+}
+]
 }
 }
 ]

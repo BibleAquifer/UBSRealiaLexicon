@@ -132,7 +132,16 @@
 "end_ref_usfm": "1ES 5:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Drum",
+"type": "realia",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Drum"
+}
+]
 }
 }
 ]

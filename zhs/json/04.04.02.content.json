@@ -54,7 +54,16 @@
 "end_ref_usfm": "2CH 4:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Fork",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Fork"
+}
+]
 }
 }
 ]

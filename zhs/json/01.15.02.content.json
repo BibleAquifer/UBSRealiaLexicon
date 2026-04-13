@@ -30,7 +30,16 @@
 "end_ref_usfm": "WIS 16:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:FigCake",
+"type": "realia",
+"confidence": 0.5547,
+"match_method": "scored",
+"preferred_label": "Fig Cake"
+}
+]
 }
 }
 ]

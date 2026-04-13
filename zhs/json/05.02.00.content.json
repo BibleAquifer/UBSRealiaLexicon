@@ -90,7 +90,16 @@
 "end_ref_usfm": "REV 11:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Lampstand"
+}
+]
 }
 }
 ]

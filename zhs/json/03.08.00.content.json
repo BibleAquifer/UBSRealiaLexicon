@@ -294,7 +294,16 @@
 "end_ref_usfm": "JHN 4:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.8399,
+"match_method": "embedding",
+"preferred_label": "Good"
+}
+]
 }
 }
 ]

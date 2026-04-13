@@ -18,7 +18,16 @@
 "end_ref_usfm": "ACT 19:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:ReplicaTemple",
+"type": "realia",
+"confidence": 0.9235,
+"match_method": "scored",
+"preferred_label": "Replica Temple"
+}
+]
 }
 }
 ]

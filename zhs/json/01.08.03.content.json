@@ -138,7 +138,16 @@
 "end_ref_usfm": "LEV 14:45"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Plaster",
+"type": "realia",
+"confidence": 0.642,
+"match_method": "scored",
+"preferred_label": "Plaster"
+}
+]
 }
 }
 ]

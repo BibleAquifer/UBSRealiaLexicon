@@ -480,7 +480,16 @@
 "end_ref_usfm": "PSA 5:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 0.7542,
+"match_method": "scored",
+"preferred_label": "Trumpet"
+}
+]
 }
 }
 ]

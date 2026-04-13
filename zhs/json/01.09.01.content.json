@@ -66,7 +66,16 @@
 "end_ref_usfm": "EZK 5:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Razor",
+"type": "realia",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Razor"
+}
+]
 }
 }
 ]
