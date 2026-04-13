@@ -84,7 +84,16 @@
 "end_ref_usfm": "4MA 3:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Siege-works",
+"type": "realia",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Siege-Works"
+}
+]
 }
 }
 ]

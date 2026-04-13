@@ -11,7 +11,8 @@
 "content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.1.8\"><span class=\"thlex-key\">1.1.8</span> Threshing and winnowing</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Threshing was the process of separating the grain from the straw by beating it with flails or having animals trample it or dragging a threshing board (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.2 Threshing board, sledge&lt;REALIA:1.1.8.2&gt;</a>) over it</h2>\n<div class=\"thlex-paragraphs\">\n<p>Winnowing consisted of throwing the straw, chaff, grain, and dust into the wind with a wooden winnowing fork (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.3 Winnowing fork&lt;REALIA:1.1.8.3&gt;</a>) or a winnowing basket (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.1.8.4 Sieve, winnowing basket&lt;REALIA:1.1.8.4&gt;</a>). The heavier grains would fall back on the threshing floor or into the basket, while the wind would carry away the dust, the chaff, and the straw. The stalks of grain, which had thus been cut and separated from the heads of grain, were used for fodder for the animals.</p>\n<p>In the land of Israel the wind normally begins to blow about two o’clock in the afternoon and continues through the evening and into the night. It is important that the wind is not too strong or blustery, and this may explain why the evening was regarded as the best time for winnowing.</p>\n<p>The final stage of winnowing consisted of sifting the remaining foreign bodies out of the grain. This was done with a kind of sieve made of a wooden hoop to the bottom of which was fixed a mesh of crisscrossed strips of cane, leather, tree bark, or straw.</p>\n<p>Where a technical term for winnowing is lacking, it is sometimes possible to use a descriptive phrase, such as “shaking out the dirt from the grain,” “separating the grain from the chaff,” or “separating the grain from the leaves.”</p>\n</div>\n</div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -261,7 +262,16 @@
 "end_ref_usfm": "2ES 9:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:ThreshingFloor",
+"type": "realia",
+"confidence": 0.959,
+"match_method": "scored",
+"preferred_label": "Threshing Floor"
+}
+]
 }
 },
 {
@@ -319,7 +329,16 @@
 "end_ref_usfm": "ISA 28:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Threshing-sledge",
+"type": "realia",
+"confidence": 0.7209,
+"match_method": "scored",
+"preferred_label": "Threshing-Sledge"
+}
+]
 }
 },
 {
@@ -401,7 +420,16 @@
 "end_ref_usfm": "LUK 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:WinnowingFork",
+"type": "realia",
+"confidence": 0.7455,
+"match_method": "scored",
+"preferred_label": "Winnowing Fork"
+}
+]
 }
 },
 {
@@ -441,7 +469,16 @@
 "end_ref_usfm": "LUK 22:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sieve",
+"type": "realia",
+"confidence": 0.611,
+"match_method": "scored",
+"preferred_label": "Sieve"
+}
+]
 }
 }
 ]

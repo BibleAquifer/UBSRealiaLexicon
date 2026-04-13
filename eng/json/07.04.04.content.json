@@ -18,7 +18,37 @@
 "end_ref_usfm": "2SA 6:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Shaker",
+"type": "realia",
+"confidence": 0.8335,
+"match_method": "scored",
+"preferred_label": "Shaker"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.5935,
+"match_method": "scored",
+"preferred_label": "Lute"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Israel"
+}
+]
 }
 }
 ]

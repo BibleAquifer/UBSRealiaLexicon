@@ -384,7 +384,16 @@
 "end_ref_usfm": "DAG 3:66"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.6467,
+"match_method": "scored",
+"preferred_label": "Kiln"
+}
+]
 }
 },
 {
@@ -412,7 +421,16 @@
 "end_ref_usfm": "4MA 8:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bellows",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Bellows"
+}
+]
 }
 }
 ]

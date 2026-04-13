@@ -18,7 +18,16 @@
 "end_ref_usfm": "ACT 14:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Garland",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Garland"
+}
+]
 }
 }
 ]

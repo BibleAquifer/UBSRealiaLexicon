@@ -438,7 +438,16 @@
 "end_ref_usfm": "2ES 13:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.6713,
+"match_method": "scored",
+"preferred_label": "Spear"
+}
+]
 }
 }
 ]

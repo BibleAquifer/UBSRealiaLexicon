@@ -678,7 +678,16 @@
 "end_ref_usfm": "2KI 14:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 0.8883,
+"match_method": "scored",
+"preferred_label": "Tent"
+}
+]
 }
 }
 ]

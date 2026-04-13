@@ -258,7 +258,16 @@
 "end_ref_usfm": "1ES 6:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.5993,
+"match_method": "scored",
+"preferred_label": "Housetop"
+}
+]
 }
 },
 {
@@ -280,7 +289,8 @@
 "end_ref_usfm": "DEU 22:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -302,7 +312,23 @@
 "end_ref_usfm": "LUK 5:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Tile",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Tile"
+},
+{
+"id": "realia:Housetop",
+"type": "realia",
+"confidence": 0.679,
+"match_method": "scored",
+"preferred_label": "Housetop"
+}
+]
 }
 },
 {
@@ -384,7 +410,8 @@
 "end_ref_usfm": "1ES 6:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

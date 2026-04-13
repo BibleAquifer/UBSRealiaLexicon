@@ -24,7 +24,23 @@
 "end_ref_usfm": "EXO 2:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 0.733,
+"match_method": "scored",
+"preferred_label": "Ship"
+},
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.73,
+"match_method": "scored",
+"preferred_label": "Cattails"
+}
+]
 }
 }
 ]

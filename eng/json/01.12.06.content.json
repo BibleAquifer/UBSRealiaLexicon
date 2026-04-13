@@ -18,7 +18,30 @@
 "end_ref_usfm": "ISA 44:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Stylus.2",
+"type": "realia",
+"confidence": 0.8335,
+"match_method": "scored",
+"preferred_label": "Stylus"
+},
+{
+"id": "realia:Compass",
+"type": "realia",
+"confidence": 0.73,
+"match_method": "scored",
+"preferred_label": "Compass"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.5935,
+"match_method": "scored",
+"preferred_label": "Measuring Reed"
+}
+]
 }
 }
 ]

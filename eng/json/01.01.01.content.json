@@ -384,7 +384,16 @@
 "end_ref_usfm": "LAM 5:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 0.871,
+"match_method": "scored",
+"preferred_label": "Yoke"
+}
+]
 }
 }
 ]

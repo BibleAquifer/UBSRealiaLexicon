@@ -24,7 +24,16 @@
 "end_ref_usfm": "JER 18:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Birthstool",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Birthstool"
+}
+]
 }
 }
 ]

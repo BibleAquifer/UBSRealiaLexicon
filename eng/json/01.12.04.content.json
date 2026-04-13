@@ -24,7 +24,16 @@
 "end_ref_usfm": "DEU 15:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Awl",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Awl"
+}
+]
 }
 }
 ]

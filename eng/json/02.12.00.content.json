@@ -84,7 +84,16 @@
 "end_ref_usfm": "1MA 6:43"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 0.5695,
+"match_method": "scored",
+"preferred_label": "Breastplate"
+}
+]
 }
 }
 ]

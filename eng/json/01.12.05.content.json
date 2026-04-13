@@ -18,7 +18,16 @@
 "end_ref_usfm": "HEB 11:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Saw",
+"type": "realia",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Saw"
+}
+]
 }
 }
 ]

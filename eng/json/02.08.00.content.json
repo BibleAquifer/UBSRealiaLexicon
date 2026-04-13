@@ -18,7 +18,16 @@
 "end_ref_usfm": "PSA 35:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Battle-axe",
+"type": "realia",
+"confidence": 0.955,
+"match_method": "scored",
+"preferred_label": "Battle-Axe"
+}
+]
 }
 }
 ]

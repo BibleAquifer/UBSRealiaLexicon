@@ -30,7 +30,16 @@
 "end_ref_usfm": "JAS 3:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Rudder",
+"type": "realia",
+"confidence": 0.6327,
+"match_method": "scored",
+"preferred_label": "Rudder"
+}
+]
 }
 }
 ]

@@ -360,7 +360,16 @@
 "end_ref_usfm": "LJE 1:43"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Rope",
+"type": "realia",
+"confidence": 0.7324,
+"match_method": "scored",
+"preferred_label": "Rope"
+}
+]
 }
 }
 ]

@@ -60,7 +60,16 @@
 "end_ref_usfm": "LEV 16:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sash",
+"type": "realia",
+"confidence": 0.739,
+"match_method": "scored",
+"preferred_label": "Sash"
+}
+]
 }
 }
 ]

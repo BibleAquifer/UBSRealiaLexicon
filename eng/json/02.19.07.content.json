@@ -54,7 +54,16 @@
 "end_ref_usfm": "EXO 20:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Battering-ram",
+"type": "realia",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Battering-Ram"
+}
+]
 }
 }
 ]

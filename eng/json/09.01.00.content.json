@@ -1638,7 +1638,30 @@
 "end_ref_usfm": "2ES 9:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.9026,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6375,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "Must"
+}
+]
 }
 }
 ]

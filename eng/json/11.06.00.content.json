@@ -246,7 +246,16 @@
 "end_ref_usfm": "LUK 21:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.6103,
+"match_method": "scored",
+"preferred_label": "Money"
+}
+]
 }
 }
 ]

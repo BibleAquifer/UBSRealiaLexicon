@@ -1110,7 +1110,8 @@
 "end_ref_usfm": "1KI 6:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1222,7 +1223,8 @@
 "end_ref_usfm": "LJE 1:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1292,7 +1294,16 @@
 "end_ref_usfm": "REV 20:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Key",
+"type": "realia",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Key"
+}
+]
 }
 },
 {
@@ -1326,7 +1337,16 @@
 "end_ref_usfm": "PRO 26:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Hinge",
+"type": "realia",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Hinge"
+}
+]
 }
 },
 {
@@ -1462,7 +1482,16 @@
 "end_ref_usfm": "2CH 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 0.94,
+"match_method": "scored",
+"preferred_label": "Doorpost"
+}
+]
 }
 },
 {
@@ -1496,7 +1525,8 @@
 "end_ref_usfm": "EXO 12:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1614,7 +1644,8 @@
 "end_ref_usfm": "JDT 13:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

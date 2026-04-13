@@ -1026,7 +1026,16 @@
 "end_ref_usfm": "LEV 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.9148,
+"match_method": "scored",
+"preferred_label": "Chariot"
+}
+]
 }
 }
 ]

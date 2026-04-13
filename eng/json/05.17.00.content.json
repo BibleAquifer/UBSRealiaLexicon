@@ -48,7 +48,16 @@
 "end_ref_usfm": "EST 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Rug",
+"type": "realia",
+"confidence": 0.6208,
+"match_method": "scored",
+"preferred_label": "Rug"
+}
+]
 }
 }
 ]

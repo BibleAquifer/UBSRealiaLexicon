@@ -24,7 +24,23 @@
 "end_ref_usfm": "2SA 21:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:PointOfSpear",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Point of Spear"
+},
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Spear"
+}
+]
 }
 }
 ]

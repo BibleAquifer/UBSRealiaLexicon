@@ -228,7 +228,23 @@
 "end_ref_usfm": "EZK 10:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.7278,
+"match_method": "scored",
+"preferred_label": "Wagon"
+},
+{
+"id": "realia:Wheel",
+"type": "realia",
+"confidence": 0.6333,
+"match_method": "scored",
+"preferred_label": "Wheel"
+}
+]
 }
 }
 ]

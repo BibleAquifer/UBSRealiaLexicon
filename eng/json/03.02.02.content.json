@@ -120,7 +120,16 @@
 "end_ref_usfm": "JDG 16:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Peg",
+"type": "realia",
+"confidence": 0.8121,
+"match_method": "scored",
+"preferred_label": "Peg"
+}
+]
 }
 }
 ]

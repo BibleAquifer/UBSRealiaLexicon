@@ -24,7 +24,23 @@
 "end_ref_usfm": "MAL 3:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Soap",
+"type": "flora",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Hammada"
+},
+{
+"id": "realia:Soap",
+"type": "realia",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "Soap"
+}
+]
 }
 }
 ]

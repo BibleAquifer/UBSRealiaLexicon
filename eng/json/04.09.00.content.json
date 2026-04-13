@@ -480,7 +480,23 @@
 "end_ref_usfm": "LUK 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.8447,
+"match_method": "scored",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.5883,
+"match_method": "scored",
+"preferred_label": "Lot"
+}
+]
 }
 }
 ]

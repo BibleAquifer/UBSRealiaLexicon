@@ -114,7 +114,16 @@
 "end_ref_usfm": "1ES 5:44"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Mina",
+"type": "realia",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "Mina"
+}
+]
 }
 }
 ]

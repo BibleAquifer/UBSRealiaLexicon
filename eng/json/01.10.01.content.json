@@ -1212,7 +1212,23 @@
 "end_ref_usfm": "2CH 9:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 0.758,
+"match_method": "scored",
+"preferred_label": "Throne"
+},
+{
+"id": "place:HallOfTheThrone",
+"type": "place",
+"confidence": 0.602,
+"match_method": "scored",
+"preferred_label": "Hall of the Throne"
+}
+]
 }
 }
 ]

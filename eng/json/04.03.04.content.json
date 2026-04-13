@@ -276,7 +276,16 @@
 "end_ref_usfm": "2CH 4:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 0.7514,
+"match_method": "scored",
+"preferred_label": "Lampstand"
+}
+]
 }
 },
 {
@@ -328,7 +337,16 @@
 "end_ref_usfm": "LEV 25:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:WickTrimmer",
+"type": "realia",
+"confidence": 0.7542,
+"match_method": "scored",
+"preferred_label": "Wick Trimmer"
+}
+]
 }
 }
 ]

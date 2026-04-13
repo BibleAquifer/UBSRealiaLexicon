@@ -24,7 +24,16 @@
 "end_ref_usfm": "1ES 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cushion",
+"type": "realia",
+"confidence": 0.6515,
+"match_method": "scored",
+"preferred_label": "Cushion"
+}
+]
 }
 }
 ]
