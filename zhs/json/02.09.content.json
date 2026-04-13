@@ -1,0 +1,111 @@
+[
+{
+"content_id": "REALIA:2.9",
+"reference_id": "REALIA:2.9",
+"version": "1.0.4",
+"title": "标题：头盔（helmet）",
+"media_type": "Text",
+"index_reference": "2.9",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.9\"><span class=\"thlex-key\">2.9</span> 标题：头盔（helmet）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כּוֹבַע</span> <span class=\"thlex-translit\">(音译：kova‘)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a>, <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>, <a href=\"https://ref.ly/Isa59:17\">ISA 59:17</a>, <a href=\"https://ref.ly/Jer46:4\">JER 46:4</a>, <a href=\"https://ref.ly/Ezek27:10\">EZK 27:10</a>, <a href=\"https://ref.ly/Ezek38:5\">EZK 38:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מָעוֹז, רֹאשׁ</span> <span class=\"thlex-translit\">(音译：ma‘oz ro’sh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps60:9\">PSA 60:9</a>, <a href=\"https://ref.ly/Ps108:9\">PSA 108:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：קוֹבַע</span> <span class=\"thlex-translit\">(音译：qova‘)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam17:38\">1SA 17:38</a>, <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：περικεφαλαία</span> <span class=\"thlex-translit\">(音译：perikefalaia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Eph6:17\">EPH 6:17</a>, <a href=\"https://ref.ly/1Thess5:8\">1TH 5:8</a>, <a href=\"https://ref.ly/1Macc6:35\">1MA 6:35</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κόρυς</span> <span class=\"thlex-translit\">(音译：korus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis5:18\">WIS 5:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0971_helmet.jpg\" alt=\"头盔\"><figcaption class=\"thlex-caption\">头盔 (© Public Domain - Wikimedia Commons)</figcaption></figure>头盔是保护头部的护甲。有些头盔设计有垂边，延伸至耳朵甚至颈部。以色列人和他们的邻邦所使用的头盔通常用皮革制成。金属头盔非常罕有，一般是从东面和北面的一些国家进口。参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.3.1 鞘 (sheath, scabbard)&lt;REALIA:2.3.1&gt;</a> 中的插图。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0973_helmet.jpg\" alt=\"士兵戴的头盔\"><figcaption class=\"thlex-caption\">士兵戴的头盔 (© Jona Lendering - Wikimedia Commons)</figcaption></figure>如果目标语言没有表示“头盔”的词语，翻译者可以采用描述性的同义词，例如“保护头部的装备”或“战斗时戴的头套”。在<a href=\"https://ref.ly/Isa59:17\">ISA 59:17</a> 和<a href=\"https://ref.ly/Eph6:17\">EPH 6:17</a> 中，“救恩的头盔”这个比喻可以译为“救恩好像头部的护具”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017005",
+"start_ref_usfm": "1SA 17:5",
+"end_ref": "09017005",
+"end_ref_usfm": "1SA 17:5"
+},
+{
+"start_ref": "14026014",
+"start_ref_usfm": "2CH 26:14",
+"end_ref": "14026014",
+"end_ref_usfm": "2CH 26:14"
+},
+{
+"start_ref": "23059017",
+"start_ref_usfm": "ISA 59:17",
+"end_ref": "23059017",
+"end_ref_usfm": "ISA 59:17"
+},
+{
+"start_ref": "24046004",
+"start_ref_usfm": "JER 46:4",
+"end_ref": "24046004",
+"end_ref_usfm": "JER 46:4"
+},
+{
+"start_ref": "26027010",
+"start_ref_usfm": "EZK 27:10",
+"end_ref": "26027010",
+"end_ref_usfm": "EZK 27:10"
+},
+{
+"start_ref": "26038005",
+"start_ref_usfm": "EZK 38:5",
+"end_ref": "26038005",
+"end_ref_usfm": "EZK 38:5"
+},
+{
+"start_ref": "19060009",
+"start_ref_usfm": "PSA 60:9",
+"end_ref": "19060009",
+"end_ref_usfm": "PSA 60:9"
+},
+{
+"start_ref": "19108009",
+"start_ref_usfm": "PSA 108:9",
+"end_ref": "19108009",
+"end_ref_usfm": "PSA 108:9"
+},
+{
+"start_ref": "09017038",
+"start_ref_usfm": "1SA 17:38",
+"end_ref": "09017038",
+"end_ref_usfm": "1SA 17:38"
+},
+{
+"start_ref": "26023024",
+"start_ref_usfm": "EZK 23:24",
+"end_ref": "26023024",
+"end_ref_usfm": "EZK 23:24"
+},
+{
+"start_ref": "49006017",
+"start_ref_usfm": "EPH 6:17",
+"end_ref": "49006017",
+"end_ref_usfm": "EPH 6:17"
+},
+{
+"start_ref": "52005008",
+"start_ref_usfm": "1TH 5:8",
+"end_ref": "52005008",
+"end_ref_usfm": "1TH 5:8"
+},
+{
+"start_ref": "78006035",
+"start_ref_usfm": "1MA 6:35",
+"end_ref": "78006035",
+"end_ref_usfm": "1MA 6:35"
+},
+{
+"start_ref": "71005018",
+"start_ref_usfm": "WIS 5:18",
+"end_ref": "71005018",
+"end_ref_usfm": "WIS 5:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Helmet",
+"type": "realia",
+"confidence": 0.8857,
+"match_method": "scored",
+"preferred_label": "Helmet"
+}
+]
+}
+}
+]

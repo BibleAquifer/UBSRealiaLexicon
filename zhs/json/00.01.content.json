@@ -1,0 +1,49 @@
+[
+{
+"content_id": "REALIA:0.1",
+"reference_id": "REALIA:0.1",
+"version": "1.0.4",
+"title": "标题：介绍",
+"media_type": "Text",
+"index_reference": "0.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:0.1\"><span class=\"thlex-key\">0.1</span> 标题：介绍</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <strong>翻译圣经中的物件</strong>\n        </h2>\n<div class=\"thlex-paragraphs\">\n<p>为了生活舒适和便利，人在被造后不久就开始制造物品了。亚当刚刚离开伊甸园，我们就读到犹八是“所有弹琴吹箫之人的祖师”，而土八‧该隐“打造各样铜器铁器”（<a href=\"https://ref.ly/Gen4:21\">GEN 4:21</a> ，<a href=\"https://ref.ly/Gen4:22\">GEN 4:22</a> ）。</p>\n<p>圣经中提到的各样物品至少有五百种，这给圣经翻译者带来了极大的挑战。虽然人类的生存经验有很多共通之处，基本的物质需求也比较稳定，但仍然有很多因素导致翻译者在翻译某些物品时很难找到对等词语。这些因素包括：原材料差异很大；物理条件决定了人们对于相同问题采用不同的解决方法；不同地区和不同时代的技术水平有很大差异；等等。</p>\n<p>因此，对于一件三千年前圣地常用的物品，现今的某种文化可能找不到对应的词语，而另一种文化则可能有十个词来表示这件物品的不同种类。在前一种情况下，翻译者需要设法帮助读者了解该物品是什么，以及具有什么重要意义；对于后一种情况，则必须确定已知物品中的哪一种与圣经所指的物品相同或最为相近。</p>\n<p>从古代到现代，许多物品已经发生了很大的变化，因此，翻译者直接使用现代物品的词汇可能会误导读者。翻译必须避免出现时代错误。比如，在翻译“笔”这种书写工具时，翻译者不可以选择通常指圆珠笔的词语。如果某种语言没有表示对应物品的词语，则有几种选择。翻译者可以从地域性语言或贸易语言中借用一个词，或者通过适度扩展翻译来描述这个物品或其功能。例如，在<a href=\"https://ref.ly/Amos7:7\">AMO 7:7</a> 中，英文译本<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 将希伯来文本译为：一个人站在“……beside a wall built with a plumbline, with a plumbline in his hand”（英文直译：“……依铅垂线建好的墙边，手里拿着铅垂线”）。然而，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 则将其扩展翻译为：“……beside a wall and holding a string with a weight tied to the end of it. The string and weight had been used to measure the straightness of the wall”（“……墙边，手里拿着一根绳子，绳子的末端拴着一个重物。绳子和重物是用来测量墙的垂直度的”）。此外，带有附注的圣经译本还可以在脚注中解释某个物品及其用途。最后，可以在圣经末后附上一个术语简释，来解释难懂的术语。</p>\n<p>有时候，经文虽然提到某个物品，但读者也不是必须知道该物品才能理解经文。例如，在一些文化中，人们不知道什么是有墙有门的城，所以不易理解希伯来文中的表述“你将占有他的城门”（参<a href=\"https://ref.ly/Gen24:60\">GEN 24:60</a> ）。然而，如果我们将其译为“你将占领他的城”，这并不会丢失经文的意思。当物品属于比喻性的用法时，这种替代通常是合理可行的。但是，翻译者必须小心谨慎，不要轻易地替换掉原来的物品，而是要仔细推敲，改变经文的措辞是否会丢失部分原意。</p>\n<p>在圣经中，物品被用作比喻或隐喻的频率之高令人吃惊。例如，希腊文中的“轭”一词在新约中出现了五次，每次都是比喻。翻译者需要确保实物的直译在目标语言中仍然保留相同的比喻意义。如果直译无法很好地表达其中的比喻意义，那么最好不要提及该物品，而只是简单地译出比喻意义。例如，对于<a href=\"https://ref.ly/Luke2:35\">LUK 2:35</a> 所记西面对马利亚说的话，<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 译作“a sword will pierce your soul”（英文直译：（“一把剑将刺透你的灵魂”），有些语言是不会这样表达的。这句话的重点不在实物“剑”上，因此翻译者可以译作“你将经历极大的痛苦”，以保留原文的意思；或者找一个类似的惯用语，比如<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 把这节经文译为：“you……shall be pierced to the heart”（英文直译：“你的心会被刺透”）。</p>\n<p>本手册不是一本圣经物质文化辞典。读者如果想要了解圣经物质文化，请参阅书末参考书目中提到的著作。我们的关注点是在翻译工作上，旨在满足圣经翻译者的需要。因此，手册通常不会讨论特定物件是如何出现的，也不会讨论它在圣经中出现之前是如何演变的。同样，这里提供的实物尺寸精度也是有限的，目的在于帮助翻译者在各自文化背景下作出合适的选择。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <strong>插图</strong>\n        </h2>\n<div class=\"thlex-paragraphs\">\n<p>本手册中讨论的大多数物品都附有一幅或多幅插图。虽然许多物品的结构细节都在圣经记载的这几千年中发生了变化或演变，但本手册的目的并不是记录这些演变。这里提供插图是为了帮助翻译者在翻译特定的圣经经文时，找到正确的字词或短语。在绝大多数情况下，物品结构上的微小变化几乎不会影响译词的选择。只有在极少数的情况，当这些变化确实影响到翻译时，才会用插图来表明这些变化。但即使在这种情况下，通常也只用文字来描述，比如物品在旧约早期和新约时期之间的差异。考古发掘使我们对古代的物质文化不断有新的了解。其中有些发现改变了人们对于某些物品的构造和用途的普遍看法，以及它们在历史中首次出现的时间等。虽然本手册试图表达学术界当前的意见，但有些资讯仍然很可能在出版前就已过时。我们希望这些差异不会对翻译的质量产生不利影响。</p>\n<p>有些插图是考古发掘中的实物照片。实物虽然展示了圣经时期物品的真实面貌，但往往不如绘画或当代模型那样有吸引力。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <strong>度量衡</strong>\n        </h2>\n<div class=\"thlex-paragraphs\">\n<p>在圣经译文中，有些物件的尺寸是以圣经时期的计量单位来表示的。在这本手册中，我们有时会先给出原始量度值，然后转换为现代的量度单位。“肘”的转换有些困难，因为“肘”的长度在不同的时期或语境中是不一样的。虽然这种不一致可能会影响物品实际尺寸的翻译，但基本上不会影响物件名称的翻译。为此，本手册中对“肘”的长度统一定为50厘米或20英寸左右。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <strong>经文出处</strong>\n        </h2>\n<div class=\"thlex-paragraphs\">\n<p>每个条目均列出了物件的希伯来文／亚兰文、希腊文和拉丁文词语的音译，接着是每个词语在圣经中的出处。在大部分情况下，经文清单会列出相关词语具有所讨论意思的所有经节。如果某个词语出现了二三十次还多，那么清单就只列出该词在圣经中出现的最初几次，然后用“＋”号表示还有更多的经文出处。</p>\n<p>本手册按照原文圣经采用的章节划分系统，来标记“经文出处”中的经文和正文中提到的经文。在个别地方，章节的划分会与中文《和合本》采用的系统不同。对于这些情况，本手册会在括号中特别予以说明。</p>\n<p>布朗（Brown）、德赖弗（Driver）和布瑞格斯（Briggs）编撰的希伯来文词典是本手册音译希伯来文词语的依据。我们对词典提供的希伯来文词根进行音译，而不是对手册正文中出现的具体词形进行音译。在少数几个地方，有些资料来源可能会与他们给出的词根不同。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <strong>次经／旁经</strong>\n        </h2>\n<div class=\"thlex-paragraphs\">\n<p>联合圣经公会切望与所有教会合作开展翻译项目。全世界大部分基督徒所属的教会，都承认特定的一些著作为神圣经卷；有些教会称这些著作为次经（后典），还有一些教会称其为旁经。本手册的清单和讨论中包含了这些经卷（天主教会和东正教会的经卷数目不同）。次经中出现的一些物件，是六十六卷正典没有提到的，例如战象上的作战平台。如果某个希腊文词语同时出现在新约和次经中，本手册会先列出新约中的经文出处，然后在方括号中列出该词在次经中的出处。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01004021",
+"start_ref_usfm": "GEN 4:21",
+"end_ref": "01004021",
+"end_ref_usfm": "GEN 4:21"
+},
+{
+"start_ref": "01004022",
+"start_ref_usfm": "GEN 4:22",
+"end_ref": "01004022",
+"end_ref_usfm": "GEN 4:22"
+},
+{
+"start_ref": "30007007",
+"start_ref_usfm": "AMO 7:7",
+"end_ref": "30007007",
+"end_ref_usfm": "AMO 7:7"
+},
+{
+"start_ref": "01024060",
+"start_ref_usfm": "GEN 24:60",
+"end_ref": "01024060",
+"end_ref_usfm": "GEN 24:60"
+},
+{
+"start_ref": "42002035",
+"start_ref_usfm": "LUK 2:35",
+"end_ref": "42002035",
+"end_ref_usfm": "LUK 2:35"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

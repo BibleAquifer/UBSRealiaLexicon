@@ -1,0 +1,662 @@
+[
+{
+"content_id": "REALIA:2.10",
+"reference_id": "REALIA:2.10",
+"version": "1.0.4",
+"title": "标题：盾牌（shields）",
+"media_type": "Text",
+"index_reference": "2.10",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.10\"><span class=\"thlex-key\">2.10</span> 标题：盾牌（shields）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>盾牌的定义是：在士兵身体和敌方武器之间形成屏障的一种装备。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:2.10.1",
+"reference_id": "REALIA:2.10.1",
+"version": "1.0.4",
+"title": "标题：大盾（large shield）",
+"media_type": "Text",
+"index_reference": "2.10.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.10.1\"><span class=\"thlex-key\">2.10.1</span> 标题：大盾（large shield）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：צִנָּה</span> <span class=\"thlex-translit\">(音译：tsinah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam17:7\">1SA 17:7</a>, <a href=\"https://ref.ly/1Sam17:41\">1SA 17:41</a>, <a href=\"https://ref.ly/1Kgs10:16\">1KI 10:16</a>, <a href=\"https://ref.ly/1Kgs10:16\">1KI 10:16</a>, <a href=\"https://ref.ly/1Chr12:9\">1CH 12:9</a>, <a href=\"https://ref.ly/1Chr12:25\">1CH 12:25</a>, <a href=\"https://ref.ly/1Chr12:35\">1CH 12:35</a>, <a href=\"https://ref.ly/2Chr9:15\">2CH 9:15</a>, <a href=\"https://ref.ly/2Chr9:15\">2CH 9:15</a>, <a href=\"https://ref.ly/2Chr11:12\">2CH 11:12</a>, <a href=\"https://ref.ly/2Chr14:7\">2CH 14:7</a>, <a href=\"https://ref.ly/2Chr25:5\">2CH 25:5</a>, <a href=\"https://ref.ly/Ps5:13\">PSA 5:13</a>, <a href=\"https://ref.ly/Ps35:2\">PSA 35:2</a>, <a href=\"https://ref.ly/Ps91:4\">PSA 91:4</a>, <a href=\"https://ref.ly/Jer46:3\">JER 46:3</a>, <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a>, <a href=\"https://ref.ly/Ezek26:8\">EZK 26:8</a>, <a href=\"https://ref.ly/Ezek38:4\">EZK 38:4</a>, <a href=\"https://ref.ly/Ezek39:9\">EZK 39:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἀσπιδίσκη</span> <span class=\"thlex-translit\">(音译：aspidiskē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc4:57\">1MA 4:57</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἀσπίς</span> <span class=\"thlex-translit\">(音译：aspis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt9:7\">JDT 9:7</a>, <a href=\"https://ref.ly/Wis5:19\">WIS 5:19</a>, <a href=\"https://ref.ly/Sir29:13\">SIR 29:13</a>, <a href=\"https://ref.ly/Sir37:5\">SIR 37:5</a>, <a href=\"https://ref.ly/1Macc6:39\">1MA 6:39</a>, <a href=\"https://ref.ly/1Macc14:24\">1MA 14:24</a>, <a href=\"https://ref.ly/1Macc15:18\">1MA 15:18</a>, <a href=\"https://ref.ly/1Macc15:20\">1MA 15:20</a>, <a href=\"https://ref.ly/2Macc5:3\">2MA 5:3</a>, <a href=\"https://ref.ly/2Macc15:11\">2MA 15:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κάλυμμα</span> <span class=\"thlex-translit\">(音译：kalumma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc4:6\">1MA 4:6</a>, <a href=\"https://ref.ly/1Macc6:2\">1MA 6:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：θυρεός</span> <span class=\"thlex-translit\">(音译：thureos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Eph6:16\">EPH 6:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0386_large_shield.jpg\" alt=\"亚述巴尼拔（Ashurbanipal）狩猎狮子时士兵手持的大盾牌（大英博物馆，10a展厅）\"><figcaption class=\"thlex-caption\">亚述巴尼拔（Ashurbanipal）狩猎狮子时士兵手持的大盾牌（大英博物馆，10a展厅） (© Johnbod, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>大盾是一个椭圆形的长盾牌，大约有一个人的高度，用来保护人的全身。大盾可以是木制、金属制，或者用木架撑着皮革制成，甚至是用木条或芦苇编织而成。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>握持这种大盾时，用一只手握住大盾背面的索带。右手拿剑的战士会用左手持盾，反之亦然。战士把盾牌挡在自己和对手之间，以遮挡刀剑、枪矛或棍棒的攻击，也用来阻挡箭、石头、投枪之类的投掷武器。在大卫打败巨人歌利亚的故事中（<a href=\"https://ref.ly/1Sam17:0\">1SA 17:0</a> ），有个仆人站在歌利亚的前面，手持着巨人的大盾牌。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>有些语言将“盾”译作：“人打仗时携带的护具”，或“为抵挡敌人攻击而携带的护具”。在一些以“盾”为喻的经文中，翻译者可以既保留盾的保护含意，又不把实际的装备翻译出来；例如，在<a href=\"https://ref.ly/Ps91:4\">PSA 91:4</a> ，原文字面意为“他的信实是大盾牌和小圆盾”，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 采用了直译，然而也可以译为，“上帝信守他的应许，必要保护你。”</p>\n<p>希伯来文<em>tsinah</em> 有时喻指上帝是保护者（参<a href=\"https://ref.ly/Ps5:13\">PSA 5:13</a> ［《和》5:12］和<a href=\"https://ref.ly/Ps91:4\">PSA 91:4</a> ，以及<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.10.2 小盾、小圆盾 (small shield, buckler)&lt;REALIA:2.10.2&gt;</a> 中的讨论）。</p>\n<p>在<a href=\"https://ref.ly/Ezek26:8\">EZK 26:8</a> 中，希伯来文<em>tsinah</em> 表示一个特别大的盾，称为移动防弹盾（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.19.8 移动防弹盾 (mantelet)&lt;REALIA:2.19.8&gt;</a> ），置于正在攻城的士兵头上或前面。虽然这个希伯来文词语是单数，但它的遮挡功能通常是由很多面盾排在一起来实现的。因此，这节经文的最后一部分可译作，“做成一道盾牌墙攻击你”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译），或“竖起一排排的盾牌围住你”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译）。</p>\n<p>在《七十士译本》中，希腊文<em>kalumma</em> 指会幕中的幔子或覆盖会幕中器具的布。在<a href=\"https://ref.ly/1Macc4:6\">1MA 4:6</a> ，几乎所有译本都将其译作某件防护性“盔甲”（“armor”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）。在<a href=\"https://ref.ly/1Macc6:2\">1MA 6:2</a> ，有些译本译作“盾牌”（“shields”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ），而<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 和戈尔茨坦（Goldstein）则译为“头盔”（“helmets”）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017007",
+"start_ref_usfm": "1SA 17:7",
+"end_ref": "09017007",
+"end_ref_usfm": "1SA 17:7"
+},
+{
+"start_ref": "09017041",
+"start_ref_usfm": "1SA 17:41",
+"end_ref": "09017041",
+"end_ref_usfm": "1SA 17:41"
+},
+{
+"start_ref": "11010016",
+"start_ref_usfm": "1KI 10:16",
+"end_ref": "11010016",
+"end_ref_usfm": "1KI 10:16"
+},
+{
+"start_ref": "13012009",
+"start_ref_usfm": "1CH 12:9",
+"end_ref": "13012009",
+"end_ref_usfm": "1CH 12:9"
+},
+{
+"start_ref": "13012025",
+"start_ref_usfm": "1CH 12:25",
+"end_ref": "13012025",
+"end_ref_usfm": "1CH 12:25"
+},
+{
+"start_ref": "13012035",
+"start_ref_usfm": "1CH 12:35",
+"end_ref": "13012035",
+"end_ref_usfm": "1CH 12:35"
+},
+{
+"start_ref": "14009015",
+"start_ref_usfm": "2CH 9:15",
+"end_ref": "14009015",
+"end_ref_usfm": "2CH 9:15"
+},
+{
+"start_ref": "14011012",
+"start_ref_usfm": "2CH 11:12",
+"end_ref": "14011012",
+"end_ref_usfm": "2CH 11:12"
+},
+{
+"start_ref": "14014007",
+"start_ref_usfm": "2CH 14:7",
+"end_ref": "14014007",
+"end_ref_usfm": "2CH 14:7"
+},
+{
+"start_ref": "14025005",
+"start_ref_usfm": "2CH 25:5",
+"end_ref": "14025005",
+"end_ref_usfm": "2CH 25:5"
+},
+{
+"start_ref": "19005013",
+"start_ref_usfm": "PSA 5:13",
+"end_ref": "19005013",
+"end_ref_usfm": "PSA 5:13"
+},
+{
+"start_ref": "19035002",
+"start_ref_usfm": "PSA 35:2",
+"end_ref": "19035002",
+"end_ref_usfm": "PSA 35:2"
+},
+{
+"start_ref": "19091004",
+"start_ref_usfm": "PSA 91:4",
+"end_ref": "19091004",
+"end_ref_usfm": "PSA 91:4"
+},
+{
+"start_ref": "24046003",
+"start_ref_usfm": "JER 46:3",
+"end_ref": "24046003",
+"end_ref_usfm": "JER 46:3"
+},
+{
+"start_ref": "26023024",
+"start_ref_usfm": "EZK 23:24",
+"end_ref": "26023024",
+"end_ref_usfm": "EZK 23:24"
+},
+{
+"start_ref": "26026008",
+"start_ref_usfm": "EZK 26:8",
+"end_ref": "26026008",
+"end_ref_usfm": "EZK 26:8"
+},
+{
+"start_ref": "26038004",
+"start_ref_usfm": "EZK 38:4",
+"end_ref": "26038004",
+"end_ref_usfm": "EZK 38:4"
+},
+{
+"start_ref": "26039009",
+"start_ref_usfm": "EZK 39:9",
+"end_ref": "26039009",
+"end_ref_usfm": "EZK 39:9"
+},
+{
+"start_ref": "78004057",
+"start_ref_usfm": "1MA 4:57",
+"end_ref": "78004057",
+"end_ref_usfm": "1MA 4:57"
+},
+{
+"start_ref": "69009007",
+"start_ref_usfm": "JDT 9:7",
+"end_ref": "69009007",
+"end_ref_usfm": "JDT 9:7"
+},
+{
+"start_ref": "71005019",
+"start_ref_usfm": "WIS 5:19",
+"end_ref": "71005019",
+"end_ref_usfm": "WIS 5:19"
+},
+{
+"start_ref": "72029013",
+"start_ref_usfm": "SIR 29:13",
+"end_ref": "72029013",
+"end_ref_usfm": "SIR 29:13"
+},
+{
+"start_ref": "72037005",
+"start_ref_usfm": "SIR 37:5",
+"end_ref": "72037005",
+"end_ref_usfm": "SIR 37:5"
+},
+{
+"start_ref": "78006039",
+"start_ref_usfm": "1MA 6:39",
+"end_ref": "78006039",
+"end_ref_usfm": "1MA 6:39"
+},
+{
+"start_ref": "78014024",
+"start_ref_usfm": "1MA 14:24",
+"end_ref": "78014024",
+"end_ref_usfm": "1MA 14:24"
+},
+{
+"start_ref": "78015018",
+"start_ref_usfm": "1MA 15:18",
+"end_ref": "78015018",
+"end_ref_usfm": "1MA 15:18"
+},
+{
+"start_ref": "78015020",
+"start_ref_usfm": "1MA 15:20",
+"end_ref": "78015020",
+"end_ref_usfm": "1MA 15:20"
+},
+{
+"start_ref": "79005003",
+"start_ref_usfm": "2MA 5:3",
+"end_ref": "79005003",
+"end_ref_usfm": "2MA 5:3"
+},
+{
+"start_ref": "79015011",
+"start_ref_usfm": "2MA 15:11",
+"end_ref": "79015011",
+"end_ref_usfm": "2MA 15:11"
+},
+{
+"start_ref": "78004006",
+"start_ref_usfm": "1MA 4:6",
+"end_ref": "78004006",
+"end_ref_usfm": "1MA 4:6"
+},
+{
+"start_ref": "78006002",
+"start_ref_usfm": "1MA 6:2",
+"end_ref": "78006002",
+"end_ref_usfm": "1MA 6:2"
+},
+{
+"start_ref": "49006016",
+"start_ref_usfm": "EPH 6:16",
+"end_ref": "49006016",
+"end_ref_usfm": "EPH 6:16"
+},
+{
+"start_ref": "09017000",
+"start_ref_usfm": "1SA 17:0",
+"end_ref": "09017000",
+"end_ref_usfm": "1SA 17:0"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.7697,
+"match_method": "scored",
+"preferred_label": "Large Shield"
+}
+]
+}
+},
+{
+"content_id": "REALIA:2.10.2",
+"reference_id": "REALIA:2.10.2",
+"version": "1.0.4",
+"title": "标题：小盾、小圆盾（small shield, buckler）",
+"media_type": "Text",
+"index_reference": "2.10.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.10.2\"><span class=\"thlex-key\">2.10.2</span> 标题：小盾、小圆盾（small shield, buckler）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מָגֵן</span> <span class=\"thlex-translit\">(音译：magen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen15:1\">GEN 15:1</a>, <a href=\"https://ref.ly/Deut33:29\">DEU 33:29</a>, <a href=\"https://ref.ly/Judg5:8\">JDG 5:8</a>, <a href=\"https://ref.ly/2Sam1:21\">2SA 1:21</a>, <a href=\"https://ref.ly/2Sam1:21\">2SA 1:21</a>, <a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a>, <a href=\"https://ref.ly/2Sam22:31\">2SA 22:31</a>, <a href=\"https://ref.ly/2Sam22:36\">2SA 22:36</a>, <a href=\"https://ref.ly/1Kgs10:17\">1KI 10:17</a>, <a href=\"https://ref.ly/1Kgs10:17\">1KI 10:17</a>, <a href=\"https://ref.ly/1Kgs14:26\">1KI 14:26</a>, <a href=\"https://ref.ly/1Kgs14:27\">1KI 14:27</a>, <a href=\"https://ref.ly/2Kgs19:32\">2KI 19:32</a>, <a href=\"https://ref.ly/1Chr5:18\">1CH 5:18</a>, <a href=\"https://ref.ly/2Chr9:16\">2CH 9:16</a>, <a href=\"https://ref.ly/2Chr9:16\">2CH 9:16</a>, <a href=\"https://ref.ly/2Chr12:9\">2CH 12:9</a>, <a href=\"https://ref.ly/2Chr12:10\">2CH 12:10</a>, <a href=\"https://ref.ly/2Chr14:7\">2CH 14:7</a>, <a href=\"https://ref.ly/2Chr17:17\">2CH 17:17</a>, <a href=\"https://ref.ly/2Chr23:9\">2CH 23:9</a>, <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>, <a href=\"https://ref.ly/2Chr32:5\">2CH 32:5</a>, <a href=\"https://ref.ly/2Chr32:27\">2CH 32:27</a>, <a href=\"https://ref.ly/Neh4:10\">NEH 4:10</a>, <a href=\"https://ref.ly/Job15:26\">JOB 15:26</a>, <a href=\"https://ref.ly/Job41:7\">JOB 41:7</a>, <a href=\"https://ref.ly/Ps3:4\">PSA 3:4</a>, <a href=\"https://ref.ly/Ps7:11\">PSA 7:11</a>, <a href=\"https://ref.ly/Ps18:3\">PSA 18:3</a>, <a href=\"https://ref.ly/Ps18:31\">PSA 18:31</a>, <a href=\"https://ref.ly/Ps18:36\">PSA 18:36</a>, <a href=\"https://ref.ly/Ps28:7\">PSA 28:7</a>, <a href=\"https://ref.ly/Ps33:20\">PSA 33:20</a>, <a href=\"https://ref.ly/Ps35:2\">PSA 35:2</a>, <a href=\"https://ref.ly/Ps47:10\">PSA 47:10</a>, <a href=\"https://ref.ly/Ps59:12\">PSA 59:12</a>, <a href=\"https://ref.ly/Ps76:4\">PSA 76:4</a>, <a href=\"https://ref.ly/Ps84:10\">PSA 84:10</a>, <a href=\"https://ref.ly/Ps84:12\">PSA 84:12</a>, <a href=\"https://ref.ly/Ps89:19\">PSA 89:19</a>, <a href=\"https://ref.ly/Ps115:9\">PSA 115:9</a>, <a href=\"https://ref.ly/Ps115:10\">PSA 115:10</a>, <a href=\"https://ref.ly/Ps115:11\">PSA 115:11</a>, <a href=\"https://ref.ly/Ps119:114\">PSA 119:114</a>, <a href=\"https://ref.ly/Ps144:2\">PSA 144:2</a>, <a href=\"https://ref.ly/Prov2:7\">PRO 2:7</a>, <a href=\"https://ref.ly/Prov6:11\">PRO 6:11</a>, <a href=\"https://ref.ly/Prov24:34\">PRO 24:34</a>, <a href=\"https://ref.ly/Prov30:5\">PRO 30:5</a>, <a href=\"https://ref.ly/Song4:4\">SNG 4:4</a>, <a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a>, <a href=\"https://ref.ly/Isa22:6\">ISA 22:6</a>, <a href=\"https://ref.ly/Isa37:33\">ISA 37:33</a>, <a href=\"https://ref.ly/Jer46:3\">JER 46:3</a>, <a href=\"https://ref.ly/Jer46:9\">JER 46:9</a>, <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a>, <a href=\"https://ref.ly/Ezek27:10\">EZK 27:10</a>, <a href=\"https://ref.ly/Ezek38:4\">EZK 38:4</a>, <a href=\"https://ref.ly/Ezek38:5\">EZK 38:5</a>, <a href=\"https://ref.ly/Ezek39:9\">EZK 39:9</a>, <a href=\"https://ref.ly/Nah2:4\">NAM 2:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עֲגָלָה</span> <span class=\"thlex-translit\">(音译：‘agalah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps46:10\">PSA 46:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שֶׁלֶט</span> <span class=\"thlex-translit\">(音译：shelet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam8:7\">2SA 8:7</a>, <a href=\"https://ref.ly/2Kgs11:10\">2KI 11:10</a>, <a href=\"https://ref.ly/1Chr18:7\">1CH 18:7</a>, <a href=\"https://ref.ly/2Chr23:9\">2CH 23:9</a>, <a href=\"https://ref.ly/Song4:4\">SNG 4:4</a>, <a href=\"https://ref.ly/Jer51:11\">JER 51:11</a>, <a href=\"https://ref.ly/Ezek27:11\">EZK 27:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שֶׁמֶשׁ</span> <span class=\"thlex-translit\">(音译：shemesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps84:12\">PSA 84:12</a>, <a href=\"https://ref.ly/Isa54:12\">ISA 54:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0387_round_shield.jpg\" alt=\"手持圆盾的士兵（新亚述猎狮浅浮雕，亚述展廊（Assyrian Gallery），大英博物馆）。\"><figcaption class=\"thlex-caption\">手持圆盾的士兵（新亚述猎狮浅浮雕，亚述展廊（Assyrian Gallery），大英博物馆）。 (Gary Todd, British Museum, CC0, Flickr)</figcaption></figure>和大盾一样，这种盾可以是木制（有时包上皮革）或金属制成的。小盾的形状不一，但一般是圆形的。木盾经常会用金属钉加固或包上金属片。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.10.1 大盾 (large shield)&lt;REALIA:2.10.1&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.10.1 大盾 (large shield)&lt;REALIA:2.10.1&gt;</a> 。<a href=\"https://ref.ly/2Sam1:21\">2SA 1:21</a> 和<a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a> 提到为盾牌抹油。用皮革包裹的盾需要定期抹油，以防皮革龟裂。抹油也能防止金属盾生锈。如果读者不太理解为何给盾牌抹油，那么<a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a> 的最后一部分可以译成“准备好盾牌！”（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直译；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 类似），或者“握紧盾牌”（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直译），甚或“拿起武器！”（<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 直译）。</p>\n<p>在很多经文中，特别是在《诗篇》，上帝被比喻为“盾牌”。如果这种比喻可能会被误解，那么翻译者可以采用一个陈述句，把上帝称为保护者或护卫者；例如，在<a href=\"https://ref.ly/Gen15:1\">GEN 15:1</a> ，原文字面意为“我是你的盾牌”的这个分句可以译为“我必护卫你”（如<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）。在这些情况下，翻译者也可以扩展译文；例如，对于<a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a> 字面意为“我的盾牌”的希伯来文词语，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 采用了直译，然而也可译为“他像盾牌那样保护我”（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。这个比喻也出现在以下经文中：<a href=\"https://ref.ly/Gen15:1\">GEN 15:1</a>; <a href=\"https://ref.ly/Deut33:29\">DEU 33:29</a>; <a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a>; <a href=\"https://ref.ly/2Sam22:31\">2SA 22:31</a>; <a href=\"https://ref.ly/2Sam22:36\">2SA 22:36</a>; <a href=\"https://ref.ly/Ps3:4\">PSA 3:4</a>; <a href=\"https://ref.ly/Ps7:11\">PSA 7:11</a>; <a href=\"https://ref.ly/Ps18:3\">PSA 18:3</a>; <a href=\"https://ref.ly/Ps18:31\">PSA 18:31</a>; <a href=\"https://ref.ly/Ps18:36\">PSA 18:36</a>; <a href=\"https://ref.ly/Ps28:7\">PSA 28:7</a>; <a href=\"https://ref.ly/Ps33:20\">PSA 33:20</a>; <a href=\"https://ref.ly/Ps59:12\">PSA 59:12</a>; <a href=\"https://ref.ly/Ps84:10\">PSA 84:10</a>; <a href=\"https://ref.ly/Ps84:12\">PSA 84:12</a>; <a href=\"https://ref.ly/Ps89:19\">PSA 89:19</a>; <a href=\"https://ref.ly/Ps115:9\">PSA 115:9</a>; <a href=\"https://ref.ly/Ps115:10\">PSA 115:10</a>; <a href=\"https://ref.ly/Ps115:11\">PSA 115:11</a>; <a href=\"https://ref.ly/Ps119:114\">PSA 119:114</a>; <a href=\"https://ref.ly/Ps144:2\">PSA 144:2</a>; <a href=\"https://ref.ly/Prov2:7\">PRO 2:7</a>; <a href=\"https://ref.ly/Prov30:5\">PRO 30:5</a> 。</p>\n<p>\n            <a href=\"https://ref.ly/Ps46:10\">PSA 46:10</a> （《和》46:9）：有些译本把希伯来文<em>‘agaloth</em> 译作“战车”，但大部分学者认为这个词并不是指“战车”，而更可能是指“盾牌”。<em>‘Agaloth</em> 一词和意为“圆形”的希伯来文词语有关，因此可能是指比较小的圆形盾牌。古代的盾一般是用木头和皮革制成，经常要涂抹橄榄油，因此很容易燃烧。如果某个文化只知道用金属制成的盾，建议翻译者加上注解来说明盾牌为什么能够燃烧。</p>\n<p>希伯来文<em>shemesh</em> 一般指“太阳”，另外也有圆形盾牌的意思，作为城墙顶部防御的一部分（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.19.3 射击台、攻城塔 (firing platform, siege tower)&lt;REALIA:2.19.3&gt;</a> 中的插图）。因此，<a href=\"https://ref.ly/Ps84:12\">PSA 84:12</a> （《和》84:11）中的短语“太阳和盾牌”是论到两种盾牌。大多数现代译本错误地保留了“太阳”，但参照<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ，该译本译作“rampart and shield”（“壁垒和盾牌”）。<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 在旁注中加上“bulwark”（“堡垒”）。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 译作“Protector and glorious king”（“保护者和荣耀的王”），用“荣耀的王”来保留“太阳”的含意，但把两个希伯来文词语的先后次序颠倒了。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01015001",
+"start_ref_usfm": "GEN 15:1",
+"end_ref": "01015001",
+"end_ref_usfm": "GEN 15:1"
+},
+{
+"start_ref": "05033029",
+"start_ref_usfm": "DEU 33:29",
+"end_ref": "05033029",
+"end_ref_usfm": "DEU 33:29"
+},
+{
+"start_ref": "07005008",
+"start_ref_usfm": "JDG 5:8",
+"end_ref": "07005008",
+"end_ref_usfm": "JDG 5:8"
+},
+{
+"start_ref": "10001021",
+"start_ref_usfm": "2SA 1:21",
+"end_ref": "10001021",
+"end_ref_usfm": "2SA 1:21"
+},
+{
+"start_ref": "10022003",
+"start_ref_usfm": "2SA 22:3",
+"end_ref": "10022003",
+"end_ref_usfm": "2SA 22:3"
+},
+{
+"start_ref": "10022031",
+"start_ref_usfm": "2SA 22:31",
+"end_ref": "10022031",
+"end_ref_usfm": "2SA 22:31"
+},
+{
+"start_ref": "10022036",
+"start_ref_usfm": "2SA 22:36",
+"end_ref": "10022036",
+"end_ref_usfm": "2SA 22:36"
+},
+{
+"start_ref": "11010017",
+"start_ref_usfm": "1KI 10:17",
+"end_ref": "11010017",
+"end_ref_usfm": "1KI 10:17"
+},
+{
+"start_ref": "11014026",
+"start_ref_usfm": "1KI 14:26",
+"end_ref": "11014026",
+"end_ref_usfm": "1KI 14:26"
+},
+{
+"start_ref": "11014027",
+"start_ref_usfm": "1KI 14:27",
+"end_ref": "11014027",
+"end_ref_usfm": "1KI 14:27"
+},
+{
+"start_ref": "12019032",
+"start_ref_usfm": "2KI 19:32",
+"end_ref": "12019032",
+"end_ref_usfm": "2KI 19:32"
+},
+{
+"start_ref": "13005018",
+"start_ref_usfm": "1CH 5:18",
+"end_ref": "13005018",
+"end_ref_usfm": "1CH 5:18"
+},
+{
+"start_ref": "14009016",
+"start_ref_usfm": "2CH 9:16",
+"end_ref": "14009016",
+"end_ref_usfm": "2CH 9:16"
+},
+{
+"start_ref": "14012009",
+"start_ref_usfm": "2CH 12:9",
+"end_ref": "14012009",
+"end_ref_usfm": "2CH 12:9"
+},
+{
+"start_ref": "14012010",
+"start_ref_usfm": "2CH 12:10",
+"end_ref": "14012010",
+"end_ref_usfm": "2CH 12:10"
+},
+{
+"start_ref": "14014007",
+"start_ref_usfm": "2CH 14:7",
+"end_ref": "14014007",
+"end_ref_usfm": "2CH 14:7"
+},
+{
+"start_ref": "14017017",
+"start_ref_usfm": "2CH 17:17",
+"end_ref": "14017017",
+"end_ref_usfm": "2CH 17:17"
+},
+{
+"start_ref": "14023009",
+"start_ref_usfm": "2CH 23:9",
+"end_ref": "14023009",
+"end_ref_usfm": "2CH 23:9"
+},
+{
+"start_ref": "14026014",
+"start_ref_usfm": "2CH 26:14",
+"end_ref": "14026014",
+"end_ref_usfm": "2CH 26:14"
+},
+{
+"start_ref": "14032005",
+"start_ref_usfm": "2CH 32:5",
+"end_ref": "14032005",
+"end_ref_usfm": "2CH 32:5"
+},
+{
+"start_ref": "14032027",
+"start_ref_usfm": "2CH 32:27",
+"end_ref": "14032027",
+"end_ref_usfm": "2CH 32:27"
+},
+{
+"start_ref": "16004010",
+"start_ref_usfm": "NEH 4:10",
+"end_ref": "16004010",
+"end_ref_usfm": "NEH 4:10"
+},
+{
+"start_ref": "18015026",
+"start_ref_usfm": "JOB 15:26",
+"end_ref": "18015026",
+"end_ref_usfm": "JOB 15:26"
+},
+{
+"start_ref": "18041007",
+"start_ref_usfm": "JOB 41:7",
+"end_ref": "18041007",
+"end_ref_usfm": "JOB 41:7"
+},
+{
+"start_ref": "19003004",
+"start_ref_usfm": "PSA 3:4",
+"end_ref": "19003004",
+"end_ref_usfm": "PSA 3:4"
+},
+{
+"start_ref": "19007011",
+"start_ref_usfm": "PSA 7:11",
+"end_ref": "19007011",
+"end_ref_usfm": "PSA 7:11"
+},
+{
+"start_ref": "19018003",
+"start_ref_usfm": "PSA 18:3",
+"end_ref": "19018003",
+"end_ref_usfm": "PSA 18:3"
+},
+{
+"start_ref": "19018031",
+"start_ref_usfm": "PSA 18:31",
+"end_ref": "19018031",
+"end_ref_usfm": "PSA 18:31"
+},
+{
+"start_ref": "19018036",
+"start_ref_usfm": "PSA 18:36",
+"end_ref": "19018036",
+"end_ref_usfm": "PSA 18:36"
+},
+{
+"start_ref": "19028007",
+"start_ref_usfm": "PSA 28:7",
+"end_ref": "19028007",
+"end_ref_usfm": "PSA 28:7"
+},
+{
+"start_ref": "19033020",
+"start_ref_usfm": "PSA 33:20",
+"end_ref": "19033020",
+"end_ref_usfm": "PSA 33:20"
+},
+{
+"start_ref": "19035002",
+"start_ref_usfm": "PSA 35:2",
+"end_ref": "19035002",
+"end_ref_usfm": "PSA 35:2"
+},
+{
+"start_ref": "19047010",
+"start_ref_usfm": "PSA 47:10",
+"end_ref": "19047010",
+"end_ref_usfm": "PSA 47:10"
+},
+{
+"start_ref": "19059012",
+"start_ref_usfm": "PSA 59:12",
+"end_ref": "19059012",
+"end_ref_usfm": "PSA 59:12"
+},
+{
+"start_ref": "19076004",
+"start_ref_usfm": "PSA 76:4",
+"end_ref": "19076004",
+"end_ref_usfm": "PSA 76:4"
+},
+{
+"start_ref": "19084010",
+"start_ref_usfm": "PSA 84:10",
+"end_ref": "19084010",
+"end_ref_usfm": "PSA 84:10"
+},
+{
+"start_ref": "19084012",
+"start_ref_usfm": "PSA 84:12",
+"end_ref": "19084012",
+"end_ref_usfm": "PSA 84:12"
+},
+{
+"start_ref": "19089019",
+"start_ref_usfm": "PSA 89:19",
+"end_ref": "19089019",
+"end_ref_usfm": "PSA 89:19"
+},
+{
+"start_ref": "19115009",
+"start_ref_usfm": "PSA 115:9",
+"end_ref": "19115009",
+"end_ref_usfm": "PSA 115:9"
+},
+{
+"start_ref": "19115010",
+"start_ref_usfm": "PSA 115:10",
+"end_ref": "19115010",
+"end_ref_usfm": "PSA 115:10"
+},
+{
+"start_ref": "19115011",
+"start_ref_usfm": "PSA 115:11",
+"end_ref": "19115011",
+"end_ref_usfm": "PSA 115:11"
+},
+{
+"start_ref": "19119114",
+"start_ref_usfm": "PSA 119:114",
+"end_ref": "19119114",
+"end_ref_usfm": "PSA 119:114"
+},
+{
+"start_ref": "19144002",
+"start_ref_usfm": "PSA 144:2",
+"end_ref": "19144002",
+"end_ref_usfm": "PSA 144:2"
+},
+{
+"start_ref": "20002007",
+"start_ref_usfm": "PRO 2:7",
+"end_ref": "20002007",
+"end_ref_usfm": "PRO 2:7"
+},
+{
+"start_ref": "20006011",
+"start_ref_usfm": "PRO 6:11",
+"end_ref": "20006011",
+"end_ref_usfm": "PRO 6:11"
+},
+{
+"start_ref": "20024034",
+"start_ref_usfm": "PRO 24:34",
+"end_ref": "20024034",
+"end_ref_usfm": "PRO 24:34"
+},
+{
+"start_ref": "20030005",
+"start_ref_usfm": "PRO 30:5",
+"end_ref": "20030005",
+"end_ref_usfm": "PRO 30:5"
+},
+{
+"start_ref": "22004004",
+"start_ref_usfm": "SNG 4:4",
+"end_ref": "22004004",
+"end_ref_usfm": "SNG 4:4"
+},
+{
+"start_ref": "23021005",
+"start_ref_usfm": "ISA 21:5",
+"end_ref": "23021005",
+"end_ref_usfm": "ISA 21:5"
+},
+{
+"start_ref": "23022006",
+"start_ref_usfm": "ISA 22:6",
+"end_ref": "23022006",
+"end_ref_usfm": "ISA 22:6"
+},
+{
+"start_ref": "23037033",
+"start_ref_usfm": "ISA 37:33",
+"end_ref": "23037033",
+"end_ref_usfm": "ISA 37:33"
+},
+{
+"start_ref": "24046003",
+"start_ref_usfm": "JER 46:3",
+"end_ref": "24046003",
+"end_ref_usfm": "JER 46:3"
+},
+{
+"start_ref": "24046009",
+"start_ref_usfm": "JER 46:9",
+"end_ref": "24046009",
+"end_ref_usfm": "JER 46:9"
+},
+{
+"start_ref": "26023024",
+"start_ref_usfm": "EZK 23:24",
+"end_ref": "26023024",
+"end_ref_usfm": "EZK 23:24"
+},
+{
+"start_ref": "26027010",
+"start_ref_usfm": "EZK 27:10",
+"end_ref": "26027010",
+"end_ref_usfm": "EZK 27:10"
+},
+{
+"start_ref": "26038004",
+"start_ref_usfm": "EZK 38:4",
+"end_ref": "26038004",
+"end_ref_usfm": "EZK 38:4"
+},
+{
+"start_ref": "26038005",
+"start_ref_usfm": "EZK 38:5",
+"end_ref": "26038005",
+"end_ref_usfm": "EZK 38:5"
+},
+{
+"start_ref": "26039009",
+"start_ref_usfm": "EZK 39:9",
+"end_ref": "26039009",
+"end_ref_usfm": "EZK 39:9"
+},
+{
+"start_ref": "34002004",
+"start_ref_usfm": "NAM 2:4",
+"end_ref": "34002004",
+"end_ref_usfm": "NAM 2:4"
+},
+{
+"start_ref": "19046010",
+"start_ref_usfm": "PSA 46:10",
+"end_ref": "19046010",
+"end_ref_usfm": "PSA 46:10"
+},
+{
+"start_ref": "10008007",
+"start_ref_usfm": "2SA 8:7",
+"end_ref": "10008007",
+"end_ref_usfm": "2SA 8:7"
+},
+{
+"start_ref": "12011010",
+"start_ref_usfm": "2KI 11:10",
+"end_ref": "12011010",
+"end_ref_usfm": "2KI 11:10"
+},
+{
+"start_ref": "13018007",
+"start_ref_usfm": "1CH 18:7",
+"end_ref": "13018007",
+"end_ref_usfm": "1CH 18:7"
+},
+{
+"start_ref": "24051011",
+"start_ref_usfm": "JER 51:11",
+"end_ref": "24051011",
+"end_ref_usfm": "JER 51:11"
+},
+{
+"start_ref": "26027011",
+"start_ref_usfm": "EZK 27:11",
+"end_ref": "26027011",
+"end_ref_usfm": "EZK 27:11"
+},
+{
+"start_ref": "23054012",
+"start_ref_usfm": "ISA 54:12",
+"end_ref": "23054012",
+"end_ref_usfm": "ISA 54:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.7905,
+"match_method": "scored",
+"preferred_label": "Small Shield"
+}
+]
+}
+}
+]

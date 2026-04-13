@@ -1,0 +1,444 @@
+[
+{
+"content_id": "REALIA:7.4",
+"reference_id": "REALIA:7.4",
+"version": "1.0.4",
+"title": "标题：打击乐器（percussion instruments）",
+"media_type": "Text",
+"index_reference": "7.4",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4\"><span class=\"thlex-key\">7.4</span> 标题：打击乐器（percussion instruments）</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>打击乐器是由可共振的材料制成的，演奏者敲击或摇动这些乐器使其发声。这个类别包括从<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">7.4.1 叉铃 (sistrum)&lt;REALIA:7.4.1&gt;</a> 一直到<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">7.4.5 木拍板 (wooden clappers)&lt;REALIA:7.4.5&gt;</a> 的所有条目。为了方便起见，我们也包含了鼓——<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">7.4.6 鼓、手鼓、框鼓 (drum, hand drum, frame drum)&lt;REALIA:7.4.6&gt;</a> 中的词条（另参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">7.3.4 风笛（定音鼓、大鼓）（bagpipe [kettledrum, large drum]）&lt;REALIA:7.3.4&gt;</a> ）。鼓声是通过打击鼓面一张绷紧的膜而发出来的，这块膜通常是动物的皮。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:7.4.1",
+"reference_id": "REALIA:7.4.1",
+"version": "1.0.4",
+"title": "标题：叉铃（sistrum）",
+"media_type": "Text",
+"index_reference": "7.4.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4.1\"><span class=\"thlex-key\">7.4.1</span> 标题：叉铃（sistrum）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：שָׁלִישׁ</span> <span class=\"thlex-translit\">(音译：shalish)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam18:6\">1SA 18:6</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0952_sistrum.jpg\" alt=\"拨浪鼓，一种叉铃乐器\"><figcaption class=\"thlex-caption\">拨浪鼓，一种叉铃乐器 (© Lalupa - Wikimedia Commons)</figcaption></figure>叉铃的框架上有一些较短的金属线，金属线上穿有一些小金属环。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>摇动叉铃时，会发出一种嘎嘎或叮铃叮铃的声音。这种乐器用来为歌舞伴奏。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>shalish</em> 意指“叉铃”，仅出现在<a href=\"https://ref.ly/1Sam18:6\">1SA 18:6</a> ，确切含义不明。其他可能的意思有“三角铁”、“三弦鲁特琴”、“三角竖琴”或“三角手鼓”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09018006",
+"start_ref_usfm": "1SA 18:6",
+"end_ref": "09018006",
+"end_ref_usfm": "1SA 18:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:7.4.2",
+"reference_id": "REALIA:7.4.2",
+"version": "1.0.4",
+"title": "标题：钹、铙钹（cymbals）",
+"media_type": "Text",
+"index_reference": "7.4.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4.2\"><span class=\"thlex-key\">7.4.2</span> 标题：钹、铙钹（cymbals）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מְצִלְתַּיִם</span> <span class=\"thlex-translit\">(音译：mtsiltayim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr13:8\">1CH 13:8</a>, <a href=\"https://ref.ly/1Chr15:16\">1CH 15:16</a>, <a href=\"https://ref.ly/1Chr15:19\">1CH 15:19</a>, <a href=\"https://ref.ly/1Chr15:28\">1CH 15:28</a>, <a href=\"https://ref.ly/1Chr16:5\">1CH 16:5</a>, <a href=\"https://ref.ly/1Chr16:42\">1CH 16:42</a>, <a href=\"https://ref.ly/1Chr25:1\">1CH 25:1</a>, <a href=\"https://ref.ly/1Chr25:6\">1CH 25:6</a>, <a href=\"https://ref.ly/2Chr5:12\">2CH 5:12</a>, <a href=\"https://ref.ly/2Chr5:13\">2CH 5:13</a>, <a href=\"https://ref.ly/2Chr29:25\">2CH 29:25</a>, <a href=\"https://ref.ly/Ezra3:10\">EZR 3:10</a>, <a href=\"https://ref.ly/Neh12:27\">NEH 12:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：צֶלְצְלִים</span> <span class=\"thlex-translit\">(音译：tseltselim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a>, <a href=\"https://ref.ly/Ps150:5\">PSA 150:5</a>, <a href=\"https://ref.ly/Ps150:5\">PSA 150:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κύμβαλον</span> <span class=\"thlex-translit\">(音译：kumbalon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Cor13:1\">1CO 13:1</a>, <a href=\"https://ref.ly/Jdt16:1\">JDT 16:1</a>, <a href=\"https://ref.ly/1Macc4:54\">1MA 4:54</a>, <a href=\"https://ref.ly/1Macc13:51\">1MA 13:51</a>, <a href=\"https://ref.ly/1Esd5:57\">1ES 5:57</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0514_cymbals.jpg\" alt=\"钹\"><figcaption class=\"thlex-caption\">钹 (© Finoskov, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>钹是一种打击乐器，由两块金属圆盘组成，圆盘互相撞击，发出尖锐、刺耳的声音。钹有两种类型：（1）两个扁平金属薄片互相撞击；（2）两个圆锥形金属片，将其中一片的敞开侧从上往下碰击另一片的敞开侧。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在许多语言中，“钹”的对等译法是“响亮的金属”之类短语。</p>\n<p>\n            <a href=\"https://ref.ly/Ps150:5\">PSA 150:5</a> 提到了两种钹，字面意思分别是“听钹”和“喊钹”。这可能是指“小钹……大钹”，也可能是比较诗意的表达方式，实际意思为“响钹……撞钹”。</p>\n<p>在<a href=\"https://ref.ly/1Cor13:1\">1CO 13:1</a> 中，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 把希腊文<em>kumbalon</em> 译为“钟”（“bell”）而不是“钹”，因为钟更为人所熟知。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "13013008",
+"start_ref_usfm": "1CH 13:8",
+"end_ref": "13013008",
+"end_ref_usfm": "1CH 13:8"
+},
+{
+"start_ref": "13015016",
+"start_ref_usfm": "1CH 15:16",
+"end_ref": "13015016",
+"end_ref_usfm": "1CH 15:16"
+},
+{
+"start_ref": "13015019",
+"start_ref_usfm": "1CH 15:19",
+"end_ref": "13015019",
+"end_ref_usfm": "1CH 15:19"
+},
+{
+"start_ref": "13015028",
+"start_ref_usfm": "1CH 15:28",
+"end_ref": "13015028",
+"end_ref_usfm": "1CH 15:28"
+},
+{
+"start_ref": "13016005",
+"start_ref_usfm": "1CH 16:5",
+"end_ref": "13016005",
+"end_ref_usfm": "1CH 16:5"
+},
+{
+"start_ref": "13016042",
+"start_ref_usfm": "1CH 16:42",
+"end_ref": "13016042",
+"end_ref_usfm": "1CH 16:42"
+},
+{
+"start_ref": "13025001",
+"start_ref_usfm": "1CH 25:1",
+"end_ref": "13025001",
+"end_ref_usfm": "1CH 25:1"
+},
+{
+"start_ref": "13025006",
+"start_ref_usfm": "1CH 25:6",
+"end_ref": "13025006",
+"end_ref_usfm": "1CH 25:6"
+},
+{
+"start_ref": "14005012",
+"start_ref_usfm": "2CH 5:12",
+"end_ref": "14005012",
+"end_ref_usfm": "2CH 5:12"
+},
+{
+"start_ref": "14005013",
+"start_ref_usfm": "2CH 5:13",
+"end_ref": "14005013",
+"end_ref_usfm": "2CH 5:13"
+},
+{
+"start_ref": "14029025",
+"start_ref_usfm": "2CH 29:25",
+"end_ref": "14029025",
+"end_ref_usfm": "2CH 29:25"
+},
+{
+"start_ref": "15003010",
+"start_ref_usfm": "EZR 3:10",
+"end_ref": "15003010",
+"end_ref_usfm": "EZR 3:10"
+},
+{
+"start_ref": "16012027",
+"start_ref_usfm": "NEH 12:27",
+"end_ref": "16012027",
+"end_ref_usfm": "NEH 12:27"
+},
+{
+"start_ref": "10006005",
+"start_ref_usfm": "2SA 6:5",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+},
+{
+"start_ref": "19150005",
+"start_ref_usfm": "PSA 150:5",
+"end_ref": "19150005",
+"end_ref_usfm": "PSA 150:5"
+},
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013001",
+"end_ref_usfm": "1CO 13:1"
+},
+{
+"start_ref": "69016001",
+"start_ref_usfm": "JDT 16:1",
+"end_ref": "69016001",
+"end_ref_usfm": "JDT 16:1"
+},
+{
+"start_ref": "78004054",
+"start_ref_usfm": "1MA 4:54",
+"end_ref": "78004054",
+"end_ref_usfm": "1MA 4:54"
+},
+{
+"start_ref": "78013051",
+"start_ref_usfm": "1MA 13:51",
+"end_ref": "78013051",
+"end_ref_usfm": "1MA 13:51"
+},
+{
+"start_ref": "82005057",
+"start_ref_usfm": "1ES 5:57",
+"end_ref": "82005057",
+"end_ref_usfm": "1ES 5:57"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Cymbals",
+"type": "realia",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Cymbals"
+}
+]
+}
+},
+{
+"content_id": "REALIA:7.4.3",
+"reference_id": "REALIA:7.4.3",
+"version": "1.0.4",
+"title": "标题：锣（gong）",
+"media_type": "Text",
+"index_reference": "7.4.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4.3\"><span class=\"thlex-key\">7.4.3</span> 标题：锣（gong）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：χαλκός</span> <span class=\"thlex-translit\">(音译：chalkos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Cor13:1\">1CO 13:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>锣是一块中央略凸的圆形金属片，敲击时会发出悠长响亮的声音。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在许多语言中，“锣”的对等译词是“响亮的金属”、“余音悠长的金属”或“回音金属”；不过，翻译者通常可以采用短语“响亮的钟”。</p>\n<p>希腊文<em>chalkos</em> 可以指红铜或青铜等金属，或者指硬币等由金属制成的东西（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.6.3 金钱、钱币 (money, coins)&lt;REALIA:1.6.3&gt;</a> ），或者指盔甲。在<a href=\"https://ref.ly/1Cor13:1\">1CO 13:1</a> 中，这个词后面紧接着出现了“钹”，表明<em>chalkos</em> 是一种乐器，例如本手册主张的“锣”。如<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">7.4.2 钹、铙钹 (cymbals)&lt;REALIA:7.4.2&gt;</a> 所述，古代的钹是一种金属盆子，和现代的钹一样成对使用，声音悦耳。如果目标语言中没有锣或钹，翻译者必须衡量在他们的文化中，有什么乐器具有相同的含义。在新约时期，锣和钹有时会在异教的仪式中使用，保罗在写这节经文的时候可能想到了这一点。近期的学术研究认定，这节经文中的希腊文短语<em>chalkos ēchōn</em> （字面意为“隆隆作响的黄铜”），可能是指希腊圆形竞技场上的一种习俗。人们在竞技场后面几个地方放置一种能产生回音的铜瓶，用来放大舞台上的歌手或演员的声音。这是一种扩音器（布朗，第44页）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013001",
+"end_ref_usfm": "1CO 13:1"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:7.4.4",
+"reference_id": "REALIA:7.4.4",
+"version": "1.0.4",
+"title": "标题：沙铃、拨浪鼓（shaker, rattle）",
+"media_type": "Text",
+"index_reference": "7.4.4",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4.4\"><span class=\"thlex-key\">7.4.4</span> 标题：沙铃、拨浪鼓（shaker, rattle）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：מְנַעַנְעִים</span> <span class=\"thlex-translit\">(音译：mna‘an‘im)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0515_shaker.jpg\" alt=\"振动器（拨浪鼓）\"><figcaption class=\"thlex-caption\">振动器（拨浪鼓） (Metropolitan Museum of Art, CC0, via Wikimedia Commons)</figcaption></figure>沙铃是一种封闭的小陶罐，里面装着咯咯作响的小颗粒。摇动沙铃击打节奏，以助人起舞。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯来文<em>mna‘an‘im</em> 的确切含义不明，各译本的译法也不同，有“拍板”（“castanets”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）、“叉铃”（“sistrums”；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> ）和“拨浪鼓”（“rattles”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）。“拍板”的译法是把这个词解作一种打击乐器，通过碰击两片扁平的木头来发出声音。另外，“拍板”也暗示与“沙铃”的手指动作不同，发出的声音也不相同。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 译为“rattles”（“拨浪鼓”），这种译法可能会误导读者将其与婴儿玩具联系在一起，还有一个不足是拨浪鼓通常与舞蹈无关，并且它在上下文中无法表达出希伯来文词语的半韵。最好的译法或许还是采用表示某种沙铃或拨浪鼓的词语来翻译<em>mna‘an‘im</em> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10006005",
+"start_ref_usfm": "2SA 6:5",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Shaker",
+"type": "realia",
+"confidence": 0.8335,
+"match_method": "scored",
+"preferred_label": "Shaker"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "LORD"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.5935,
+"match_method": "scored",
+"preferred_label": "Lute"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Israel"
+}
+]
+}
+},
+{
+"content_id": "REALIA:7.4.5",
+"reference_id": "REALIA:7.4.5",
+"version": "1.0.4",
+"title": "标题：木拍板（wooden clappers）",
+"media_type": "Text",
+"index_reference": "7.4.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4.5\"><span class=\"thlex-key\">7.4.5</span> 标题：木拍板（wooden clappers）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עֵץ, בְּרוֹשׁ</span> <span class=\"thlex-translit\">(音译：‘atsey broshim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>拍板的形状有扁平状、长圆形、长方形或弧形，可以由木头、象牙或骨头制成。所有板子的一端系在一起，从而能够互相碰击，发出清脆、短促的拍打声。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>许多文化都知道与“木拍板”类似的打击乐器，演奏方法和外观与拍板类似。</p>\n<p>学者对<a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a> 中的希伯来文短语<em>‘atseybroshim</em> 有几种解释。这个短语的字面意思是“柏树”或“柏木片”，因此有些学者认为它不是指乐器，而是指人们挥舞柏树枝来表达喜悦之情。还有一些学者将其解作“柏木做的多种乐器”（<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 直译），暗示它是经文所列多种乐器中的一个单独的条目。这个短语也可能是制作清单中后续各种乐器所用的材料；这节经文的后半句可译为：“他们演奏各样木制的乐器：琴、瑟、鼓、拨浪鼓和锣”（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直译）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10006005",
+"start_ref_usfm": "2SA 6:5",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5935,
+"match_method": "scored",
+"preferred_label": "LORD"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Phoenician Juniper"
+}
+]
+}
+},
+{
+"content_id": "REALIA:7.4.6",
+"reference_id": "REALIA:7.4.6",
+"version": "1.0.4",
+"title": "标题：鼓、手鼓、框鼓（drum, hand drum, frame drum）",
+"media_type": "Text",
+"index_reference": "7.4.6",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:7.4.6\"><span class=\"thlex-key\">7.4.6</span> 标题：鼓、手鼓、框鼓（drum, hand drum, frame drum）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：תֹּף, תפף</span> <span class=\"thlex-translit\">(音译：tof, tafaf（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen31:27\">GEN 31:27</a>, <a href=\"https://ref.ly/Exod15:20\">EXO 15:20</a>, <a href=\"https://ref.ly/Exod15:20\">EXO 15:20</a>, <a href=\"https://ref.ly/Judg11:34\">JDG 11:34</a>, <a href=\"https://ref.ly/1Sam10:5\">1SA 10:5</a>, <a href=\"https://ref.ly/1Sam18:6\">1SA 18:6</a>, <a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a>, <a href=\"https://ref.ly/1Chr13:8\">1CH 13:8</a>, <a href=\"https://ref.ly/Job21:12\">JOB 21:12</a>, <a href=\"https://ref.ly/Ps68:26\">PSA 68:26</a>, <a href=\"https://ref.ly/Ps81:3\">PSA 81:3</a>, <a href=\"https://ref.ly/Ps149:3\">PSA 149:3</a>, <a href=\"https://ref.ly/Ps150:4\">PSA 150:4</a>, <a href=\"https://ref.ly/Isa5:12\">ISA 5:12</a>, <a href=\"https://ref.ly/Isa24:8\">ISA 24:8</a>, <a href=\"https://ref.ly/Isa30:32\">ISA 30:32</a>, <a href=\"https://ref.ly/Jer31:4\">JER 31:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：τύμπανον</span> <span class=\"thlex-translit\">(音译：tumpanon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt3:7\">JDT 3:7</a>, <a href=\"https://ref.ly/Jdt16:1\">JDT 16:1</a>, <a href=\"https://ref.ly/1Macc9:39\">1MA 9:39</a>, <a href=\"https://ref.ly/1Esd5:2\">1ES 5:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0953_tambourine.png\" alt=\"手鼓（乐器）\"><figcaption class=\"thlex-caption\">手鼓（乐器） (© Public Domain - Wikimedia Commons)</figcaption></figure>鼓由一块膜和一个扁圆形、三角形或方形的框架组成；膜通常由动物皮做成，在框架上张紧固定。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>根据放置鼓的位置，击鼓者可以用一只或两只手来击打。击鼓者可以左手持鼓，把鼓放在左臂下，或者靠在胸前，然后用右手击打；也可以把鼓放在膝盖上或地上，然后用一只或两只手击打。用右手手掌击鼓时，可以用左手手指来加紧或放松鼓面上的张力。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0516_drum.jpg\" alt=\"敲打手鼓的妇女\"><figcaption class=\"thlex-caption\">敲打手鼓的妇女 (Gary Todd, Israel Museum, CC0, via Wikimedia Commons)</figcaption></figure>希伯来文<em>tof</em> 的出现场合通常与歌唱、游行或节期有关。考古证据表明，框架上带金属圆箍的鼓（“铃鼓”或“小手鼓”）在圣经时期并不为人所知。一般来说，这个词最好译成“手鼓”或“鼓”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01031027",
+"start_ref_usfm": "GEN 31:27",
+"end_ref": "01031027",
+"end_ref_usfm": "GEN 31:27"
+},
+{
+"start_ref": "02015020",
+"start_ref_usfm": "EXO 15:20",
+"end_ref": "02015020",
+"end_ref_usfm": "EXO 15:20"
+},
+{
+"start_ref": "07011034",
+"start_ref_usfm": "JDG 11:34",
+"end_ref": "07011034",
+"end_ref_usfm": "JDG 11:34"
+},
+{
+"start_ref": "09010005",
+"start_ref_usfm": "1SA 10:5",
+"end_ref": "09010005",
+"end_ref_usfm": "1SA 10:5"
+},
+{
+"start_ref": "09018006",
+"start_ref_usfm": "1SA 18:6",
+"end_ref": "09018006",
+"end_ref_usfm": "1SA 18:6"
+},
+{
+"start_ref": "10006005",
+"start_ref_usfm": "2SA 6:5",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+},
+{
+"start_ref": "13013008",
+"start_ref_usfm": "1CH 13:8",
+"end_ref": "13013008",
+"end_ref_usfm": "1CH 13:8"
+},
+{
+"start_ref": "18021012",
+"start_ref_usfm": "JOB 21:12",
+"end_ref": "18021012",
+"end_ref_usfm": "JOB 21:12"
+},
+{
+"start_ref": "19068026",
+"start_ref_usfm": "PSA 68:26",
+"end_ref": "19068026",
+"end_ref_usfm": "PSA 68:26"
+},
+{
+"start_ref": "19081003",
+"start_ref_usfm": "PSA 81:3",
+"end_ref": "19081003",
+"end_ref_usfm": "PSA 81:3"
+},
+{
+"start_ref": "19149003",
+"start_ref_usfm": "PSA 149:3",
+"end_ref": "19149003",
+"end_ref_usfm": "PSA 149:3"
+},
+{
+"start_ref": "19150004",
+"start_ref_usfm": "PSA 150:4",
+"end_ref": "19150004",
+"end_ref_usfm": "PSA 150:4"
+},
+{
+"start_ref": "23005012",
+"start_ref_usfm": "ISA 5:12",
+"end_ref": "23005012",
+"end_ref_usfm": "ISA 5:12"
+},
+{
+"start_ref": "23024008",
+"start_ref_usfm": "ISA 24:8",
+"end_ref": "23024008",
+"end_ref_usfm": "ISA 24:8"
+},
+{
+"start_ref": "23030032",
+"start_ref_usfm": "ISA 30:32",
+"end_ref": "23030032",
+"end_ref_usfm": "ISA 30:32"
+},
+{
+"start_ref": "24031004",
+"start_ref_usfm": "JER 31:4",
+"end_ref": "24031004",
+"end_ref_usfm": "JER 31:4"
+},
+{
+"start_ref": "69003007",
+"start_ref_usfm": "JDT 3:7",
+"end_ref": "69003007",
+"end_ref_usfm": "JDT 3:7"
+},
+{
+"start_ref": "69016001",
+"start_ref_usfm": "JDT 16:1",
+"end_ref": "69016001",
+"end_ref_usfm": "JDT 16:1"
+},
+{
+"start_ref": "78009039",
+"start_ref_usfm": "1MA 9:39",
+"end_ref": "78009039",
+"end_ref_usfm": "1MA 9:39"
+},
+{
+"start_ref": "82005002",
+"start_ref_usfm": "1ES 5:2",
+"end_ref": "82005002",
+"end_ref_usfm": "1ES 5:2"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Drum",
+"type": "realia",
+"confidence": 0.6685,
+"match_method": "scored",
+"preferred_label": "Drum"
+}
+]
+}
+}
+]

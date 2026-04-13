@@ -1,0 +1,25 @@
+[
+{
+"content_id": "REALIA:2.18",
+"reference_id": "REALIA:2.18",
+"version": "1.0.4",
+"title": "标题：障碍物、路障（barrier, barricade, roadblock）",
+"media_type": "Text",
+"index_reference": "2.18",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.18\"><span class=\"thlex-key\">2.18</span> 标题：障碍物、路障（barrier, barricade, roadblock）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：σκάνδαλον</span> <span class=\"thlex-translit\">(音译：skandalon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt5:1\">JDT 5:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>障碍物是任何为阻止通行而设置的构筑物。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Jdt5:1\">JDT 5:1</a> ：希腊文<em>skandalon</em> 字面意思是指动物陷阱的触发橛子。在新约中，这个词经常用来表示“使某人跌倒的东西”。它也可以指阻碍某人前进的东西。因此，<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 在<a href=\"https://ref.ly/Jdt5:1\">JDT 5:1</a> 将这个词译为“obstructions”（“障碍物”），<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 采用动词短语“堵塞道路”，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 作“roadblocks”（“路障”）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "69005001",
+"start_ref_usfm": "JDT 5:1",
+"end_ref": "69005001",
+"end_ref_usfm": "JDT 5:1"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

@@ -1,0 +1,49 @@
+[
+{
+"content_id": "REALIA:3.11",
+"reference_id": "REALIA:3.11",
+"version": "1.0.4",
+"title": "标题：水道、水沟、供水系统（water shaft, water tunnel, water channel, water supply）",
+"media_type": "Text",
+"index_reference": "3.11",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.11\"><span class=\"thlex-key\">3.11</span> 标题：水道、水沟、供水系统（water shaft, water tunnel, water channel, water supply）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：צִנּוֹר</span> <span class=\"thlex-translit\">(音译：tsinor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam5:8\">2SA 5:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：תְּעָלָה</span> <span class=\"thlex-translit\">(音译：t‘alah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs18:17\">2KI 18:17</a>, <a href=\"https://ref.ly/2Kgs20:20\">2KI 20:20</a>, <a href=\"https://ref.ly/Isa7:3\">ISA 7:3</a>, <a href=\"https://ref.ly/Isa36:2\">ISA 36:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>水道是一个开凿出来的地下隧道，用来把泉水输送到城市里面。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>为了防范敌人，耶路撒冷建造起城墙，但城内几乎没有天然的水源。在城墙之外不远处、地势比城更低的地方，有道天然的泉水名为基训泉。如果城被敌人围困，城内的居民就无法到城外取水。为了解决这个问题，以色列人从岩石中凿出一条地下隧道，将低处的水引到城内的某个地点。这条隧道是倾斜的，可以让水流入城墙之内。同时，城外面通向泉眼的通道全部堵死，以阻止敌人去到泉源处。城内的取水地点比地面低得多，因此挖了一条垂直的水道，就像一口很深的井，这样就可以用水桶将水提上来。因此，这个输水系统有两条开凿出来的水道，一条接近水平的隧道将泉水引入城内，另一条垂直的水道与水平隧道交会，可以将水提取上来。</p>\n<p>希伯来文<em>tsinor</em> 在<a href=\"https://ref.ly/2Sam5:8\">2SA 5:8</a> 中的含义不确定，并且存在争议。现代的译本通常译为“水道”或“引水隧道”等。翻译者可以使用描述性短语，如“在岩石中凿出来的隧道，用来把水引入城市。”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10005008",
+"start_ref_usfm": "2SA 5:8",
+"end_ref": "10005008",
+"end_ref_usfm": "2SA 5:8"
+},
+{
+"start_ref": "12018017",
+"start_ref_usfm": "2KI 18:17",
+"end_ref": "12018017",
+"end_ref_usfm": "2KI 18:17"
+},
+{
+"start_ref": "12020020",
+"start_ref_usfm": "2KI 20:20",
+"end_ref": "12020020",
+"end_ref_usfm": "2KI 20:20"
+},
+{
+"start_ref": "23007003",
+"start_ref_usfm": "ISA 7:3",
+"end_ref": "23007003",
+"end_ref_usfm": "ISA 7:3"
+},
+{
+"start_ref": "23036002",
+"start_ref_usfm": "ISA 36:2",
+"end_ref": "23036002",
+"end_ref_usfm": "ISA 36:2"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

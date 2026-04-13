@@ -1,0 +1,489 @@
+[
+{
+"content_id": "REALIA:10.2",
+"reference_id": "REALIA:10.2",
+"version": "1.0.4",
+"title": "标题：印、印章、印戒、打印的戒指、戒指（seal, signet ring, ring）",
+"media_type": "Text",
+"index_reference": "10.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:10.2\"><span class=\"thlex-key\">10.2</span> 标题：印、印章、印戒、打印的戒指、戒指（seal, signet ring, ring）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：חתם, חוֹתָם, חוֹתֶמֶת</span> <span class=\"thlex-translit\">(音译：chatham, chotham, chothemeth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen38:18\">GEN 38:18</a>, <a href=\"https://ref.ly/Gen38:25\">GEN 38:25</a>, <a href=\"https://ref.ly/Exod28:11\">EXO 28:11</a>, <a href=\"https://ref.ly/Exod28:21\">EXO 28:21</a>, <a href=\"https://ref.ly/Exod28:36\">EXO 28:36</a>, <a href=\"https://ref.ly/Exod39:6\">EXO 39:6</a>, <a href=\"https://ref.ly/Exod39:14\">EXO 39:14</a>, <a href=\"https://ref.ly/Exod39:30\">EXO 39:30</a>, <a href=\"https://ref.ly/Deut32:34\">DEU 32:34</a>, <a href=\"https://ref.ly/1Kgs21:8\">1KI 21:8</a>, <a href=\"https://ref.ly/1Kgs21:8\">1KI 21:8</a>, <a href=\"https://ref.ly/Neh10:1\">NEH 10:1</a>, <a href=\"https://ref.ly/Neh10:2\">NEH 10:2</a>, <a href=\"https://ref.ly/Esth3:12\">EST 3:12</a>, <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>, <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>, <a href=\"https://ref.ly/Esth8:10\">EST 8:10</a>, <a href=\"https://ref.ly/Job38:14\">JOB 38:14</a>, <a href=\"https://ref.ly/Job41:7\">JOB 41:7</a>, <a href=\"https://ref.ly/Song8:6\">SNG 8:6</a>, <a href=\"https://ref.ly/Song8:6\">SNG 8:6</a>, <a href=\"https://ref.ly/Isa8:16\">ISA 8:16</a>, <a href=\"https://ref.ly/Isa29:11\">ISA 29:11</a>, <a href=\"https://ref.ly/Isa29:11\">ISA 29:11</a>, <a href=\"https://ref.ly/Jer22:24\">JER 22:24</a>, <a href=\"https://ref.ly/Jer32:10\">JER 32:10</a>, <a href=\"https://ref.ly/Jer32:11\">JER 32:11</a>, <a href=\"https://ref.ly/Jer32:14\">JER 32:14</a>, <a href=\"https://ref.ly/Jer32:44\">JER 32:44</a>, <a href=\"https://ref.ly/Ezek28:12\">EZK 28:12</a>, <a href=\"https://ref.ly/Dan12:4\">DAN 12:4</a>, <a href=\"https://ref.ly/Dan12:9\">DAN 12:9</a>, <a href=\"https://ref.ly/Hag2:23\">HAG 2:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">兰：עִזְקָה</span> <span class=\"thlex-translit\">(音译：‘izqah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan6:18\">DAN 6:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：טַבַּעַת</span> <span class=\"thlex-translit\">(音译：taba‘ath)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>, <a href=\"https://ref.ly/Exod35:22\">EXO 35:22</a>, <a href=\"https://ref.ly/Num31:50\">NUM 31:50</a>, <a href=\"https://ref.ly/Esth3:10\">EST 3:10</a>, <a href=\"https://ref.ly/Esth3:12\">EST 3:12</a>, <a href=\"https://ref.ly/Esth8:2\">EST 8:2</a>, <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>, <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>, <a href=\"https://ref.ly/Esth8:10\">EST 8:10</a>, <a href=\"https://ref.ly/Isa3:21\">ISA 3:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：δακτύλιος</span> <span class=\"thlex-translit\">(音译：daktulios)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a>, <a href=\"https://ref.ly/Tob1:22\">TOB 1:22</a>, <a href=\"https://ref.ly/Jdt10:4\">JDT 10:4</a>, <a href=\"https://ref.ly/Bel1:14\">BEL 1:14</a>, <a href=\"https://ref.ly/Bel1:14\">BEL 1:14</a>, <a href=\"https://ref.ly/1Macc6:15\">1MA 6:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：σφραγίς, σφραγίζω, κατασφραγίζω</span> <span class=\"thlex-translit\">(音译：sfragis, sfragizō（动词）, katasfragizō（动词）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:66\">MAT 27:66</a>, <a href=\"https://ref.ly/John3:33\">JHN 3:33</a>, <a href=\"https://ref.ly/John6:27\">JHN 6:27</a>, <a href=\"https://ref.ly/Rom4:11\">ROM 4:11</a>, <a href=\"https://ref.ly/1Cor9:2\">1CO 9:2</a>, <a href=\"https://ref.ly/2Cor1:22\">2CO 1:22</a>, <a href=\"https://ref.ly/Eph1:13\">EPH 1:13</a>, <a href=\"https://ref.ly/Eph4:30\">EPH 4:30</a>, <a href=\"https://ref.ly/2Tim2:19\">2TI 2:19</a>, <a href=\"https://ref.ly/Rev5:1\">REV 5:1</a>, <a href=\"https://ref.ly/Rev5:1\">REV 5:1</a>, <a href=\"https://ref.ly/Rev5:2\">REV 5:2</a>, <a href=\"https://ref.ly/Rev5:5\">REV 5:5</a>, <a href=\"https://ref.ly/Rev5:9\">REV 5:9</a>, <a href=\"https://ref.ly/Rev6:1\">REV 6:1</a>, <a href=\"https://ref.ly/Rev6:3\">REV 6:3</a>, <a href=\"https://ref.ly/Rev6:5\">REV 6:5</a>, <a href=\"https://ref.ly/Rev6:7\">REV 6:7</a>, <a href=\"https://ref.ly/Rev6:9\">REV 6:9</a>, <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev7:2\">REV 7:2</a>, <a href=\"https://ref.ly/Rev7:3\">REV 7:3</a>, <a href=\"https://ref.ly/Rev7:4\">REV 7:4</a>, <a href=\"https://ref.ly/Rev7:4\">REV 7:4</a>, <a href=\"https://ref.ly/Rev7:5\">REV 7:5</a>, <a href=\"https://ref.ly/Rev7:8\">REV 7:8</a>, <a href=\"https://ref.ly/Rev8:1\">REV 8:1</a>, <a href=\"https://ref.ly/Rev9:4\">REV 9:4</a>, <a href=\"https://ref.ly/Rev10:4\">REV 10:4</a>, <a href=\"https://ref.ly/Rev20:3\">REV 20:3</a>, <a href=\"https://ref.ly/Rev22:10\">REV 22:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：χρυσοδακτύλιος</span> <span class=\"thlex-translit\">(音译：chrusodaktulios)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jas2:2\">JAS 2:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：consigno（动词）</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd6:5\">2ES 6:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：signaculum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd7:104\">2ES 7:104</a>, <a href=\"https://ref.ly/2Esd10:23\">2ES 10:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：signo（动词）</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd2:38\">2ES 2:38</a>, <a href=\"https://ref.ly/2Esd8:53\">2ES 8:53</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉：supersignabitur</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd6:20\">2ES 6:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0077_hand_with_signet_ring.png\" alt=\"OAI-0077_hand_with_signet_ring\"><figcaption class=\"thlex-caption\"> (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>印（或图章）是一个刻有文字或图案的物件，用来表示所有权、批准或封闭。这是有地位的人普遍使用的一种重要物品，象征所有权，用来在合同和其他秘密或保密文件上盖章，甚至还是个人身份的标记（参<a href=\"https://ref.ly/Gen38:18\">GEN 38:18</a> ）。印通常是圆形或椭圆形的，并且椭圆形更为常见。盖印时，把印压在新鲜的黏土上，再将黏土烧硬，或者压在热蜡上，蜡冷却后便显出压印。印可以盖在文件、信函，或者其他要封住的物件上。印本身刻的图案是反的，这样印出来的图案就是正的。除了所有者的职业、职位或地位之外，印有时还带有图像或符号。印用某种宝石做成。所有者通常随身携带着印，或者嵌在戒指上，或者用一根带子系在脖子上。</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0529_signet_ring.jpg\" alt=\"印章戒指\"><figcaption class=\"thlex-caption\">印章戒指 (Metropolitan Museum of Art, Public domain, MMA)</figcaption></figure>需要保密的重要信件、机密信函或法律文件都要用印封严。人们把写在蒲草纸（后来是牛皮纸和羊皮纸）上的文件卷起来、绑住，然后在打的结上面盖章。要打开文件，必须先破开印记。如果文字是写在瓦片或陶片上的，人们就会用一种黏土做成的封套将其包起来。如果内容是合同或其他法律文件，有时会在封套上刻写内容摘要，另外还可能在另一个地方保存一份文件副本（参<a href=\"https://ref.ly/Jer32:14\">JER 32:14</a> ）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0036_seal_cord.jpg\" alt=\"绳上的密封印\"><figcaption class=\"thlex-caption\">绳上的密封印 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>在有些语言中，“印”或“图章”最接近的对等词是印留下来的记号，例如“他名的记号”或“他所有权的标记”。此外，翻译者也可以使用一个表示“橡皮图章”的词语，只是不要明确提到橡皮或墨水。在有些经文中，翻译者可以使用“作记号的工具”之类的短语。</p>\n<p>希伯来文<em>taba‘ath</em> 源于一个意为“盖上印记”的词根。这说明该物最初的目的就是用作图章，如上文所述。但是，戒指也是一种首饰，<a href=\"https://ref.ly/Exod35:22\">EXO 35:22</a> 和<a href=\"https://ref.ly/Num31:50\">NUM 31:50</a> 提到的戒指可能就是饰物。戒指作为饰物广为人知，但打印的戒指却较少为人所知。因此，翻译者可能有必要详细地加以描述；例如在<a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a> 中，<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 把原文直译“他的戒指”的短语展开，英文意为“他那个带有王室印章的戒指”，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 意为“刻有王室印记的戒指”，<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 意为“带有公章的戒指”。在<a href=\"https://ref.ly/Esth3:10\">EST 3:10</a> ，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 的表达更加详细，英文意为，“他的戒指，用来在旨意上盖章以使其正式生效”。不过，有些翻译者可能更愿意把这些解释放在脚注里面。</p>\n<p>\n            <a href=\"https://ref.ly/Matt27:66\">MAT 27:66</a> ：没有人确切地知道这节经文中的“封了坟墓”是什么意思。有学者曾提出这样一种见解：把一根绳子拉在石头上，然后在上面盖印。还有学者认为，“封了坟墓”指的是在岩石表面和墓门石头之间填满软黏土，然后在上面盖上犹太当局的印章。因为不是所有文化都知道封印，所以这节经文的结尾也可以翻译为：“他们在石头上做了一个标记，以便知道它是否被移动过”，或“他们在石头上做了标记，禁止人移动”。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01038018",
+"start_ref_usfm": "GEN 38:18",
+"end_ref": "01038018",
+"end_ref_usfm": "GEN 38:18"
+},
+{
+"start_ref": "01038025",
+"start_ref_usfm": "GEN 38:25",
+"end_ref": "01038025",
+"end_ref_usfm": "GEN 38:25"
+},
+{
+"start_ref": "02028011",
+"start_ref_usfm": "EXO 28:11",
+"end_ref": "02028011",
+"end_ref_usfm": "EXO 28:11"
+},
+{
+"start_ref": "02028021",
+"start_ref_usfm": "EXO 28:21",
+"end_ref": "02028021",
+"end_ref_usfm": "EXO 28:21"
+},
+{
+"start_ref": "02028036",
+"start_ref_usfm": "EXO 28:36",
+"end_ref": "02028036",
+"end_ref_usfm": "EXO 28:36"
+},
+{
+"start_ref": "02039006",
+"start_ref_usfm": "EXO 39:6",
+"end_ref": "02039006",
+"end_ref_usfm": "EXO 39:6"
+},
+{
+"start_ref": "02039014",
+"start_ref_usfm": "EXO 39:14",
+"end_ref": "02039014",
+"end_ref_usfm": "EXO 39:14"
+},
+{
+"start_ref": "02039030",
+"start_ref_usfm": "EXO 39:30",
+"end_ref": "02039030",
+"end_ref_usfm": "EXO 39:30"
+},
+{
+"start_ref": "05032034",
+"start_ref_usfm": "DEU 32:34",
+"end_ref": "05032034",
+"end_ref_usfm": "DEU 32:34"
+},
+{
+"start_ref": "11021008",
+"start_ref_usfm": "1KI 21:8",
+"end_ref": "11021008",
+"end_ref_usfm": "1KI 21:8"
+},
+{
+"start_ref": "16010001",
+"start_ref_usfm": "NEH 10:1",
+"end_ref": "16010001",
+"end_ref_usfm": "NEH 10:1"
+},
+{
+"start_ref": "16010002",
+"start_ref_usfm": "NEH 10:2",
+"end_ref": "16010002",
+"end_ref_usfm": "NEH 10:2"
+},
+{
+"start_ref": "17003012",
+"start_ref_usfm": "EST 3:12",
+"end_ref": "17003012",
+"end_ref_usfm": "EST 3:12"
+},
+{
+"start_ref": "17008008",
+"start_ref_usfm": "EST 8:8",
+"end_ref": "17008008",
+"end_ref_usfm": "EST 8:8"
+},
+{
+"start_ref": "17008010",
+"start_ref_usfm": "EST 8:10",
+"end_ref": "17008010",
+"end_ref_usfm": "EST 8:10"
+},
+{
+"start_ref": "18038014",
+"start_ref_usfm": "JOB 38:14",
+"end_ref": "18038014",
+"end_ref_usfm": "JOB 38:14"
+},
+{
+"start_ref": "18041007",
+"start_ref_usfm": "JOB 41:7",
+"end_ref": "18041007",
+"end_ref_usfm": "JOB 41:7"
+},
+{
+"start_ref": "22008006",
+"start_ref_usfm": "SNG 8:6",
+"end_ref": "22008006",
+"end_ref_usfm": "SNG 8:6"
+},
+{
+"start_ref": "23008016",
+"start_ref_usfm": "ISA 8:16",
+"end_ref": "23008016",
+"end_ref_usfm": "ISA 8:16"
+},
+{
+"start_ref": "23029011",
+"start_ref_usfm": "ISA 29:11",
+"end_ref": "23029011",
+"end_ref_usfm": "ISA 29:11"
+},
+{
+"start_ref": "24022024",
+"start_ref_usfm": "JER 22:24",
+"end_ref": "24022024",
+"end_ref_usfm": "JER 22:24"
+},
+{
+"start_ref": "24032010",
+"start_ref_usfm": "JER 32:10",
+"end_ref": "24032010",
+"end_ref_usfm": "JER 32:10"
+},
+{
+"start_ref": "24032011",
+"start_ref_usfm": "JER 32:11",
+"end_ref": "24032011",
+"end_ref_usfm": "JER 32:11"
+},
+{
+"start_ref": "24032014",
+"start_ref_usfm": "JER 32:14",
+"end_ref": "24032014",
+"end_ref_usfm": "JER 32:14"
+},
+{
+"start_ref": "24032044",
+"start_ref_usfm": "JER 32:44",
+"end_ref": "24032044",
+"end_ref_usfm": "JER 32:44"
+},
+{
+"start_ref": "26028012",
+"start_ref_usfm": "EZK 28:12",
+"end_ref": "26028012",
+"end_ref_usfm": "EZK 28:12"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012004",
+"end_ref_usfm": "DAN 12:4"
+},
+{
+"start_ref": "27012009",
+"start_ref_usfm": "DAN 12:9",
+"end_ref": "27012009",
+"end_ref_usfm": "DAN 12:9"
+},
+{
+"start_ref": "37002023",
+"start_ref_usfm": "HAG 2:23",
+"end_ref": "37002023",
+"end_ref_usfm": "HAG 2:23"
+},
+{
+"start_ref": "27006018",
+"start_ref_usfm": "DAN 6:18",
+"end_ref": "27006018",
+"end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "01041042",
+"start_ref_usfm": "GEN 41:42",
+"end_ref": "01041042",
+"end_ref_usfm": "GEN 41:42"
+},
+{
+"start_ref": "02035022",
+"start_ref_usfm": "EXO 35:22",
+"end_ref": "02035022",
+"end_ref_usfm": "EXO 35:22"
+},
+{
+"start_ref": "04031050",
+"start_ref_usfm": "NUM 31:50",
+"end_ref": "04031050",
+"end_ref_usfm": "NUM 31:50"
+},
+{
+"start_ref": "17003010",
+"start_ref_usfm": "EST 3:10",
+"end_ref": "17003010",
+"end_ref_usfm": "EST 3:10"
+},
+{
+"start_ref": "17008002",
+"start_ref_usfm": "EST 8:2",
+"end_ref": "17008002",
+"end_ref_usfm": "EST 8:2"
+},
+{
+"start_ref": "23003021",
+"start_ref_usfm": "ISA 3:21",
+"end_ref": "23003021",
+"end_ref_usfm": "ISA 3:21"
+},
+{
+"start_ref": "42015022",
+"start_ref_usfm": "LUK 15:22",
+"end_ref": "42015022",
+"end_ref_usfm": "LUK 15:22"
+},
+{
+"start_ref": "68001022",
+"start_ref_usfm": "TOB 1:22",
+"end_ref": "68001022",
+"end_ref_usfm": "TOB 1:22"
+},
+{
+"start_ref": "69010004",
+"start_ref_usfm": "JDT 10:4",
+"end_ref": "69010004",
+"end_ref_usfm": "JDT 10:4"
+},
+{
+"start_ref": "77001014",
+"start_ref_usfm": "BEL 1:14",
+"end_ref": "77001014",
+"end_ref_usfm": "BEL 1:14"
+},
+{
+"start_ref": "78006015",
+"start_ref_usfm": "1MA 6:15",
+"end_ref": "78006015",
+"end_ref_usfm": "1MA 6:15"
+},
+{
+"start_ref": "40027066",
+"start_ref_usfm": "MAT 27:66",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "43003033",
+"start_ref_usfm": "JHN 3:33",
+"end_ref": "43003033",
+"end_ref_usfm": "JHN 3:33"
+},
+{
+"start_ref": "43006027",
+"start_ref_usfm": "JHN 6:27",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "45004011",
+"start_ref_usfm": "ROM 4:11",
+"end_ref": "45004011",
+"end_ref_usfm": "ROM 4:11"
+},
+{
+"start_ref": "46009002",
+"start_ref_usfm": "1CO 9:2",
+"end_ref": "46009002",
+"end_ref_usfm": "1CO 9:2"
+},
+{
+"start_ref": "47001022",
+"start_ref_usfm": "2CO 1:22",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "49001013",
+"start_ref_usfm": "EPH 1:13",
+"end_ref": "49001013",
+"end_ref_usfm": "EPH 1:13"
+},
+{
+"start_ref": "49004030",
+"start_ref_usfm": "EPH 4:30",
+"end_ref": "49004030",
+"end_ref_usfm": "EPH 4:30"
+},
+{
+"start_ref": "55002019",
+"start_ref_usfm": "2TI 2:19",
+"end_ref": "55002019",
+"end_ref_usfm": "2TI 2:19"
+},
+{
+"start_ref": "66005001",
+"start_ref_usfm": "REV 5:1",
+"end_ref": "66005001",
+"end_ref_usfm": "REV 5:1"
+},
+{
+"start_ref": "66005002",
+"start_ref_usfm": "REV 5:2",
+"end_ref": "66005002",
+"end_ref_usfm": "REV 5:2"
+},
+{
+"start_ref": "66005005",
+"start_ref_usfm": "REV 5:5",
+"end_ref": "66005005",
+"end_ref_usfm": "REV 5:5"
+},
+{
+"start_ref": "66005009",
+"start_ref_usfm": "REV 5:9",
+"end_ref": "66005009",
+"end_ref_usfm": "REV 5:9"
+},
+{
+"start_ref": "66006001",
+"start_ref_usfm": "REV 6:1",
+"end_ref": "66006001",
+"end_ref_usfm": "REV 6:1"
+},
+{
+"start_ref": "66006003",
+"start_ref_usfm": "REV 6:3",
+"end_ref": "66006003",
+"end_ref_usfm": "REV 6:3"
+},
+{
+"start_ref": "66006005",
+"start_ref_usfm": "REV 6:5",
+"end_ref": "66006005",
+"end_ref_usfm": "REV 6:5"
+},
+{
+"start_ref": "66006007",
+"start_ref_usfm": "REV 6:7",
+"end_ref": "66006007",
+"end_ref_usfm": "REV 6:7"
+},
+{
+"start_ref": "66006009",
+"start_ref_usfm": "REV 6:9",
+"end_ref": "66006009",
+"end_ref_usfm": "REV 6:9"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "66007002",
+"start_ref_usfm": "REV 7:2",
+"end_ref": "66007002",
+"end_ref_usfm": "REV 7:2"
+},
+{
+"start_ref": "66007003",
+"start_ref_usfm": "REV 7:3",
+"end_ref": "66007003",
+"end_ref_usfm": "REV 7:3"
+},
+{
+"start_ref": "66007004",
+"start_ref_usfm": "REV 7:4",
+"end_ref": "66007004",
+"end_ref_usfm": "REV 7:4"
+},
+{
+"start_ref": "66007005",
+"start_ref_usfm": "REV 7:5",
+"end_ref": "66007005",
+"end_ref_usfm": "REV 7:5"
+},
+{
+"start_ref": "66007008",
+"start_ref_usfm": "REV 7:8",
+"end_ref": "66007008",
+"end_ref_usfm": "REV 7:8"
+},
+{
+"start_ref": "66008001",
+"start_ref_usfm": "REV 8:1",
+"end_ref": "66008001",
+"end_ref_usfm": "REV 8:1"
+},
+{
+"start_ref": "66009004",
+"start_ref_usfm": "REV 9:4",
+"end_ref": "66009004",
+"end_ref_usfm": "REV 9:4"
+},
+{
+"start_ref": "66010004",
+"start_ref_usfm": "REV 10:4",
+"end_ref": "66010004",
+"end_ref_usfm": "REV 10:4"
+},
+{
+"start_ref": "66020003",
+"start_ref_usfm": "REV 20:3",
+"end_ref": "66020003",
+"end_ref_usfm": "REV 20:3"
+},
+{
+"start_ref": "66022010",
+"start_ref_usfm": "REV 22:10",
+"end_ref": "66022010",
+"end_ref_usfm": "REV 22:10"
+},
+{
+"start_ref": "59002002",
+"start_ref_usfm": "JAS 2:2",
+"end_ref": "59002002",
+"end_ref_usfm": "JAS 2:2"
+},
+{
+"start_ref": "83006005",
+"start_ref_usfm": "2ES 6:5",
+"end_ref": "83006005",
+"end_ref_usfm": "2ES 6:5"
+},
+{
+"start_ref": "83007104",
+"start_ref_usfm": "2ES 7:104",
+"end_ref": "83007104",
+"end_ref_usfm": "2ES 7:104"
+},
+{
+"start_ref": "83010023",
+"start_ref_usfm": "2ES 10:23",
+"end_ref": "83010023",
+"end_ref_usfm": "2ES 10:23"
+},
+{
+"start_ref": "83002038",
+"start_ref_usfm": "2ES 2:38",
+"end_ref": "83002038",
+"end_ref_usfm": "2ES 2:38"
+},
+{
+"start_ref": "83008053",
+"start_ref_usfm": "2ES 8:53",
+"end_ref": "83008053",
+"end_ref_usfm": "2ES 8:53"
+},
+{
+"start_ref": "83006020",
+"start_ref_usfm": "2ES 6:20",
+"end_ref": "83006020",
+"end_ref_usfm": "2ES 6:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 0.5644,
+"match_method": "scored",
+"preferred_label": "Seal"
+}
+]
+}
+}
+]
