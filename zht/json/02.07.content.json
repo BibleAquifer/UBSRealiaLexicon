@@ -1,0 +1,79 @@
+[
+{
+"content_id": "REALIA:2.7",
+"reference_id": "REALIA:2.7",
+"version": "1.0.4",
+"title": "標題：棍、戰棒、釘頭錘、重擊武器（club, war club, mace, shattering weapon）",
+"media_type": "Text",
+"index_reference": "2.7",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.7\"><span class=\"thlex-key\">2.7</span> 標題：棍、戰棒、釘頭錘、重擊武器（club, war club, mace, shattering weapon）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כְּלִי, מַפָּץ</span> <span class=\"thlex-translit\">(音譯： kli mapats)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek9:2\">EZK 9:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַפֵּץ</span> <span class=\"thlex-translit\">(音譯： mapets)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer51:20\">JER 51:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַקֵּל, יָד</span> <span class=\"thlex-translit\">(音譯： maqel yad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek39:9\">EZK 39:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תּוֹתָח</span> <span class=\"thlex-translit\">(音譯： tothach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:21\">JOB 41:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ξύλον</span> <span class=\"thlex-translit\">(音譯： xulos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt26:47\">MAT 26:47</a>, <a href=\"https://ref.ly/Matt26:55\">MAT 26:55</a>, <a href=\"https://ref.ly/Mark14:43\">MRK 14:43</a>, <a href=\"https://ref.ly/Mark14:48\">MRK 14:48</a>, <a href=\"https://ref.ly/Luke22:52\">LUK 22:52</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ράβδος</span> <span class=\"thlex-translit\">(音譯： rhabdos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Bel1:25\">BEL 1:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0384_mace.jpg\" alt=\"埃及釘頭錘的頭，萊比錫大學古埃及博物館（Ägyptisches Museum der Universität Leipzig）\"><figcaption class=\"thlex-caption\">埃及釘頭錘的頭，萊比錫大學古埃及博物館（Ägyptisches Museum der Universität Leipzig） (© Einsamer Schütze, via Wikimedia Commons)</figcaption></figure>戰棒是一根比較短的木棍，在肉搏時用來擊打敵人。戰棒可以單手握持，擊打敵人身體的各個部位，尤其是那些沒有盔甲保護的部位。釘頭錘通常會裝上一個沉重的頭，用石頭或金屬製成。這個頭楔入棒的一端，用繩索綁牢或用棍棒的錐形來固定。握持部分也可能會逐漸變粗，從而使握持更牢靠。握柄有時會做成弧形。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>tothach</em> 只在<a href=\"https://ref.ly/Job41:21\">JOB 41:21</a> （《和》41:29）出現過一次，大部分學者同意這個詞指「棍棒」。有學者提出，這個詞也可能指箭的桿，不過我們查閱的譯本都沒有採用這種解釋。</p>\n<p>在<a href=\"https://ref.ly/Ezek9:2\">EZK 9:2</a> ，重點是武器的可怕威力。有些譯本專注於表達這個意思，而不是試圖在目標語言中尋找一件準確對應的武器。因此，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 譯作“deadly weapon”（「致命的武器」），<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 作“powerful weapon”（「威力強大的武器」），<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> 則譯成「毀滅性的武器」。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek39:9\">EZK 39:9</a> ：很多譯本把這裡的希伯來文短語<em>maqel yad</em> （直譯：手棍、手杖）譯作「棍棒」（“clubs”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）或「戰棒」（“war clubs”；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）；但也有其他譯法，例如譯作「槍」（<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> ）或「投槍」（<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> ）。巴埃斯卡馬戈（G. Baez-Camargo）提出，這是一種回力飛鏢（比較<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 的“throwing-sticks”「拋擲棒」，這個譯詞可以有幾種含意）。由於經文旨在表達將來會有大量木製武器被廢棄，並當作木柴來燒火，因此可以把這節經文列出的幾種兵器合併表達，歸在一個比較大的兵器類別之下；例如：<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 把<em>maqel yad</em> 和「槍」合併為「矛槍」，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 把兩種盾一併稱為“shields”（「盾牌」）。</p>\n<p>在<a href=\"https://ref.ly/Matt26:47\">MAT 26:47</a>; <a href=\"https://ref.ly/Matt26:55\">MAT 26:55</a> 、<a href=\"https://ref.ly/Mark14:43\">MRK 14:43</a>; <a href=\"https://ref.ly/Mark14:48\">MRK 14:48</a> 和<a href=\"https://ref.ly/Luke22:52\">LUK 22:52</a> 中，希臘文<em>xulos</em> 直譯作「木頭」，在這裡關於一群暴民行使私刑的語境中，這個詞可以簡單地理解為「棍子」。不過，我們查閱的所有譯本都把它譯作「棒」或同義詞語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "26009002",
+"start_ref_usfm": "EZK 9:2",
+"end_ref": "26009002",
+"end_ref_usfm": "EZK 9:2"
+},
+{
+"start_ref": "24051020",
+"start_ref_usfm": "JER 51:20",
+"end_ref": "24051020",
+"end_ref_usfm": "JER 51:20"
+},
+{
+"start_ref": "26039009",
+"start_ref_usfm": "EZK 39:9",
+"end_ref": "26039009",
+"end_ref_usfm": "EZK 39:9"
+},
+{
+"start_ref": "18041021",
+"start_ref_usfm": "JOB 41:21",
+"end_ref": "18041021",
+"end_ref_usfm": "JOB 41:21"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026047",
+"end_ref_usfm": "MAT 26:47"
+},
+{
+"start_ref": "40026055",
+"start_ref_usfm": "MAT 26:55",
+"end_ref": "40026055",
+"end_ref_usfm": "MAT 26:55"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014043",
+"end_ref_usfm": "MRK 14:43"
+},
+{
+"start_ref": "41014048",
+"start_ref_usfm": "MRK 14:48",
+"end_ref": "41014048",
+"end_ref_usfm": "MRK 14:48"
+},
+{
+"start_ref": "42022052",
+"start_ref_usfm": "LUK 22:52",
+"end_ref": "42022052",
+"end_ref_usfm": "LUK 22:52"
+},
+{
+"start_ref": "77001025",
+"start_ref_usfm": "BEL 1:25",
+"end_ref": "77001025",
+"end_ref_usfm": "BEL 1:25"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

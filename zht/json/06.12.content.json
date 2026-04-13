@@ -1,0 +1,141 @@
+[
+{
+"content_id": "REALIA:6.12",
+"reference_id": "REALIA:6.12",
+"version": "1.0.4",
+"title": "標題：面紗、帕子（veil）",
+"media_type": "Text",
+"index_reference": "6.12",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:6.12\"><span class=\"thlex-key\">6.12</span> 標題：面紗、帕子（veil）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַסְוֶה</span> <span class=\"thlex-translit\">(音譯： masweh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod34:33\">EXO 34:33</a>, <a href=\"https://ref.ly/Exod34:34\">EXO 34:34</a>, <a href=\"https://ref.ly/Exod34:35\">EXO 34:35</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִסְפָּחָה</span> <span class=\"thlex-translit\">(音譯： mispachah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek13:18\">EZK 13:18</a>, <a href=\"https://ref.ly/Ezek13:21\">EZK 13:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צַמָּה</span> <span class=\"thlex-translit\">(音譯： tsamah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song4:1\">SNG 4:1</a>, <a href=\"https://ref.ly/Song4:3\">SNG 4:3</a>, <a href=\"https://ref.ly/Song6:7\">SNG 6:7</a>, <a href=\"https://ref.ly/Isa47:2\">ISA 47:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צָעִיף</span> <span class=\"thlex-translit\">(音譯： tsa‘if)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen24:65\">GEN 24:65</a>, <a href=\"https://ref.ly/Gen38:14\">GEN 38:14</a>, <a href=\"https://ref.ly/Gen38:19\">GEN 38:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： רְדִיד</span> <span class=\"thlex-translit\">(音譯： rdid)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song5:7\">SNG 5:7</a>, <a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： רְעָלָה</span> <span class=\"thlex-translit\">(音譯： r‘alah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa3:19\">ISA 3:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κάλυμμα</span> <span class=\"thlex-translit\">(音譯： kalumma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Cor3:13\">2CO 3:13</a>, <a href=\"https://ref.ly/2Cor3:14\">2CO 3:14</a>, <a href=\"https://ref.ly/2Cor3:15\">2CO 3:15</a>, <a href=\"https://ref.ly/2Cor3:16\">2CO 3:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0506_veil.jpg\" alt=\"婚紗和面紗（貝特傑布林（Beit Jebrin），希伯崙西北部）\"><figcaption class=\"thlex-caption\">婚紗和面紗（貝特傑布林（Beit Jebrin），希伯崙西北部） (© Trjames, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>面紗是蒙在臉上的一塊薄布。面料非常輕薄，佩戴者即便用它遮住眼睛（和這裡的插圖不同），也仍然能夠透過它看到外面，但別人很難透過面紗看清其面貌。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>如果目標語言沒有「面紗」一詞，那麼可以使用描述性的短語，如「遮住臉部的薄布」。為了更好地表達意思，翻譯者可以在必要時擴展譯文；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 把<a href=\"https://ref.ly/Gen38:14\">GEN 38:14</a> 的第二個分句翻譯為，“covered her face with a veil to hide who she was”（英文直譯：「用面紗遮住自己的臉，不讓別人認出她是誰」）。</p>\n<p>翻譯者應該知道，在較早的英文譯本中，“veil”（「面紗」）一詞也用來指稱隔開聖所與至聖所的幔子，這只是一個歷史上的偶然情況，（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.14.1.6 幔子、帷幔、帷帳 (curtain, veil, drape)&lt;REALIA:3.14.1.6&gt;</a> ）。因此，翻譯者不必使用同一個譯詞來表示這兩種不同的東西。</p>\n<p>\n            <a href=\"https://ref.ly/Ezek13:18\">EZK 13:18</a>; <a href=\"https://ref.ly/Ezek13:21\">EZK 13:21</a> ：希伯來文<em>mispachah</em> 指的是一種幾乎從頭垂到腳的長面紗。</p>\n<p>在<a href=\"https://ref.ly/Song5:7\">SNG 5:7</a> 和<a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a> 中，希伯來文<em>rdid</em> 可能指一種不是僅僅蓋住面部的長面紗。<em>Mispachah</em> 和<em>rdid</em> 與一些穆斯林婦女所戴的<em>niqab</em> 或<em>burqah</em> 相似。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02034033",
+"start_ref_usfm": "EXO 34:33",
+"end_ref": "02034033",
+"end_ref_usfm": "EXO 34:33"
+},
+{
+"start_ref": "02034034",
+"start_ref_usfm": "EXO 34:34",
+"end_ref": "02034034",
+"end_ref_usfm": "EXO 34:34"
+},
+{
+"start_ref": "02034035",
+"start_ref_usfm": "EXO 34:35",
+"end_ref": "02034035",
+"end_ref_usfm": "EXO 34:35"
+},
+{
+"start_ref": "26013018",
+"start_ref_usfm": "EZK 13:18",
+"end_ref": "26013018",
+"end_ref_usfm": "EZK 13:18"
+},
+{
+"start_ref": "26013021",
+"start_ref_usfm": "EZK 13:21",
+"end_ref": "26013021",
+"end_ref_usfm": "EZK 13:21"
+},
+{
+"start_ref": "22004001",
+"start_ref_usfm": "SNG 4:1",
+"end_ref": "22004001",
+"end_ref_usfm": "SNG 4:1"
+},
+{
+"start_ref": "22004003",
+"start_ref_usfm": "SNG 4:3",
+"end_ref": "22004003",
+"end_ref_usfm": "SNG 4:3"
+},
+{
+"start_ref": "22006007",
+"start_ref_usfm": "SNG 6:7",
+"end_ref": "22006007",
+"end_ref_usfm": "SNG 6:7"
+},
+{
+"start_ref": "23047002",
+"start_ref_usfm": "ISA 47:2",
+"end_ref": "23047002",
+"end_ref_usfm": "ISA 47:2"
+},
+{
+"start_ref": "01024065",
+"start_ref_usfm": "GEN 24:65",
+"end_ref": "01024065",
+"end_ref_usfm": "GEN 24:65"
+},
+{
+"start_ref": "01038014",
+"start_ref_usfm": "GEN 38:14",
+"end_ref": "01038014",
+"end_ref_usfm": "GEN 38:14"
+},
+{
+"start_ref": "01038019",
+"start_ref_usfm": "GEN 38:19",
+"end_ref": "01038019",
+"end_ref_usfm": "GEN 38:19"
+},
+{
+"start_ref": "22005007",
+"start_ref_usfm": "SNG 5:7",
+"end_ref": "22005007",
+"end_ref_usfm": "SNG 5:7"
+},
+{
+"start_ref": "23003023",
+"start_ref_usfm": "ISA 3:23",
+"end_ref": "23003023",
+"end_ref_usfm": "ISA 3:23"
+},
+{
+"start_ref": "23003019",
+"start_ref_usfm": "ISA 3:19",
+"end_ref": "23003019",
+"end_ref_usfm": "ISA 3:19"
+},
+{
+"start_ref": "47003013",
+"start_ref_usfm": "2CO 3:13",
+"end_ref": "47003013",
+"end_ref_usfm": "2CO 3:13"
+},
+{
+"start_ref": "47003014",
+"start_ref_usfm": "2CO 3:14",
+"end_ref": "47003014",
+"end_ref_usfm": "2CO 3:14"
+},
+{
+"start_ref": "47003015",
+"start_ref_usfm": "2CO 3:15",
+"end_ref": "47003015",
+"end_ref_usfm": "2CO 3:15"
+},
+{
+"start_ref": "47003016",
+"start_ref_usfm": "2CO 3:16",
+"end_ref": "47003016",
+"end_ref_usfm": "2CO 3:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 0.8947,
+"match_method": "scored",
+"preferred_label": "Veil"
+}
+]
+}
+}
+]

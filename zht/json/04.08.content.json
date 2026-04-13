@@ -1,0 +1,1566 @@
+[
+{
+"content_id": "REALIA:4.8",
+"reference_id": "REALIA:4.8",
+"version": "1.0.4",
+"title": "標題：埋葬和服喪（burial and mourning）",
+"media_type": "Text",
+"index_reference": "4.8",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8\"><span class=\"thlex-key\">4.8</span> 標題：埋葬和服喪（burial and mourning）</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.1",
+"reference_id": "REALIA:4.8.1",
+"version": "1.0.4",
+"title": "標題：墳墓、墓地（tomb, grave）",
+"media_type": "Text",
+"index_reference": "4.8.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.1\"><span class=\"thlex-key\">4.8.1</span> 標題：墳墓、墓地（tomb, grave）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת</span> <span class=\"thlex-translit\">(音譯： bayith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa14:18\">ISA 14:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： גָּדִישׁ</span> <span class=\"thlex-translit\">(音譯： gadish)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job21:32\">JOB 21:32</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צְרִיחַ</span> <span class=\"thlex-translit\">(音譯： tsriach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:6\">1SA 13:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קְבוּרָה</span> <span class=\"thlex-translit\">(音譯： qvurah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen47:30\">GEN 47:30</a>, <a href=\"https://ref.ly/Deut34:6\">DEU 34:6</a>, <a href=\"https://ref.ly/1Sam10:2\">1SA 10:2</a>, <a href=\"https://ref.ly/2Kgs9:28\">2KI 9:28</a>, <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>, <a href=\"https://ref.ly/2Kgs23:30\">2KI 23:30</a>, <a href=\"https://ref.ly/2Chr26:23\">2CH 26:23</a>, <a href=\"https://ref.ly/Eccl6:3\">ECC 6:3</a>, <a href=\"https://ref.ly/Isa14:20\">ISA 14:20</a>, <a href=\"https://ref.ly/Jer22:19\">JER 22:19</a>, <a href=\"https://ref.ly/Ezek32:23\">EZK 32:23</a>, <a href=\"https://ref.ly/Ezek32:24\">EZK 32:24</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קֶבֶר</span> <span class=\"thlex-translit\">(音譯： qever)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen23:4\">GEN 23:4</a>, <a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:9\">GEN 23:9</a>, <a href=\"https://ref.ly/Gen23:20\">GEN 23:20</a>, <a href=\"https://ref.ly/Gen49:30\">GEN 49:30</a>, <a href=\"https://ref.ly/Gen50:5\">GEN 50:5</a>, <a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a>, <a href=\"https://ref.ly/Exod14:11\">EXO 14:11</a>, <a href=\"https://ref.ly/Num19:16\">NUM 19:16</a>, <a href=\"https://ref.ly/Num19:18\">NUM 19:18</a>, <a href=\"https://ref.ly/Judg8:32\">JDG 8:32</a>, <a href=\"https://ref.ly/Judg16:31\">JDG 16:31</a>, <a href=\"https://ref.ly/2Sam2:32\">2SA 2:32</a>, <a href=\"https://ref.ly/2Sam3:32\">2SA 3:32</a>, <a href=\"https://ref.ly/2Sam4:12\">2SA 4:12</a>, <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>, <a href=\"https://ref.ly/2Sam19:38\">2SA 19:38</a>, <a href=\"https://ref.ly/2Sam21:14\">2SA 21:14</a>, <a href=\"https://ref.ly/1Kgs13:22\">1KI 13:22</a>, <a href=\"https://ref.ly/1Kgs13:30\">1KI 13:30</a>, <a href=\"https://ref.ly/1Kgs13:31\">1KI 13:31</a>, <a href=\"https://ref.ly/1Kgs14:13\">1KI 14:13</a>, <a href=\"https://ref.ly/2Kgs13:21\">2KI 13:21</a>, <a href=\"https://ref.ly/2Kgs22:20\">2KI 22:20</a>, <a href=\"https://ref.ly/2Kgs23:6\">2KI 23:6</a>, <a href=\"https://ref.ly/2Kgs23:16\">2KI 23:16</a>, <a href=\"https://ref.ly/2Kgs23:16\">2KI 23:16</a>, <a href=\"https://ref.ly/2Kgs23:17\">2KI 23:17</a>, <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, <a href=\"https://ref.ly/2Chr21:20\">2CH 21:20</a>, <a href=\"https://ref.ly/2Chr24:25\">2CH 24:25</a>, <a href=\"https://ref.ly/2Chr28:27\">2CH 28:27</a>, <a href=\"https://ref.ly/2Chr32:33\">2CH 32:33</a>, <a href=\"https://ref.ly/2Chr34:4\">2CH 34:4</a>, <a href=\"https://ref.ly/2Chr34:28\">2CH 34:28</a>, <a href=\"https://ref.ly/2Chr35:24\">2CH 35:24</a>, <a href=\"https://ref.ly/Neh2:3\">NEH 2:3</a>, <a href=\"https://ref.ly/Neh2:5\">NEH 2:5</a>, <a href=\"https://ref.ly/Neh3:16\">NEH 3:16</a>, <a href=\"https://ref.ly/Job3:22\">JOB 3:22</a>, <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a>, <a href=\"https://ref.ly/Job10:19\">JOB 10:19</a>, <a href=\"https://ref.ly/Job17:1\">JOB 17:1</a>, <a href=\"https://ref.ly/Job21:32\">JOB 21:32</a>, <a href=\"https://ref.ly/Ps5:10\">PSA 5:10</a>, <a href=\"https://ref.ly/Ps88:6\">PSA 88:6</a>, <a href=\"https://ref.ly/Ps88:12\">PSA 88:12</a>, <a href=\"https://ref.ly/Isa14:19\">ISA 14:19</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa53:9\">ISA 53:9</a>, <a href=\"https://ref.ly/Isa65:4\">ISA 65:4</a>, <a href=\"https://ref.ly/Jer5:16\">JER 5:16</a>, <a href=\"https://ref.ly/Jer8:1\">JER 8:1</a>, <a href=\"https://ref.ly/Jer20:17\">JER 20:17</a>, <a href=\"https://ref.ly/Jer26:23\">JER 26:23</a>, <a href=\"https://ref.ly/Ezek32:22\">EZK 32:22</a>, <a href=\"https://ref.ly/Ezek32:23\">EZK 32:23</a>, <a href=\"https://ref.ly/Ezek32:25\">EZK 32:25</a>, <a href=\"https://ref.ly/Ezek32:26\">EZK 32:26</a>, <a href=\"https://ref.ly/Ezek37:12\">EZK 37:12</a>, <a href=\"https://ref.ly/Ezek37:12\">EZK 37:12</a>, <a href=\"https://ref.ly/Ezek37:13\">EZK 37:13</a>, <a href=\"https://ref.ly/Ezek37:13\">EZK 37:13</a>, <a href=\"https://ref.ly/Ezek39:11\">EZK 39:11</a>, <a href=\"https://ref.ly/Nah1:14\">NAM 1:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： μνῆμα</span> <span class=\"thlex-translit\">(音譯： mnēma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark5:5\">MRK 5:5</a>, <a href=\"https://ref.ly/Luke8:27\">LUK 8:27</a>, <a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a>, <a href=\"https://ref.ly/Luke24:1\">LUK 24:1</a>, <a href=\"https://ref.ly/Acts2:29\">ACT 2:29</a>, <a href=\"https://ref.ly/Acts7:16\">ACT 7:16</a>, <a href=\"https://ref.ly/Rev11:9\">REV 11:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： μνημεῖον</span> <span class=\"thlex-translit\">(音譯： mnēmeion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:6\">GEN 23:6</a>, <a href=\"https://ref.ly/Gen23:9\">GEN 23:9</a>, <a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen35:20\">GEN 35:20</a>, <a href=\"https://ref.ly/Gen49:30\">GEN 49:30</a>, <a href=\"https://ref.ly/Gen50:5\">GEN 50:5</a>, <a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a>, <a href=\"https://ref.ly/Isa26:19\">ISA 26:19</a>, <a href=\"https://ref.ly/Ezek39:11\">EZK 39:11</a>, <a href=\"https://ref.ly/Matt8:28\">MAT 8:28</a>, <a href=\"https://ref.ly/Matt23:29\">MAT 23:29</a>, <a href=\"https://ref.ly/Matt27:52\">MAT 27:52</a>, <a href=\"https://ref.ly/Matt27:53\">MAT 27:53</a>, <a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a>, <a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a>, <a href=\"https://ref.ly/Matt28:8\">MAT 28:8</a>, <a href=\"https://ref.ly/Mark5:2\">MRK 5:2</a>, <a href=\"https://ref.ly/Mark6:29\">MRK 6:29</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark16:2\">MRK 16:2</a>, <a href=\"https://ref.ly/Mark16:3\">MRK 16:3</a>, <a href=\"https://ref.ly/Mark16:5\">MRK 16:5</a>, <a href=\"https://ref.ly/Mark16:8\">MRK 16:8</a>, <a href=\"https://ref.ly/Luke11:44\">LUK 11:44</a>, <a href=\"https://ref.ly/Luke11:47\">LUK 11:47</a>, <a href=\"https://ref.ly/Luke23:55\">LUK 23:55</a>, <a href=\"https://ref.ly/Luke24:2\">LUK 24:2</a>, <a href=\"https://ref.ly/Luke24:9\">LUK 24:9</a>, <a href=\"https://ref.ly/Luke24:12\">LUK 24:12</a>, <a href=\"https://ref.ly/Luke24:22\">LUK 24:22</a>, <a href=\"https://ref.ly/Luke24:24\">LUK 24:24</a>, <a href=\"https://ref.ly/John5:28\">JHN 5:28</a>, <a href=\"https://ref.ly/John11:17\">JHN 11:17</a>, <a href=\"https://ref.ly/John11:31\">JHN 11:31</a>, <a href=\"https://ref.ly/John11:38\">JHN 11:38</a>, <a href=\"https://ref.ly/John12:17\">JHN 12:17</a>, <a href=\"https://ref.ly/John19:41\">JHN 19:41</a>, <a href=\"https://ref.ly/John19:42\">JHN 19:42</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a>, <a href=\"https://ref.ly/John20:2\">JHN 20:2</a>, <a href=\"https://ref.ly/John20:3\">JHN 20:3</a>, <a href=\"https://ref.ly/John20:4\">JHN 20:4</a>, <a href=\"https://ref.ly/John20:6\">JHN 20:6</a>, <a href=\"https://ref.ly/John20:8\">JHN 20:8</a>, <a href=\"https://ref.ly/John20:11\">JHN 20:11</a>, <a href=\"https://ref.ly/John20:11\">JHN 20:11</a>, <a href=\"https://ref.ly/Acts13:29\">ACT 13:29</a>, <a href=\"https://ref.ly/Wis10:7\">WIS 10:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： τάφος</span> <span class=\"thlex-translit\">(音譯： tafos)</span>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： sepulchrum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd2:23\">2ES 2:23</a>, <a href=\"https://ref.ly/2Esd5:35\">2ES 5:35</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0467_burial.jpg\" alt=\"有多個壁龕的墓穴，壁畫是男子吹笛和女子彈豎琴（貝特古夫林（Beit Guvrin）國家公園）。\"><figcaption class=\"thlex-caption\">有多個壁龕的墓穴，壁畫是男子吹笛和女子彈豎琴（貝特古夫林（Beit Guvrin）國家公園）。 (© Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>墳墓是為埋葬死者而建的。由於以色列大部分土地的表層土壤很少，特別是在丘陵地區，所以墳墓通常是在基岩上鑿出來的。有時，天然洞穴也被用作墳墓。墳墓的入口用一塊石頭堵住（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.8.1.1 封墓石 (stone for closing a tomb)&lt;REALIA:4.8.1.1&gt;</a> ）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>死亡是普世共有的經驗，所有語言和文化都有表達屍體處理方式的詞語。在許多語言中，明確區分墳墓（地裡埋葬屍體的坑）和墓室（建在地面之上，用來埋葬一具或多具屍體的建築物）是很重要的。然而，在有些語境中，使用比較寬泛的表達可能更合適，例如「埋葬死人的地方」或「放置屍體的地方」。</p>\n<p>有些經文用「墳墓」一詞來象徵死亡。翻譯者應考慮經文是指實際的埋葬地點，還是指某人已經死亡的事實。對於後一種情況，最好使用表示「死亡」的詞語，尤其是在詩歌體經文中。例如，<a href=\"https://ref.ly/Job3:22\">JOB 3:22</a> 的字面意為「他們尋見墳墓就快樂，極其歡喜」，但<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「他們直到死後被埋葬才會快樂」。<a href=\"https://ref.ly/Job5:26\">JOB 5:26</a> 的字面意為「你必壽高年邁才歸墳墓」，但<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 意為「你必活到壽數滿足」。</p>\n<p>有些經文提到的「墳墓」是複數形式，這時通常可以譯成「墓地」（“graveyard”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ；<a href=\"https://ref.ly/Job21:32\">JOB 21:32</a> ）、「墳場」等。</p>\n<p>以色列社會上層人士的埋葬通常分為兩個階段。在第一階段，屍體被放在墓室裡的石臺上，或放在一個英文稱作“sarcophagus”（意為「食肉者」）的大箱子裡。大約經過一年後，肉體腐爛了，骨頭就被移到墓室裡的一個特定位置。到了新約時期，骨頭被放進一個屍骨罐裡。這些習俗在希伯來文中產生了對死亡的兩種委婉表達：「與他列祖同睡」和「歸到他列祖那裡」。在<a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a> ，猶大王亞撒的埋葬提到了放屍體的地方（希伯來文<em>mishkav</em> ）。有些譯本將這個詞譯為「屍架」（“bier”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.8.4 屍架、棺材 (bier, coffin)&lt;REALIA:4.8.4&gt;</a> ），但這節經文的結構表明，亞撒的屍體抬進墓室後被放在固定的位置，即墓室的石臺上。<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 譯作“resting-place”（「安息處」），更好地表達出經文原來的意思。</p>\n<p>\n            <a href=\"https://ref.ly/1Sam13:6\">1SA 13:6</a> ：這節經文中的希伯來文<em>tsrichim</em> 意思不確定。有些譯本將其解作「墓室」（“tombs”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 、<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> ），這可能是在岩石上鑿出來的洞穴。另一些譯本使用了比較寬泛的詞語，如「坑」（“pits”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）或「地下室」（“vaults”；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ）。有些學者認為，這個詞與<a href=\"https://ref.ly/Judg9:46\">JDG 9:46</a> 、<a href=\"https://ref.ly/Judg9:49\">JDG 9:49</a> 中一個意為「山寨」或「塔」的希伯來文詞語有關聯，但這個意思似乎不符合這裡的語境。</p>\n<p>在<a href=\"https://ref.ly/Matt23:29\">MAT 23:29</a> ，希臘文<em>mnēmeion</em> 也可解作為紀念逝者而建的紀念碑，在這裡可譯作「逝者紀念碑」；在<a href=\"https://ref.ly/Luke11:47\">LUK 11:47</a> 也是這個意思。<a href=\"https://ref.ly/2Esd2:16\">2ES 2:16</a> 中的拉丁文<em>monumentum</em> 也可以這樣理解。</p>\n<p>在<a href=\"https://ref.ly/Mark5:2\">MRK 5:2</a> ，翻譯者要避免使用一個單單指墳墓的詞語，因為那個被魔鬼所附的人並不是住在地底下的墳墓裡，而是住在墓穴或建在地面上的墓室裡。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23014018",
+"start_ref_usfm": "ISA 14:18",
+"end_ref": "23014018",
+"end_ref_usfm": "ISA 14:18"
+},
+{
+"start_ref": "18021032",
+"start_ref_usfm": "JOB 21:32",
+"end_ref": "18021032",
+"end_ref_usfm": "JOB 21:32"
+},
+{
+"start_ref": "09013006",
+"start_ref_usfm": "1SA 13:6",
+"end_ref": "09013006",
+"end_ref_usfm": "1SA 13:6"
+},
+{
+"start_ref": "01035020",
+"start_ref_usfm": "GEN 35:20",
+"end_ref": "01035020",
+"end_ref_usfm": "GEN 35:20"
+},
+{
+"start_ref": "01047030",
+"start_ref_usfm": "GEN 47:30",
+"end_ref": "01047030",
+"end_ref_usfm": "GEN 47:30"
+},
+{
+"start_ref": "05034006",
+"start_ref_usfm": "DEU 34:6",
+"end_ref": "05034006",
+"end_ref_usfm": "DEU 34:6"
+},
+{
+"start_ref": "09010002",
+"start_ref_usfm": "1SA 10:2",
+"end_ref": "09010002",
+"end_ref_usfm": "1SA 10:2"
+},
+{
+"start_ref": "12009028",
+"start_ref_usfm": "2KI 9:28",
+"end_ref": "12009028",
+"end_ref_usfm": "2KI 9:28"
+},
+{
+"start_ref": "12021026",
+"start_ref_usfm": "2KI 21:26",
+"end_ref": "12021026",
+"end_ref_usfm": "2KI 21:26"
+},
+{
+"start_ref": "12023030",
+"start_ref_usfm": "2KI 23:30",
+"end_ref": "12023030",
+"end_ref_usfm": "2KI 23:30"
+},
+{
+"start_ref": "14026023",
+"start_ref_usfm": "2CH 26:23",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "21006003",
+"start_ref_usfm": "ECC 6:3",
+"end_ref": "21006003",
+"end_ref_usfm": "ECC 6:3"
+},
+{
+"start_ref": "23014020",
+"start_ref_usfm": "ISA 14:20",
+"end_ref": "23014020",
+"end_ref_usfm": "ISA 14:20"
+},
+{
+"start_ref": "24022019",
+"start_ref_usfm": "JER 22:19",
+"end_ref": "24022019",
+"end_ref_usfm": "JER 22:19"
+},
+{
+"start_ref": "26032023",
+"start_ref_usfm": "EZK 32:23",
+"end_ref": "26032023",
+"end_ref_usfm": "EZK 32:23"
+},
+{
+"start_ref": "26032024",
+"start_ref_usfm": "EZK 32:24",
+"end_ref": "26032024",
+"end_ref_usfm": "EZK 32:24"
+},
+{
+"start_ref": "01023004",
+"start_ref_usfm": "GEN 23:4",
+"end_ref": "01023004",
+"end_ref_usfm": "GEN 23:4"
+},
+{
+"start_ref": "01023006",
+"start_ref_usfm": "GEN 23:6",
+"end_ref": "01023006",
+"end_ref_usfm": "GEN 23:6"
+},
+{
+"start_ref": "01023009",
+"start_ref_usfm": "GEN 23:9",
+"end_ref": "01023009",
+"end_ref_usfm": "GEN 23:9"
+},
+{
+"start_ref": "01023020",
+"start_ref_usfm": "GEN 23:20",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "01049030",
+"start_ref_usfm": "GEN 49:30",
+"end_ref": "01049030",
+"end_ref_usfm": "GEN 49:30"
+},
+{
+"start_ref": "01050005",
+"start_ref_usfm": "GEN 50:5",
+"end_ref": "01050005",
+"end_ref_usfm": "GEN 50:5"
+},
+{
+"start_ref": "01050013",
+"start_ref_usfm": "GEN 50:13",
+"end_ref": "01050013",
+"end_ref_usfm": "GEN 50:13"
+},
+{
+"start_ref": "02014011",
+"start_ref_usfm": "EXO 14:11",
+"end_ref": "02014011",
+"end_ref_usfm": "EXO 14:11"
+},
+{
+"start_ref": "04019016",
+"start_ref_usfm": "NUM 19:16",
+"end_ref": "04019016",
+"end_ref_usfm": "NUM 19:16"
+},
+{
+"start_ref": "04019018",
+"start_ref_usfm": "NUM 19:18",
+"end_ref": "04019018",
+"end_ref_usfm": "NUM 19:18"
+},
+{
+"start_ref": "07008032",
+"start_ref_usfm": "JDG 8:32",
+"end_ref": "07008032",
+"end_ref_usfm": "JDG 8:32"
+},
+{
+"start_ref": "07016031",
+"start_ref_usfm": "JDG 16:31",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "10002032",
+"start_ref_usfm": "2SA 2:32",
+"end_ref": "10002032",
+"end_ref_usfm": "2SA 2:32"
+},
+{
+"start_ref": "10003032",
+"start_ref_usfm": "2SA 3:32",
+"end_ref": "10003032",
+"end_ref_usfm": "2SA 3:32"
+},
+{
+"start_ref": "10004012",
+"start_ref_usfm": "2SA 4:12",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+},
+{
+"start_ref": "10017023",
+"start_ref_usfm": "2SA 17:23",
+"end_ref": "10017023",
+"end_ref_usfm": "2SA 17:23"
+},
+{
+"start_ref": "10019038",
+"start_ref_usfm": "2SA 19:38",
+"end_ref": "10019038",
+"end_ref_usfm": "2SA 19:38"
+},
+{
+"start_ref": "10021014",
+"start_ref_usfm": "2SA 21:14",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "11013022",
+"start_ref_usfm": "1KI 13:22",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "11013030",
+"start_ref_usfm": "1KI 13:30",
+"end_ref": "11013030",
+"end_ref_usfm": "1KI 13:30"
+},
+{
+"start_ref": "11013031",
+"start_ref_usfm": "1KI 13:31",
+"end_ref": "11013031",
+"end_ref_usfm": "1KI 13:31"
+},
+{
+"start_ref": "11014013",
+"start_ref_usfm": "1KI 14:13",
+"end_ref": "11014013",
+"end_ref_usfm": "1KI 14:13"
+},
+{
+"start_ref": "12013021",
+"start_ref_usfm": "2KI 13:21",
+"end_ref": "12013021",
+"end_ref_usfm": "2KI 13:21"
+},
+{
+"start_ref": "12022020",
+"start_ref_usfm": "2KI 22:20",
+"end_ref": "12022020",
+"end_ref_usfm": "2KI 22:20"
+},
+{
+"start_ref": "12023006",
+"start_ref_usfm": "2KI 23:6",
+"end_ref": "12023006",
+"end_ref_usfm": "2KI 23:6"
+},
+{
+"start_ref": "12023016",
+"start_ref_usfm": "2KI 23:16",
+"end_ref": "12023016",
+"end_ref_usfm": "2KI 23:16"
+},
+{
+"start_ref": "12023017",
+"start_ref_usfm": "2KI 23:17",
+"end_ref": "12023017",
+"end_ref_usfm": "2KI 23:17"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "14021020",
+"start_ref_usfm": "2CH 21:20",
+"end_ref": "14021020",
+"end_ref_usfm": "2CH 21:20"
+},
+{
+"start_ref": "14024025",
+"start_ref_usfm": "2CH 24:25",
+"end_ref": "14024025",
+"end_ref_usfm": "2CH 24:25"
+},
+{
+"start_ref": "14028027",
+"start_ref_usfm": "2CH 28:27",
+"end_ref": "14028027",
+"end_ref_usfm": "2CH 28:27"
+},
+{
+"start_ref": "14032033",
+"start_ref_usfm": "2CH 32:33",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14034004",
+"start_ref_usfm": "2CH 34:4",
+"end_ref": "14034004",
+"end_ref_usfm": "2CH 34:4"
+},
+{
+"start_ref": "14034028",
+"start_ref_usfm": "2CH 34:28",
+"end_ref": "14034028",
+"end_ref_usfm": "2CH 34:28"
+},
+{
+"start_ref": "14035024",
+"start_ref_usfm": "2CH 35:24",
+"end_ref": "14035024",
+"end_ref_usfm": "2CH 35:24"
+},
+{
+"start_ref": "16002003",
+"start_ref_usfm": "NEH 2:3",
+"end_ref": "16002003",
+"end_ref_usfm": "NEH 2:3"
+},
+{
+"start_ref": "16002005",
+"start_ref_usfm": "NEH 2:5",
+"end_ref": "16002005",
+"end_ref_usfm": "NEH 2:5"
+},
+{
+"start_ref": "16003016",
+"start_ref_usfm": "NEH 3:16",
+"end_ref": "16003016",
+"end_ref_usfm": "NEH 3:16"
+},
+{
+"start_ref": "18003022",
+"start_ref_usfm": "JOB 3:22",
+"end_ref": "18003022",
+"end_ref_usfm": "JOB 3:22"
+},
+{
+"start_ref": "18005026",
+"start_ref_usfm": "JOB 5:26",
+"end_ref": "18005026",
+"end_ref_usfm": "JOB 5:26"
+},
+{
+"start_ref": "18010019",
+"start_ref_usfm": "JOB 10:19",
+"end_ref": "18010019",
+"end_ref_usfm": "JOB 10:19"
+},
+{
+"start_ref": "18017001",
+"start_ref_usfm": "JOB 17:1",
+"end_ref": "18017001",
+"end_ref_usfm": "JOB 17:1"
+},
+{
+"start_ref": "19005010",
+"start_ref_usfm": "PSA 5:10",
+"end_ref": "19005010",
+"end_ref_usfm": "PSA 5:10"
+},
+{
+"start_ref": "19088006",
+"start_ref_usfm": "PSA 88:6",
+"end_ref": "19088006",
+"end_ref_usfm": "PSA 88:6"
+},
+{
+"start_ref": "19088012",
+"start_ref_usfm": "PSA 88:12",
+"end_ref": "19088012",
+"end_ref_usfm": "PSA 88:12"
+},
+{
+"start_ref": "23014019",
+"start_ref_usfm": "ISA 14:19",
+"end_ref": "23014019",
+"end_ref_usfm": "ISA 14:19"
+},
+{
+"start_ref": "23022016",
+"start_ref_usfm": "ISA 22:16",
+"end_ref": "23022016",
+"end_ref_usfm": "ISA 22:16"
+},
+{
+"start_ref": "23053009",
+"start_ref_usfm": "ISA 53:9",
+"end_ref": "23053009",
+"end_ref_usfm": "ISA 53:9"
+},
+{
+"start_ref": "23065004",
+"start_ref_usfm": "ISA 65:4",
+"end_ref": "23065004",
+"end_ref_usfm": "ISA 65:4"
+},
+{
+"start_ref": "24005016",
+"start_ref_usfm": "JER 5:16",
+"end_ref": "24005016",
+"end_ref_usfm": "JER 5:16"
+},
+{
+"start_ref": "24008001",
+"start_ref_usfm": "JER 8:1",
+"end_ref": "24008001",
+"end_ref_usfm": "JER 8:1"
+},
+{
+"start_ref": "24020017",
+"start_ref_usfm": "JER 20:17",
+"end_ref": "24020017",
+"end_ref_usfm": "JER 20:17"
+},
+{
+"start_ref": "24026023",
+"start_ref_usfm": "JER 26:23",
+"end_ref": "24026023",
+"end_ref_usfm": "JER 26:23"
+},
+{
+"start_ref": "26032022",
+"start_ref_usfm": "EZK 32:22",
+"end_ref": "26032022",
+"end_ref_usfm": "EZK 32:22"
+},
+{
+"start_ref": "26032025",
+"start_ref_usfm": "EZK 32:25",
+"end_ref": "26032025",
+"end_ref_usfm": "EZK 32:25"
+},
+{
+"start_ref": "26032026",
+"start_ref_usfm": "EZK 32:26",
+"end_ref": "26032026",
+"end_ref_usfm": "EZK 32:26"
+},
+{
+"start_ref": "26037012",
+"start_ref_usfm": "EZK 37:12",
+"end_ref": "26037012",
+"end_ref_usfm": "EZK 37:12"
+},
+{
+"start_ref": "26037013",
+"start_ref_usfm": "EZK 37:13",
+"end_ref": "26037013",
+"end_ref_usfm": "EZK 37:13"
+},
+{
+"start_ref": "26039011",
+"start_ref_usfm": "EZK 39:11",
+"end_ref": "26039011",
+"end_ref_usfm": "EZK 39:11"
+},
+{
+"start_ref": "34001014",
+"start_ref_usfm": "NAM 1:14",
+"end_ref": "34001014",
+"end_ref_usfm": "NAM 1:14"
+},
+{
+"start_ref": "41005005",
+"start_ref_usfm": "MRK 5:5",
+"end_ref": "41005005",
+"end_ref_usfm": "MRK 5:5"
+},
+{
+"start_ref": "42008027",
+"start_ref_usfm": "LUK 8:27",
+"end_ref": "42008027",
+"end_ref_usfm": "LUK 8:27"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024001",
+"end_ref_usfm": "LUK 24:1"
+},
+{
+"start_ref": "44002029",
+"start_ref_usfm": "ACT 2:29",
+"end_ref": "44002029",
+"end_ref_usfm": "ACT 2:29"
+},
+{
+"start_ref": "44007016",
+"start_ref_usfm": "ACT 7:16",
+"end_ref": "44007016",
+"end_ref_usfm": "ACT 7:16"
+},
+{
+"start_ref": "66011009",
+"start_ref_usfm": "REV 11:9",
+"end_ref": "66011009",
+"end_ref_usfm": "REV 11:9"
+},
+{
+"start_ref": "23026019",
+"start_ref_usfm": "ISA 26:19",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008028",
+"end_ref_usfm": "MAT 8:28"
+},
+{
+"start_ref": "40023029",
+"start_ref_usfm": "MAT 23:29",
+"end_ref": "40023029",
+"end_ref_usfm": "MAT 23:29"
+},
+{
+"start_ref": "40027052",
+"start_ref_usfm": "MAT 27:52",
+"end_ref": "40027052",
+"end_ref_usfm": "MAT 27:52"
+},
+{
+"start_ref": "40027053",
+"start_ref_usfm": "MAT 27:53",
+"end_ref": "40027053",
+"end_ref_usfm": "MAT 27:53"
+},
+{
+"start_ref": "40027060",
+"start_ref_usfm": "MAT 27:60",
+"end_ref": "40027060",
+"end_ref_usfm": "MAT 27:60"
+},
+{
+"start_ref": "40028008",
+"start_ref_usfm": "MAT 28:8",
+"end_ref": "40028008",
+"end_ref_usfm": "MAT 28:8"
+},
+{
+"start_ref": "41005002",
+"start_ref_usfm": "MRK 5:2",
+"end_ref": "41005002",
+"end_ref_usfm": "MRK 5:2"
+},
+{
+"start_ref": "41006029",
+"start_ref_usfm": "MRK 6:29",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "41016002",
+"start_ref_usfm": "MRK 16:2",
+"end_ref": "41016002",
+"end_ref_usfm": "MRK 16:2"
+},
+{
+"start_ref": "41016003",
+"start_ref_usfm": "MRK 16:3",
+"end_ref": "41016003",
+"end_ref_usfm": "MRK 16:3"
+},
+{
+"start_ref": "41016005",
+"start_ref_usfm": "MRK 16:5",
+"end_ref": "41016005",
+"end_ref_usfm": "MRK 16:5"
+},
+{
+"start_ref": "41016008",
+"start_ref_usfm": "MRK 16:8",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+},
+{
+"start_ref": "42011044",
+"start_ref_usfm": "LUK 11:44",
+"end_ref": "42011044",
+"end_ref_usfm": "LUK 11:44"
+},
+{
+"start_ref": "42011047",
+"start_ref_usfm": "LUK 11:47",
+"end_ref": "42011047",
+"end_ref_usfm": "LUK 11:47"
+},
+{
+"start_ref": "42023055",
+"start_ref_usfm": "LUK 23:55",
+"end_ref": "42023055",
+"end_ref_usfm": "LUK 23:55"
+},
+{
+"start_ref": "42024002",
+"start_ref_usfm": "LUK 24:2",
+"end_ref": "42024002",
+"end_ref_usfm": "LUK 24:2"
+},
+{
+"start_ref": "42024009",
+"start_ref_usfm": "LUK 24:9",
+"end_ref": "42024009",
+"end_ref_usfm": "LUK 24:9"
+},
+{
+"start_ref": "42024012",
+"start_ref_usfm": "LUK 24:12",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "42024022",
+"start_ref_usfm": "LUK 24:22",
+"end_ref": "42024022",
+"end_ref_usfm": "LUK 24:22"
+},
+{
+"start_ref": "42024024",
+"start_ref_usfm": "LUK 24:24",
+"end_ref": "42024024",
+"end_ref_usfm": "LUK 24:24"
+},
+{
+"start_ref": "43005028",
+"start_ref_usfm": "JHN 5:28",
+"end_ref": "43005028",
+"end_ref_usfm": "JHN 5:28"
+},
+{
+"start_ref": "43011017",
+"start_ref_usfm": "JHN 11:17",
+"end_ref": "43011017",
+"end_ref_usfm": "JHN 11:17"
+},
+{
+"start_ref": "43011031",
+"start_ref_usfm": "JHN 11:31",
+"end_ref": "43011031",
+"end_ref_usfm": "JHN 11:31"
+},
+{
+"start_ref": "43011038",
+"start_ref_usfm": "JHN 11:38",
+"end_ref": "43011038",
+"end_ref_usfm": "JHN 11:38"
+},
+{
+"start_ref": "43012017",
+"start_ref_usfm": "JHN 12:17",
+"end_ref": "43012017",
+"end_ref_usfm": "JHN 12:17"
+},
+{
+"start_ref": "43019041",
+"start_ref_usfm": "JHN 19:41",
+"end_ref": "43019041",
+"end_ref_usfm": "JHN 19:41"
+},
+{
+"start_ref": "43019042",
+"start_ref_usfm": "JHN 19:42",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020001",
+"end_ref_usfm": "JHN 20:1"
+},
+{
+"start_ref": "43020002",
+"start_ref_usfm": "JHN 20:2",
+"end_ref": "43020002",
+"end_ref_usfm": "JHN 20:2"
+},
+{
+"start_ref": "43020003",
+"start_ref_usfm": "JHN 20:3",
+"end_ref": "43020003",
+"end_ref_usfm": "JHN 20:3"
+},
+{
+"start_ref": "43020004",
+"start_ref_usfm": "JHN 20:4",
+"end_ref": "43020004",
+"end_ref_usfm": "JHN 20:4"
+},
+{
+"start_ref": "43020006",
+"start_ref_usfm": "JHN 20:6",
+"end_ref": "43020006",
+"end_ref_usfm": "JHN 20:6"
+},
+{
+"start_ref": "43020008",
+"start_ref_usfm": "JHN 20:8",
+"end_ref": "43020008",
+"end_ref_usfm": "JHN 20:8"
+},
+{
+"start_ref": "43020011",
+"start_ref_usfm": "JHN 20:11",
+"end_ref": "43020011",
+"end_ref_usfm": "JHN 20:11"
+},
+{
+"start_ref": "44013029",
+"start_ref_usfm": "ACT 13:29",
+"end_ref": "44013029",
+"end_ref_usfm": "ACT 13:29"
+},
+{
+"start_ref": "71010007",
+"start_ref_usfm": "WIS 10:7",
+"end_ref": "71010007",
+"end_ref_usfm": "WIS 10:7"
+},
+{
+"start_ref": "40023027",
+"start_ref_usfm": "MAT 23:27",
+"end_ref": "40023027",
+"end_ref_usfm": "MAT 23:27"
+},
+{
+"start_ref": "40027061",
+"start_ref_usfm": "MAT 27:61",
+"end_ref": "40027061",
+"end_ref_usfm": "MAT 27:61"
+},
+{
+"start_ref": "40027064",
+"start_ref_usfm": "MAT 27:64",
+"end_ref": "40027064",
+"end_ref_usfm": "MAT 27:64"
+},
+{
+"start_ref": "40027066",
+"start_ref_usfm": "MAT 27:66",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028001",
+"end_ref_usfm": "MAT 28:1"
+},
+{
+"start_ref": "45003013",
+"start_ref_usfm": "ROM 3:13",
+"end_ref": "45003013",
+"end_ref_usfm": "ROM 3:13"
+},
+{
+"start_ref": "68004004",
+"start_ref_usfm": "TOB 4:4",
+"end_ref": "68004004",
+"end_ref_usfm": "TOB 4:4"
+},
+{
+"start_ref": "68004017",
+"start_ref_usfm": "TOB 4:17",
+"end_ref": "68004017",
+"end_ref_usfm": "TOB 4:17"
+},
+{
+"start_ref": "68006015",
+"start_ref_usfm": "TOB 6:15",
+"end_ref": "68006015",
+"end_ref_usfm": "TOB 6:15"
+},
+{
+"start_ref": "68008010",
+"start_ref_usfm": "TOB 8:10",
+"end_ref": "68008010",
+"end_ref_usfm": "TOB 8:10"
+},
+{
+"start_ref": "68008018",
+"start_ref_usfm": "TOB 8:18",
+"end_ref": "68008018",
+"end_ref_usfm": "TOB 8:18"
+},
+{
+"start_ref": "71019003",
+"start_ref_usfm": "WIS 19:3",
+"end_ref": "71019003",
+"end_ref_usfm": "WIS 19:3"
+},
+{
+"start_ref": "72030018",
+"start_ref_usfm": "SIR 30:18",
+"end_ref": "72030018",
+"end_ref_usfm": "SIR 30:18"
+},
+{
+"start_ref": "78002070",
+"start_ref_usfm": "1MA 2:70",
+"end_ref": "78002070",
+"end_ref_usfm": "1MA 2:70"
+},
+{
+"start_ref": "78009019",
+"start_ref_usfm": "1MA 9:19",
+"end_ref": "78009019",
+"end_ref_usfm": "1MA 9:19"
+},
+{
+"start_ref": "78013027",
+"start_ref_usfm": "1MA 13:27",
+"end_ref": "78013027",
+"end_ref_usfm": "1MA 13:27"
+},
+{
+"start_ref": "78013030",
+"start_ref_usfm": "1MA 13:30",
+"end_ref": "78013030",
+"end_ref_usfm": "1MA 13:30"
+},
+{
+"start_ref": "79005010",
+"start_ref_usfm": "2MA 5:10",
+"end_ref": "79005010",
+"end_ref_usfm": "2MA 5:10"
+},
+{
+"start_ref": "79012039",
+"start_ref_usfm": "2MA 12:39",
+"end_ref": "79012039",
+"end_ref_usfm": "2MA 12:39"
+},
+{
+"start_ref": "80006031",
+"start_ref_usfm": "3MA 6:31",
+"end_ref": "80006031",
+"end_ref_usfm": "3MA 6:31"
+},
+{
+"start_ref": "82001029",
+"start_ref_usfm": "1ES 1:29",
+"end_ref": "82001029",
+"end_ref_usfm": "1ES 1:29"
+},
+{
+"start_ref": "83002023",
+"start_ref_usfm": "2ES 2:23",
+"end_ref": "83002023",
+"end_ref_usfm": "2ES 2:23"
+},
+{
+"start_ref": "83005035",
+"start_ref_usfm": "2ES 5:35",
+"end_ref": "83005035",
+"end_ref_usfm": "2ES 5:35"
+},
+{
+"start_ref": "07009046",
+"start_ref_usfm": "JDG 9:46",
+"end_ref": "07009046",
+"end_ref_usfm": "JDG 9:46"
+},
+{
+"start_ref": "07009049",
+"start_ref_usfm": "JDG 9:49",
+"end_ref": "07009049",
+"end_ref_usfm": "JDG 9:49"
+},
+{
+"start_ref": "83002016",
+"start_ref_usfm": "2ES 2:16",
+"end_ref": "83002016",
+"end_ref_usfm": "2ES 2:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.5821,
+"match_method": "scored",
+"preferred_label": "Grave"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.8.1.1",
+"reference_id": "REALIA:4.8.1.1",
+"version": "1.0.4",
+"title": "標題：封墓石（stone for closing a tomb）",
+"media_type": "Text",
+"index_reference": "4.8.1.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.1.1\"><span class=\"thlex-key\">4.8.1.1</span> 標題：封墓石（stone for closing a tomb）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίθος</span> <span class=\"thlex-translit\">(音譯： lithos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a>, <a href=\"https://ref.ly/Matt27:66\">MAT 27:66</a>, <a href=\"https://ref.ly/Matt28:2\">MAT 28:2</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark16:3\">MRK 16:3</a>, <a href=\"https://ref.ly/Mark16:4\">MRK 16:4</a>, <a href=\"https://ref.ly/Luke24:2\">LUK 24:2</a>, <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>, <a href=\"https://ref.ly/John11:41\">JHN 11:41</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0468_stone_closure.jpg\" alt=\"封堵墓穴入口的圓石\"><figcaption class=\"thlex-caption\">封堵墓穴入口的圓石 (© Ian Scott, CC BY-SA 2.0, via Wikimedia Commons)</figcaption></figure>封墓石是一塊又大又重的石頭，用來封住用作墳墓的天然洞穴或者從岩石中鑿出的墓穴的入口。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>用石頭封住墳墓有兩種方法，福音書沒有記載是用哪種方法封住了安葬耶穌的那個墓穴。一種方法是使用一塊圓柱形的石頭，放倒在一個與石頭寬度相同的槽中，從側面將石頭滾到墓穴的洞口，將其封住。第二種方法是把石頭沿著一個小斜坡滾到墓穴口；石頭是球形的，沿著斜坡向下滾動，直到堵住墓穴的入口。</p>\n<p>\n            <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>; <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>; <a href=\"https://ref.ly/John11:41\">JHN 11:41</a> 記載，埋葬拉撒路的地方是一個洞穴，入口有石頭擋著。<a href=\"https://ref.ly/John11:38\">JHN 11:38</a> 有一個含義模糊的希臘文短語，可譯作「在入口處」（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。這個短語可以是「在上面」的意思，此時墳墓的通道就是垂直的；另外也可以是「靠著」的意思，這樣墳墓的通道就是水平的。解經家對此意見不一，但證據似乎更支持水平洞穴。無論是哪一種情況，石頭的主要目的都是為了防止動物進入墳墓吞食屍體。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「放在入口的石頭」，然而最好譯作「蓋住洞口的石頭」。注意，與埋葬耶穌的墳墓不同，這裡沒有說石頭是「滾」到入口前面的。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027060",
+"start_ref_usfm": "MAT 27:60",
+"end_ref": "40027060",
+"end_ref_usfm": "MAT 27:60"
+},
+{
+"start_ref": "40027066",
+"start_ref_usfm": "MAT 27:66",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028002",
+"start_ref_usfm": "MAT 28:2",
+"end_ref": "40028002",
+"end_ref_usfm": "MAT 28:2"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "41016003",
+"start_ref_usfm": "MRK 16:3",
+"end_ref": "41016003",
+"end_ref_usfm": "MRK 16:3"
+},
+{
+"start_ref": "41016004",
+"start_ref_usfm": "MRK 16:4",
+"end_ref": "41016004",
+"end_ref_usfm": "MRK 16:4"
+},
+{
+"start_ref": "42024002",
+"start_ref_usfm": "LUK 24:2",
+"end_ref": "42024002",
+"end_ref_usfm": "LUK 24:2"
+},
+{
+"start_ref": "43011039",
+"start_ref_usfm": "JHN 11:39",
+"end_ref": "43011039",
+"end_ref_usfm": "JHN 11:39"
+},
+{
+"start_ref": "43011041",
+"start_ref_usfm": "JHN 11:41",
+"end_ref": "43011041",
+"end_ref_usfm": "JHN 11:41"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020001",
+"end_ref_usfm": "JHN 20:1"
+},
+{
+"start_ref": "43011038",
+"start_ref_usfm": "JHN 11:38",
+"end_ref": "43011038",
+"end_ref_usfm": "JHN 11:38"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.2",
+"reference_id": "REALIA:4.8.2",
+"version": "1.0.4",
+"title": "標題：墳堆（burial mound）",
+"media_type": "Text",
+"index_reference": "4.8.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.2\"><span class=\"thlex-key\">4.8.2</span> 標題：墳堆（burial mound）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χειμών</span> <span class=\"thlex-translit\">(音譯： cheimōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir21:8\">SIR 21:8</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0469_burial_mound.jpg\" alt=\"一堆石頭有時會用來標誌一個墓葬地點\"><figcaption class=\"thlex-caption\">一堆石頭有時會用來標誌一個墓葬地點 (© ניסים טבקה Pikiwiki Israel, CC BY 2.5, via Wikimedia Commons)</figcaption></figure>墳堆是在埋葬屍體的地方堆起來的一堆石頭，以標記埋葬的地點，並防止動物刨開地面吞吃屍體。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於「墳堆」不過是墳墓的另一種形式，在<a href=\"https://ref.ly/Sir21:8\">SIR 21:8</a> ，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直接將其譯作“tomb”（「墳墓」）。這節經文有一個異文；有些抄本作「為冬天」，而不是「為他的墳堆」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）。大多數譯本採用「墳墓」一詞，並在腳註中列出另一種讀文（如<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "72021008",
+"start_ref_usfm": "SIR 21:8",
+"end_ref": "72021008",
+"end_ref_usfm": "SIR 21:8"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.3",
+"reference_id": "REALIA:4.8.3",
+"version": "1.0.4",
+"title": "標題：預備葬埋屍體（body preparation）",
+"media_type": "Text",
+"index_reference": "4.8.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.3\"><span class=\"thlex-key\">4.8.3</span> 標題：預備葬埋屍體（body preparation）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">裹屍布、壽衣：參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.5.3.7 麻、亞麻、細麻布 (linen)&lt;REALIA:1.5.3.7&gt;</a> 。</h2>\n</div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.8.3.1",
+"reference_id": "REALIA:4.8.3.1",
+"version": "1.0.4",
+"title": "標題：防腐油、香膏（embalming oils）",
+"media_type": "Text",
+"index_reference": "4.8.3.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.3.1\"><span class=\"thlex-key\">4.8.3.1</span> 標題：防腐油、香膏（embalming oils）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἀλόη</span> <span class=\"thlex-translit\">(音譯： aloē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John19:39\">JHN 19:39</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ἄρωμα</span> <span class=\"thlex-translit\">(音譯： arōma)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark16:1\">MRK 16:1</a>, <a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a>, <a href=\"https://ref.ly/Luke24:1\">LUK 24:1</a>, <a href=\"https://ref.ly/John19:40\">JHN 19:40</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： μύρον</span> <span class=\"thlex-translit\">(音譯： muron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σμύρνα</span> <span class=\"thlex-translit\">(音譯： smurna)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John19:39\">JHN 19:39</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>防腐油是一種芳香的膏油或藥膏，特別用來處理屍體，使屍體得以保存較長的時間。另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">10.6.1.1 沒藥 (myrrh)&lt;REALIA:10.6.1.1&gt;</a> 。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a> ，我們看到<em>bsamim uznim mruqachim</em> 這個希伯來文語句出現在猶大王亞撒下葬的語境中，經文說墓室裡放著香料和香膏（「墓室裡裝滿了香料和香膏」，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯）。儘管<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「他們用香料和香膏來預備安葬亞撒的屍體」，但沒有理由認為亞撒的屍體（像<a href=\"https://ref.ly/Gen50:2\">GEN 50:2</a>; <a href=\"https://ref.ly/Gen50:3\">GEN 50:3</a> 所述雅各的屍體那樣）進行了防腐處理。</p>\n<p>在<a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a> ，翻譯者可以使用描述性短語來翻譯希臘文<em>muron</em> ，例如「用來保存屍體的香膏」，或「用來防止屍體腐爛的香膏」。</p>\n<p>新約提到防腐香膏的原料是「沒藥」（希臘文<em>smurna</em> ）和「沉香」（希臘文<em>aloē</em> ）。大多數翻譯者會借用這些原料的術語，然後用旁註來解釋這些物質的作用。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019039",
+"end_ref_usfm": "JHN 19:39"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016001",
+"end_ref_usfm": "MRK 16:1"
+},
+{
+"start_ref": "42023056",
+"start_ref_usfm": "LUK 23:56",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024001",
+"end_ref_usfm": "LUK 24:1"
+},
+{
+"start_ref": "43019040",
+"start_ref_usfm": "JHN 19:40",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "01050002",
+"start_ref_usfm": "GEN 50:2",
+"end_ref": "01050002",
+"end_ref_usfm": "GEN 50:2"
+},
+{
+"start_ref": "01050003",
+"start_ref_usfm": "GEN 50:3",
+"end_ref": "01050003",
+"end_ref_usfm": "GEN 50:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Aloes",
+"type": "realia",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Aloes"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.8.4",
+"reference_id": "REALIA:4.8.4",
+"version": "1.0.4",
+"title": "標題：屍架、棺材（bier, coffin）",
+"media_type": "Text",
+"index_reference": "4.8.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.4\"><span class=\"thlex-key\">4.8.4</span> 標題：屍架、棺材（bier, coffin）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֲרוֹן</span> <span class=\"thlex-translit\">(音譯： ’aron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen50:26\">GEN 50:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִטָּה</span> <span class=\"thlex-translit\">(音譯： mitah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σορός</span> <span class=\"thlex-translit\">(音譯： soros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0470_coffin.jpg\" alt=\"橄欖山主泣教堂（Dominus Flevit）花園中的石棺或骨灰盒\"><figcaption class=\"thlex-caption\">橄欖山主泣教堂（Dominus Flevit）花園中的石棺或骨灰盒 (© Deror Avi, CC BY-SA 3.0, via Wikimedia Commons)</figcaption></figure>屍架是用來將屍體抬到埋葬地點的一塊板，棺材是放置屍體以備埋葬的盒子。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Gen50:26\">GEN 50:26</a> ，希伯來文<em>’aron</em> 字面意為「盒子」，但在這個語境中是指「棺材」。</p>\n<p>在<a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a> ，希伯來文<em>mitah</em> 字面意為「床」。然而，這裡的上下文清楚表明這個物件被用作屍架，甚至有可能是棺材。</p>\n<p>\n            <a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a> ：有些譯本將這節經文中的希臘文<em>soros</em> 譯作「棺材」（“coffin”；<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）。這個詞也可以指「屍架」，並且更可能是它在這裡的意思。在有些語言中，翻譯者可能需要採用描述性的語句，例如「抬屍體的板」或「安放屍體的盒子」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01050026",
+"start_ref_usfm": "GEN 50:26",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003031",
+"end_ref_usfm": "2SA 3:31"
+},
+{
+"start_ref": "42007014",
+"start_ref_usfm": "LUK 7:14",
+"end_ref": "42007014",
+"end_ref_usfm": "LUK 7:14"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Bier",
+"type": "realia",
+"confidence": 0.7195,
+"match_method": "scored",
+"preferred_label": "Bier"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.8.5",
+"reference_id": "REALIA:4.8.5",
+"version": "1.0.4",
+"title": "標題：麻布、麻衣、喪服（sackcloth, mourning clothes）",
+"media_type": "Text",
+"index_reference": "4.8.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.8.5\"><span class=\"thlex-key\">4.8.5</span> 標題：麻布、麻衣、喪服（sackcloth, mourning clothes）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בֶּגֶד, אֵבֶל</span> <span class=\"thlex-translit\">(音譯： bigdey ’evel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שַׂק</span> <span class=\"thlex-translit\">(音譯： saq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a>, <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a>, <a href=\"https://ref.ly/2Sam21:10\">2SA 21:10</a>, <a href=\"https://ref.ly/1Kgs20:31\">1KI 20:31</a>, <a href=\"https://ref.ly/1Kgs20:32\">1KI 20:32</a>, <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>, <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>, <a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a>, <a href=\"https://ref.ly/2Kgs19:1\">2KI 19:1</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a>, <a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a>, <a href=\"https://ref.ly/Neh9:1\">NEH 9:1</a>, <a href=\"https://ref.ly/Esth4:1\">EST 4:1</a>, <a href=\"https://ref.ly/Esth4:2\">EST 4:2</a>, <a href=\"https://ref.ly/Esth4:3\">EST 4:3</a>, <a href=\"https://ref.ly/Esth4:4\">EST 4:4</a>, <a href=\"https://ref.ly/Job16:15\">JOB 16:15</a>, <a href=\"https://ref.ly/Ps30:12\">PSA 30:12</a>, <a href=\"https://ref.ly/Ps35:13\">PSA 35:13</a>, <a href=\"https://ref.ly/Ps69:12\">PSA 69:12</a>, <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa15:3\">ISA 15:3</a>, <a href=\"https://ref.ly/Isa20:2\">ISA 20:2</a>, <a href=\"https://ref.ly/Isa22:12\">ISA 22:12</a>, <a href=\"https://ref.ly/Isa37:1\">ISA 37:1</a>, <a href=\"https://ref.ly/Isa37:2\">ISA 37:2</a>, <a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>, <a href=\"https://ref.ly/Jer4:8\">JER 4:8</a>, <a href=\"https://ref.ly/Jer6:26\">JER 6:26</a>, <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a>, <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>, <a href=\"https://ref.ly/Lam2:10\">LAM 2:10</a>, <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>, <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>, <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>, <a href=\"https://ref.ly/Joel1:8\">JOL 1:8</a>, <a href=\"https://ref.ly/Joel1:13\">JOL 1:13</a>, <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>, <a href=\"https://ref.ly/Jonah3:5\">JON 3:5</a>, <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>, <a href=\"https://ref.ly/Jonah3:8\">JON 3:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σάκκος</span> <span class=\"thlex-translit\">(音譯： sakkos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a>, <a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a>, <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev11:3\">REV 11:3</a>, <a href=\"https://ref.ly/Jdt4:10\">JDT 4:10</a>, <a href=\"https://ref.ly/Jdt4:11\">JDT 4:11</a>, <a href=\"https://ref.ly/Jdt4:12\">JDT 4:12</a>, <a href=\"https://ref.ly/Jdt4:14\">JDT 4:14</a>, <a href=\"https://ref.ly/Jdt8:5\">JDT 8:5</a>, <a href=\"https://ref.ly/Jdt9:1\">JDT 9:1</a>, <a href=\"https://ref.ly/Jdt10:3\">JDT 10:3</a>, <a href=\"https://ref.ly/EsthGr4:1\">ESG 4:1</a>, <a href=\"https://ref.ly/EsthGr4:2\">ESG 4:2</a>, <a href=\"https://ref.ly/EsthGr4:3\">ESG 4:3</a>, <a href=\"https://ref.ly/EsthGr4:4\">ESG 4:4</a>, <a href=\"https://ref.ly/Bar4:20\">BAR 4:20</a>, <a href=\"https://ref.ly/1Macc2:14\">1MA 2:14</a>, <a href=\"https://ref.ly/1Macc3:47\">1MA 3:47</a>, <a href=\"https://ref.ly/2Macc3:19\">2MA 3:19</a>, <a href=\"https://ref.ly/2Macc10:25\">2MA 10:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： saccus</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd16:2\">2ES 16:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>麻布是一種粗糙的深色布料，用山羊毛或駱駝毛製成。人們貼身穿著麻布衣，表示哀悼或悔改（<a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a> ）。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>不同文化的服喪習俗千差萬別，在有些文化中，穿什麼或不穿什麼並不重要。在大多數語言中，「麻布」可描述為「粗布」，有時也可描述為「厚布」。一般來說，最好明確指出這些衣服和哀悼之間的關係，例如說「表示某人為哀悼死者而穿的衣服」。</p>\n<p>有些文化可能存在與以色列人服喪相似的哀悼行為，如塗畫身體，在臉上或胸前抹灰，背著包裹之類的東西（象徵一個貧困寡婦的哀悼），或在脖子上戴一根哀悼繩。這種文化對等翻譯既有優點也有危險，因為以色列文化的某些特殊方面丟失了，而當地習俗可能會有我們想要避免的含意。如果採取文化對等翻譯，那麼譯文的所有隱含意思都要仔細審查。一般來說，最好譯出以色列人的習俗，並在腳註中解釋其含義或說明相應的習俗。腳註可以是：「喪服是用山羊毛或駱駝毛織成的粗布縫製而成的。」</p>\n<p>\n            <a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a> 沒有明確說是麻衣，但使用了「喪服」一詞。撕裂外袍以示絕望或悲傷是猶太人的習俗之一。然而，這節經文所表達的不僅僅是撕裂衣服。對於字面意為「穿上喪服」的這個分句，<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 英文意為「穿上葬禮的衣服」。如果目標語言的文化沒有特別的習俗，或者已知的習俗不適合這個故事的語境，那麼可將這個分句擴展譯為：「穿上特別的衣服，讓大衛以為你因為某人死去而難過。」</p>\n<p>\n            <a href=\"https://ref.ly/Job16:15\">JOB 16:15</a> ：這節經文的前半部分字面意為，「我把麻布縫在皮膚上」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 同）。這可能表示約伯要長期穿著麻衣，或者他貼身穿著麻衣。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「我哀悼並身穿麻衣」，沒有表達上述任何一種意思。然而，<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 意為「喪服是我的第二層皮膚」，暗示約伯一直穿著喪服。這句話可譯作：「我把喪服穿在身上」、「我給自己穿上居喪之人所穿的衣服」，或「我穿上居喪之人穿著的粗布衣」。</p>\n<p>在有些經文中，穿麻衣並不是為了哀悼死者，而是表示憂傷痛悔。參<a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>; <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>; <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a> 等例。</p>\n<p>\n            <a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a> ：這節經文最後一部分的字面意為「他們早已披麻蒙灰悔改了」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 同；另參<a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a> ）。有些譯本沒有提及「披麻蒙灰」，而是直接譯作：「他們早就向眾人表明他們已從罪中回轉了。」然而，翻譯者應儘量保留經文中這些特有的文化行為，因為這些行為是聖經文化的一個常見現象。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10014002",
+"start_ref_usfm": "2SA 14:2",
+"end_ref": "10014002",
+"end_ref_usfm": "2SA 14:2"
+},
+{
+"start_ref": "01037034",
+"start_ref_usfm": "GEN 37:34",
+"end_ref": "01037034",
+"end_ref_usfm": "GEN 37:34"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003031",
+"end_ref_usfm": "2SA 3:31"
+},
+{
+"start_ref": "10021010",
+"start_ref_usfm": "2SA 21:10",
+"end_ref": "10021010",
+"end_ref_usfm": "2SA 21:10"
+},
+{
+"start_ref": "11020031",
+"start_ref_usfm": "1KI 20:31",
+"end_ref": "11020031",
+"end_ref_usfm": "1KI 20:31"
+},
+{
+"start_ref": "11020032",
+"start_ref_usfm": "1KI 20:32",
+"end_ref": "11020032",
+"end_ref_usfm": "1KI 20:32"
+},
+{
+"start_ref": "11021027",
+"start_ref_usfm": "1KI 21:27",
+"end_ref": "11021027",
+"end_ref_usfm": "1KI 21:27"
+},
+{
+"start_ref": "12006030",
+"start_ref_usfm": "2KI 6:30",
+"end_ref": "12006030",
+"end_ref_usfm": "2KI 6:30"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019001",
+"end_ref_usfm": "2KI 19:1"
+},
+{
+"start_ref": "12019002",
+"start_ref_usfm": "2KI 19:2",
+"end_ref": "12019002",
+"end_ref_usfm": "2KI 19:2"
+},
+{
+"start_ref": "13021016",
+"start_ref_usfm": "1CH 21:16",
+"end_ref": "13021016",
+"end_ref_usfm": "1CH 21:16"
+},
+{
+"start_ref": "16009001",
+"start_ref_usfm": "NEH 9:1",
+"end_ref": "16009001",
+"end_ref_usfm": "NEH 9:1"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004001",
+"end_ref_usfm": "EST 4:1"
+},
+{
+"start_ref": "17004002",
+"start_ref_usfm": "EST 4:2",
+"end_ref": "17004002",
+"end_ref_usfm": "EST 4:2"
+},
+{
+"start_ref": "17004003",
+"start_ref_usfm": "EST 4:3",
+"end_ref": "17004003",
+"end_ref_usfm": "EST 4:3"
+},
+{
+"start_ref": "17004004",
+"start_ref_usfm": "EST 4:4",
+"end_ref": "17004004",
+"end_ref_usfm": "EST 4:4"
+},
+{
+"start_ref": "18016015",
+"start_ref_usfm": "JOB 16:15",
+"end_ref": "18016015",
+"end_ref_usfm": "JOB 16:15"
+},
+{
+"start_ref": "19030012",
+"start_ref_usfm": "PSA 30:12",
+"end_ref": "19030012",
+"end_ref_usfm": "PSA 30:12"
+},
+{
+"start_ref": "19035013",
+"start_ref_usfm": "PSA 35:13",
+"end_ref": "19035013",
+"end_ref_usfm": "PSA 35:13"
+},
+{
+"start_ref": "19069012",
+"start_ref_usfm": "PSA 69:12",
+"end_ref": "19069012",
+"end_ref_usfm": "PSA 69:12"
+},
+{
+"start_ref": "23003024",
+"start_ref_usfm": "ISA 3:24",
+"end_ref": "23003024",
+"end_ref_usfm": "ISA 3:24"
+},
+{
+"start_ref": "23015003",
+"start_ref_usfm": "ISA 15:3",
+"end_ref": "23015003",
+"end_ref_usfm": "ISA 15:3"
+},
+{
+"start_ref": "23020002",
+"start_ref_usfm": "ISA 20:2",
+"end_ref": "23020002",
+"end_ref_usfm": "ISA 20:2"
+},
+{
+"start_ref": "23022012",
+"start_ref_usfm": "ISA 22:12",
+"end_ref": "23022012",
+"end_ref_usfm": "ISA 22:12"
+},
+{
+"start_ref": "23037001",
+"start_ref_usfm": "ISA 37:1",
+"end_ref": "23037001",
+"end_ref_usfm": "ISA 37:1"
+},
+{
+"start_ref": "23037002",
+"start_ref_usfm": "ISA 37:2",
+"end_ref": "23037002",
+"end_ref_usfm": "ISA 37:2"
+},
+{
+"start_ref": "23050003",
+"start_ref_usfm": "ISA 50:3",
+"end_ref": "23050003",
+"end_ref_usfm": "ISA 50:3"
+},
+{
+"start_ref": "23058005",
+"start_ref_usfm": "ISA 58:5",
+"end_ref": "23058005",
+"end_ref_usfm": "ISA 58:5"
+},
+{
+"start_ref": "24004008",
+"start_ref_usfm": "JER 4:8",
+"end_ref": "24004008",
+"end_ref_usfm": "JER 4:8"
+},
+{
+"start_ref": "24006026",
+"start_ref_usfm": "JER 6:26",
+"end_ref": "24006026",
+"end_ref_usfm": "JER 6:26"
+},
+{
+"start_ref": "24048037",
+"start_ref_usfm": "JER 48:37",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "24049003",
+"start_ref_usfm": "JER 49:3",
+"end_ref": "24049003",
+"end_ref_usfm": "JER 49:3"
+},
+{
+"start_ref": "25002010",
+"start_ref_usfm": "LAM 2:10",
+"end_ref": "25002010",
+"end_ref_usfm": "LAM 2:10"
+},
+{
+"start_ref": "26007018",
+"start_ref_usfm": "EZK 7:18",
+"end_ref": "26007018",
+"end_ref_usfm": "EZK 7:18"
+},
+{
+"start_ref": "26027031",
+"start_ref_usfm": "EZK 27:31",
+"end_ref": "26027031",
+"end_ref_usfm": "EZK 27:31"
+},
+{
+"start_ref": "27009003",
+"start_ref_usfm": "DAN 9:3",
+"end_ref": "27009003",
+"end_ref_usfm": "DAN 9:3"
+},
+{
+"start_ref": "29001008",
+"start_ref_usfm": "JOL 1:8",
+"end_ref": "29001008",
+"end_ref_usfm": "JOL 1:8"
+},
+{
+"start_ref": "29001013",
+"start_ref_usfm": "JOL 1:13",
+"end_ref": "29001013",
+"end_ref_usfm": "JOL 1:13"
+},
+{
+"start_ref": "30008010",
+"start_ref_usfm": "AMO 8:10",
+"end_ref": "30008010",
+"end_ref_usfm": "AMO 8:10"
+},
+{
+"start_ref": "32003005",
+"start_ref_usfm": "JON 3:5",
+"end_ref": "32003005",
+"end_ref_usfm": "JON 3:5"
+},
+{
+"start_ref": "32003006",
+"start_ref_usfm": "JON 3:6",
+"end_ref": "32003006",
+"end_ref_usfm": "JON 3:6"
+},
+{
+"start_ref": "32003008",
+"start_ref_usfm": "JON 3:8",
+"end_ref": "32003008",
+"end_ref_usfm": "JON 3:8"
+},
+{
+"start_ref": "40011021",
+"start_ref_usfm": "MAT 11:21",
+"end_ref": "40011021",
+"end_ref_usfm": "MAT 11:21"
+},
+{
+"start_ref": "42010013",
+"start_ref_usfm": "LUK 10:13",
+"end_ref": "42010013",
+"end_ref_usfm": "LUK 10:13"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "66011003",
+"start_ref_usfm": "REV 11:3",
+"end_ref": "66011003",
+"end_ref_usfm": "REV 11:3"
+},
+{
+"start_ref": "69004010",
+"start_ref_usfm": "JDT 4:10",
+"end_ref": "69004010",
+"end_ref_usfm": "JDT 4:10"
+},
+{
+"start_ref": "69004011",
+"start_ref_usfm": "JDT 4:11",
+"end_ref": "69004011",
+"end_ref_usfm": "JDT 4:11"
+},
+{
+"start_ref": "69004012",
+"start_ref_usfm": "JDT 4:12",
+"end_ref": "69004012",
+"end_ref_usfm": "JDT 4:12"
+},
+{
+"start_ref": "69004014",
+"start_ref_usfm": "JDT 4:14",
+"end_ref": "69004014",
+"end_ref_usfm": "JDT 4:14"
+},
+{
+"start_ref": "69008005",
+"start_ref_usfm": "JDT 8:5",
+"end_ref": "69008005",
+"end_ref_usfm": "JDT 8:5"
+},
+{
+"start_ref": "69009001",
+"start_ref_usfm": "JDT 9:1",
+"end_ref": "69009001",
+"end_ref_usfm": "JDT 9:1"
+},
+{
+"start_ref": "69010003",
+"start_ref_usfm": "JDT 10:3",
+"end_ref": "69010003",
+"end_ref_usfm": "JDT 10:3"
+},
+{
+"start_ref": "70004001",
+"start_ref_usfm": "ESG 4:1",
+"end_ref": "70004001",
+"end_ref_usfm": "ESG 4:1"
+},
+{
+"start_ref": "70004002",
+"start_ref_usfm": "ESG 4:2",
+"end_ref": "70004002",
+"end_ref_usfm": "ESG 4:2"
+},
+{
+"start_ref": "70004003",
+"start_ref_usfm": "ESG 4:3",
+"end_ref": "70004003",
+"end_ref_usfm": "ESG 4:3"
+},
+{
+"start_ref": "70004004",
+"start_ref_usfm": "ESG 4:4",
+"end_ref": "70004004",
+"end_ref_usfm": "ESG 4:4"
+},
+{
+"start_ref": "73004020",
+"start_ref_usfm": "BAR 4:20",
+"end_ref": "73004020",
+"end_ref_usfm": "BAR 4:20"
+},
+{
+"start_ref": "78002014",
+"start_ref_usfm": "1MA 2:14",
+"end_ref": "78002014",
+"end_ref_usfm": "1MA 2:14"
+},
+{
+"start_ref": "78003047",
+"start_ref_usfm": "1MA 3:47",
+"end_ref": "78003047",
+"end_ref_usfm": "1MA 3:47"
+},
+{
+"start_ref": "79003019",
+"start_ref_usfm": "2MA 3:19",
+"end_ref": "79003019",
+"end_ref_usfm": "2MA 3:19"
+},
+{
+"start_ref": "79010025",
+"start_ref_usfm": "2MA 10:25",
+"end_ref": "79010025",
+"end_ref_usfm": "2MA 10:25"
+},
+{
+"start_ref": "83016002",
+"start_ref_usfm": "2ES 16:2",
+"end_ref": "83016002",
+"end_ref_usfm": "2ES 16:2"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.6525,
+"match_method": "scored",
+"preferred_label": "Sackcloth"
+}
+]
+}
+}
+]

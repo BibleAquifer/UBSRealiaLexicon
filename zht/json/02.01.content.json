@@ -1,0 +1,369 @@
+[
+{
+"content_id": "REALIA:2.1",
+"reference_id": "REALIA:2.1",
+"version": "1.0.4",
+"title": "標題：兵器、武器（weapon）",
+"media_type": "Text",
+"index_reference": "2.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:2.1\"><span class=\"thlex-key\">2.1</span> 標題：兵器、武器（weapon）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כְּלִי</span> <span class=\"thlex-translit\">(音譯： kli)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:5\">GEN 49:5</a>, <a href=\"https://ref.ly/Num35:16\">NUM 35:16</a>, <a href=\"https://ref.ly/Num35:18\">NUM 35:18</a>, <a href=\"https://ref.ly/Deut1:41\">DEU 1:41</a>, <a href=\"https://ref.ly/Judg9:54\">JDG 9:54</a>, <a href=\"https://ref.ly/Judg18:11\">JDG 18:11</a>, <a href=\"https://ref.ly/Judg18:16\">JDG 18:16</a>, <a href=\"https://ref.ly/Judg18:17\">JDG 18:17</a>, <a href=\"https://ref.ly/1Sam8:12\">1SA 8:12</a>, <a href=\"https://ref.ly/1Sam14:1\">1SA 14:1</a>, <a href=\"https://ref.ly/1Sam14:7\">1SA 14:7</a>, <a href=\"https://ref.ly/1Sam14:14\">1SA 14:14</a>, <a href=\"https://ref.ly/1Sam14:17\">1SA 14:17</a>, <a href=\"https://ref.ly/1Sam17:54\">1SA 17:54</a>, <a href=\"https://ref.ly/1Sam20:40\">1SA 20:40</a>, <a href=\"https://ref.ly/1Sam21:9\">1SA 21:9</a>, <a href=\"https://ref.ly/1Sam31:6\">1SA 31:6</a>, <a href=\"https://ref.ly/1Sam31:9\">1SA 31:9</a>, <a href=\"https://ref.ly/1Sam31:10\">1SA 31:10</a>, <a href=\"https://ref.ly/2Sam1:27\">2SA 1:27</a>, <a href=\"https://ref.ly/2Sam18:15\">2SA 18:15</a>, <a href=\"https://ref.ly/2Sam23:37\">2SA 23:37</a>, <a href=\"https://ref.ly/2Kgs11:8\">2KI 11:8</a>, <a href=\"https://ref.ly/2Kgs11:11\">2KI 11:11</a>, <a href=\"https://ref.ly/2Kgs20:13\">2KI 20:13</a>, <a href=\"https://ref.ly/1Chr10:5\">1CH 10:5</a>, <a href=\"https://ref.ly/1Chr10:9\">1CH 10:9</a>, <a href=\"https://ref.ly/1Chr10:10\">1CH 10:10</a>, <a href=\"https://ref.ly/1Chr11:39\">1CH 11:39</a>, <a href=\"https://ref.ly/1Chr12:34\">1CH 12:34</a>, <a href=\"https://ref.ly/1Chr12:38\">1CH 12:38</a>, <a href=\"https://ref.ly/2Chr23:7\">2CH 23:7</a>, <a href=\"https://ref.ly/Ps7:14\">PSA 7:14</a>, <a href=\"https://ref.ly/Eccl9:18\">ECC 9:18</a>, <a href=\"https://ref.ly/Isa13:5\">ISA 13:5</a>, <a href=\"https://ref.ly/Isa39:2\">ISA 39:2</a>, <a href=\"https://ref.ly/Isa54:16\">ISA 54:16</a>, <a href=\"https://ref.ly/Isa54:17\">ISA 54:17</a>, <a href=\"https://ref.ly/Jer21:4\">JER 21:4</a>, <a href=\"https://ref.ly/Jer22:7\">JER 22:7</a>, <a href=\"https://ref.ly/Jer50:25\">JER 50:25</a>, <a href=\"https://ref.ly/Jer51:20\">JER 51:20</a>, <a href=\"https://ref.ly/Ezek9:1\">EZK 9:1</a>, <a href=\"https://ref.ly/Ezek9:2\">EZK 9:2</a>, <a href=\"https://ref.ly/Ezek32:27\">EZK 32:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נֶשֶׁק</span> <span class=\"thlex-translit\">(音譯： nesheq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs10:2\">2KI 10:2</a>, <a href=\"https://ref.ly/Job20:24\">JOB 20:24</a>, <a href=\"https://ref.ly/Isa22:8\">ISA 22:8</a>, <a href=\"https://ref.ly/Ezek39:9\">EZK 39:9</a>, <a href=\"https://ref.ly/Ezek39:10\">EZK 39:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֶׁלַח</span> <span class=\"thlex-translit\">(音譯： shelach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr23:10\">2CH 23:10</a>, <a href=\"https://ref.ly/2Chr32:5\">2CH 32:5</a>, <a href=\"https://ref.ly/Neh4:11\">NEH 4:11</a>, <a href=\"https://ref.ly/Neh4:17\">NEH 4:17</a>, <a href=\"https://ref.ly/Job33:18\">JOB 33:18</a>, <a href=\"https://ref.ly/Job36:12\">JOB 36:12</a>, <a href=\"https://ref.ly/Joel2:8\">JOL 2:8</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>上述希伯來文詞語都是「兵器」或「武器」的統稱。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>希伯來文<em>kli</em> 是一個統稱，意思是「用具」、「工具」或「器具」，但在上列經文中，這個詞最好譯成「兵器」或「武器」。</p>\n<p>希伯來文<em>shelach</em> 是指投擲或彈射出去的武器，例如投槍和箭。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01049005",
+"start_ref_usfm": "GEN 49:5",
+"end_ref": "01049005",
+"end_ref_usfm": "GEN 49:5"
+},
+{
+"start_ref": "04035016",
+"start_ref_usfm": "NUM 35:16",
+"end_ref": "04035016",
+"end_ref_usfm": "NUM 35:16"
+},
+{
+"start_ref": "04035018",
+"start_ref_usfm": "NUM 35:18",
+"end_ref": "04035018",
+"end_ref_usfm": "NUM 35:18"
+},
+{
+"start_ref": "05001041",
+"start_ref_usfm": "DEU 1:41",
+"end_ref": "05001041",
+"end_ref_usfm": "DEU 1:41"
+},
+{
+"start_ref": "07009054",
+"start_ref_usfm": "JDG 9:54",
+"end_ref": "07009054",
+"end_ref_usfm": "JDG 9:54"
+},
+{
+"start_ref": "07018011",
+"start_ref_usfm": "JDG 18:11",
+"end_ref": "07018011",
+"end_ref_usfm": "JDG 18:11"
+},
+{
+"start_ref": "07018016",
+"start_ref_usfm": "JDG 18:16",
+"end_ref": "07018016",
+"end_ref_usfm": "JDG 18:16"
+},
+{
+"start_ref": "07018017",
+"start_ref_usfm": "JDG 18:17",
+"end_ref": "07018017",
+"end_ref_usfm": "JDG 18:17"
+},
+{
+"start_ref": "09008012",
+"start_ref_usfm": "1SA 8:12",
+"end_ref": "09008012",
+"end_ref_usfm": "1SA 8:12"
+},
+{
+"start_ref": "09014001",
+"start_ref_usfm": "1SA 14:1",
+"end_ref": "09014001",
+"end_ref_usfm": "1SA 14:1"
+},
+{
+"start_ref": "09014007",
+"start_ref_usfm": "1SA 14:7",
+"end_ref": "09014007",
+"end_ref_usfm": "1SA 14:7"
+},
+{
+"start_ref": "09014014",
+"start_ref_usfm": "1SA 14:14",
+"end_ref": "09014014",
+"end_ref_usfm": "1SA 14:14"
+},
+{
+"start_ref": "09014017",
+"start_ref_usfm": "1SA 14:17",
+"end_ref": "09014017",
+"end_ref_usfm": "1SA 14:17"
+},
+{
+"start_ref": "09017054",
+"start_ref_usfm": "1SA 17:54",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "09020040",
+"start_ref_usfm": "1SA 20:40",
+"end_ref": "09020040",
+"end_ref_usfm": "1SA 20:40"
+},
+{
+"start_ref": "09021009",
+"start_ref_usfm": "1SA 21:9",
+"end_ref": "09021009",
+"end_ref_usfm": "1SA 21:9"
+},
+{
+"start_ref": "09031006",
+"start_ref_usfm": "1SA 31:6",
+"end_ref": "09031006",
+"end_ref_usfm": "1SA 31:6"
+},
+{
+"start_ref": "09031009",
+"start_ref_usfm": "1SA 31:9",
+"end_ref": "09031009",
+"end_ref_usfm": "1SA 31:9"
+},
+{
+"start_ref": "09031010",
+"start_ref_usfm": "1SA 31:10",
+"end_ref": "09031010",
+"end_ref_usfm": "1SA 31:10"
+},
+{
+"start_ref": "10001027",
+"start_ref_usfm": "2SA 1:27",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "10018015",
+"start_ref_usfm": "2SA 18:15",
+"end_ref": "10018015",
+"end_ref_usfm": "2SA 18:15"
+},
+{
+"start_ref": "10023037",
+"start_ref_usfm": "2SA 23:37",
+"end_ref": "10023037",
+"end_ref_usfm": "2SA 23:37"
+},
+{
+"start_ref": "12011008",
+"start_ref_usfm": "2KI 11:8",
+"end_ref": "12011008",
+"end_ref_usfm": "2KI 11:8"
+},
+{
+"start_ref": "12011011",
+"start_ref_usfm": "2KI 11:11",
+"end_ref": "12011011",
+"end_ref_usfm": "2KI 11:11"
+},
+{
+"start_ref": "12020013",
+"start_ref_usfm": "2KI 20:13",
+"end_ref": "12020013",
+"end_ref_usfm": "2KI 20:13"
+},
+{
+"start_ref": "13010005",
+"start_ref_usfm": "1CH 10:5",
+"end_ref": "13010005",
+"end_ref_usfm": "1CH 10:5"
+},
+{
+"start_ref": "13010009",
+"start_ref_usfm": "1CH 10:9",
+"end_ref": "13010009",
+"end_ref_usfm": "1CH 10:9"
+},
+{
+"start_ref": "13010010",
+"start_ref_usfm": "1CH 10:10",
+"end_ref": "13010010",
+"end_ref_usfm": "1CH 10:10"
+},
+{
+"start_ref": "13011039",
+"start_ref_usfm": "1CH 11:39",
+"end_ref": "13011039",
+"end_ref_usfm": "1CH 11:39"
+},
+{
+"start_ref": "13012034",
+"start_ref_usfm": "1CH 12:34",
+"end_ref": "13012034",
+"end_ref_usfm": "1CH 12:34"
+},
+{
+"start_ref": "13012038",
+"start_ref_usfm": "1CH 12:38",
+"end_ref": "13012038",
+"end_ref_usfm": "1CH 12:38"
+},
+{
+"start_ref": "14023007",
+"start_ref_usfm": "2CH 23:7",
+"end_ref": "14023007",
+"end_ref_usfm": "2CH 23:7"
+},
+{
+"start_ref": "19007014",
+"start_ref_usfm": "PSA 7:14",
+"end_ref": "19007014",
+"end_ref_usfm": "PSA 7:14"
+},
+{
+"start_ref": "21009018",
+"start_ref_usfm": "ECC 9:18",
+"end_ref": "21009018",
+"end_ref_usfm": "ECC 9:18"
+},
+{
+"start_ref": "23013005",
+"start_ref_usfm": "ISA 13:5",
+"end_ref": "23013005",
+"end_ref_usfm": "ISA 13:5"
+},
+{
+"start_ref": "23039002",
+"start_ref_usfm": "ISA 39:2",
+"end_ref": "23039002",
+"end_ref_usfm": "ISA 39:2"
+},
+{
+"start_ref": "23054016",
+"start_ref_usfm": "ISA 54:16",
+"end_ref": "23054016",
+"end_ref_usfm": "ISA 54:16"
+},
+{
+"start_ref": "23054017",
+"start_ref_usfm": "ISA 54:17",
+"end_ref": "23054017",
+"end_ref_usfm": "ISA 54:17"
+},
+{
+"start_ref": "24021004",
+"start_ref_usfm": "JER 21:4",
+"end_ref": "24021004",
+"end_ref_usfm": "JER 21:4"
+},
+{
+"start_ref": "24022007",
+"start_ref_usfm": "JER 22:7",
+"end_ref": "24022007",
+"end_ref_usfm": "JER 22:7"
+},
+{
+"start_ref": "24050025",
+"start_ref_usfm": "JER 50:25",
+"end_ref": "24050025",
+"end_ref_usfm": "JER 50:25"
+},
+{
+"start_ref": "24051020",
+"start_ref_usfm": "JER 51:20",
+"end_ref": "24051020",
+"end_ref_usfm": "JER 51:20"
+},
+{
+"start_ref": "26009001",
+"start_ref_usfm": "EZK 9:1",
+"end_ref": "26009001",
+"end_ref_usfm": "EZK 9:1"
+},
+{
+"start_ref": "26009002",
+"start_ref_usfm": "EZK 9:2",
+"end_ref": "26009002",
+"end_ref_usfm": "EZK 9:2"
+},
+{
+"start_ref": "26032027",
+"start_ref_usfm": "EZK 32:27",
+"end_ref": "26032027",
+"end_ref_usfm": "EZK 32:27"
+},
+{
+"start_ref": "12010002",
+"start_ref_usfm": "2KI 10:2",
+"end_ref": "12010002",
+"end_ref_usfm": "2KI 10:2"
+},
+{
+"start_ref": "18020024",
+"start_ref_usfm": "JOB 20:24",
+"end_ref": "18020024",
+"end_ref_usfm": "JOB 20:24"
+},
+{
+"start_ref": "23022008",
+"start_ref_usfm": "ISA 22:8",
+"end_ref": "23022008",
+"end_ref_usfm": "ISA 22:8"
+},
+{
+"start_ref": "26039009",
+"start_ref_usfm": "EZK 39:9",
+"end_ref": "26039009",
+"end_ref_usfm": "EZK 39:9"
+},
+{
+"start_ref": "26039010",
+"start_ref_usfm": "EZK 39:10",
+"end_ref": "26039010",
+"end_ref_usfm": "EZK 39:10"
+},
+{
+"start_ref": "14023010",
+"start_ref_usfm": "2CH 23:10",
+"end_ref": "14023010",
+"end_ref_usfm": "2CH 23:10"
+},
+{
+"start_ref": "14032005",
+"start_ref_usfm": "2CH 32:5",
+"end_ref": "14032005",
+"end_ref_usfm": "2CH 32:5"
+},
+{
+"start_ref": "16004011",
+"start_ref_usfm": "NEH 4:11",
+"end_ref": "16004011",
+"end_ref_usfm": "NEH 4:11"
+},
+{
+"start_ref": "16004017",
+"start_ref_usfm": "NEH 4:17",
+"end_ref": "16004017",
+"end_ref_usfm": "NEH 4:17"
+},
+{
+"start_ref": "18033018",
+"start_ref_usfm": "JOB 33:18",
+"end_ref": "18033018",
+"end_ref_usfm": "JOB 33:18"
+},
+{
+"start_ref": "18036012",
+"start_ref_usfm": "JOB 36:12",
+"end_ref": "18036012",
+"end_ref_usfm": "JOB 36:12"
+},
+{
+"start_ref": "29002008",
+"start_ref_usfm": "JOL 2:8",
+"end_ref": "29002008",
+"end_ref_usfm": "JOL 2:8"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Weapons",
+"type": "realia",
+"confidence": 0.6272,
+"match_method": "scored",
+"preferred_label": "Weapons"
+}
+]
+}
+}
+]

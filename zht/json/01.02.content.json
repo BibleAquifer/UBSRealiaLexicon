@@ -1,0 +1,1108 @@
+[
+{
+"content_id": "REALIA:1.2",
+"reference_id": "REALIA:1.2",
+"version": "1.0.4",
+"title": "標題：畜牧業（animal husbandry）",
+"media_type": "Text",
+"index_reference": "1.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2\"><span class=\"thlex-key\">1.2</span> 標題：畜牧業（animal husbandry）</h1>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.2.1",
+"reference_id": "REALIA:1.2.1",
+"version": "1.0.4",
+"title": "標題：羊圈、羊欄（sheep pen, sheepfold）",
+"media_type": "Text",
+"index_reference": "1.2.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.1\"><span class=\"thlex-key\">1.2.1</span> 標題：羊圈、羊欄（sheep pen, sheepfold）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בָּצְרָה</span> <span class=\"thlex-translit\">(音譯： botsrah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mic2:12\">MIC 2:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： גְּדֵרָה</span> <span class=\"thlex-translit\">(音譯： gidroth, gidroth ts’on)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num32:16\">NUM 32:16</a>, <a href=\"https://ref.ly/Num32:24\">NUM 32:24</a>, <a href=\"https://ref.ly/Num32:36\">NUM 32:36</a>, <a href=\"https://ref.ly/1Sam24:4\">1SA 24:4</a>, <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>, <a href=\"https://ref.ly/Zeph2:6\">ZEP 2:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִכְלָא</span> <span class=\"thlex-translit\">(音譯： mikla’, mikl’oth, mikl’oth ts’on)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps50:9\">PSA 50:9</a>, <a href=\"https://ref.ly/Ps78:70\">PSA 78:70</a>, <a href=\"https://ref.ly/Hab3:17\">HAB 3:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִשְׁפְּתַיִם, שְׁפַתַּיִם</span> <span class=\"thlex-translit\">(音譯： mishpthayim, shfatayim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen49:14\">GEN 49:14</a>, <a href=\"https://ref.ly/Judg5:16\">JDG 5:16</a>, <a href=\"https://ref.ly/Ps68:14\">PSA 68:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： αὐλή</span> <span class=\"thlex-translit\">(音譯： aulē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John10:1\">JHN 10:1</a>, <a href=\"https://ref.ly/John10:16\">JHN 10:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： μάνδρα</span> <span class=\"thlex-translit\">(音譯： mandra)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt2:26\">JDT 2:26</a>, <a href=\"https://ref.ly/Jdt3:3\">JDT 3:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0930_sheepfold.jpg\" alt=\"石柵欄在夜間保護羊群\"><figcaption class=\"thlex-caption\">石柵欄在夜間保護羊群 (© Free Bible Images © David Padfield)</figcaption></figure>羊圈是用石頭牆或者樹枝和荊棘圍起來的一個地方，有一個狹窄的開口供綿羊通過，這個開口可以用灌木叢或牧羊人的身體擋住。晚上，牧人將羊趕入圈中，以保護牠們不受盜賊或野獸的侵害。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>「羊圈」經常需要譯為：「保護羊群的地方」、「羊待的地方，周圍建有圍牆」，或「羊的圍欄」。與下一個詞條（<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.2.2 牲畜棚、牲畜圍欄 (animal pen, stall)&lt;REALIA:1.2.2&gt;</a> ）不同，這個圍欄建在羊群吃草的區域內，而不是在房屋附近。很多時候，羊圈只是一個臨時搭建的構築物。</p>\n<p>在<a href=\"https://ref.ly/Jer49:3\">JER 49:3</a> 中，希伯來文<em>gderoth</em> 被譯為「羊圈」（“sheep-pens”；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ）或「羊欄」（“sheepfolds”；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）。有些譯本將這個詞譯為「牆」（“walls”；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ），或「樹籬」（“hedges”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> ）。然而，還有一些譯本將希伯來文本做了一個小小的改變，該詞的意思因之變為「被劃傷遮蓋」，表示哀悼。採用這種解法的譯本將這節經文第四行的後半部分譯為：「哀号，用鞭子抽打自己」（<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 直譯），或「劃破你們的身體」（<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 直譯）。</p>\n<p>希伯來文<em>mishpthayim</em> 和<em>shfatayim</em> 有幾種譯法。在<a href=\"https://ref.ly/Gen49:14\">GEN 49:14</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 將其譯為“sheepfolds”（「羊圈」），而<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 譯作“cattle pens”（「牛欄」）。這些譯本認為這些詞是指家畜的圍欄。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 和<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 將其譯為“saddlebags”（「鞍袋、馬褡褳」），這是《〈創世記〉手冊》（<em>A Handbook on Genesis</em> ）第1090頁所推薦的譯法。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "33002012",
+"start_ref_usfm": "MIC 2:12",
+"end_ref": "33002012",
+"end_ref_usfm": "MIC 2:12"
+},
+{
+"start_ref": "04032016",
+"start_ref_usfm": "NUM 32:16",
+"end_ref": "04032016",
+"end_ref_usfm": "NUM 32:16"
+},
+{
+"start_ref": "04032024",
+"start_ref_usfm": "NUM 32:24",
+"end_ref": "04032024",
+"end_ref_usfm": "NUM 32:24"
+},
+{
+"start_ref": "04032036",
+"start_ref_usfm": "NUM 32:36",
+"end_ref": "04032036",
+"end_ref_usfm": "NUM 32:36"
+},
+{
+"start_ref": "09024004",
+"start_ref_usfm": "1SA 24:4",
+"end_ref": "09024004",
+"end_ref_usfm": "1SA 24:4"
+},
+{
+"start_ref": "24049003",
+"start_ref_usfm": "JER 49:3",
+"end_ref": "24049003",
+"end_ref_usfm": "JER 49:3"
+},
+{
+"start_ref": "36002006",
+"start_ref_usfm": "ZEP 2:6",
+"end_ref": "36002006",
+"end_ref_usfm": "ZEP 2:6"
+},
+{
+"start_ref": "19050009",
+"start_ref_usfm": "PSA 50:9",
+"end_ref": "19050009",
+"end_ref_usfm": "PSA 50:9"
+},
+{
+"start_ref": "19078070",
+"start_ref_usfm": "PSA 78:70",
+"end_ref": "19078070",
+"end_ref_usfm": "PSA 78:70"
+},
+{
+"start_ref": "35003017",
+"start_ref_usfm": "HAB 3:17",
+"end_ref": "35003017",
+"end_ref_usfm": "HAB 3:17"
+},
+{
+"start_ref": "01049014",
+"start_ref_usfm": "GEN 49:14",
+"end_ref": "01049014",
+"end_ref_usfm": "GEN 49:14"
+},
+{
+"start_ref": "07005016",
+"start_ref_usfm": "JDG 5:16",
+"end_ref": "07005016",
+"end_ref_usfm": "JDG 5:16"
+},
+{
+"start_ref": "19068014",
+"start_ref_usfm": "PSA 68:14",
+"end_ref": "19068014",
+"end_ref_usfm": "PSA 68:14"
+},
+{
+"start_ref": "43010001",
+"start_ref_usfm": "JHN 10:1",
+"end_ref": "43010001",
+"end_ref_usfm": "JHN 10:1"
+},
+{
+"start_ref": "43010016",
+"start_ref_usfm": "JHN 10:16",
+"end_ref": "43010016",
+"end_ref_usfm": "JHN 10:16"
+},
+{
+"start_ref": "69002026",
+"start_ref_usfm": "JDT 2:26",
+"end_ref": "69002026",
+"end_ref_usfm": "JDT 2:26"
+},
+{
+"start_ref": "69003003",
+"start_ref_usfm": "JDT 3:3",
+"end_ref": "69003003",
+"end_ref_usfm": "JDT 3:3"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Sheepfold",
+"type": "realia",
+"confidence": 0.7439,
+"match_method": "scored",
+"preferred_label": "Sheepfold"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.2.2",
+"reference_id": "REALIA:1.2.2",
+"version": "1.0.4",
+"title": "標題：牲畜棚、牲畜圍欄（animal pen, stall）",
+"media_type": "Text",
+"index_reference": "1.2.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.2\"><span class=\"thlex-key\">1.2.2</span> 標題：牲畜棚、牲畜圍欄（animal pen, stall）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֻרְוָה</span> <span class=\"thlex-translit\">(音譯： ’awerah, ’urwah, ’uryah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs5:6\">1KI 5:6</a>, <a href=\"https://ref.ly/2Chr9:25\">2CH 9:25</a>, <a href=\"https://ref.ly/2Chr32:28\">2CH 32:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּיִת</span> <span class=\"thlex-translit\">(音譯： bayith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam6:7\">1SA 6:7</a>, <a href=\"https://ref.ly/1Sam6:10\">1SA 6:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַרְבֵּק</span> <span class=\"thlex-translit\">(音譯： marbeq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam28:24\">1SA 28:24</a>, <a href=\"https://ref.ly/Jer46:21\">JER 46:21</a>, <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a>, <a href=\"https://ref.ly/Mal3:20\">MAL 3:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： רֶפֶת</span> <span class=\"thlex-translit\">(音譯： refeth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Hab3:17\">HAB 3:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： φάτνη</span> <span class=\"thlex-translit\">(音譯： fatnē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke13:15\">LUK 13:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>這種構築物是一個畜欄，是牲口棚裡面用來餵養牲畜的那塊地方，或者只是一個在室外給牲畜吃食的地方，通常是個半圓形的封閉結構。一般來說，人們擁有的牲口不多，所以這些畜棚常在人們生活的房子附近，甚至是在房子裡面。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>與<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.2.1 羊圈、羊欄 (sheep pen, sheepfold)&lt;REALIA:1.2.1&gt;</a> 不同，這種圍欄是永久性的，並且建在羊主人的住所附近。</p>\n<p>在<a href=\"https://ref.ly/1Sam28:24\">1SA 28:24</a> 、<a href=\"https://ref.ly/Jer46:21\">JER 46:21</a> 和<a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a> 中，希伯來文短語<em>&#x27;egel marbeq</em> 的字面意思是「屬於圍欄的牛犢」，表示牛犢一直被養在畜棚裡面直到養肥。雖然<em>marbeq</em> 通常可以不翻譯，但也可以依循<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 對<a href=\"https://ref.ly/Luke15:23\">LUK 15:23</a> 中相應短語的譯法，譯為“best calf”（「最好的牛犢」；比較<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ，“prize calf”「上好的牛犢」）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11005006",
+"start_ref_usfm": "1KI 5:6",
+"end_ref": "11005006",
+"end_ref_usfm": "1KI 5:6"
+},
+{
+"start_ref": "14009025",
+"start_ref_usfm": "2CH 9:25",
+"end_ref": "14009025",
+"end_ref_usfm": "2CH 9:25"
+},
+{
+"start_ref": "14032028",
+"start_ref_usfm": "2CH 32:28",
+"end_ref": "14032028",
+"end_ref_usfm": "2CH 32:28"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006007",
+"end_ref_usfm": "1SA 6:7"
+},
+{
+"start_ref": "09006010",
+"start_ref_usfm": "1SA 6:10",
+"end_ref": "09006010",
+"end_ref_usfm": "1SA 6:10"
+},
+{
+"start_ref": "09028024",
+"start_ref_usfm": "1SA 28:24",
+"end_ref": "09028024",
+"end_ref_usfm": "1SA 28:24"
+},
+{
+"start_ref": "24046021",
+"start_ref_usfm": "JER 46:21",
+"end_ref": "24046021",
+"end_ref_usfm": "JER 46:21"
+},
+{
+"start_ref": "30006004",
+"start_ref_usfm": "AMO 6:4",
+"end_ref": "30006004",
+"end_ref_usfm": "AMO 6:4"
+},
+{
+"start_ref": "39003020",
+"start_ref_usfm": "MAL 3:20",
+"end_ref": "39003020",
+"end_ref_usfm": "MAL 3:20"
+},
+{
+"start_ref": "35003017",
+"start_ref_usfm": "HAB 3:17",
+"end_ref": "35003017",
+"end_ref_usfm": "HAB 3:17"
+},
+{
+"start_ref": "42013015",
+"start_ref_usfm": "LUK 13:15",
+"end_ref": "42013015",
+"end_ref_usfm": "LUK 13:15"
+},
+{
+"start_ref": "42015023",
+"start_ref_usfm": "LUK 15:23",
+"end_ref": "42015023",
+"end_ref_usfm": "LUK 15:23"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:AnimalPen",
+"type": "realia",
+"confidence": 0.7298,
+"match_method": "scored",
+"preferred_label": "Animal Pen"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.2.3",
+"reference_id": "REALIA:1.2.3",
+"version": "1.0.4",
+"title": "標題：馬槽、食槽、飼料槽、飼料箱（manger, feed trough, feedbox）",
+"media_type": "Text",
+"index_reference": "1.2.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.3\"><span class=\"thlex-key\">1.2.3</span> 標題：馬槽、食槽、飼料槽、飼料箱（manger, feed trough, feedbox）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֵבוּס</span> <span class=\"thlex-translit\">(音譯： ’evus)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job39:9\">JOB 39:9</a>, <a href=\"https://ref.ly/Prov14:4\">PRO 14:4</a>, <a href=\"https://ref.ly/Isa1:3\">ISA 1:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： φάτνη</span> <span class=\"thlex-translit\">(音譯： fatnē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke2:7\">LUK 2:7</a>, <a href=\"https://ref.ly/Luke2:12\">LUK 2:12</a>, <a href=\"https://ref.ly/Luke2:16\">LUK 2:16</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述和用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0334_feed_trough.jpg\" alt=\"米吉多馬廄中的飼料和水槽\"><figcaption class=\"thlex-caption\">米吉多馬廄中的飼料和水槽 (© Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>食槽是一個由石頭或木頭做成的槽，是牲畜吃食的地方，甚至可能是一個露天的場地。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>有些語言區分了多種餵食器具。「飼料槽」或「食槽」通常是指相對較大的箱子或架子，裡面裝著乾草，牲畜是站著吃食的；「飼料箱」要小得多，通常盛著穀物。我們無法確切知道<a href=\"https://ref.ly/Luke2:7\">LUK 2:7</a> 所記嬰孩耶穌是被放在哪種槽裡，但是飼料箱或馬槽可能比較適合放置嬰兒。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18039009",
+"start_ref_usfm": "JOB 39:9",
+"end_ref": "18039009",
+"end_ref_usfm": "JOB 39:9"
+},
+{
+"start_ref": "20014004",
+"start_ref_usfm": "PRO 14:4",
+"end_ref": "20014004",
+"end_ref_usfm": "PRO 14:4"
+},
+{
+"start_ref": "23001003",
+"start_ref_usfm": "ISA 1:3",
+"end_ref": "23001003",
+"end_ref_usfm": "ISA 1:3"
+},
+{
+"start_ref": "42002007",
+"start_ref_usfm": "LUK 2:7",
+"end_ref": "42002007",
+"end_ref_usfm": "LUK 2:7"
+},
+{
+"start_ref": "42002012",
+"start_ref_usfm": "LUK 2:12",
+"end_ref": "42002012",
+"end_ref_usfm": "LUK 2:12"
+},
+{
+"start_ref": "42002016",
+"start_ref_usfm": "LUK 2:16",
+"end_ref": "42002016",
+"end_ref_usfm": "LUK 2:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Manger",
+"type": "realia",
+"confidence": 0.8155,
+"match_method": "scored",
+"preferred_label": "Manger"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.2.4",
+"reference_id": "REALIA:1.2.4",
+"version": "1.0.4",
+"title": "標題：竿、木棍、牧羊杖（rod, club, shepherd’s staff）",
+"media_type": "Text",
+"index_reference": "1.2.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.4\"><span class=\"thlex-key\">1.2.4</span> 標題：竿、木棍、牧羊杖（rod, club, shepherd’s staff）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַטֶּה</span> <span class=\"thlex-translit\">(音譯： mateh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen38:18\">GEN 38:18</a>, <a href=\"https://ref.ly/Gen38:25\">GEN 38:25</a>, <a href=\"https://ref.ly/Exod4:2\">EXO 4:2</a>, <a href=\"https://ref.ly/Exod4:4\">EXO 4:4</a>, <a href=\"https://ref.ly/Exod4:17\">EXO 4:17</a>, <a href=\"https://ref.ly/Exod4:20\">EXO 4:20</a>, <a href=\"https://ref.ly/Exod7:9\">EXO 7:9</a>, <a href=\"https://ref.ly/Exod7:10\">EXO 7:10</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Exod7:12\">EXO 7:12</a>, <a href=\"https://ref.ly/Exod7:15\">EXO 7:15</a>, <a href=\"https://ref.ly/Exod7:17\">EXO 7:17</a>, <a href=\"https://ref.ly/Exod7:19\">EXO 7:19</a>, <a href=\"https://ref.ly/Exod7:20\">EXO 7:20</a>, <a href=\"https://ref.ly/Exod8:1\">EXO 8:1</a>, <a href=\"https://ref.ly/Exod8:12\">EXO 8:12</a>, <a href=\"https://ref.ly/Exod8:13\">EXO 8:13</a>, <a href=\"https://ref.ly/Exod9:23\">EXO 9:23</a>, <a href=\"https://ref.ly/Exod10:13\">EXO 10:13</a>, <a href=\"https://ref.ly/Exod14:16\">EXO 14:16</a>, <a href=\"https://ref.ly/Exod17:5\">EXO 17:5</a>, <a href=\"https://ref.ly/Exod17:9\">EXO 17:9</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:17\">NUM 17:17</a>, <a href=\"https://ref.ly/Num17:18\">NUM 17:18</a>, <a href=\"https://ref.ly/Num17:18\">NUM 17:18</a>, <a href=\"https://ref.ly/Num17:20\">NUM 17:20</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:21\">NUM 17:21</a>, <a href=\"https://ref.ly/Num17:22\">NUM 17:22</a>, <a href=\"https://ref.ly/Num17:23\">NUM 17:23</a>, <a href=\"https://ref.ly/Num17:24\">NUM 17:24</a>, <a href=\"https://ref.ly/Num17:24\">NUM 17:24</a>, <a href=\"https://ref.ly/Num17:25\">NUM 17:25</a>, <a href=\"https://ref.ly/Num20:8\">NUM 20:8</a>, <a href=\"https://ref.ly/Num20:9\">NUM 20:9</a>, <a href=\"https://ref.ly/Num20:11\">NUM 20:11</a>, <a href=\"https://ref.ly/1Sam14:27\">1SA 14:27</a>, <a href=\"https://ref.ly/1Sam14:43\">1SA 14:43</a>, <a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a>, <a href=\"https://ref.ly/Isa10:5\">ISA 10:5</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a>, <a href=\"https://ref.ly/Isa10:24\">ISA 10:24</a>, <a href=\"https://ref.ly/Isa10:26\">ISA 10:26</a>, <a href=\"https://ref.ly/Isa14:5\">ISA 14:5</a>, <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa30:32\">ISA 30:32</a>, <a href=\"https://ref.ly/Ezek7:10\">EZK 7:10</a>, <a href=\"https://ref.ly/Ezek7:11\">EZK 7:11</a>, <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek19:12\">EZK 19:12</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Hab3:14\">HAB 3:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מַקֵּל</span> <span class=\"thlex-translit\">(音譯： maqel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen32:11\">GEN 32:11</a>, <a href=\"https://ref.ly/Exod12:11\">EXO 12:11</a>, <a href=\"https://ref.ly/Num22:27\">NUM 22:27</a>, <a href=\"https://ref.ly/1Sam17:40\">1SA 17:40</a>, <a href=\"https://ref.ly/1Sam17:43\">1SA 17:43</a>, <a href=\"https://ref.ly/Hos4:12\">HOS 4:12</a>, <a href=\"https://ref.ly/Zech11:7\">ZEC 11:7</a>, <a href=\"https://ref.ly/Zech11:10\">ZEC 11:10</a>, <a href=\"https://ref.ly/Zech11:14\">ZEC 11:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִשְׁעֶנֶת</span> <span class=\"thlex-translit\">(音譯： mash‘enah, mish‘eneth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod21:19\">EXO 21:19</a>, <a href=\"https://ref.ly/Num21:18\">NUM 21:18</a>, <a href=\"https://ref.ly/Judg6:21\">JDG 6:21</a>, <a href=\"https://ref.ly/2Kgs4:29\">2KI 4:29</a>, <a href=\"https://ref.ly/2Kgs4:29\">2KI 4:29</a>, <a href=\"https://ref.ly/2Kgs4:31\">2KI 4:31</a>, <a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a>, <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>, <a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a>, <a href=\"https://ref.ly/Ezek29:6\">EZK 29:6</a>, <a href=\"https://ref.ly/Zech8:4\">ZEC 8:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֵׁבֶט</span> <span class=\"thlex-translit\">(音譯： shevet)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod21:20\">EXO 21:20</a>, <a href=\"https://ref.ly/Lev27:32\">LEV 27:32</a>, <a href=\"https://ref.ly/2Sam7:14\">2SA 7:14</a>, <a href=\"https://ref.ly/2Sam23:21\">2SA 23:21</a>, <a href=\"https://ref.ly/1Chr11:23\">1CH 11:23</a>, <a href=\"https://ref.ly/Job9:34\">JOB 9:34</a>, <a href=\"https://ref.ly/Job21:9\">JOB 21:9</a>, <a href=\"https://ref.ly/Job37:13\">JOB 37:13</a>, <a href=\"https://ref.ly/Ps2:9\">PSA 2:9</a>, <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>, <a href=\"https://ref.ly/Ps89:33\">PSA 89:33</a>, <a href=\"https://ref.ly/Prov10:13\">PRO 10:13</a>, <a href=\"https://ref.ly/Prov13:24\">PRO 13:24</a>, <a href=\"https://ref.ly/Prov22:8\">PRO 22:8</a>, <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov23:13\">PRO 23:13</a>, <a href=\"https://ref.ly/Prov23:14\">PRO 23:14</a>, <a href=\"https://ref.ly/Prov26:3\">PRO 26:3</a>, <a href=\"https://ref.ly/Prov29:15\">PRO 29:15</a>, <a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a>, <a href=\"https://ref.ly/Isa10:5\">ISA 10:5</a>, <a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a>, <a href=\"https://ref.ly/Isa10:24\">ISA 10:24</a>, <a href=\"https://ref.ly/Isa11:4\">ISA 11:4</a>, <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>, <a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a>, <a href=\"https://ref.ly/Isa30:31\">ISA 30:31</a>, <a href=\"https://ref.ly/Lam3:1\">LAM 3:1</a>, <a href=\"https://ref.ly/Ezek20:37\">EZK 20:37</a>, <a href=\"https://ref.ly/Ezek21:15\">EZK 21:15</a>, <a href=\"https://ref.ly/Ezek21:18\">EZK 21:18</a>, <a href=\"https://ref.ly/Mic4:14\">MIC 4:14</a>, <a href=\"https://ref.ly/Mic7:14\">MIC 7:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ῥάβδος</span> <span class=\"thlex-translit\">(音譯： rhabdos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt10:10\">MAT 10:10</a>, <a href=\"https://ref.ly/Mark6:8\">MRK 6:8</a>, <a href=\"https://ref.ly/Luke9:3\">LUK 9:3</a>, <a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>, <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a>, <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a>, <a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>, <a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a>, <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>, <a href=\"https://ref.ly/Tob5:18\">TOB 5:18</a>, <a href=\"https://ref.ly/Sir33:25\">SIR 33:25</a>, <a href=\"https://ref.ly/Bel1:25\">BEL 1:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0013_shepherd_staff.png\" alt=\"牧羊人手持杖\"><figcaption class=\"thlex-caption\">牧羊人手持杖 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>竿是一根長為1—2米（3—6英呎）的直棍子，粗細剛好讓人握在手裡。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>首先，竿是一根手杖，在上文所述的部分經文中，這是其主要用途。然而，竿還有許多其他功能，包括牧放牲畜、打跑野獸、打人，甚至用來占卜（<a href=\"https://ref.ly/Hos4:12\">HOS 4:12</a> ）。竿擴大了牧羊人的控制範圍，使他能夠將走錯路的羊引回羊群。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在翻譯上面列出的希伯來文和希臘文詞語時，翻譯者必須特別注意上下文。牧羊人或行路人手中的杖有多種用途。有時，它幫助人在崎嶇不平的地面上行走時保持平衡。有時，杖也作為攻擊性或防禦性武器使用。用於攻擊時，可能最好譯為「棍子」（另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">2.7 棍、戰棒、釘頭錘、重擊武器 (club, war club, mace, shattering weapon)&lt;REALIA:2.7&gt;</a> ）。上述希伯來文詞語的意思相近，在有些地方用於平行詩句中（<em>mateh</em> 和<em>shevet</em> ；<a href=\"https://ref.ly/Isa9:3\">ISA 9:3</a> ［《和》9:4］，<a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a> ，<a href=\"https://ref.ly/Isa10:15\">ISA 10:15</a> ，<a href=\"https://ref.ly/Isa10:24\">ISA 10:24</a> ，<a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a> ，<a href=\"https://ref.ly/Isa30:31\">ISA 30:31</a>; <a href=\"https://ref.ly/Isa30:32\">ISA 30:32</a> ）。</p>\n<p>在有些文化中，牧羊人或牧放其他家畜的人所持的杖會用一個特定的詞來表示。在其他語境中，最佳的譯法是「拐杖、手杖」（“walking stick”；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ；<a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a> ）。然而，在大部分經文中，翻譯者選用的詞語應該避免讓讀者產生錯誤的印象，似乎使用杖的人身體虛弱、有殘疾或受了傷。其實，各個年齡階段和各種健康狀況的男子都會攜帶這種杖。</p>\n<p>\n            <a href=\"https://ref.ly/Lev27:32\">LEV 27:32</a> ：短語「從牧人杖下經過的所有牲畜的第十隻」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯），可能是指選擇牲畜作為什一奉獻的方式。當牲畜從牧人的杖下一隻隻通過時，牧人就計算牠們的數目。所有的第十隻牲畜都用紅色棍子染色標記，表示已被選作十分之一奉獻。如果這幅景象可以保留在目標語言的譯文中，同時清楚地傳達出計數的概念，這樣最好。但是，實際挑選過程的細節並不重要，重點是每十隻動物中就有一隻被指定獻給上帝。整節經文可以譯成：「當你數點你的牲畜，牛、綿羊或山羊時，所有數到的第十隻牲畜都要標記出來，歸屬於耶和華。」</p>\n<p>\n            <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a> ：希伯來文<em>shevet</em> 和<em>mish&#x27;eneth</em> 在這節經文中一起使用，似乎它們是不一樣的物件。我們可以引述《〈詩篇〉手冊》（<em>A Handbook on Psalms</em> ，第234頁）如下：「<strong>|u杖|u*</strong> 是用來趕走野獸的棒子；<strong>|u竿|u*</strong> 是行走時手拄的長棍。柯克帕特里克（Kirkpatrick）認為這兩個詞是對牧羊人所持的曲柄杖的詩意描述，實際上這兩種名稱是指同一個物件。因此，<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> 譯作，『你那牧人的杖，就是讓我安心的原因。』然而，大多數譯本都用了兩個不同的詞。<abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr> （即<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）使用了傳統的“brod and staff”（『<strong>杖和竿</strong> 』）；但是，因為會有很多讀者不知道這些物品究竟是什麼，所以<abbr class=\"thlex-abbr\" title=\"Today&#x27;s English Version (Good News Bible)\">TEV</abbr> 採用“Your shepherd’s rod and staff”（『<strong>你的牧羊杖和竿</strong> 』）來做出限定。」</p>\n<p>\n            <a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a> ：這是保羅唯一一次使用希臘文<em>rhabdos</em> 的地方，其含義必須根據上下文來確定。如果認為保羅想要用一根真正的棍子來威脅擊打那些藉他歸信上帝的人，這是不太可能的。他也不太可能認為自己是統治者，因為他的權柄是「在基督裡」（第15、17節）。他把這種權柄描述為父親（第15節）或教師的權柄。如有必要，父親和教師都有權利糾正他們的孩子或學生，甚至在必要時使用強制性的手段。在現代的許多社會中，很難傳達出這種觀念。另外，保羅的言語似乎也帶有諷刺。翻譯者採用了多種方式來解釋或表達<em>rhabdos</em> 這個詞的含義。有些人保留了刑罰工具的比喻，例如，「我手中的棍子」（“a rod in my hand”；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Dutch Common Language Version\">DUCL</abbr> ），「管教的杖」（“rod of discipline”；<abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr> 、Brc）。還有翻譯者關注於懲罰的要素；例如，本節的第二個問題被譯作，「你們想讓我對你們很嚴厲嗎」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯），或「我帶著懲罰到你們那裡」（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直譯）。也可以用鞭子替代杖，例如譯為「我要帶著鞭子到你們那裡嗎」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯）。這可能是因為鞭子或皮帶在英語文化中是更加為人所知的懲罰工具。有些翻譯者會想要依循這種模式，使用他們所在社會中比較為人所知的物件來替代杖。</p>\n<p>\n            <a href=\"https://ref.ly/Heb11:21\">HEB 11:21</a> ：在<a href=\"https://ref.ly/Gen47:31\">GEN 47:31</a> 中，希伯來文<em>m-t-h</em> 可以表示「杖」或「床」，具體意思取決於這個詞的元音（參閱<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.5 床、褥子 (bed, sleeping mat)&lt;REALIA:5.5&gt;</a> 中的討論）。大多數譯本將這個詞譯為「床」。<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 是個例外，將這個詞譯為“staff”（「杖」），並在腳註中標註了「床」的備選譯法。《希伯來書》的作者依循的是《七十士譯本》的譯法，譯為「杖」。翻譯者在翻譯《希伯來書》時不應該試圖統一這些經文的譯法，而是應該按照希臘文來翻譯《希伯來書》的經文，這個希臘文詞語的意思只能是「杖」。</p>\n<p>\n            <a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>; <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a>; <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a> ：這三節經文（比較<a href=\"https://ref.ly/Ps2:9\">PSA 2:9</a> ）出現了短語「用鐵杖管轄」，意思是完全的統治，無情地粉碎所有的敵對者。「鐵杖」可能是一根帶有鐵頭的重木棒，並非是鐵製的棒。在翻譯這個詞語時，翻譯者可能需要進行一些文化上的調整。如果當地沒有對等詞來表示「鐵杖」，可以翻譯為「以絕對的權柄來統治」。</p>\n<p>「杖」經常以比喻的形式出現在聖經中，而目標語言可能沒有已知的事物與這些比喻相對應。在這些情況下，最好將喻意翻譯出來。</p>\n<p>在<a href=\"https://ref.ly/Tob5:18\">TOB 5:18</a> 中，托彼特的父母稱他為「我們的扶手杖」（“the staff of our hand”，<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> ），意思是他們依賴他的幫助。<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 用一個很好的英文慣用語來表達這個意思：“He’s our only means of support”（英文直譯：「他是我們唯一的支撐」）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01038018",
+"start_ref_usfm": "GEN 38:18",
+"end_ref": "01038018",
+"end_ref_usfm": "GEN 38:18"
+},
+{
+"start_ref": "01038025",
+"start_ref_usfm": "GEN 38:25",
+"end_ref": "01038025",
+"end_ref_usfm": "GEN 38:25"
+},
+{
+"start_ref": "02004002",
+"start_ref_usfm": "EXO 4:2",
+"end_ref": "02004002",
+"end_ref_usfm": "EXO 4:2"
+},
+{
+"start_ref": "02004004",
+"start_ref_usfm": "EXO 4:4",
+"end_ref": "02004004",
+"end_ref_usfm": "EXO 4:4"
+},
+{
+"start_ref": "02004017",
+"start_ref_usfm": "EXO 4:17",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02004020",
+"start_ref_usfm": "EXO 4:20",
+"end_ref": "02004020",
+"end_ref_usfm": "EXO 4:20"
+},
+{
+"start_ref": "02007009",
+"start_ref_usfm": "EXO 7:9",
+"end_ref": "02007009",
+"end_ref_usfm": "EXO 7:9"
+},
+{
+"start_ref": "02007010",
+"start_ref_usfm": "EXO 7:10",
+"end_ref": "02007010",
+"end_ref_usfm": "EXO 7:10"
+},
+{
+"start_ref": "02007012",
+"start_ref_usfm": "EXO 7:12",
+"end_ref": "02007012",
+"end_ref_usfm": "EXO 7:12"
+},
+{
+"start_ref": "02007015",
+"start_ref_usfm": "EXO 7:15",
+"end_ref": "02007015",
+"end_ref_usfm": "EXO 7:15"
+},
+{
+"start_ref": "02007017",
+"start_ref_usfm": "EXO 7:17",
+"end_ref": "02007017",
+"end_ref_usfm": "EXO 7:17"
+},
+{
+"start_ref": "02007019",
+"start_ref_usfm": "EXO 7:19",
+"end_ref": "02007019",
+"end_ref_usfm": "EXO 7:19"
+},
+{
+"start_ref": "02007020",
+"start_ref_usfm": "EXO 7:20",
+"end_ref": "02007020",
+"end_ref_usfm": "EXO 7:20"
+},
+{
+"start_ref": "02008001",
+"start_ref_usfm": "EXO 8:1",
+"end_ref": "02008001",
+"end_ref_usfm": "EXO 8:1"
+},
+{
+"start_ref": "02008012",
+"start_ref_usfm": "EXO 8:12",
+"end_ref": "02008012",
+"end_ref_usfm": "EXO 8:12"
+},
+{
+"start_ref": "02008013",
+"start_ref_usfm": "EXO 8:13",
+"end_ref": "02008013",
+"end_ref_usfm": "EXO 8:13"
+},
+{
+"start_ref": "02009023",
+"start_ref_usfm": "EXO 9:23",
+"end_ref": "02009023",
+"end_ref_usfm": "EXO 9:23"
+},
+{
+"start_ref": "02010013",
+"start_ref_usfm": "EXO 10:13",
+"end_ref": "02010013",
+"end_ref_usfm": "EXO 10:13"
+},
+{
+"start_ref": "02014016",
+"start_ref_usfm": "EXO 14:16",
+"end_ref": "02014016",
+"end_ref_usfm": "EXO 14:16"
+},
+{
+"start_ref": "02017005",
+"start_ref_usfm": "EXO 17:5",
+"end_ref": "02017005",
+"end_ref_usfm": "EXO 17:5"
+},
+{
+"start_ref": "02017009",
+"start_ref_usfm": "EXO 17:9",
+"end_ref": "02017009",
+"end_ref_usfm": "EXO 17:9"
+},
+{
+"start_ref": "04017017",
+"start_ref_usfm": "NUM 17:17",
+"end_ref": "04017017",
+"end_ref_usfm": "NUM 17:17"
+},
+{
+"start_ref": "04017018",
+"start_ref_usfm": "NUM 17:18",
+"end_ref": "04017018",
+"end_ref_usfm": "NUM 17:18"
+},
+{
+"start_ref": "04017020",
+"start_ref_usfm": "NUM 17:20",
+"end_ref": "04017020",
+"end_ref_usfm": "NUM 17:20"
+},
+{
+"start_ref": "04017021",
+"start_ref_usfm": "NUM 17:21",
+"end_ref": "04017021",
+"end_ref_usfm": "NUM 17:21"
+},
+{
+"start_ref": "04017022",
+"start_ref_usfm": "NUM 17:22",
+"end_ref": "04017022",
+"end_ref_usfm": "NUM 17:22"
+},
+{
+"start_ref": "04017023",
+"start_ref_usfm": "NUM 17:23",
+"end_ref": "04017023",
+"end_ref_usfm": "NUM 17:23"
+},
+{
+"start_ref": "04017024",
+"start_ref_usfm": "NUM 17:24",
+"end_ref": "04017024",
+"end_ref_usfm": "NUM 17:24"
+},
+{
+"start_ref": "04017025",
+"start_ref_usfm": "NUM 17:25",
+"end_ref": "04017025",
+"end_ref_usfm": "NUM 17:25"
+},
+{
+"start_ref": "04020008",
+"start_ref_usfm": "NUM 20:8",
+"end_ref": "04020008",
+"end_ref_usfm": "NUM 20:8"
+},
+{
+"start_ref": "04020009",
+"start_ref_usfm": "NUM 20:9",
+"end_ref": "04020009",
+"end_ref_usfm": "NUM 20:9"
+},
+{
+"start_ref": "04020011",
+"start_ref_usfm": "NUM 20:11",
+"end_ref": "04020011",
+"end_ref_usfm": "NUM 20:11"
+},
+{
+"start_ref": "09014027",
+"start_ref_usfm": "1SA 14:27",
+"end_ref": "09014027",
+"end_ref_usfm": "1SA 14:27"
+},
+{
+"start_ref": "09014043",
+"start_ref_usfm": "1SA 14:43",
+"end_ref": "09014043",
+"end_ref_usfm": "1SA 14:43"
+},
+{
+"start_ref": "23009003",
+"start_ref_usfm": "ISA 9:3",
+"end_ref": "23009003",
+"end_ref_usfm": "ISA 9:3"
+},
+{
+"start_ref": "23010005",
+"start_ref_usfm": "ISA 10:5",
+"end_ref": "23010005",
+"end_ref_usfm": "ISA 10:5"
+},
+{
+"start_ref": "23010015",
+"start_ref_usfm": "ISA 10:15",
+"end_ref": "23010015",
+"end_ref_usfm": "ISA 10:15"
+},
+{
+"start_ref": "23010024",
+"start_ref_usfm": "ISA 10:24",
+"end_ref": "23010024",
+"end_ref_usfm": "ISA 10:24"
+},
+{
+"start_ref": "23010026",
+"start_ref_usfm": "ISA 10:26",
+"end_ref": "23010026",
+"end_ref_usfm": "ISA 10:26"
+},
+{
+"start_ref": "23014005",
+"start_ref_usfm": "ISA 14:5",
+"end_ref": "23014005",
+"end_ref_usfm": "ISA 14:5"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028027",
+"end_ref_usfm": "ISA 28:27"
+},
+{
+"start_ref": "23030032",
+"start_ref_usfm": "ISA 30:32",
+"end_ref": "23030032",
+"end_ref_usfm": "ISA 30:32"
+},
+{
+"start_ref": "26007010",
+"start_ref_usfm": "EZK 7:10",
+"end_ref": "26007010",
+"end_ref_usfm": "EZK 7:10"
+},
+{
+"start_ref": "26007011",
+"start_ref_usfm": "EZK 7:11",
+"end_ref": "26007011",
+"end_ref_usfm": "EZK 7:11"
+},
+{
+"start_ref": "26019011",
+"start_ref_usfm": "EZK 19:11",
+"end_ref": "26019011",
+"end_ref_usfm": "EZK 19:11"
+},
+{
+"start_ref": "26019012",
+"start_ref_usfm": "EZK 19:12",
+"end_ref": "26019012",
+"end_ref_usfm": "EZK 19:12"
+},
+{
+"start_ref": "26019014",
+"start_ref_usfm": "EZK 19:14",
+"end_ref": "26019014",
+"end_ref_usfm": "EZK 19:14"
+},
+{
+"start_ref": "35003014",
+"start_ref_usfm": "HAB 3:14",
+"end_ref": "35003014",
+"end_ref_usfm": "HAB 3:14"
+},
+{
+"start_ref": "01032011",
+"start_ref_usfm": "GEN 32:11",
+"end_ref": "01032011",
+"end_ref_usfm": "GEN 32:11"
+},
+{
+"start_ref": "02012011",
+"start_ref_usfm": "EXO 12:11",
+"end_ref": "02012011",
+"end_ref_usfm": "EXO 12:11"
+},
+{
+"start_ref": "04022027",
+"start_ref_usfm": "NUM 22:27",
+"end_ref": "04022027",
+"end_ref_usfm": "NUM 22:27"
+},
+{
+"start_ref": "09017040",
+"start_ref_usfm": "1SA 17:40",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017043",
+"start_ref_usfm": "1SA 17:43",
+"end_ref": "09017043",
+"end_ref_usfm": "1SA 17:43"
+},
+{
+"start_ref": "28004012",
+"start_ref_usfm": "HOS 4:12",
+"end_ref": "28004012",
+"end_ref_usfm": "HOS 4:12"
+},
+{
+"start_ref": "38011007",
+"start_ref_usfm": "ZEC 11:7",
+"end_ref": "38011007",
+"end_ref_usfm": "ZEC 11:7"
+},
+{
+"start_ref": "38011010",
+"start_ref_usfm": "ZEC 11:10",
+"end_ref": "38011010",
+"end_ref_usfm": "ZEC 11:10"
+},
+{
+"start_ref": "38011014",
+"start_ref_usfm": "ZEC 11:14",
+"end_ref": "38011014",
+"end_ref_usfm": "ZEC 11:14"
+},
+{
+"start_ref": "02021019",
+"start_ref_usfm": "EXO 21:19",
+"end_ref": "02021019",
+"end_ref_usfm": "EXO 21:19"
+},
+{
+"start_ref": "04021018",
+"start_ref_usfm": "NUM 21:18",
+"end_ref": "04021018",
+"end_ref_usfm": "NUM 21:18"
+},
+{
+"start_ref": "07006021",
+"start_ref_usfm": "JDG 6:21",
+"end_ref": "07006021",
+"end_ref_usfm": "JDG 6:21"
+},
+{
+"start_ref": "12004029",
+"start_ref_usfm": "2KI 4:29",
+"end_ref": "12004029",
+"end_ref_usfm": "2KI 4:29"
+},
+{
+"start_ref": "12004031",
+"start_ref_usfm": "2KI 4:31",
+"end_ref": "12004031",
+"end_ref_usfm": "2KI 4:31"
+},
+{
+"start_ref": "12018021",
+"start_ref_usfm": "2KI 18:21",
+"end_ref": "12018021",
+"end_ref_usfm": "2KI 18:21"
+},
+{
+"start_ref": "19023004",
+"start_ref_usfm": "PSA 23:4",
+"end_ref": "19023004",
+"end_ref_usfm": "PSA 23:4"
+},
+{
+"start_ref": "23036006",
+"start_ref_usfm": "ISA 36:6",
+"end_ref": "23036006",
+"end_ref_usfm": "ISA 36:6"
+},
+{
+"start_ref": "26029006",
+"start_ref_usfm": "EZK 29:6",
+"end_ref": "26029006",
+"end_ref_usfm": "EZK 29:6"
+},
+{
+"start_ref": "38008004",
+"start_ref_usfm": "ZEC 8:4",
+"end_ref": "38008004",
+"end_ref_usfm": "ZEC 8:4"
+},
+{
+"start_ref": "02021020",
+"start_ref_usfm": "EXO 21:20",
+"end_ref": "02021020",
+"end_ref_usfm": "EXO 21:20"
+},
+{
+"start_ref": "03027032",
+"start_ref_usfm": "LEV 27:32",
+"end_ref": "03027032",
+"end_ref_usfm": "LEV 27:32"
+},
+{
+"start_ref": "10007014",
+"start_ref_usfm": "2SA 7:14",
+"end_ref": "10007014",
+"end_ref_usfm": "2SA 7:14"
+},
+{
+"start_ref": "10023021",
+"start_ref_usfm": "2SA 23:21",
+"end_ref": "10023021",
+"end_ref_usfm": "2SA 23:21"
+},
+{
+"start_ref": "13011023",
+"start_ref_usfm": "1CH 11:23",
+"end_ref": "13011023",
+"end_ref_usfm": "1CH 11:23"
+},
+{
+"start_ref": "18009034",
+"start_ref_usfm": "JOB 9:34",
+"end_ref": "18009034",
+"end_ref_usfm": "JOB 9:34"
+},
+{
+"start_ref": "18021009",
+"start_ref_usfm": "JOB 21:9",
+"end_ref": "18021009",
+"end_ref_usfm": "JOB 21:9"
+},
+{
+"start_ref": "18037013",
+"start_ref_usfm": "JOB 37:13",
+"end_ref": "18037013",
+"end_ref_usfm": "JOB 37:13"
+},
+{
+"start_ref": "19002009",
+"start_ref_usfm": "PSA 2:9",
+"end_ref": "19002009",
+"end_ref_usfm": "PSA 2:9"
+},
+{
+"start_ref": "19089033",
+"start_ref_usfm": "PSA 89:33",
+"end_ref": "19089033",
+"end_ref_usfm": "PSA 89:33"
+},
+{
+"start_ref": "20010013",
+"start_ref_usfm": "PRO 10:13",
+"end_ref": "20010013",
+"end_ref_usfm": "PRO 10:13"
+},
+{
+"start_ref": "20013024",
+"start_ref_usfm": "PRO 13:24",
+"end_ref": "20013024",
+"end_ref_usfm": "PRO 13:24"
+},
+{
+"start_ref": "20022008",
+"start_ref_usfm": "PRO 22:8",
+"end_ref": "20022008",
+"end_ref_usfm": "PRO 22:8"
+},
+{
+"start_ref": "20022015",
+"start_ref_usfm": "PRO 22:15",
+"end_ref": "20022015",
+"end_ref_usfm": "PRO 22:15"
+},
+{
+"start_ref": "20023013",
+"start_ref_usfm": "PRO 23:13",
+"end_ref": "20023013",
+"end_ref_usfm": "PRO 23:13"
+},
+{
+"start_ref": "20023014",
+"start_ref_usfm": "PRO 23:14",
+"end_ref": "20023014",
+"end_ref_usfm": "PRO 23:14"
+},
+{
+"start_ref": "20026003",
+"start_ref_usfm": "PRO 26:3",
+"end_ref": "20026003",
+"end_ref_usfm": "PRO 26:3"
+},
+{
+"start_ref": "20029015",
+"start_ref_usfm": "PRO 29:15",
+"end_ref": "20029015",
+"end_ref_usfm": "PRO 29:15"
+},
+{
+"start_ref": "23011004",
+"start_ref_usfm": "ISA 11:4",
+"end_ref": "23011004",
+"end_ref_usfm": "ISA 11:4"
+},
+{
+"start_ref": "23014029",
+"start_ref_usfm": "ISA 14:29",
+"end_ref": "23014029",
+"end_ref_usfm": "ISA 14:29"
+},
+{
+"start_ref": "23030031",
+"start_ref_usfm": "ISA 30:31",
+"end_ref": "23030031",
+"end_ref_usfm": "ISA 30:31"
+},
+{
+"start_ref": "25003001",
+"start_ref_usfm": "LAM 3:1",
+"end_ref": "25003001",
+"end_ref_usfm": "LAM 3:1"
+},
+{
+"start_ref": "26020037",
+"start_ref_usfm": "EZK 20:37",
+"end_ref": "26020037",
+"end_ref_usfm": "EZK 20:37"
+},
+{
+"start_ref": "26021015",
+"start_ref_usfm": "EZK 21:15",
+"end_ref": "26021015",
+"end_ref_usfm": "EZK 21:15"
+},
+{
+"start_ref": "26021018",
+"start_ref_usfm": "EZK 21:18",
+"end_ref": "26021018",
+"end_ref_usfm": "EZK 21:18"
+},
+{
+"start_ref": "33004014",
+"start_ref_usfm": "MIC 4:14",
+"end_ref": "33004014",
+"end_ref_usfm": "MIC 4:14"
+},
+{
+"start_ref": "33007014",
+"start_ref_usfm": "MIC 7:14",
+"end_ref": "33007014",
+"end_ref_usfm": "MIC 7:14"
+},
+{
+"start_ref": "40010010",
+"start_ref_usfm": "MAT 10:10",
+"end_ref": "40010010",
+"end_ref_usfm": "MAT 10:10"
+},
+{
+"start_ref": "41006008",
+"start_ref_usfm": "MRK 6:8",
+"end_ref": "41006008",
+"end_ref_usfm": "MRK 6:8"
+},
+{
+"start_ref": "42009003",
+"start_ref_usfm": "LUK 9:3",
+"end_ref": "42009003",
+"end_ref_usfm": "LUK 9:3"
+},
+{
+"start_ref": "46004021",
+"start_ref_usfm": "1CO 4:21",
+"end_ref": "46004021",
+"end_ref_usfm": "1CO 4:21"
+},
+{
+"start_ref": "58009004",
+"start_ref_usfm": "HEB 9:4",
+"end_ref": "58009004",
+"end_ref_usfm": "HEB 9:4"
+},
+{
+"start_ref": "58011021",
+"start_ref_usfm": "HEB 11:21",
+"end_ref": "58011021",
+"end_ref_usfm": "HEB 11:21"
+},
+{
+"start_ref": "66002027",
+"start_ref_usfm": "REV 2:27",
+"end_ref": "66002027",
+"end_ref_usfm": "REV 2:27"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66012005",
+"start_ref_usfm": "REV 12:5",
+"end_ref": "66012005",
+"end_ref_usfm": "REV 12:5"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "68005018",
+"start_ref_usfm": "TOB 5:18",
+"end_ref": "68005018",
+"end_ref_usfm": "TOB 5:18"
+},
+{
+"start_ref": "72033025",
+"start_ref_usfm": "SIR 33:25",
+"end_ref": "72033025",
+"end_ref_usfm": "SIR 33:25"
+},
+{
+"start_ref": "77001025",
+"start_ref_usfm": "BEL 1:25",
+"end_ref": "77001025",
+"end_ref_usfm": "BEL 1:25"
+},
+{
+"start_ref": "01047031",
+"start_ref_usfm": "GEN 47:31",
+"end_ref": "01047031",
+"end_ref_usfm": "GEN 47:31"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5668,
+"match_method": "scored",
+"preferred_label": "Rod"
+}
+]
+}
+},
+{
+"content_id": "REALIA:1.2.5",
+"reference_id": "REALIA:1.2.5",
+"version": "1.0.4",
+"title": "標題：牧人的袋子（shepherd’s bag/pouch）",
+"media_type": "Text",
+"index_reference": "1.2.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.5\"><span class=\"thlex-key\">1.2.5</span> 標題：牧人的袋子（shepherd’s bag/pouch）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： יַלְקוּט</span> <span class=\"thlex-translit\">(音譯： yalqut)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam17:40\">1SA 17:40</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כְּלִי, הָרֹעִים</span> <span class=\"thlex-translit\">(音譯： kli (haro‘im))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam17:40\">1SA 17:40</a>, <a href=\"https://ref.ly/1Sam17:49\">1SA 17:49</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0014_shepherd_bag.png\" alt=\"牧羊人背著裝食物和其他補給的袋子\"><figcaption class=\"thlex-caption\">牧羊人背著裝食物和其他補給的袋子 (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>這種小袋子可能是由皮革或布料製成，用帶子掛在肩上，或者用腰帶繫在腰間。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>牧羊人用這個袋子來攜帶食物和較小的個人物品。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/1Sam17:40\">1SA 17:40</a> ：這節經文用了兩個詞來描述大衛放置五塊石子的地方，石子是他為了與歌利亞戰鬥而特意挑選的。這兩個詞都可表示一個物件。有些譯本將一個物件解作另一個物件的一部分，因此譯為：「在他牧羊人袋子的小袋裡面」（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 直譯；<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 和<abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> 的譯法類似）。還有譯本認為這兩個詞是指同一個物品：「放在袋子裡，就是牧人的袋子裡」（<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 直譯；<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 的譯法類似）。我們查閱的大多數通俗譯本只用了一個詞來翻譯這兩個希伯來文詞語；例如，「在他的包裡」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯），有幾個譯本作「在他的牧羊人的袋子裡」（PV ）。<abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> 的譯法是一個很好的翻譯範例：「在他隨身攜帶的袋子裡。」</p>\n<p>關於希伯來文<em>kli</em> ，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.18 容器、器皿 (containers, vessels)&lt;REALIA:5.18&gt;</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017040",
+"start_ref_usfm": "1SA 17:40",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017049",
+"start_ref_usfm": "1SA 17:49",
+"end_ref": "09017049",
+"end_ref_usfm": "1SA 17:49"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:1.2.6",
+"reference_id": "REALIA:1.2.6",
+"version": "1.0.4",
+"title": "標題：嚼環和轡頭（bit and bridle）",
+"media_type": "Text",
+"index_reference": "1.2.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:1.2.6\"><span class=\"thlex-key\">1.2.6</span> 標題：嚼環和轡頭（bit and bridle）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מֶתֶג</span> <span class=\"thlex-translit\">(音譯： metheg)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs19:28\">2KI 19:28</a>, <a href=\"https://ref.ly/Ps32:9\">PSA 32:9</a>, <a href=\"https://ref.ly/Prov26:3\">PRO 26:3</a>, <a href=\"https://ref.ly/Isa37:29\">ISA 37:29</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： רֶסֶן</span> <span class=\"thlex-translit\">(音譯： resen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:5\">JOB 41:5</a>, <a href=\"https://ref.ly/Ps32:9\">PSA 32:9</a>, <a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χαλινός</span> <span class=\"thlex-translit\">(音譯： chalinos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jas3:3\">JAS 3:3</a>, <a href=\"https://ref.ly/Rev14:20\">REV 14:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χρυσοχάλινος</span> <span class=\"thlex-translit\">(音譯： chrusochalinos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc10:29\">2MA 10:29</a>, <a href=\"https://ref.ly/1Esd3:6\">1ES 3:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κόσμος</span> <span class=\"thlex-translit\">(音譯： kosmos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc5:3\">2MA 5:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σαγή</span> <span class=\"thlex-translit\">(音譯： sagē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc3:25\">2MA 3:25</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0009_bronze_horse_bit.jpg\" alt=\"古代青銅馬銜\"><figcaption class=\"thlex-caption\">古代青銅馬銜 (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>嚼環是一根短棍，通常由金屬製成，放在馬的嘴裡。短棍的兩端從馬嘴的兩側突出來，繫上繩索或皮帶，這些繩索或皮帶套在馬的頭部就成為轡頭。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0969_harness_bridle_hant.jpg\" alt=\"轡頭和嚼環\"><figcaption class=\"thlex-caption\">轡頭和嚼環 (© Gary Todd - Wikimedia Commons)</figcaption></figure>騎馬者或車夫可以通過拉扯轡頭左側或右側的帶子來控制馬的行動。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0932_horse.jpg\" alt=\"馬和騎手展示韁繩的使用\"><figcaption class=\"thlex-caption\">馬和騎手展示韁繩的使用 (© Wikimedia Commons)</figcaption></figure>希伯來文<em>metheg</em> 和<em>resen</em> 分別指「嚼環」和「轡頭」（雖然<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 在<a href=\"https://ref.ly/Prov26:3\">PRO 26:3</a> 將<em>metheg</em> 譯為“bridle”「轡頭」）。希臘文<em>chalinos</em> 和<em>chrusochalinos</em> 既指嚼環也指轡頭。如果嚼環和轡頭等挽具在當地不為人所知，翻譯者可以使用描述性的短語，例如「引導馬匹的某物」或「放入馬嘴裡面以引導牠的某物」。</p>\n<p>在<a href=\"https://ref.ly/Zech14:20\">ZEC 14:20</a> 中，希伯來文<em>mtsilah</em> 可能是指馬的挽具上面會發出某種響聲的裝飾。在聖經中，這個詞只出現在這裡。</p>\n<p>\n            <a href=\"https://ref.ly/Rev14:20\">REV 14:20</a> 提到「馬的轡頭」（“a horse’s bridle”；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）僅僅是用來指高度，即轡頭離地面的高度，因此我們可以將這個高度譯為「約一米半高」（<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> ）或「約五英呎高」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> ）。</p>\n<p>\n            <a href=\"https://ref.ly/2Macc10:29\">2MA 10:29</a> 和<a href=\"https://ref.ly/1Esd3:6\">1ES 3:6</a> 所用的希臘文詞語表明，轡頭的金屬件是由金子製成的。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "12019028",
+"start_ref_usfm": "2KI 19:28",
+"end_ref": "12019028",
+"end_ref_usfm": "2KI 19:28"
+},
+{
+"start_ref": "19032009",
+"start_ref_usfm": "PSA 32:9",
+"end_ref": "19032009",
+"end_ref_usfm": "PSA 32:9"
+},
+{
+"start_ref": "20026003",
+"start_ref_usfm": "PRO 26:3",
+"end_ref": "20026003",
+"end_ref_usfm": "PRO 26:3"
+},
+{
+"start_ref": "23037029",
+"start_ref_usfm": "ISA 37:29",
+"end_ref": "23037029",
+"end_ref_usfm": "ISA 37:29"
+},
+{
+"start_ref": "18041005",
+"start_ref_usfm": "JOB 41:5",
+"end_ref": "18041005",
+"end_ref_usfm": "JOB 41:5"
+},
+{
+"start_ref": "23030028",
+"start_ref_usfm": "ISA 30:28",
+"end_ref": "23030028",
+"end_ref_usfm": "ISA 30:28"
+},
+{
+"start_ref": "59003003",
+"start_ref_usfm": "JAS 3:3",
+"end_ref": "59003003",
+"end_ref_usfm": "JAS 3:3"
+},
+{
+"start_ref": "66014020",
+"start_ref_usfm": "REV 14:20",
+"end_ref": "66014020",
+"end_ref_usfm": "REV 14:20"
+},
+{
+"start_ref": "79010029",
+"start_ref_usfm": "2MA 10:29",
+"end_ref": "79010029",
+"end_ref_usfm": "2MA 10:29"
+},
+{
+"start_ref": "82003006",
+"start_ref_usfm": "1ES 3:6",
+"end_ref": "82003006",
+"end_ref_usfm": "1ES 3:6"
+},
+{
+"start_ref": "79005003",
+"start_ref_usfm": "2MA 5:3",
+"end_ref": "79005003",
+"end_ref_usfm": "2MA 5:3"
+},
+{
+"start_ref": "79003025",
+"start_ref_usfm": "2MA 3:25",
+"end_ref": "79003025",
+"end_ref_usfm": "2MA 3:25"
+},
+{
+"start_ref": "38014020",
+"start_ref_usfm": "ZEC 14:20",
+"end_ref": "38014020",
+"end_ref_usfm": "ZEC 14:20"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:BitAndBridle",
+"type": "realia",
+"confidence": 0.8154,
+"match_method": "scored",
+"preferred_label": "Bit and Bridle"
+}
+]
+}
+}
+]

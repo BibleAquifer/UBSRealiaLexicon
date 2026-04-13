@@ -1,0 +1,445 @@
+[
+{
+"content_id": "REALIA:5.1",
+"reference_id": "REALIA:5.1",
+"version": "1.0.4",
+"title": "標題：油燈和燈心（Oil lamp and wick）",
+"media_type": "Text",
+"index_reference": "5.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:5.1\"><span class=\"thlex-key\">5.1</span> 標題：油燈和燈心（Oil lamp and wick）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מָאוֹר</span> <span class=\"thlex-translit\">(音譯： ma’or)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:6\">EXO 25:6</a>, <a href=\"https://ref.ly/Exod27:20\">EXO 27:20</a>, <a href=\"https://ref.ly/Exod35:8\">EXO 35:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod35:28\">EXO 35:28</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Lev24:2\">LEV 24:2</a>, <a href=\"https://ref.ly/Num4:9\">NUM 4:9</a>, <a href=\"https://ref.ly/Num4:16\">NUM 4:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נִיר</span> <span class=\"thlex-translit\">(音譯： nir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs11:36\">1KI 11:36</a>, <a href=\"https://ref.ly/1Kgs15:4\">1KI 15:4</a>, <a href=\"https://ref.ly/2Kgs8:19\">2KI 8:19</a>, <a href=\"https://ref.ly/2Chr21:7\">2CH 21:7</a>, <a href=\"https://ref.ly/Prov21:4\">PRO 21:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נֵר</span> <span class=\"thlex-translit\">(音譯： ner)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:37\">EXO 25:37</a>, <a href=\"https://ref.ly/Exod25:37\">EXO 25:37</a>, <a href=\"https://ref.ly/Exod27:20\">EXO 27:20</a>, <a href=\"https://ref.ly/Exod30:7\">EXO 30:7</a>, <a href=\"https://ref.ly/Exod30:8\">EXO 30:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod37:23\">EXO 37:23</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:25\">EXO 40:25</a>, <a href=\"https://ref.ly/Lev24:2\">LEV 24:2</a>, <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>, <a href=\"https://ref.ly/Num4:9\">NUM 4:9</a>, <a href=\"https://ref.ly/Num8:2\">NUM 8:2</a>, <a href=\"https://ref.ly/Num8:2\">NUM 8:2</a>, <a href=\"https://ref.ly/Num8:3\">NUM 8:3</a>, <a href=\"https://ref.ly/1Sam3:3\">1SA 3:3</a>, <a href=\"https://ref.ly/2Sam21:17\">2SA 21:17</a>, <a href=\"https://ref.ly/2Sam22:29\">2SA 22:29</a>, <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/2Chr4:20\">2CH 4:20</a>, <a href=\"https://ref.ly/2Chr4:21\">2CH 4:21</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/2Chr29:7\">2CH 29:7</a>, <a href=\"https://ref.ly/Job18:6\">JOB 18:6</a>, <a href=\"https://ref.ly/Job21:17\">JOB 21:17</a>, <a href=\"https://ref.ly/Job29:3\">JOB 29:3</a>, <a href=\"https://ref.ly/Ps18:29\">PSA 18:29</a>, <a href=\"https://ref.ly/Ps119:105\">PSA 119:105</a>, <a href=\"https://ref.ly/Ps132:17\">PSA 132:17</a>, <a href=\"https://ref.ly/Prov6:23\">PRO 6:23</a>, <a href=\"https://ref.ly/Prov13:9\">PRO 13:9</a>, <a href=\"https://ref.ly/Prov20:20\">PRO 20:20</a>, <a href=\"https://ref.ly/Prov20:27\">PRO 20:27</a>, <a href=\"https://ref.ly/Prov24:20\">PRO 24:20</a>, <a href=\"https://ref.ly/Prov31:18\">PRO 31:18</a>, <a href=\"https://ref.ly/Jer25:10\">JER 25:10</a>, <a href=\"https://ref.ly/Zeph1:12\">ZEP 1:12</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λύχνος</span> <span class=\"thlex-translit\">(音譯： luchnos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt5:15\">MAT 5:15</a>, <a href=\"https://ref.ly/Matt6:22\">MAT 6:22</a>, <a href=\"https://ref.ly/Mark4:21\">MRK 4:21</a>, <a href=\"https://ref.ly/Luke8:16\">LUK 8:16</a>, <a href=\"https://ref.ly/Luke11:34\">LUK 11:34</a>, <a href=\"https://ref.ly/Luke11:36\">LUK 11:36</a>, <a href=\"https://ref.ly/Luke12:35\">LUK 12:35</a>, <a href=\"https://ref.ly/Luke15:8\">LUK 15:8</a>, <a href=\"https://ref.ly/John5:35\">JHN 5:35</a>, <a href=\"https://ref.ly/2Pet1:19\">2PE 1:19</a>, <a href=\"https://ref.ly/Rev18:23\">REV 18:23</a>, <a href=\"https://ref.ly/Rev21:23\">REV 21:23</a>, <a href=\"https://ref.ly/Rev22:5\">REV 22:5</a>, <a href=\"https://ref.ly/Sir26:17\">SIR 26:17</a>, <a href=\"https://ref.ly/EpJer1:18\">LJE 1:18</a>, <a href=\"https://ref.ly/1Macc4:50\">1MA 4:50</a>, <a href=\"https://ref.ly/2Macc1:8\">2MA 1:8</a>, <a href=\"https://ref.ly/2Macc10:3\">2MA 10:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： lucerna</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd12:42\">2ES 12:42</a>, <a href=\"https://ref.ly/2Esd14:25\">2ES 14:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： lumen</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd10:2\">2ES 10:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>燈心</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： פִּשְׁתָּה</span> <span class=\"thlex-translit\">(音譯： pishtah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>, <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίνον</span> <span class=\"thlex-translit\">(音譯： linon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0940_oil_lamps.jpg\" alt=\"油燈，羅馬時期\"><figcaption class=\"thlex-caption\">油燈，羅馬時期 (© Combirom2 Wikimedia Commons)</figcaption></figure>油燈是一種照明工具，在一個較小的容器中裝著燈油，裡面浸著一根燈心，燈心燃燒就發出光來。容器呈橢圓形，通常由黏土製成。油燈大小不一，家用油燈的尺寸通常約為13×8×4厘米（5×3×1.5英吋）。油燈有幾種樣式，其中一種是裝著油的淺盤子，油上面漂著一根燈心。另外一種尺寸差不多，然而是封閉式的，油不會灑出來，便於攜帶。這種油燈的頂部有兩個孔，小孔用來插燈心，大孔用來添油。燈心通常由亞麻線做成。</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">用途</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0472_lamp.jpg\" alt=\"羅馬時期油燈\"><figcaption class=\"thlex-caption\">羅馬時期油燈 (© Davidbena, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>燈身裡面盛滿油，燈心浸在油裡面。燈心會燒焦，因此需要定期修剪。油燈的照明面積很小。根據油的質量和燈心的質地及長短，油燈發出的光和煙也不同。橄欖油是最常用的燈油，但在很早的時候，人們也使用魚油。（關於橄欖油的其他用途，另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.10.5 膏油 (anointing oil)&lt;REALIA:1.10.5&gt;</a> 、<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">1.15.1 油、油膏 (oil, ointment)&lt;REALIA:1.15.1&gt;</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">9.3 橄欖油 (olive oil)&lt;REALIA:9.3&gt;</a> 。）</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在有些語言中，與「油燈」最接近的對等詞是「煤油燈」。翻譯者應避免使用表示手電筒或任何電燈的詞語，因為這是嚴重的時代錯誤。可以譯為「燈籠」或「燈」。蠟燭也是一個合適的文化對等物，其原理與油燈相同，只是燃燒的是固態物，不是油。蠟燭雖然沒有在聖經中提到過，但在古代就已經有了。</p>\n<p>「燈」的作用是發光，因此在經文中有時用作比喻。希伯來文<em>nir</em> 和希臘文<em>lucerna</em> 在相關經文中都是作為比喻使用。希伯來文<em>ner</em> 用來喻指以色列的王（<a href=\"https://ref.ly/2Sam21:17\">2SA 21:17</a> ）、上帝，或者與上帝相關的一些事物，例如他的保護、引領、祝福或話語（<a href=\"https://ref.ly/2Sam22:29\">2SA 22:29</a> ；<a href=\"https://ref.ly/Job21:17\">JOB 21:17</a> ；<a href=\"https://ref.ly/Ps18:29\">PSA 18:29</a> ［《和》18:28］，<a href=\"https://ref.ly/Ps119:105\">PSA 119:105</a> ；<a href=\"https://ref.ly/Prov6:23\">PRO 6:23</a> ）、生或死（生命的熄滅；<a href=\"https://ref.ly/Job18:6\">JOB 18:6</a> ，<a href=\"https://ref.ly/Job21:17\">JOB 21:17</a> ；<a href=\"https://ref.ly/Ps132:17\">PSA 132:17</a> ；<a href=\"https://ref.ly/Prov13:9\">PRO 13:9</a> ，<a href=\"https://ref.ly/Prov20:20\">PRO 20:20</a> ，<a href=\"https://ref.ly/Prov24:20\">PRO 24:20</a> ）、人的靈（<a href=\"https://ref.ly/Prov20:27\">PRO 20:27</a> ）、平安或正常狀態（<a href=\"https://ref.ly/Jer25:10\">JER 25:10</a> ），以及徹底（<a href=\"https://ref.ly/Zeph1:12\">ZEP 1:12</a> ）。希臘文<em>luchnos</em> 喻指人的領悟（<a href=\"https://ref.ly/Matt6:22\">MAT 6:22</a> ；<a href=\"https://ref.ly/Luke11:34\">LUK 11:34</a> ，<a href=\"https://ref.ly/Luke11:36\">LUK 11:36</a> ）、准备就緒（<a href=\"https://ref.ly/Luke12:35\">LUK 12:35</a> ）、先知的聲音（<a href=\"https://ref.ly/John5:35\">JHN 5:35</a> ），以及人的面容（<a href=\"https://ref.ly/Sir26:17\">SIR 26:17</a> ）。</p>\n<p>「燈」經常用來比喻人的生命；例如，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 在<a href=\"https://ref.ly/Job21:17\">JOB 21:17</a> 的英文意為，「惡人的燈有多少次熄滅過？」《〈約伯記〉手冊》（<em>A Handbook on The Book of Job</em> ，第398頁）指出，這行經文說的是早逝或意外死亡。</p>\n<p>在一些經文中，燈發出亮光喻指人在生活中經歷上帝的引領，通常是藉著他的話語。<a href=\"https://ref.ly/Ps119:105\">PSA 119:105</a> 就是一個例子，<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 在這一節的英文意為，「你的話是我腳前的燈，是我路上的光。」</p>\n<p>有些時候，雖然翻譯者會認同某段經文是比喻性的，但關於比喻的確切內容是什麼，他們卻並不一定能夠達成一致意見；例如，關於<a href=\"https://ref.ly/Job29:3\">JOB 29:3</a> 中的燈喻指什麼，<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 和<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 的理解就不一樣。這行經文的原文字面意思是，「當他的燈照在我的頭上」（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ），<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 英文意為「那時上帝一直與我同在」，而<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> 則為「他每日都賜我以順遂」。</p>\n<p>關於<a href=\"https://ref.ly/Jer25:10\">JER 25:10</a> ，參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.10 磨、磨石、磨盤 (millstones, mill)&lt;REALIA:5.10&gt;</a> 中的註解。</p>\n<p>在翻譯<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> 中的希伯來文<em>pishtah</em> 時，比較正式的譯本直譯為「燈心」；例如，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 英文意為「微明的燈心，他不熄滅」。通俗譯本通常會避免使用這種大眾不容易理解的字面翻譯，以下是幾個很好的範例：「他必不吹滅搖曳的燈盞」（<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> 直譯），「他不會撲滅將滅的火苗」（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 直譯），「即使是微弱的火苗，他也必不熄滅」（<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 直譯）。如果翻譯者希望保留燈心的比喻，可以將這個詞譯為「小布條」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025006",
+"start_ref_usfm": "EXO 25:6",
+"end_ref": "02025006",
+"end_ref_usfm": "EXO 25:6"
+},
+{
+"start_ref": "02027020",
+"start_ref_usfm": "EXO 27:20",
+"end_ref": "02027020",
+"end_ref_usfm": "EXO 27:20"
+},
+{
+"start_ref": "02035008",
+"start_ref_usfm": "EXO 35:8",
+"end_ref": "02035008",
+"end_ref_usfm": "EXO 35:8"
+},
+{
+"start_ref": "02035014",
+"start_ref_usfm": "EXO 35:14",
+"end_ref": "02035014",
+"end_ref_usfm": "EXO 35:14"
+},
+{
+"start_ref": "02035028",
+"start_ref_usfm": "EXO 35:28",
+"end_ref": "02035028",
+"end_ref_usfm": "EXO 35:28"
+},
+{
+"start_ref": "02039037",
+"start_ref_usfm": "EXO 39:37",
+"end_ref": "02039037",
+"end_ref_usfm": "EXO 39:37"
+},
+{
+"start_ref": "03024002",
+"start_ref_usfm": "LEV 24:2",
+"end_ref": "03024002",
+"end_ref_usfm": "LEV 24:2"
+},
+{
+"start_ref": "04004009",
+"start_ref_usfm": "NUM 4:9",
+"end_ref": "04004009",
+"end_ref_usfm": "NUM 4:9"
+},
+{
+"start_ref": "04004016",
+"start_ref_usfm": "NUM 4:16",
+"end_ref": "04004016",
+"end_ref_usfm": "NUM 4:16"
+},
+{
+"start_ref": "11011036",
+"start_ref_usfm": "1KI 11:36",
+"end_ref": "11011036",
+"end_ref_usfm": "1KI 11:36"
+},
+{
+"start_ref": "11015004",
+"start_ref_usfm": "1KI 15:4",
+"end_ref": "11015004",
+"end_ref_usfm": "1KI 15:4"
+},
+{
+"start_ref": "12008019",
+"start_ref_usfm": "2KI 8:19",
+"end_ref": "12008019",
+"end_ref_usfm": "2KI 8:19"
+},
+{
+"start_ref": "14021007",
+"start_ref_usfm": "2CH 21:7",
+"end_ref": "14021007",
+"end_ref_usfm": "2CH 21:7"
+},
+{
+"start_ref": "20021004",
+"start_ref_usfm": "PRO 21:4",
+"end_ref": "20021004",
+"end_ref_usfm": "PRO 21:4"
+},
+{
+"start_ref": "02025037",
+"start_ref_usfm": "EXO 25:37",
+"end_ref": "02025037",
+"end_ref_usfm": "EXO 25:37"
+},
+{
+"start_ref": "02030007",
+"start_ref_usfm": "EXO 30:7",
+"end_ref": "02030007",
+"end_ref_usfm": "EXO 30:7"
+},
+{
+"start_ref": "02030008",
+"start_ref_usfm": "EXO 30:8",
+"end_ref": "02030008",
+"end_ref_usfm": "EXO 30:8"
+},
+{
+"start_ref": "02037023",
+"start_ref_usfm": "EXO 37:23",
+"end_ref": "02037023",
+"end_ref_usfm": "EXO 37:23"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040025",
+"start_ref_usfm": "EXO 40:25",
+"end_ref": "02040025",
+"end_ref_usfm": "EXO 40:25"
+},
+{
+"start_ref": "03024004",
+"start_ref_usfm": "LEV 24:4",
+"end_ref": "03024004",
+"end_ref_usfm": "LEV 24:4"
+},
+{
+"start_ref": "04008002",
+"start_ref_usfm": "NUM 8:2",
+"end_ref": "04008002",
+"end_ref_usfm": "NUM 8:2"
+},
+{
+"start_ref": "04008003",
+"start_ref_usfm": "NUM 8:3",
+"end_ref": "04008003",
+"end_ref_usfm": "NUM 8:3"
+},
+{
+"start_ref": "09003003",
+"start_ref_usfm": "1SA 3:3",
+"end_ref": "09003003",
+"end_ref_usfm": "1SA 3:3"
+},
+{
+"start_ref": "10021017",
+"start_ref_usfm": "2SA 21:17",
+"end_ref": "10021017",
+"end_ref_usfm": "2SA 21:17"
+},
+{
+"start_ref": "10022029",
+"start_ref_usfm": "2SA 22:29",
+"end_ref": "10022029",
+"end_ref_usfm": "2SA 22:29"
+},
+{
+"start_ref": "11007049",
+"start_ref_usfm": "1KI 7:49",
+"end_ref": "11007049",
+"end_ref_usfm": "1KI 7:49"
+},
+{
+"start_ref": "13028015",
+"start_ref_usfm": "1CH 28:15",
+"end_ref": "13028015",
+"end_ref_usfm": "1CH 28:15"
+},
+{
+"start_ref": "14004020",
+"start_ref_usfm": "2CH 4:20",
+"end_ref": "14004020",
+"end_ref_usfm": "2CH 4:20"
+},
+{
+"start_ref": "14004021",
+"start_ref_usfm": "2CH 4:21",
+"end_ref": "14004021",
+"end_ref_usfm": "2CH 4:21"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "14029007",
+"start_ref_usfm": "2CH 29:7",
+"end_ref": "14029007",
+"end_ref_usfm": "2CH 29:7"
+},
+{
+"start_ref": "18018006",
+"start_ref_usfm": "JOB 18:6",
+"end_ref": "18018006",
+"end_ref_usfm": "JOB 18:6"
+},
+{
+"start_ref": "18021017",
+"start_ref_usfm": "JOB 21:17",
+"end_ref": "18021017",
+"end_ref_usfm": "JOB 21:17"
+},
+{
+"start_ref": "18029003",
+"start_ref_usfm": "JOB 29:3",
+"end_ref": "18029003",
+"end_ref_usfm": "JOB 29:3"
+},
+{
+"start_ref": "19018029",
+"start_ref_usfm": "PSA 18:29",
+"end_ref": "19018029",
+"end_ref_usfm": "PSA 18:29"
+},
+{
+"start_ref": "19119105",
+"start_ref_usfm": "PSA 119:105",
+"end_ref": "19119105",
+"end_ref_usfm": "PSA 119:105"
+},
+{
+"start_ref": "19132017",
+"start_ref_usfm": "PSA 132:17",
+"end_ref": "19132017",
+"end_ref_usfm": "PSA 132:17"
+},
+{
+"start_ref": "20006023",
+"start_ref_usfm": "PRO 6:23",
+"end_ref": "20006023",
+"end_ref_usfm": "PRO 6:23"
+},
+{
+"start_ref": "20013009",
+"start_ref_usfm": "PRO 13:9",
+"end_ref": "20013009",
+"end_ref_usfm": "PRO 13:9"
+},
+{
+"start_ref": "20020020",
+"start_ref_usfm": "PRO 20:20",
+"end_ref": "20020020",
+"end_ref_usfm": "PRO 20:20"
+},
+{
+"start_ref": "20020027",
+"start_ref_usfm": "PRO 20:27",
+"end_ref": "20020027",
+"end_ref_usfm": "PRO 20:27"
+},
+{
+"start_ref": "20024020",
+"start_ref_usfm": "PRO 24:20",
+"end_ref": "20024020",
+"end_ref_usfm": "PRO 24:20"
+},
+{
+"start_ref": "20031018",
+"start_ref_usfm": "PRO 31:18",
+"end_ref": "20031018",
+"end_ref_usfm": "PRO 31:18"
+},
+{
+"start_ref": "24025010",
+"start_ref_usfm": "JER 25:10",
+"end_ref": "24025010",
+"end_ref_usfm": "JER 25:10"
+},
+{
+"start_ref": "36001012",
+"start_ref_usfm": "ZEP 1:12",
+"end_ref": "36001012",
+"end_ref_usfm": "ZEP 1:12"
+},
+{
+"start_ref": "38004002",
+"start_ref_usfm": "ZEC 4:2",
+"end_ref": "38004002",
+"end_ref_usfm": "ZEC 4:2"
+},
+{
+"start_ref": "40005015",
+"start_ref_usfm": "MAT 5:15",
+"end_ref": "40005015",
+"end_ref_usfm": "MAT 5:15"
+},
+{
+"start_ref": "40006022",
+"start_ref_usfm": "MAT 6:22",
+"end_ref": "40006022",
+"end_ref_usfm": "MAT 6:22"
+},
+{
+"start_ref": "41004021",
+"start_ref_usfm": "MRK 4:21",
+"end_ref": "41004021",
+"end_ref_usfm": "MRK 4:21"
+},
+{
+"start_ref": "42008016",
+"start_ref_usfm": "LUK 8:16",
+"end_ref": "42008016",
+"end_ref_usfm": "LUK 8:16"
+},
+{
+"start_ref": "42011034",
+"start_ref_usfm": "LUK 11:34",
+"end_ref": "42011034",
+"end_ref_usfm": "LUK 11:34"
+},
+{
+"start_ref": "42011036",
+"start_ref_usfm": "LUK 11:36",
+"end_ref": "42011036",
+"end_ref_usfm": "LUK 11:36"
+},
+{
+"start_ref": "42012035",
+"start_ref_usfm": "LUK 12:35",
+"end_ref": "42012035",
+"end_ref_usfm": "LUK 12:35"
+},
+{
+"start_ref": "42015008",
+"start_ref_usfm": "LUK 15:8",
+"end_ref": "42015008",
+"end_ref_usfm": "LUK 15:8"
+},
+{
+"start_ref": "43005035",
+"start_ref_usfm": "JHN 5:35",
+"end_ref": "43005035",
+"end_ref_usfm": "JHN 5:35"
+},
+{
+"start_ref": "61001019",
+"start_ref_usfm": "2PE 1:19",
+"end_ref": "61001019",
+"end_ref_usfm": "2PE 1:19"
+},
+{
+"start_ref": "66018023",
+"start_ref_usfm": "REV 18:23",
+"end_ref": "66018023",
+"end_ref_usfm": "REV 18:23"
+},
+{
+"start_ref": "66021023",
+"start_ref_usfm": "REV 21:23",
+"end_ref": "66021023",
+"end_ref_usfm": "REV 21:23"
+},
+{
+"start_ref": "66022005",
+"start_ref_usfm": "REV 22:5",
+"end_ref": "66022005",
+"end_ref_usfm": "REV 22:5"
+},
+{
+"start_ref": "72026017",
+"start_ref_usfm": "SIR 26:17",
+"end_ref": "72026017",
+"end_ref_usfm": "SIR 26:17"
+},
+{
+"start_ref": "74001018",
+"start_ref_usfm": "LJE 1:18",
+"end_ref": "74001018",
+"end_ref_usfm": "LJE 1:18"
+},
+{
+"start_ref": "78004050",
+"start_ref_usfm": "1MA 4:50",
+"end_ref": "78004050",
+"end_ref_usfm": "1MA 4:50"
+},
+{
+"start_ref": "79001008",
+"start_ref_usfm": "2MA 1:8",
+"end_ref": "79001008",
+"end_ref_usfm": "2MA 1:8"
+},
+{
+"start_ref": "79010003",
+"start_ref_usfm": "2MA 10:3",
+"end_ref": "79010003",
+"end_ref_usfm": "2MA 10:3"
+},
+{
+"start_ref": "83012042",
+"start_ref_usfm": "2ES 12:42",
+"end_ref": "83012042",
+"end_ref_usfm": "2ES 12:42"
+},
+{
+"start_ref": "83014025",
+"start_ref_usfm": "2ES 14:25",
+"end_ref": "83014025",
+"end_ref_usfm": "2ES 14:25"
+},
+{
+"start_ref": "83010002",
+"start_ref_usfm": "2ES 10:2",
+"end_ref": "83010002",
+"end_ref_usfm": "2ES 10:2"
+},
+{
+"start_ref": "23042003",
+"start_ref_usfm": "ISA 42:3",
+"end_ref": "23042003",
+"end_ref_usfm": "ISA 42:3"
+},
+{
+"start_ref": "23043017",
+"start_ref_usfm": "ISA 43:17",
+"end_ref": "23043017",
+"end_ref_usfm": "ISA 43:17"
+},
+{
+"start_ref": "40012020",
+"start_ref_usfm": "MAT 12:20",
+"end_ref": "40012020",
+"end_ref_usfm": "MAT 12:20"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]
