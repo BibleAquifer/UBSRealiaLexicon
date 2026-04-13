@@ -1,0 +1,1379 @@
+[
+{
+"content_id": "REALIA:4.3",
+"reference_id": "REALIA:4.3",
+"version": "1.0.4",
+"title": "Furniture of the Tabernacle and Temple",
+"media_type": "Text",
+"index_reference": "4.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3\"><span class=\"thlex-key\">4.3</span> Furniture of the Tabernacle and Temple</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Some of the Tabernacle furniture was preserved or duplicated in the Temple built by Solomon. Items like the Ark of the Covenant and the lampstand were preserved, so they remained unchanged from the temporary sanctuary to the permanent one. However, one object in particular underwent a significant change, one that can be rather confusing to the reader and the translator. A large washbasin stood between the sacrificial altar and the Holy Place in the Tabernacle. It served the dual purpose of (1) washing the hands and feet of those about to offer sacrifices or to enter the Holy Place and (2) washing the bodies of animals about to be sacrificed.</h2>\n<div class=\"thlex-paragraphs\">\n<p>The single standing washbasin of the Tabernacle is not found in the description of Solomon’s Temple, which contained two different objects for the two kinds of washing. They are described in <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>: “He also made ten lavers in which to wash, and set five on the south side, and five on the north side. In these they were to rinse off what was used for the burnt offering, and the sea was for the priests to wash in” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>). The water with which the priests washed was contained in a large tank called a “sea.” The water for washing the many sacrifices was held in ten tubs set in movable stands.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.1",
+"reference_id": "REALIA:4.3.1",
+"version": "1.0.4",
+"title": "Tabernacle: Washstand, basin, bowl",
+"media_type": "Text",
+"index_reference": "4.3.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.1\"><span class=\"thlex-key\">4.3.1</span> Tabernacle: Washstand, basin, bowl</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כִּיּוֹר</span> <span class=\"thlex-translit\">(kiyor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:18\">EXO 30:18</a>, <a href=\"https://ref.ly/Exod30:28\">EXO 30:28</a>, <a href=\"https://ref.ly/Exod31:9\">EXO 31:9</a>, <a href=\"https://ref.ly/Exod35:16\">EXO 35:16</a>, <a href=\"https://ref.ly/Exod38:8\">EXO 38:8</a>, <a href=\"https://ref.ly/Exod39:39\">EXO 39:39</a>, <a href=\"https://ref.ly/Exod40:7\">EXO 40:7</a>, <a href=\"https://ref.ly/Exod40:11\">EXO 40:11</a>, <a href=\"https://ref.ly/Exod40:30\">EXO 40:30</a>, <a href=\"https://ref.ly/Lev8:11\">LEV 8:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The basin was a large copper pot that stood on a copper base. It was used by the priests to wash their hands and feet. It was probably open at the top for filling with water and may have had spouts near the bottom to allow the water to run out. According to <a href=\"https://ref.ly/Exod30:18\">EXO 30:18</a>, it stood “between the tent of meeting and the altar” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>).</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The priests were commanded to wash their hands and feet before beginning their daily work. This was a ceremonial act of purification for which the basin held the water.</p>\n<p>The word “laver,” used by some English translations (for example, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), is obscure and communicates little to the average reader. <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> “bowl” is likely to be perceived as something much smaller than its actual size. It is better to say “large bowl” (so <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) or “large basin.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030018",
+"start_ref_usfm": "EXO 30:18",
+"end_ref": "02030018",
+"end_ref_usfm": "EXO 30:18"
+},
+{
+"start_ref": "02030028",
+"start_ref_usfm": "EXO 30:28",
+"end_ref": "02030028",
+"end_ref_usfm": "EXO 30:28"
+},
+{
+"start_ref": "02031009",
+"start_ref_usfm": "EXO 31:9",
+"end_ref": "02031009",
+"end_ref_usfm": "EXO 31:9"
+},
+{
+"start_ref": "02035016",
+"start_ref_usfm": "EXO 35:16",
+"end_ref": "02035016",
+"end_ref_usfm": "EXO 35:16"
+},
+{
+"start_ref": "02038008",
+"start_ref_usfm": "EXO 38:8",
+"end_ref": "02038008",
+"end_ref_usfm": "EXO 38:8"
+},
+{
+"start_ref": "02039039",
+"start_ref_usfm": "EXO 39:39",
+"end_ref": "02039039",
+"end_ref_usfm": "EXO 39:39"
+},
+{
+"start_ref": "02040007",
+"start_ref_usfm": "EXO 40:7",
+"end_ref": "02040007",
+"end_ref_usfm": "EXO 40:7"
+},
+{
+"start_ref": "02040011",
+"start_ref_usfm": "EXO 40:11",
+"end_ref": "02040011",
+"end_ref_usfm": "EXO 40:11"
+},
+{
+"start_ref": "02040030",
+"start_ref_usfm": "EXO 40:30",
+"end_ref": "02040030",
+"end_ref_usfm": "EXO 40:30"
+},
+{
+"start_ref": "03008011",
+"start_ref_usfm": "LEV 8:11",
+"end_ref": "03008011",
+"end_ref_usfm": "LEV 8:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.5675,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.3.2",
+"reference_id": "REALIA:4.3.2",
+"version": "1.0.4",
+"title": "Temple: Sea, tank",
+"media_type": "Text",
+"index_reference": "4.3.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.2\"><span class=\"thlex-key\">4.3.2</span> Temple: Sea, tank</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יָם</span> <span class=\"thlex-translit\">(yam)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>, <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a>, <a href=\"https://ref.ly/1Kgs7:25\">1KI 7:25</a>, <a href=\"https://ref.ly/1Kgs7:25\">1KI 7:25</a>, <a href=\"https://ref.ly/1Kgs7:39\">1KI 7:39</a>, <a href=\"https://ref.ly/1Kgs7:44\">1KI 7:44</a>, <a href=\"https://ref.ly/1Kgs7:44\">1KI 7:44</a>, <a href=\"https://ref.ly/2Kgs16:17\">2KI 16:17</a>, <a href=\"https://ref.ly/2Kgs25:13\">2KI 25:13</a>, <a href=\"https://ref.ly/2Kgs25:16\">2KI 25:16</a>, <a href=\"https://ref.ly/1Chr18:8\">1CH 18:8</a>, <a href=\"https://ref.ly/2Chr4:2\">2CH 4:2</a>, <a href=\"https://ref.ly/2Chr4:3\">2CH 4:3</a>, <a href=\"https://ref.ly/2Chr4:4\">2CH 4:4</a>, <a href=\"https://ref.ly/2Chr4:4\">2CH 4:4</a>, <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>, <a href=\"https://ref.ly/2Chr4:10\">2CH 4:10</a>, <a href=\"https://ref.ly/2Chr4:15\">2CH 4:15</a>, <a href=\"https://ref.ly/Jer52:17\">JER 52:17</a>, <a href=\"https://ref.ly/Jer52:20\">JER 52:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0026_bronze_sea.jpg\" alt=\"Artist&#x27;s drawing of the bronze Sea\"><figcaption class=\"thlex-caption\">Artist&#x27;s drawing of the bronze Sea (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>The Sea was a very large tank or pool for holding water. It was made of bronze and was 2.5 meters (8 feet) deep, 5 meters (16.5 feet) in diameter, and about 15 meters (49 feet) in circumference at its rim. Its sides were almost 8 centimeters (about 3 inches) thick. When empty, it would have weighed 25–30 tons or more. The two places where it is described differ on the amount of water it could hold; <a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a> indicates 38,000 liters (10,000 gallons), while <a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a> has 57,000 liters (15,000 gallons). It is not clear from the texts whether the Sea was shaped like a bowl (hemisphere) or a cylinder standing on end. According to <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a> and <a href=\"https://ref.ly/2Chr4:3\">2CH 4:3</a>, around its outer edge were two rows of bronze gourds (<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> “panels”; <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> “plants”) as decoration. The “legs” of the Sea were 12 oxen, also made of bronze, in four sets of three each. They faced outward, and the Sea rested on their backs. <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a> states that the water was used by the priests for washing, but details are lacking.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In some languages it will be best to use a descriptive phrase for “Sea”; compare <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, which renders it “large round bowl, which was called the Sea” in <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>. While this basin is called <em>yam</em> (“Sea”) in Hebrew, there is no reason why a translation needs to retain this metaphorical name.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007023",
+"end_ref_usfm": "1KI 7:23"
+},
+{
+"start_ref": "11007024",
+"start_ref_usfm": "1KI 7:24",
+"end_ref": "11007024",
+"end_ref_usfm": "1KI 7:24"
+},
+{
+"start_ref": "11007025",
+"start_ref_usfm": "1KI 7:25",
+"end_ref": "11007025",
+"end_ref_usfm": "1KI 7:25"
+},
+{
+"start_ref": "11007039",
+"start_ref_usfm": "1KI 7:39",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "11007044",
+"start_ref_usfm": "1KI 7:44",
+"end_ref": "11007044",
+"end_ref_usfm": "1KI 7:44"
+},
+{
+"start_ref": "12016017",
+"start_ref_usfm": "2KI 16:17",
+"end_ref": "12016017",
+"end_ref_usfm": "2KI 16:17"
+},
+{
+"start_ref": "12025013",
+"start_ref_usfm": "2KI 25:13",
+"end_ref": "12025013",
+"end_ref_usfm": "2KI 25:13"
+},
+{
+"start_ref": "12025016",
+"start_ref_usfm": "2KI 25:16",
+"end_ref": "12025016",
+"end_ref_usfm": "2KI 25:16"
+},
+{
+"start_ref": "13018008",
+"start_ref_usfm": "1CH 18:8",
+"end_ref": "13018008",
+"end_ref_usfm": "1CH 18:8"
+},
+{
+"start_ref": "14004002",
+"start_ref_usfm": "2CH 4:2",
+"end_ref": "14004002",
+"end_ref_usfm": "2CH 4:2"
+},
+{
+"start_ref": "14004003",
+"start_ref_usfm": "2CH 4:3",
+"end_ref": "14004003",
+"end_ref_usfm": "2CH 4:3"
+},
+{
+"start_ref": "14004004",
+"start_ref_usfm": "2CH 4:4",
+"end_ref": "14004004",
+"end_ref_usfm": "2CH 4:4"
+},
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+},
+{
+"start_ref": "14004010",
+"start_ref_usfm": "2CH 4:10",
+"end_ref": "14004010",
+"end_ref_usfm": "2CH 4:10"
+},
+{
+"start_ref": "14004015",
+"start_ref_usfm": "2CH 4:15",
+"end_ref": "14004015",
+"end_ref_usfm": "2CH 4:15"
+},
+{
+"start_ref": "24052017",
+"start_ref_usfm": "JER 52:17",
+"end_ref": "24052017",
+"end_ref_usfm": "JER 52:17"
+},
+{
+"start_ref": "24052020",
+"start_ref_usfm": "JER 52:20",
+"end_ref": "24052020",
+"end_ref_usfm": "JER 52:20"
+},
+{
+"start_ref": "11007026",
+"start_ref_usfm": "1KI 7:26",
+"end_ref": "11007026",
+"end_ref_usfm": "1KI 7:26"
+},
+{
+"start_ref": "14004005",
+"start_ref_usfm": "2CH 4:5",
+"end_ref": "14004005",
+"end_ref_usfm": "2CH 4:5"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.3",
+"reference_id": "REALIA:4.3.3",
+"version": "1.0.4",
+"title": "Temple: Movable stand, cart, stand, base",
+"media_type": "Text",
+"index_reference": "4.3.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.3\"><span class=\"thlex-key\">4.3.3</span> Temple: Movable stand, cart, stand, base</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>Box on wheels</strong>:</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְכוֹנָה</span> <span class=\"thlex-translit\">(mkonah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:27\">1KI 7:27</a>, <a href=\"https://ref.ly/1Kgs7:27\">1KI 7:27</a>, <a href=\"https://ref.ly/1Kgs7:28\">1KI 7:28</a>, <a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>, <a href=\"https://ref.ly/1Kgs7:32\">1KI 7:32</a>, <a href=\"https://ref.ly/1Kgs7:34\">1KI 7:34</a>, <a href=\"https://ref.ly/1Kgs7:34\">1KI 7:34</a>, <a href=\"https://ref.ly/1Kgs7:35\">1KI 7:35</a>, <a href=\"https://ref.ly/1Kgs7:35\">1KI 7:35</a>, <a href=\"https://ref.ly/1Kgs7:37\">1KI 7:37</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:39\">1KI 7:39</a>, <a href=\"https://ref.ly/1Kgs7:43\">1KI 7:43</a>, <a href=\"https://ref.ly/1Kgs7:43\">1KI 7:43</a>, <a href=\"https://ref.ly/2Kgs16:17\">2KI 16:17</a>, <a href=\"https://ref.ly/2Kgs25:13\">2KI 25:13</a>, <a href=\"https://ref.ly/2Kgs25:16\">2KI 25:16</a>, <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a>, <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a>, <a href=\"https://ref.ly/Jer27:19\">JER 27:19</a>, <a href=\"https://ref.ly/Jer52:17\">JER 52:17</a>, <a href=\"https://ref.ly/Jer52:20\">JER 52:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>Water container</strong>:</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כִּיּוֹר</span> <span class=\"thlex-translit\">(kiyor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:18\">EXO 30:18</a>, <a href=\"https://ref.ly/Exod30:28\">EXO 30:28</a>, <a href=\"https://ref.ly/Exod31:9\">EXO 31:9</a>, <a href=\"https://ref.ly/Exod35:16\">EXO 35:16</a>, <a href=\"https://ref.ly/Exod38:8\">EXO 38:8</a>, <a href=\"https://ref.ly/Exod39:39\">EXO 39:39</a>, <a href=\"https://ref.ly/Exod40:7\">EXO 40:7</a>, <a href=\"https://ref.ly/Exod40:11\">EXO 40:11</a>, <a href=\"https://ref.ly/Exod40:30\">EXO 40:30</a>, <a href=\"https://ref.ly/Lev8:11\">LEV 8:11</a>, <a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>, <a href=\"https://ref.ly/1Kgs7:40\">1KI 7:40</a>, <a href=\"https://ref.ly/1Kgs7:43\">1KI 7:43</a>, <a href=\"https://ref.ly/2Kgs16:17\">2KI 16:17</a>, <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>, <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/UBS-0027_laver_stand.jpg\" alt=\"Movable stand for the laver (wash basin)\"><figcaption class=\"thlex-caption\">Movable stand for the laver (wash basin) (© Deutsche Bibelgesellschaft, Stuttgart by United Bible Societies)</figcaption></figure>A detailed description of the movable stand is given in <a href=\"https://ref.ly/1Kgs7:27-1Kgs7:39\">1KI 7:27–1KI 7:39</a>. It was a box about 2 meters (6.5 feet) long, 2 meters (6.5 feet) wide, and 1.5 meters (5 feet) deep. The sides were bronze panels decorated with figures of various animals. The box stood on four wheels connected to axles on its four corners. The wheels were about 65 centimeters (25 inches) in diameter. On the upper corners of the box were four handles. Thus it was a kind of large decorated pushcart.</p>\n<p>The top of the box was left open, and lining the top part of its inside was a round strip or sleeve in which sat a round container, also made of bronze. This container may have been shaped like a bowl or basin, or it may have been more like a cone, tapering down almost to a point. According to <a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a>, the container held water for washing the parts of the animals that were to be burned as sacrifices (see <a href=\"https://ref.ly/Lev1:9\">LEV 1:9</a>, <a href=\"https://ref.ly/Lev1:13\">LEV 1:13</a>). Given the size of the cart, the fact that it was made of bronze, and the weight of the large volume of water in it (about 800 liters [200 gallons]), it would have been very difficult to move, even though it had wheels. It has been estimated that each stand, when filled with water, could have weighed between two and three tons.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <strong>Box on wheels</strong>: For the Hebrew word <em>mkonah</em>, some translations choose a word that indicates a more or less stationary object (<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> and <abbr class=\"thlex-abbr\" title=\"Spanish Common Language Version (Dios Habla Hoy)\">SPCL</abbr> “base”; <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> “stand”), while others have a word which indicates that movement was normal (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> and <abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> “cart”; <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> “trolley”). Perhaps better than any of these words is “movable stand” in <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>. This expression indicates that the object normally stood in one place but was designed to be moved if necessary. <a href=\"https://ref.ly/1Kgs7:39\">1KI 7:39</a> may indicate that the ten stands/carts had fixed positions.</p>\n<p>\n            <strong>Water container</strong>: Most translations consulted render the Hebrew word <em>kiyor</em> in the passages listed above as “basin” (for example, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> and <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>). Perhaps it is better to say “tub” or “vat” (<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr>). While the word <em>kiyor</em> is the same one used for the washstand in the Tabernacle, its construction was quite different in the Temple.</p>\n<p>As noted above, <a href=\"https://ref.ly/1Kgs7:27-1Kgs7:39\">1KI 7:27–1KI 7:39</a> describes in detail the structure of the movable stand. Several other elements are named there. These include the rectangular or square panels (<em>misgaroth</em> in Hebrew) that formed the walls of the box, the frames (<em>shlabim</em>) into which the panels were set, the spoked wheels (<em>’ofanim</em>; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">8.3 Wheel&lt;REALIA:8.3&gt;</a>) and the axles (<em>sarnim</em> or <em>yadoth</em>) on which they turned, and four corner supports (<em>yadoth</em> or <em>kthefoth</em>) for the water. The round opening (<em>‘agol</em>) at the top of the stand was decorated with “carvings” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>; <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> “engravings”; <em>miqla‘oth</em>), and the base was decorated or carved with something that may have resembled “wreaths” (<em>loyoth</em>; <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “spiral figures”). The water container was set in a circular collar (<em>kothereth</em>, literally “crown”). See the discussion on these verses in <em>A Handbook on 1–2 Kings</em>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007027",
+"start_ref_usfm": "1KI 7:27",
+"end_ref": "11007027",
+"end_ref_usfm": "1KI 7:27"
+},
+{
+"start_ref": "11007028",
+"start_ref_usfm": "1KI 7:28",
+"end_ref": "11007028",
+"end_ref_usfm": "1KI 7:28"
+},
+{
+"start_ref": "11007030",
+"start_ref_usfm": "1KI 7:30",
+"end_ref": "11007030",
+"end_ref_usfm": "1KI 7:30"
+},
+{
+"start_ref": "11007032",
+"start_ref_usfm": "1KI 7:32",
+"end_ref": "11007032",
+"end_ref_usfm": "1KI 7:32"
+},
+{
+"start_ref": "11007034",
+"start_ref_usfm": "1KI 7:34",
+"end_ref": "11007034",
+"end_ref_usfm": "1KI 7:34"
+},
+{
+"start_ref": "11007035",
+"start_ref_usfm": "1KI 7:35",
+"end_ref": "11007035",
+"end_ref_usfm": "1KI 7:35"
+},
+{
+"start_ref": "11007037",
+"start_ref_usfm": "1KI 7:37",
+"end_ref": "11007037",
+"end_ref_usfm": "1KI 7:37"
+},
+{
+"start_ref": "11007038",
+"start_ref_usfm": "1KI 7:38",
+"end_ref": "11007038",
+"end_ref_usfm": "1KI 7:38"
+},
+{
+"start_ref": "11007039",
+"start_ref_usfm": "1KI 7:39",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "11007043",
+"start_ref_usfm": "1KI 7:43",
+"end_ref": "11007043",
+"end_ref_usfm": "1KI 7:43"
+},
+{
+"start_ref": "12016017",
+"start_ref_usfm": "2KI 16:17",
+"end_ref": "12016017",
+"end_ref_usfm": "2KI 16:17"
+},
+{
+"start_ref": "12025013",
+"start_ref_usfm": "2KI 25:13",
+"end_ref": "12025013",
+"end_ref_usfm": "2KI 25:13"
+},
+{
+"start_ref": "12025016",
+"start_ref_usfm": "2KI 25:16",
+"end_ref": "12025016",
+"end_ref_usfm": "2KI 25:16"
+},
+{
+"start_ref": "14004014",
+"start_ref_usfm": "2CH 4:14",
+"end_ref": "14004014",
+"end_ref_usfm": "2CH 4:14"
+},
+{
+"start_ref": "24027019",
+"start_ref_usfm": "JER 27:19",
+"end_ref": "24027019",
+"end_ref_usfm": "JER 27:19"
+},
+{
+"start_ref": "24052017",
+"start_ref_usfm": "JER 52:17",
+"end_ref": "24052017",
+"end_ref_usfm": "JER 52:17"
+},
+{
+"start_ref": "24052020",
+"start_ref_usfm": "JER 52:20",
+"end_ref": "24052020",
+"end_ref_usfm": "JER 52:20"
+},
+{
+"start_ref": "02030018",
+"start_ref_usfm": "EXO 30:18",
+"end_ref": "02030018",
+"end_ref_usfm": "EXO 30:18"
+},
+{
+"start_ref": "02030028",
+"start_ref_usfm": "EXO 30:28",
+"end_ref": "02030028",
+"end_ref_usfm": "EXO 30:28"
+},
+{
+"start_ref": "02031009",
+"start_ref_usfm": "EXO 31:9",
+"end_ref": "02031009",
+"end_ref_usfm": "EXO 31:9"
+},
+{
+"start_ref": "02035016",
+"start_ref_usfm": "EXO 35:16",
+"end_ref": "02035016",
+"end_ref_usfm": "EXO 35:16"
+},
+{
+"start_ref": "02038008",
+"start_ref_usfm": "EXO 38:8",
+"end_ref": "02038008",
+"end_ref_usfm": "EXO 38:8"
+},
+{
+"start_ref": "02039039",
+"start_ref_usfm": "EXO 39:39",
+"end_ref": "02039039",
+"end_ref_usfm": "EXO 39:39"
+},
+{
+"start_ref": "02040007",
+"start_ref_usfm": "EXO 40:7",
+"end_ref": "02040007",
+"end_ref_usfm": "EXO 40:7"
+},
+{
+"start_ref": "02040011",
+"start_ref_usfm": "EXO 40:11",
+"end_ref": "02040011",
+"end_ref_usfm": "EXO 40:11"
+},
+{
+"start_ref": "02040030",
+"start_ref_usfm": "EXO 40:30",
+"end_ref": "02040030",
+"end_ref_usfm": "EXO 40:30"
+},
+{
+"start_ref": "03008011",
+"start_ref_usfm": "LEV 8:11",
+"end_ref": "03008011",
+"end_ref_usfm": "LEV 8:11"
+},
+{
+"start_ref": "11007040",
+"start_ref_usfm": "1KI 7:40",
+"end_ref": "11007040",
+"end_ref_usfm": "1KI 7:40"
+},
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+},
+{
+"start_ref": "03001009",
+"start_ref_usfm": "LEV 1:9",
+"end_ref": "03001009",
+"end_ref_usfm": "LEV 1:9"
+},
+{
+"start_ref": "03001013",
+"start_ref_usfm": "LEV 1:13",
+"end_ref": "03001013",
+"end_ref_usfm": "LEV 1:13"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.4",
+"reference_id": "REALIA:4.3.4",
+"version": "1.0.4",
+"title": "Lampstand, menorah",
+"media_type": "Text",
+"index_reference": "4.3.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4\"><span class=\"thlex-key\">4.3.4</span> Lampstand, menorah</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְנוֹרָה</span> <span class=\"thlex-translit\">(mnorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>, <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>, <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a>, <a href=\"https://ref.ly/Exod25:35\">EXO 25:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>, <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>, <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:9\">NUM 4:9</a>, <a href=\"https://ref.ly/Num8:2\">NUM 8:2</a>, <a href=\"https://ref.ly/Num8:3\">NUM 8:3</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>, <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>, <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/1Chr28:15\">1CH 28:15</a>, <a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a>, <a href=\"https://ref.ly/2Chr4:20\">2CH 4:20</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/Jer52:19\">JER 52:19</a>, <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>, <a href=\"https://ref.ly/Zech4:11\">ZEC 4:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λυχνία</span> <span class=\"thlex-translit\">(luchnia)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a>, <a href=\"https://ref.ly/Sir26:17\">SIR 26:17</a>, <a href=\"https://ref.ly/1Macc1:21\">1MA 1:21</a>, <a href=\"https://ref.ly/1Macc4:49\">1MA 4:49</a>, <a href=\"https://ref.ly/1Macc4:50\">1MA 4:50</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Esd10:22\">2ES 10:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0038_lampstand_parts_en.jpg\" alt=\"Drawing showing the parts of the branch of a lampstand (menorah)\"><figcaption class=\"thlex-caption\">Drawing showing the parts of the branch of a lampstand (menorah) (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>The construction of the lampstand in the Tabernacle is discussed in <a href=\"https://ref.ly/Exod25:31-Exod25:40\">EXO 25:31–EXO 25:40</a>; <a href=\"https://ref.ly/Exod37:17-Exod37:24\">EXO 37:17–EXO 37:24</a>; <a href=\"https://ref.ly/Lev24:1-Lev24:4\">LEV 24:1–LEV 24:4</a>. It was shaped from a single block of gold and consisted of five distinct parts. These parts were the base, the shafts (or stems), and the flowerlike cups with buds and petals. The lampstand had a central shaft, which stood on a base and out of which projected six arms, making a total of seven branches. A lamp that burned oil stood on the top of each of these branches.</p>\n<p>Only one lampstand was prescribed for the Tabernacle. However, when Solomon built and furnished the Temple, he is said (<a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>; <a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a>) to have included ten lampstands. No explanation is given in the text for the increase to ten. Solomon also furnished the Temple with ten tables and ten washbasins, where only one of each was called for in the Tabernacle. One Jewish tradition says that the ten lampstands were in addition to the single prescribed lampstand and that their location “to the right” and “to the left” meant to the right and left of the single holy lampstand. We have no indication that the structure of the lampstand changed in Solomon’s time, and the ten lampstands which he made probably looked like the one described for the Tabernacle.</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0037_lampstand_parts_en.jpg\" alt=\"OAI-0037_lampstand_parts_en\"></figure>For the basic functioning of oil lamps, see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 Oil lamp and wick&lt;REALIA:5.1&gt;</a> and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.2 Lampstand&lt;REALIA:5.2&gt;</a>.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Since there is no special word for “lampstand” in many cultures, it may have to be translated “lamp holder” or “thing on which lamps are placed.” It should be emphasized that this object did not hold candles but oil lamps (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 Oil lamp and wick&lt;REALIA:5.1&gt;</a>).</p>\n<p>The lampstand (<em>mnorah</em> in Hebrew) is mostly described in terms of flower parts. Knowing this may be helpful when seeking for appropriate terms to translate the individual parts of the lampstand. The flowerlike parts included “stems,” “buds” or “calyxes,” and “cups,” which were like the heads of open flowers. <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr> includes the following useful footnote: “The terms used in the Hebrew text are difficult to interpret. It has been suggested that the decorations of the lampstand were taken from the world of plants and flowers.”</p>\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/OAI-0008_levite_lampstand.png\" alt=\"Levite lighting seven-branched lampstand in the temple\"><figcaption class=\"thlex-caption\">Levite lighting seven-branched lampstand in the temple (Image generated by ChatGPT using OpenAI technology)</figcaption></figure>In <a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, where the parts of the lampstand are listed, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> has simply “The whole lampstand, including its decorative flowers, must be made of a single piece of hammered gold.” <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> is even more condensed with “It must be made with all of its parts from one piece [of gold].” This solution may be adopted by some translations for this verse, although it will still be necessary to translate individual parts of the lampstand in the verses that follow.</p>\n<p>\n            <a href=\"https://ref.ly/Lev24:4\">LEV 24:4</a>: In this verse the Hebrew text literally speaks of “the pure lampstand” (so <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), which possibly refers to the sacred character or ritual cleanness of the lampstand without reference to the gold of which it was made. <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr>, for example, has “the lamp-stand, ritually clean.” But the majority of versions (for example, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) take it to mean “the pure gold lampstand.” If the “pure gold” interpretation is followed, the idea of “purity” in this case may have to be expressed as “containing no other things” or “made of nothing but [gold].” The word for “gold” may have to be borrowed in some languages (in which case, it should be explained in the glossary).</p>\n<p>The parts of the lampstand, from bottom to top, were:</p>\n<p>\n            <em>Yarek</em> (<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>; <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>; <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>): This Hebrew word refers to the “base” or “foot” on which the entire lampstand stood. In <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a> the literal phrase “from its base to it’s flowers” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) may be rendered “from top to bottom” (so <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>).</p>\n<p>\n            <em>Qaneh</em> (<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> [12 times]; <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> [12 times]): This Hebrew word literally means “reed.” In <a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> and <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> it indicates a long, straight stem of a flower. There were six of these stems on the lampstand, three on each side symmetrically, coming out of a central one, making a total of seven. <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> drops the flower image and calls them “arms.” This will be natural where a multi-branched candlestick is known, but it may sound strange where such an item is unknown.</p>\n<p>\n            <em>Gavi‘a</em> (<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>, <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>; <a href=\"https://ref.ly/Exod25:34\">EXO 25:34</a>; <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>, <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>; <a href=\"https://ref.ly/Exod37:20\">EXO 37:20</a>): This Hebrew word refers to a kind of cup at the top of each of the seven stems of the lampstand. Olive oil and wicks that burned, giving off light, were placed into the seven cups. The cups were evidently shaped like the head of a flower when it is open. <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> has “flower-like cups” (similarly <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>). <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> has simply “cups,” while <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> says “decorative flowers.”</p>\n<p>\n            <em>Kaftor</em> (<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> [8 times]; <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> [8 times]): This Hebrew word is also used to designate the “capital” (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> in <a href=\"https://ref.ly/Amos9:1\">AMO 9:1</a>) of a column (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.5 Column, pillar, capital&lt;REALIA:3.5&gt;</a>). Here it seems to indicate a kind of knob or bulb, a swelling like a ball or an egg at the joints between the branches and where the head of the flower joined the stem. Most translations maintain the flower image by rendering this word “buds” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) or “calyxes” (<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>).</p>\n<p>\n            <em>Perach</em> (<a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> [4 times]; <a href=\"https://ref.ly/Exod37:0\">EXO 37:0</a> [4 times]; <a href=\"https://ref.ly/Num8:4\">NUM 8:4</a>; <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>; <a href=\"https://ref.ly/2Chr4:21\">2CH 4:21</a>): This Hebrew word means “flower,” or more specifically “bloom,” which is the head of a flower made by the open petals. The flowers of the lampstand formed the cups. While most translations keep the flower image for this word, they vary in how they express it. Some have “petals” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>), while others say “flowers” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025031",
+"start_ref_usfm": "EXO 25:31",
+"end_ref": "02025031",
+"end_ref_usfm": "EXO 25:31"
+},
+{
+"start_ref": "02025032",
+"start_ref_usfm": "EXO 25:32",
+"end_ref": "02025032",
+"end_ref_usfm": "EXO 25:32"
+},
+{
+"start_ref": "02025033",
+"start_ref_usfm": "EXO 25:33",
+"end_ref": "02025033",
+"end_ref_usfm": "EXO 25:33"
+},
+{
+"start_ref": "02025034",
+"start_ref_usfm": "EXO 25:34",
+"end_ref": "02025034",
+"end_ref_usfm": "EXO 25:34"
+},
+{
+"start_ref": "02025035",
+"start_ref_usfm": "EXO 25:35",
+"end_ref": "02025035",
+"end_ref_usfm": "EXO 25:35"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035014",
+"start_ref_usfm": "EXO 35:14",
+"end_ref": "02035014",
+"end_ref_usfm": "EXO 35:14"
+},
+{
+"start_ref": "02037017",
+"start_ref_usfm": "EXO 37:17",
+"end_ref": "02037017",
+"end_ref_usfm": "EXO 37:17"
+},
+{
+"start_ref": "02037018",
+"start_ref_usfm": "EXO 37:18",
+"end_ref": "02037018",
+"end_ref_usfm": "EXO 37:18"
+},
+{
+"start_ref": "02037019",
+"start_ref_usfm": "EXO 37:19",
+"end_ref": "02037019",
+"end_ref_usfm": "EXO 37:19"
+},
+{
+"start_ref": "02037020",
+"start_ref_usfm": "EXO 37:20",
+"end_ref": "02037020",
+"end_ref_usfm": "EXO 37:20"
+},
+{
+"start_ref": "02039037",
+"start_ref_usfm": "EXO 39:37",
+"end_ref": "02039037",
+"end_ref_usfm": "EXO 39:37"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024004",
+"start_ref_usfm": "LEV 24:4",
+"end_ref": "03024004",
+"end_ref_usfm": "LEV 24:4"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004009",
+"start_ref_usfm": "NUM 4:9",
+"end_ref": "04004009",
+"end_ref_usfm": "NUM 4:9"
+},
+{
+"start_ref": "04008002",
+"start_ref_usfm": "NUM 8:2",
+"end_ref": "04008002",
+"end_ref_usfm": "NUM 8:2"
+},
+{
+"start_ref": "04008003",
+"start_ref_usfm": "NUM 8:3",
+"end_ref": "04008003",
+"end_ref_usfm": "NUM 8:3"
+},
+{
+"start_ref": "04008004",
+"start_ref_usfm": "NUM 8:4",
+"end_ref": "04008004",
+"end_ref_usfm": "NUM 8:4"
+},
+{
+"start_ref": "11007049",
+"start_ref_usfm": "1KI 7:49",
+"end_ref": "11007049",
+"end_ref_usfm": "1KI 7:49"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "13028015",
+"start_ref_usfm": "1CH 28:15",
+"end_ref": "13028015",
+"end_ref_usfm": "1CH 28:15"
+},
+{
+"start_ref": "14004007",
+"start_ref_usfm": "2CH 4:7",
+"end_ref": "14004007",
+"end_ref_usfm": "2CH 4:7"
+},
+{
+"start_ref": "14004020",
+"start_ref_usfm": "2CH 4:20",
+"end_ref": "14004020",
+"end_ref_usfm": "2CH 4:20"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "24052019",
+"start_ref_usfm": "JER 52:19",
+"end_ref": "24052019",
+"end_ref_usfm": "JER 52:19"
+},
+{
+"start_ref": "38004002",
+"start_ref_usfm": "ZEC 4:2",
+"end_ref": "38004002",
+"end_ref_usfm": "ZEC 4:2"
+},
+{
+"start_ref": "38004011",
+"start_ref_usfm": "ZEC 4:11",
+"end_ref": "38004011",
+"end_ref_usfm": "ZEC 4:11"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+},
+{
+"start_ref": "72026017",
+"start_ref_usfm": "SIR 26:17",
+"end_ref": "72026017",
+"end_ref_usfm": "SIR 26:17"
+},
+{
+"start_ref": "78001021",
+"start_ref_usfm": "1MA 1:21",
+"end_ref": "78001021",
+"end_ref_usfm": "1MA 1:21"
+},
+{
+"start_ref": "78004049",
+"start_ref_usfm": "1MA 4:49",
+"end_ref": "78004049",
+"end_ref_usfm": "1MA 4:49"
+},
+{
+"start_ref": "78004050",
+"start_ref_usfm": "1MA 4:50",
+"end_ref": "78004050",
+"end_ref_usfm": "1MA 4:50"
+},
+{
+"start_ref": "83010022",
+"start_ref_usfm": "2ES 10:22",
+"end_ref": "83010022",
+"end_ref_usfm": "2ES 10:22"
+},
+{
+"start_ref": "02025040",
+"start_ref_usfm": "EXO 25:40",
+"end_ref": "02025040",
+"end_ref_usfm": "EXO 25:40"
+},
+{
+"start_ref": "02037024",
+"start_ref_usfm": "EXO 37:24",
+"end_ref": "02037024",
+"end_ref_usfm": "EXO 37:24"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024001",
+"end_ref_usfm": "LEV 24:1"
+},
+{
+"start_ref": "02025000",
+"start_ref_usfm": "EXO 25:0",
+"end_ref": "02025000",
+"end_ref_usfm": "EXO 25:0"
+},
+{
+"start_ref": "02037000",
+"start_ref_usfm": "EXO 37:0",
+"end_ref": "02037000",
+"end_ref_usfm": "EXO 37:0"
+},
+{
+"start_ref": "30009001",
+"start_ref_usfm": "AMO 9:1",
+"end_ref": "30009001",
+"end_ref_usfm": "AMO 9:1"
+},
+{
+"start_ref": "14004021",
+"start_ref_usfm": "2CH 4:21",
+"end_ref": "14004021",
+"end_ref_usfm": "2CH 4:21"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 0.7514,
+"match_method": "scored",
+"preferred_label": "Lampstand"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.3.4.1",
+"reference_id": "REALIA:4.3.4.1",
+"version": "1.0.4",
+"title": "Snuffer, wick trimmer",
+"media_type": "Text",
+"index_reference": "4.3.4.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.4.1\"><span class=\"thlex-key\">4.3.4.1</span> Snuffer, wick trimmer</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מְזַמֶּרֶת</span> <span class=\"thlex-translit\">(mzamereth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs7:50\">1KI 7:50</a>, <a href=\"https://ref.ly/2Kgs12:14\">2KI 12:14</a>, <a href=\"https://ref.ly/2Kgs25:14\">2KI 25:14</a>, <a href=\"https://ref.ly/2Chr4:22\">2CH 4:22</a>, <a href=\"https://ref.ly/Jer52:18\">JER 52:18</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>A snuffer is a kind of cap placed over the burning wick of a lamp to extinguish it by cutting off the air supply. The specific ones mentioned for the Temple service would have been made of gold.</p>\n<p>A wick trimmer is a kind of scissors for cutting off the burnt part of the wick so that it makes less smoke when it burns.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Translations are divided concerning the proper identification of the Hebrew word <em>mzamereth</em>. The word could indicate some kind of musical instrument, although no translation consulted reflects this meaning. The same Hebrew root can also mean “to cut, to trim” (see <a href=\"https://ref.ly/Lev25:4\">LEV 25:4</a>), and it is on this basis that some versions (for example, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>) interpret it to mean a kind of scissors for trimming a burnt wick. Others (for example, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) take it to be a kind of cap placed over the burning wick to put it out. Another interpretation is that it was a small plate set under a lamp to catch the ashes of the wick as it burned down.</p>\n<p>In any society where oil lamps or at least extensive candle lighting is unfamiliar, it will be difficult to find a suitable term for this Hebrew word. Even something like “wick trimmers” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>) or “lamp snuffers” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) is not readily understood by modern English readers. Translators are advised to select a term that will be understood by most people and, where possible, to include a note or glossary entry describing the operation of an oil lamp (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.1 Oil lamp and wick&lt;REALIA:5.1&gt;</a>).</p>\n<p>Curtain, veil, drape: See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.14.1.6 Curtain, veil, drape&lt;REALIA:3.14.1.6&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11007050",
+"start_ref_usfm": "1KI 7:50",
+"end_ref": "11007050",
+"end_ref_usfm": "1KI 7:50"
+},
+{
+"start_ref": "12012014",
+"start_ref_usfm": "2KI 12:14",
+"end_ref": "12012014",
+"end_ref_usfm": "2KI 12:14"
+},
+{
+"start_ref": "12025014",
+"start_ref_usfm": "2KI 25:14",
+"end_ref": "12025014",
+"end_ref_usfm": "2KI 25:14"
+},
+{
+"start_ref": "14004022",
+"start_ref_usfm": "2CH 4:22",
+"end_ref": "14004022",
+"end_ref_usfm": "2CH 4:22"
+},
+{
+"start_ref": "24052018",
+"start_ref_usfm": "JER 52:18",
+"end_ref": "24052018",
+"end_ref_usfm": "JER 52:18"
+},
+{
+"start_ref": "03025004",
+"start_ref_usfm": "LEV 25:4",
+"end_ref": "03025004",
+"end_ref_usfm": "LEV 25:4"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:WickTrimmer",
+"type": "realia",
+"confidence": 0.7542,
+"match_method": "scored",
+"preferred_label": "Wick Trimmer"
+}
+]
+}
+},
+{
+"content_id": "REALIA:4.3.5",
+"reference_id": "REALIA:4.3.5",
+"version": "1.0.4",
+"title": "Table for consecrated bread",
+"media_type": "Text",
+"index_reference": "4.3.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.5\"><span class=\"thlex-key\">4.3.5</span> Table for consecrated bread</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֻׁלְחָן</span> <span class=\"thlex-translit\">(shulchan (lechem hapanim, hama‘areketh))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod25:28\">EXO 25:28</a>, <a href=\"https://ref.ly/Exod25:30\">EXO 25:30</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:13\">EXO 35:13</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:14\">EXO 37:14</a>, <a href=\"https://ref.ly/Exod37:15\">EXO 37:15</a>, <a href=\"https://ref.ly/Exod37:16\">EXO 37:16</a>, <a href=\"https://ref.ly/Exod39:36\">EXO 39:36</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:22\">EXO 40:22</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:6\">LEV 24:6</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:7\">NUM 4:7</a>, <a href=\"https://ref.ly/1Kgs7:48\">1KI 7:48</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/2Chr4:19\">2CH 4:19</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/2Chr29:18\">2CH 29:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">τράπεζα, πρόθεσις</span> <span class=\"thlex-translit\">(trapeza (tēs protheseōs))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a>, <a href=\"https://ref.ly/1Macc1:22\">1MA 1:22</a>, <a href=\"https://ref.ly/1Macc4:49\">1MA 4:49</a>, <a href=\"https://ref.ly/1Macc4:51\">1MA 4:51</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0448_showbread.jpg\" alt=\"Table with loaves of the showbread, or &#x27;bread of the presence&#x27; (Timnah Park)\"><figcaption class=\"thlex-caption\">Table with loaves of the showbread, or &#x27;bread of the presence&#x27; (Timnah Park) (© Mboesch, CC BY-SA 4.0, via Wikimedia Commons)</figcaption></figure>The construction of this table is described in <a href=\"https://ref.ly/Exod25:23-Exod25:28\">EXO 25:23–EXO 25:28</a>. The table was made of acacia wood and overlaid with gold. It was about one meter (40 inches) long, 50 centimeters (20 inches) wide, and 75 centimeters (30 inches) high. The instructions for Tabernacle furniture specify only one table for the showbread. When Solomon built the Temple, he increased the number of tables to ten, like he did with the lampstands and the washbasins. Since the instructions given to Moses on Mount Sinai were for one of each of these items, it is possible that there was only one official table with the others as a kind of decoration. In any case, the word <em>shulchan</em> is used for all of them, and the same word that was used in <a href=\"https://ref.ly/Exod25:0\">EXO 25:0</a> should be used to translate both the singular and the plural occurrences of the word in <a href=\"https://ref.ly/2Chr4:0\">2CH 4:0</a>. In <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a> there is reference to “silver tables.” These are mentioned nowhere else in the Bible, and their purpose is not given. A good rendering for these tables is “tables covered with silver.”</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <a href=\"https://ref.ly/Lev24:6\">LEV 24:6</a>: This verse has the literal phrase “the pure table” (so <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>). The problem here is identical with “the pure lampstand” in verse 4. “Pure” may refer to the gold, or it may speak of ritual purity. <abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> translates “the table, ritually clean.” The two problems should be solved in the same manner. If the “pure gold” solution is followed, it will be better to say “the table covered with pure gold” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>) rather than “the table made of pure gold” (see <a href=\"https://ref.ly/Exod25:24\">EXO 25:24</a> and <a href=\"https://ref.ly/Exod37:11\">EXO 37:11</a>).</p>\n<p>The showbread table was carried by poles inserted through rings attached to its sides. Unlike the poles used to carry the Covenant Box, the poles for other objects, such as this table, were removed after the piece of furniture was set in its appointed place. See the discussion at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">4.1 Covenant Box, Ark of the Covenant&lt;REALIA:4.1&gt;</a>.</p>\n<p>See the discussion also at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">5.7 Table for eating&lt;REALIA:5.7&gt;</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025023",
+"end_ref_usfm": "EXO 25:23"
+},
+{
+"start_ref": "02025028",
+"start_ref_usfm": "EXO 25:28",
+"end_ref": "02025028",
+"end_ref_usfm": "EXO 25:28"
+},
+{
+"start_ref": "02025030",
+"start_ref_usfm": "EXO 25:30",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035013",
+"start_ref_usfm": "EXO 35:13",
+"end_ref": "02035013",
+"end_ref_usfm": "EXO 35:13"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037010",
+"end_ref_usfm": "EXO 37:10"
+},
+{
+"start_ref": "02037014",
+"start_ref_usfm": "EXO 37:14",
+"end_ref": "02037014",
+"end_ref_usfm": "EXO 37:14"
+},
+{
+"start_ref": "02037015",
+"start_ref_usfm": "EXO 37:15",
+"end_ref": "02037015",
+"end_ref_usfm": "EXO 37:15"
+},
+{
+"start_ref": "02037016",
+"start_ref_usfm": "EXO 37:16",
+"end_ref": "02037016",
+"end_ref_usfm": "EXO 37:16"
+},
+{
+"start_ref": "02039036",
+"start_ref_usfm": "EXO 39:36",
+"end_ref": "02039036",
+"end_ref_usfm": "EXO 39:36"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040022",
+"start_ref_usfm": "EXO 40:22",
+"end_ref": "02040022",
+"end_ref_usfm": "EXO 40:22"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024006",
+"start_ref_usfm": "LEV 24:6",
+"end_ref": "03024006",
+"end_ref_usfm": "LEV 24:6"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "11007048",
+"start_ref_usfm": "1KI 7:48",
+"end_ref": "11007048",
+"end_ref_usfm": "1KI 7:48"
+},
+{
+"start_ref": "13028016",
+"start_ref_usfm": "1CH 28:16",
+"end_ref": "13028016",
+"end_ref_usfm": "1CH 28:16"
+},
+{
+"start_ref": "14004019",
+"start_ref_usfm": "2CH 4:19",
+"end_ref": "14004019",
+"end_ref_usfm": "2CH 4:19"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029018",
+"end_ref_usfm": "2CH 29:18"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+},
+{
+"start_ref": "78001022",
+"start_ref_usfm": "1MA 1:22",
+"end_ref": "78001022",
+"end_ref_usfm": "1MA 1:22"
+},
+{
+"start_ref": "78004049",
+"start_ref_usfm": "1MA 4:49",
+"end_ref": "78004049",
+"end_ref_usfm": "1MA 4:49"
+},
+{
+"start_ref": "78004051",
+"start_ref_usfm": "1MA 4:51",
+"end_ref": "78004051",
+"end_ref_usfm": "1MA 4:51"
+},
+{
+"start_ref": "02025000",
+"start_ref_usfm": "EXO 25:0",
+"end_ref": "02025000",
+"end_ref_usfm": "EXO 25:0"
+},
+{
+"start_ref": "14004000",
+"start_ref_usfm": "2CH 4:0",
+"end_ref": "14004000",
+"end_ref_usfm": "2CH 4:0"
+},
+{
+"start_ref": "02025024",
+"start_ref_usfm": "EXO 25:24",
+"end_ref": "02025024",
+"end_ref_usfm": "EXO 25:24"
+},
+{
+"start_ref": "02037011",
+"start_ref_usfm": "EXO 37:11",
+"end_ref": "02037011",
+"end_ref_usfm": "EXO 37:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.5.1",
+"reference_id": "REALIA:4.3.5.1",
+"version": "1.0.4",
+"title": "Consecrated bread, bread of the presence, showbread",
+"media_type": "Text",
+"index_reference": "4.3.5.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.5.1\"><span class=\"thlex-key\">4.3.5.1</span> Consecrated bread, bread of the presence, showbread</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לֶחֶם</span> <span class=\"thlex-translit\">(lechem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod40:23\">EXO 40:23</a>, <a href=\"https://ref.ly/1Sam21:7\">1SA 21:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לֶחֶם, פָּנֶה</span> <span class=\"thlex-translit\">(lechem hapanim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:30\">EXO 25:30</a>, <a href=\"https://ref.ly/Exod35:13\">EXO 35:13</a>, <a href=\"https://ref.ly/Exod39:36\">EXO 39:36</a>, <a href=\"https://ref.ly/1Sam21:7\">1SA 21:7</a>, <a href=\"https://ref.ly/1Kgs7:48\">1KI 7:48</a>, <a href=\"https://ref.ly/2Chr4:19\">2CH 4:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לֶחֶם, מַעֲרֶכֶת</span> <span class=\"thlex-translit\">(lechem hama‘areketh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr9:32\">1CH 9:32</a>, <a href=\"https://ref.ly/1Chr23:29\">1CH 23:29</a>, <a href=\"https://ref.ly/Neh10:34\">NEH 10:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לֶחֶם, קֹדֶשׁ</span> <span class=\"thlex-translit\">(lechem qodesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam21:5\">1SA 21:5</a>, <a href=\"https://ref.ly/1Sam21:5\">1SA 21:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַעֲרֶכֶת</span> <span class=\"thlex-translit\">(ma‘areketh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/2Chr2:3\">2CH 2:3</a>, <a href=\"https://ref.ly/2Chr29:18\">2CH 29:18</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מַעֲרֶכֶת, לֶחֶם</span> <span class=\"thlex-translit\">(ma‘areketh lechem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פָּנֶה</span> <span class=\"thlex-translit\">(panim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num4:7\">NUM 4:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קֹדֶשׁ</span> <span class=\"thlex-translit\">(qodesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam21:7\">1SA 21:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἄρτος</span> <span class=\"thlex-translit\">(artos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc4:51\">1MA 4:51</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἄρτος, πρόθεσις</span> <span class=\"thlex-translit\">(artoi tēs protheseōs)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:4\">MAT 12:4</a>, <a href=\"https://ref.ly/Mark2:26\">MRK 2:26</a>, <a href=\"https://ref.ly/Luke6:4\">LUK 6:4</a>, <a href=\"https://ref.ly/2Macc10:3\">2MA 10:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πρόθεσις</span> <span class=\"thlex-translit\">(prothesis)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc1:22\">1MA 1:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">πρόθεσις, ἄρτος</span> <span class=\"thlex-translit\">(prothesis tōn artōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description and usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The showbread was set out as an offering in the presence of God in the Tabernacle and later in the Temple. The size and shape of the bread is not given in Scripture, although there is a detailed description of it in Jewish literature from the time of the New Testament.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The term “showbread” is an English attempt at translating what in Hebrew is literally “bread of the face/presence” or “bread laid out.” The translator should not try to reproduce the English term. In some languages “showbread” is rendered “bread placed before God” or “bread placed in the presence of God.” Others have “sacred bread” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>), “sacred loaves of bread” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), or even “special bread” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> in <a href=\"https://ref.ly/1Chr9:32\">1CH 9:32</a>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02040023",
+"start_ref_usfm": "EXO 40:23",
+"end_ref": "02040023",
+"end_ref_usfm": "EXO 40:23"
+},
+{
+"start_ref": "09021007",
+"start_ref_usfm": "1SA 21:7",
+"end_ref": "09021007",
+"end_ref_usfm": "1SA 21:7"
+},
+{
+"start_ref": "02025030",
+"start_ref_usfm": "EXO 25:30",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02035013",
+"start_ref_usfm": "EXO 35:13",
+"end_ref": "02035013",
+"end_ref_usfm": "EXO 35:13"
+},
+{
+"start_ref": "02039036",
+"start_ref_usfm": "EXO 39:36",
+"end_ref": "02039036",
+"end_ref_usfm": "EXO 39:36"
+},
+{
+"start_ref": "11007048",
+"start_ref_usfm": "1KI 7:48",
+"end_ref": "11007048",
+"end_ref_usfm": "1KI 7:48"
+},
+{
+"start_ref": "14004019",
+"start_ref_usfm": "2CH 4:19",
+"end_ref": "14004019",
+"end_ref_usfm": "2CH 4:19"
+},
+{
+"start_ref": "13009032",
+"start_ref_usfm": "1CH 9:32",
+"end_ref": "13009032",
+"end_ref_usfm": "1CH 9:32"
+},
+{
+"start_ref": "13023029",
+"start_ref_usfm": "1CH 23:29",
+"end_ref": "13023029",
+"end_ref_usfm": "1CH 23:29"
+},
+{
+"start_ref": "16010034",
+"start_ref_usfm": "NEH 10:34",
+"end_ref": "16010034",
+"end_ref_usfm": "NEH 10:34"
+},
+{
+"start_ref": "09021005",
+"start_ref_usfm": "1SA 21:5",
+"end_ref": "09021005",
+"end_ref_usfm": "1SA 21:5"
+},
+{
+"start_ref": "13028016",
+"start_ref_usfm": "1CH 28:16",
+"end_ref": "13028016",
+"end_ref_usfm": "1CH 28:16"
+},
+{
+"start_ref": "14002003",
+"start_ref_usfm": "2CH 2:3",
+"end_ref": "14002003",
+"end_ref_usfm": "2CH 2:3"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029018",
+"end_ref_usfm": "2CH 29:18"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "78004051",
+"start_ref_usfm": "1MA 4:51",
+"end_ref": "78004051",
+"end_ref_usfm": "1MA 4:51"
+},
+{
+"start_ref": "40012004",
+"start_ref_usfm": "MAT 12:4",
+"end_ref": "40012004",
+"end_ref_usfm": "MAT 12:4"
+},
+{
+"start_ref": "41002026",
+"start_ref_usfm": "MRK 2:26",
+"end_ref": "41002026",
+"end_ref_usfm": "MRK 2:26"
+},
+{
+"start_ref": "42006004",
+"start_ref_usfm": "LUK 6:4",
+"end_ref": "42006004",
+"end_ref_usfm": "LUK 6:4"
+},
+{
+"start_ref": "79010003",
+"start_ref_usfm": "2MA 10:3",
+"end_ref": "79010003",
+"end_ref_usfm": "2MA 10:3"
+},
+{
+"start_ref": "78001022",
+"start_ref_usfm": "1MA 1:22",
+"end_ref": "78001022",
+"end_ref_usfm": "1MA 1:22"
+},
+{
+"start_ref": "58009002",
+"start_ref_usfm": "HEB 9:2",
+"end_ref": "58009002",
+"end_ref_usfm": "HEB 9:2"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:4.3.6",
+"reference_id": "REALIA:4.3.6",
+"version": "1.0.4",
+"title": "Tables for preparing sacrificial victims",
+"media_type": "Text",
+"index_reference": "4.3.6",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:4.3.6\"><span class=\"thlex-key\">4.3.6</span> Tables for preparing sacrificial victims</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֻׁלְחָן</span> <span class=\"thlex-translit\">(shulchan)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:23\">EXO 25:23</a>, <a href=\"https://ref.ly/Exod25:27\">EXO 25:27</a>, <a href=\"https://ref.ly/Exod25:28\">EXO 25:28</a>, <a href=\"https://ref.ly/Exod25:30\">EXO 25:30</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:13\">EXO 35:13</a>, <a href=\"https://ref.ly/Exod37:10\">EXO 37:10</a>, <a href=\"https://ref.ly/Exod37:14\">EXO 37:14</a>, <a href=\"https://ref.ly/Exod37:15\">EXO 37:15</a>, <a href=\"https://ref.ly/Exod37:16\">EXO 37:16</a>, <a href=\"https://ref.ly/Exod39:36\">EXO 39:36</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:22\">EXO 40:22</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Lev24:6\">LEV 24:6</a>, <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>, <a href=\"https://ref.ly/Num4:7\">NUM 4:7</a>, <a href=\"https://ref.ly/1Kgs7:48\">1KI 7:48</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/1Chr28:16\">1CH 28:16</a>, <a href=\"https://ref.ly/2Chr4:8\">2CH 4:8</a>, <a href=\"https://ref.ly/2Chr4:19\">2CH 4:19</a>, <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/2Chr29:18\">2CH 29:18</a>, <a href=\"https://ref.ly/Ezek23:41\">EZK 23:41</a>, <a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>, <a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>, <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>, <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>, <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>, <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>, <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a>, <a href=\"https://ref.ly/Ezek41:22\">EZK 41:22</a>, <a href=\"https://ref.ly/Ezek44:16\">EZK 44:16</a>, <a href=\"https://ref.ly/Mal1:7\">MAL 1:7</a>, <a href=\"https://ref.ly/Mal1:12\">MAL 1:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<h3 class=\"thlex-subheading\">\n          <strong>Hooks</strong>:</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שְׁפַתַּיִם</span> <span class=\"thlex-translit\">(shfatayim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0449_sacrifice_table.jpg\" alt=\"A table possibly for preparing sacrifices for the altar\"><figcaption class=\"thlex-caption\">A table possibly for preparing sacrifices for the altar (Gary Todd, Israel Museum, CC0, via Wikimedia Commons)</figcaption></figure>Inside and outside the vestibule of the north gate of Ezekiel’s Temple, there were a number of tables made of hewn stone. They served several purposes in the slaughter and preparation of the sacrificial victims. They were to stand at a height of 50 centimeters (20 inches), and their tops were square, 75 by 75 centimeters (30 by 30 inches). We are not told if they had legs or stood on a single pedestal. On some of the tables were kept the implements used in the slaughter, skinning, and gutting of the victims.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Unlike furniture that was prescribed for the Tabernacle, these tables do not seem to be mobile. One problem in understanding <a href=\"https://ref.ly/Ezek40:39\">EZK 40:39</a>; <a href=\"https://ref.ly/Ezek40:40\">EZK 40:40</a>; <a href=\"https://ref.ly/Ezek40:41\">EZK 40:41</a>; <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>; <a href=\"https://ref.ly/Ezek40:43\">EZK 40:43</a> has to do with the number of tables. Most translations understand that there were eight tables altogether, four inside the vestibule and four outside (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> “41 Altogether there were eight tables on which the animals to be sacrificed were killed: four inside the room and four out in the courtyard. 42 The four tables in the annex, used to prepare the offerings to be burned whole, were of cut stone …”). However, some understand that there were twelve tables altogether (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> “41 So there were four tables on one side of the gateway and four on the other—eight tables in all—on which the sacrifices were slaughtered. 42 There were also four tables of dressed stone for the burnt offerings …”).</p>\n<p>Verse 43 presents the translator with a couple of interrelated problems. The meaning of the Hebrew word <em>shfatayim</em> is not certain. With a small change of its first letter, some versions take it to mean a “ledges/shelves” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>). Others understand it to mean “hooks” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>). In addition to its meaning, its location is also problematic. The Hebrew text (in the middle of describing the tables) says it was “inside all around.” If this means all around the tables, it makes little sense (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> “Shelves … were attached all around the inside”). How can we visualize shelves around the inside of the table? <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> simply ignores the word for “inside” and says “Ledges 3 inches wide ran around the edge of the tables.” Some have avoided the problem by assuming that “all around” refers to the walls of the vestibule rather than the tables (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “All around the walls of this room was a three inch shelf”). It is difficult to see the purpose of such a narrow shelf, if indeed it served any purpose at all. Rendering <em>shfatayim</em> as “hooks” solves only part of the problems. The length of 75 millimeters (3 inches) would be reasonable for a hook. The problem of “all around inside” the tables is the same for hooks as it is for shelves. However, if “Hooks were anchored in the wall all around” (<abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>), then we can imagine several possible purposes for such hooks. They could have been used for hanging the work implements, or (as suggested by Jewish tradition) they could have been for hanging the freshly-slaughtered victim while its skin was removed (something that is difficult to do while it lies on a table). The form of the word <em>shfatayim</em> suggests something doubled, so <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> has “double-pronged hooks.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025023",
+"end_ref_usfm": "EXO 25:23"
+},
+{
+"start_ref": "02025027",
+"start_ref_usfm": "EXO 25:27",
+"end_ref": "02025027",
+"end_ref_usfm": "EXO 25:27"
+},
+{
+"start_ref": "02025028",
+"start_ref_usfm": "EXO 25:28",
+"end_ref": "02025028",
+"end_ref_usfm": "EXO 25:28"
+},
+{
+"start_ref": "02025030",
+"start_ref_usfm": "EXO 25:30",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02026035",
+"start_ref_usfm": "EXO 26:35",
+"end_ref": "02026035",
+"end_ref_usfm": "EXO 26:35"
+},
+{
+"start_ref": "02030027",
+"start_ref_usfm": "EXO 30:27",
+"end_ref": "02030027",
+"end_ref_usfm": "EXO 30:27"
+},
+{
+"start_ref": "02031008",
+"start_ref_usfm": "EXO 31:8",
+"end_ref": "02031008",
+"end_ref_usfm": "EXO 31:8"
+},
+{
+"start_ref": "02035013",
+"start_ref_usfm": "EXO 35:13",
+"end_ref": "02035013",
+"end_ref_usfm": "EXO 35:13"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037010",
+"end_ref_usfm": "EXO 37:10"
+},
+{
+"start_ref": "02037014",
+"start_ref_usfm": "EXO 37:14",
+"end_ref": "02037014",
+"end_ref_usfm": "EXO 37:14"
+},
+{
+"start_ref": "02037015",
+"start_ref_usfm": "EXO 37:15",
+"end_ref": "02037015",
+"end_ref_usfm": "EXO 37:15"
+},
+{
+"start_ref": "02037016",
+"start_ref_usfm": "EXO 37:16",
+"end_ref": "02037016",
+"end_ref_usfm": "EXO 37:16"
+},
+{
+"start_ref": "02039036",
+"start_ref_usfm": "EXO 39:36",
+"end_ref": "02039036",
+"end_ref_usfm": "EXO 39:36"
+},
+{
+"start_ref": "02040004",
+"start_ref_usfm": "EXO 40:4",
+"end_ref": "02040004",
+"end_ref_usfm": "EXO 40:4"
+},
+{
+"start_ref": "02040022",
+"start_ref_usfm": "EXO 40:22",
+"end_ref": "02040022",
+"end_ref_usfm": "EXO 40:22"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "03024006",
+"start_ref_usfm": "LEV 24:6",
+"end_ref": "03024006",
+"end_ref_usfm": "LEV 24:6"
+},
+{
+"start_ref": "04003031",
+"start_ref_usfm": "NUM 3:31",
+"end_ref": "04003031",
+"end_ref_usfm": "NUM 3:31"
+},
+{
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "11007048",
+"start_ref_usfm": "1KI 7:48",
+"end_ref": "11007048",
+"end_ref_usfm": "1KI 7:48"
+},
+{
+"start_ref": "13028016",
+"start_ref_usfm": "1CH 28:16",
+"end_ref": "13028016",
+"end_ref_usfm": "1CH 28:16"
+},
+{
+"start_ref": "14004008",
+"start_ref_usfm": "2CH 4:8",
+"end_ref": "14004008",
+"end_ref_usfm": "2CH 4:8"
+},
+{
+"start_ref": "14004019",
+"start_ref_usfm": "2CH 4:19",
+"end_ref": "14004019",
+"end_ref_usfm": "2CH 4:19"
+},
+{
+"start_ref": "14013011",
+"start_ref_usfm": "2CH 13:11",
+"end_ref": "14013011",
+"end_ref_usfm": "2CH 13:11"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029018",
+"end_ref_usfm": "2CH 29:18"
+},
+{
+"start_ref": "26023041",
+"start_ref_usfm": "EZK 23:41",
+"end_ref": "26023041",
+"end_ref_usfm": "EZK 23:41"
+},
+{
+"start_ref": "26040039",
+"start_ref_usfm": "EZK 40:39",
+"end_ref": "26040039",
+"end_ref_usfm": "EZK 40:39"
+},
+{
+"start_ref": "26040040",
+"start_ref_usfm": "EZK 40:40",
+"end_ref": "26040040",
+"end_ref_usfm": "EZK 40:40"
+},
+{
+"start_ref": "26040041",
+"start_ref_usfm": "EZK 40:41",
+"end_ref": "26040041",
+"end_ref_usfm": "EZK 40:41"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "26040043",
+"start_ref_usfm": "EZK 40:43",
+"end_ref": "26040043",
+"end_ref_usfm": "EZK 40:43"
+},
+{
+"start_ref": "26041022",
+"start_ref_usfm": "EZK 41:22",
+"end_ref": "26041022",
+"end_ref_usfm": "EZK 41:22"
+},
+{
+"start_ref": "26044016",
+"start_ref_usfm": "EZK 44:16",
+"end_ref": "26044016",
+"end_ref_usfm": "EZK 44:16"
+},
+{
+"start_ref": "39001007",
+"start_ref_usfm": "MAL 1:7",
+"end_ref": "39001007",
+"end_ref_usfm": "MAL 1:7"
+},
+{
+"start_ref": "39001012",
+"start_ref_usfm": "MAL 1:12",
+"end_ref": "39001012",
+"end_ref_usfm": "MAL 1:12"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

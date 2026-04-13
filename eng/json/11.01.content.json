@@ -1,0 +1,191 @@
+[
+{
+"content_id": "REALIA:11.1",
+"reference_id": "REALIA:11.1",
+"version": "1.0.4",
+"title": "Weights",
+"media_type": "Text",
+"index_reference": "11.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.1\"><span class=\"thlex-key\">11.1</span> Weights</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">The metric and imperial equivalents given in the tables are rounded-off approximations. While they should suffice for purposes of translation, they are not intended to present a high degree of mathematical precision.</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <strong>Old Testament:</strong>\n          </p>\n<p>Name: Talent (<em>kikar</em>)</p>\n<p>Equivalence: 60 minas</p>\n<p>Metric: 34 kilograms</p>\n<p>Imperial: 75 pounds</p>\n<p>Name: Mina (<em>maneh</em>, <em>mna</em>)</p>\n<p>Equivalence: 50 shekels</p>\n<p>Metric: 0.6 kilogram</p>\n<p>Imperial: 1.25 pounds</p>\n<p>Name: Shekel (<em>sheqel</em>)</p>\n<p>Equivalence:——</p>\n<p>Metric: 12 grams</p>\n<p>Imperial: 0.4 ounce</p>\n<p>Name: Pim (<em>pim</em>)</p>\n<p>Equivalence: 0.7 shekel</p>\n<p>Metric: 8 grams</p>\n<p>Imperial: 0.3 ounce</p>\n<p>Name: Beqa (<em>beqa‘</em>)</p>\n<p>Equivalence: 0.5 shekel</p>\n<p>Metric: 6 grams</p>\n<p>Imperial: 0.2 ounce</p>\n<p>Name: Gerah (<em>gerah</em>)</p>\n<p>Equivalence: 0.05 shekel</p>\n<p>Metric: 0.6 gram</p>\n<p>Imperial: 0.02 ounce</p>\n<p>\n            <strong>New Testament and Deuterocanon:</strong>\n          </p>\n<p>Name: Talent (<em>talanton</em>)</p>\n<p>Equivalence: (See <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.6 Money&lt;REALIA:11.6&gt;</a>)</p>\n<p>Name: Pound (<em>litra</em>)</p>\n<p>Equivalence:——</p>\n<p>Metric: 327 grams</p>\n<p>Imperial: 11.5 ounces</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:11.1.1",
+"reference_id": "REALIA:11.1.1",
+"version": "1.0.4",
+"title": "Gerah",
+"media_type": "Text",
+"index_reference": "11.1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.1.1\"><span class=\"thlex-key\">11.1.1</span> Gerah</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֵּרָה</span> <span class=\"thlex-translit\">(gerah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:13\">EXO 30:13</a>, <a href=\"https://ref.ly/Lev27:25\">LEV 27:25</a>, <a href=\"https://ref.ly/Num3:47\">NUM 3:47</a>, <a href=\"https://ref.ly/Num18:16\">NUM 18:16</a>, <a href=\"https://ref.ly/Ezek45:12\">EZK 45:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">In all of these references, the <em>gerah</em> only appears as a definition of the shekel, of which it is 1/20; that is, the <em>gerah</em> has no significance apart from the shekel. If the name “shekel” is retained in translation, then the name “gerah” may also be kept. If the word “shekel” is translated, it may still be possible to retain the word “gerah,” because you will just be saying it is 1/20 of the unit used for “shekel.”</h2>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030013",
+"start_ref_usfm": "EXO 30:13",
+"end_ref": "02030013",
+"end_ref_usfm": "EXO 30:13"
+},
+{
+"start_ref": "03027025",
+"start_ref_usfm": "LEV 27:25",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
+"start_ref": "04003047",
+"start_ref_usfm": "NUM 3:47",
+"end_ref": "04003047",
+"end_ref_usfm": "NUM 3:47"
+},
+{
+"start_ref": "04018016",
+"start_ref_usfm": "NUM 18:16",
+"end_ref": "04018016",
+"end_ref_usfm": "NUM 18:16"
+},
+{
+"start_ref": "26045012",
+"start_ref_usfm": "EZK 45:12",
+"end_ref": "26045012",
+"end_ref_usfm": "EZK 45:12"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Gerah",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Gerah"
+}
+]
+}
+},
+{
+"content_id": "REALIA:11.1.2",
+"reference_id": "REALIA:11.1.2",
+"version": "1.0.4",
+"title": "Beqa",
+"media_type": "Text",
+"index_reference": "11.1.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.1.2\"><span class=\"thlex-key\">11.1.2</span> Beqa</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בֶּקַע</span> <span class=\"thlex-translit\">(beqa‘)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen24:22\">GEN 24:22</a>, <a href=\"https://ref.ly/Exod38:26\">EXO 38:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">In <a href=\"https://ref.ly/Exod38:26\">EXO 38:26</a> a <em>beqa‘</em> is defined as half a shekel. In <a href=\"https://ref.ly/Gen24:22\">GEN 24:22</a> it is the weight of a gold nose ring. <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> just converts it to the shekel weight by saying “a gold nose-ring weighing a half shekel.” The <em>beqa‘</em> equals 10 gerahs.</h2>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024022",
+"start_ref_usfm": "GEN 24:22",
+"end_ref": "01024022",
+"end_ref_usfm": "GEN 24:22"
+},
+{
+"start_ref": "02038026",
+"start_ref_usfm": "EXO 38:26",
+"end_ref": "02038026",
+"end_ref_usfm": "EXO 38:26"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:11.1.3",
+"reference_id": "REALIA:11.1.3",
+"version": "1.0.4",
+"title": "Pim",
+"media_type": "Text",
+"index_reference": "11.1.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.1.3\"><span class=\"thlex-key\">11.1.3</span> Pim</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פִּים</span> <span class=\"thlex-translit\">(pim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Sam13:21\">1SA 13:21</a></div>\n</div>\n</div>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0716_pim.jpg\" alt=\"This stone weight has its name, &#x27;pim&#x27;, inscribed on it in ancient Hebrew letters\"><figcaption class=\"thlex-caption\">This stone weight has its name, &#x27;pim&#x27;, inscribed on it in ancient Hebrew letters (Funhistory, CC0, via Wikimedia Commons)</figcaption></figure>“The charge was a pim” (<em>haptsirah fim</em>): The meaning of these two Hebrew words is highly conjectural. While most translators agree with <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> that they indicate some unit of payment, others have thought that they refer to another kind of metal implement. However, the <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> rendering “file” (which would hardly need sharpening but which could itself be used to sharpen things) is surely incorrect. Archaeologists in the land of Israel have found a number of small round stone objects, each weighing about 7.5 grams (¼ ounce; that is about ⅔ of a shekel) and inscribed with the word <em>pim</em> (= <em>fim</em>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "09013021",
+"start_ref_usfm": "1SA 13:21",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:11.1.4",
+"reference_id": "REALIA:11.1.4",
+"version": "1.0.4",
+"title": "Peres, Parsin",
+"media_type": "Text",
+"index_reference": "11.1.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.1.4\"><span class=\"thlex-key\">11.1.4</span> Peres, Parsin</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Aramaic</span> <span class=\"thlex-lemma\">פְּרֵס</span> <span class=\"thlex-translit\">(peres)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan5:25\">DAN 5:25</a>, <a href=\"https://ref.ly/Dan5:28\">DAN 5:28</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">The basic meaning of the Aramaic word <em>peres</em> (plural form <em>parsin</em>) is “division,” “split,” “partition,” or “separation.” It seems in the context of <a href=\"https://ref.ly/Dan5:25-Dan5:28\">DAN 5:25–DAN 5:28</a> to indicate either half a mina or half a shekel. However, this meaning is of little significance in the narrative and does not need to be reflected either in the translation or in a note. The first sentence of <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> for these verses is a good model: “The words written there are <em>mne’</em>, which means ‘numbered,’ <em>teqel</em>, which means ‘weighed,’ and <em>parsin</em>, which means ‘divided.’ ” To this <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> adds the following footnote: “In the Aramaic text of verse 25, the words ‘mene, tekel, parsin,’ are used, and in verses 26–28 the words ‘mene, tekel, peres’ (the singular of ‘parsin’) are used. ‘Parsin’ means ‘divided,’ but ‘peres’ can mean either ‘divided’ or ‘Persia.’ ”</h2>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "27005025",
+"start_ref_usfm": "DAN 5:25",
+"end_ref": "27005025",
+"end_ref_usfm": "DAN 5:25"
+},
+{
+"start_ref": "27005028",
+"start_ref_usfm": "DAN 5:28",
+"end_ref": "27005028",
+"end_ref_usfm": "DAN 5:28"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "REALIA:11.1.5",
+"reference_id": "REALIA:11.1.5",
+"version": "1.0.4",
+"title": "Pound",
+"media_type": "Text",
+"index_reference": "11.1.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:11.1.5\"><span class=\"thlex-key\">11.1.5</span> Pound</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λίτρα</span> <span class=\"thlex-translit\">(litra)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/John12:3\">JHN 12:3</a>, <a href=\"https://ref.ly/John19:39\">JHN 19:39</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">\n          <a href=\"https://ref.ly/John12:3\">JHN 12:3</a>: In this verse the “pound” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>; <em>litra</em> in Greek) of costly ointment would have been kept in a relatively small container, something that would hold about a third of a kilogram. This corresponds to the volume of a small jar or tin can today. PV says “half a liter.”</h2>\n<div class=\"thlex-paragraphs\">\n<p>In focus here is not so much the amount of perfume but rather its high value. Translators should ensure that the amount of the ointment chosen to translate this verse would indeed be expensive (about a year’s wages; see the discussion under <em>dēnarion</em> below, <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">11.6.2.6 Drachma&lt;REALIA:11.6.2.6&gt;</a>).</p>\n<p>It may be most effective to substitute a container for the volume and begin this verse with “Mary took a bottle of very expensive perfume” (<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr>).</p>\n<p>\n            <a href=\"https://ref.ly/John19:39\">JHN 19:39</a>: <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> understands a <em>litra</em> to be equal to a pound, so at the end of this verse it has “about a hundred pounds’ weight.” This is misleading since the Roman <em>litra</em> contained only about three quarters of a modern pound. For this reason many English translations say “about 75 pounds” (so <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr><abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>). In the metric system this will be “about 30 kilos” (<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "43012003",
+"start_ref_usfm": "JHN 12:3",
+"end_ref": "43012003",
+"end_ref_usfm": "JHN 12:3"
+},
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019039",
+"end_ref_usfm": "JHN 19:39"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Pound",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Pound"
+}
+]
+}
+}
+]

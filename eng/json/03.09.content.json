@@ -1,0 +1,459 @@
+[
+{
+"content_id": "REALIA:3.9",
+"reference_id": "REALIA:3.9",
+"version": "1.0.4",
+"title": "Cistern",
+"media_type": "Text",
+"index_reference": "3.9",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; display: block; }\n.thlex-image img { max-width: 100%; height: auto; display: block; }\nfigcaption.thlex-caption { font-size: 0.85em; color: #555; font-style: italic; margin-top: 0.2em; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"REALIA:3.9\"><span class=\"thlex-key\">3.9</span> Cistern</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בֹּאר</span> <span class=\"thlex-translit\">(bo’r)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam23:20\">2SA 23:20</a>, <a href=\"https://ref.ly/Jer2:13\">JER 2:13</a>, <a href=\"https://ref.ly/Jer2:13\">JER 2:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בּוֹר</span> <span class=\"thlex-translit\">(bor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:20\">GEN 37:20</a>, <a href=\"https://ref.ly/Gen37:22\">GEN 37:22</a>, <a href=\"https://ref.ly/Gen37:24\">GEN 37:24</a>, <a href=\"https://ref.ly/Gen37:24\">GEN 37:24</a>, <a href=\"https://ref.ly/Gen37:28\">GEN 37:28</a>, <a href=\"https://ref.ly/Gen37:29\">GEN 37:29</a>, <a href=\"https://ref.ly/Gen37:29\">GEN 37:29</a>, <a href=\"https://ref.ly/Gen40:15\">GEN 40:15</a>, <a href=\"https://ref.ly/Gen41:14\">GEN 41:14</a>, <a href=\"https://ref.ly/Exod12:29\">EXO 12:29</a>, <a href=\"https://ref.ly/Exod21:33\">EXO 21:33</a>, <a href=\"https://ref.ly/Exod21:33\">EXO 21:33</a>, <a href=\"https://ref.ly/Exod21:34\">EXO 21:34</a>, <a href=\"https://ref.ly/Lev11:36\">LEV 11:36</a>, <a href=\"https://ref.ly/Deut6:11\">DEU 6:11</a>, <a href=\"https://ref.ly/1Sam13:6\">1SA 13:6</a>, <a href=\"https://ref.ly/1Sam19:22\">1SA 19:22</a>, <a href=\"https://ref.ly/2Sam23:15\">2SA 23:15</a>, <a href=\"https://ref.ly/2Sam23:16\">2SA 23:16</a>, <a href=\"https://ref.ly/2Sam23:20\">2SA 23:20</a>, <a href=\"https://ref.ly/2Kgs10:14\">2KI 10:14</a>, <a href=\"https://ref.ly/2Kgs18:31\">2KI 18:31</a>, <a href=\"https://ref.ly/1Chr11:17\">1CH 11:17</a>, <a href=\"https://ref.ly/1Chr11:18\">1CH 11:18</a>, <a href=\"https://ref.ly/1Chr11:22\">1CH 11:22</a>, <a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a>, <a href=\"https://ref.ly/Neh9:25\">NEH 9:25</a>, <a href=\"https://ref.ly/Ps7:16\">PSA 7:16</a>, <a href=\"https://ref.ly/Ps28:1\">PSA 28:1</a>, <a href=\"https://ref.ly/Ps30:4\">PSA 30:4</a>, <a href=\"https://ref.ly/Ps40:3\">PSA 40:3</a>, <a href=\"https://ref.ly/Ps88:5\">PSA 88:5</a>, <a href=\"https://ref.ly/Ps88:7\">PSA 88:7</a>, <a href=\"https://ref.ly/Ps143:7\">PSA 143:7</a>, <a href=\"https://ref.ly/Prov1:12\">PRO 1:12</a>, <a href=\"https://ref.ly/Prov5:15\">PRO 5:15</a>, <a href=\"https://ref.ly/Prov28:17\">PRO 28:17</a>, <a href=\"https://ref.ly/Eccl12:6\">ECC 12:6</a>, <a href=\"https://ref.ly/Isa14:15\">ISA 14:15</a>, <a href=\"https://ref.ly/Isa14:19\">ISA 14:19</a>, <a href=\"https://ref.ly/Isa24:22\">ISA 24:22</a>, <a href=\"https://ref.ly/Isa36:16\">ISA 36:16</a>, <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a>, <a href=\"https://ref.ly/Isa51:1\">ISA 51:1</a>, <a href=\"https://ref.ly/Jer2:13\">JER 2:13</a>, <a href=\"https://ref.ly/Jer2:13\">JER 2:13</a>, <a href=\"https://ref.ly/Jer6:7\">JER 6:7</a>, <a href=\"https://ref.ly/Jer37:16\">JER 37:16</a>, <a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>, <a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>, <a href=\"https://ref.ly/Jer38:7\">JER 38:7</a>, <a href=\"https://ref.ly/Jer38:9\">JER 38:9</a>, <a href=\"https://ref.ly/Jer38:10\">JER 38:10</a>, <a href=\"https://ref.ly/Jer38:11\">JER 38:11</a>, <a href=\"https://ref.ly/Jer38:13\">JER 38:13</a>, <a href=\"https://ref.ly/Jer41:7\">JER 41:7</a>, <a href=\"https://ref.ly/Jer41:9\">JER 41:9</a>, <a href=\"https://ref.ly/Lam3:53\">LAM 3:53</a>, <a href=\"https://ref.ly/Lam3:55\">LAM 3:55</a>, <a href=\"https://ref.ly/Ezek26:20\">EZK 26:20</a>, <a href=\"https://ref.ly/Ezek26:20\">EZK 26:20</a>, <a href=\"https://ref.ly/Ezek31:14\">EZK 31:14</a>, <a href=\"https://ref.ly/Ezek31:16\">EZK 31:16</a>, <a href=\"https://ref.ly/Ezek32:18\">EZK 32:18</a>, <a href=\"https://ref.ly/Ezek32:23\">EZK 32:23</a>, <a href=\"https://ref.ly/Ezek32:24\">EZK 32:24</a>, <a href=\"https://ref.ly/Ezek32:25\">EZK 32:25</a>, <a href=\"https://ref.ly/Ezek32:29\">EZK 32:29</a>, <a href=\"https://ref.ly/Ezek32:30\">EZK 32:30</a>, <a href=\"https://ref.ly/Zech9:11\">ZEC 9:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֵּב</span> <span class=\"thlex-translit\">(gev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer14:3\">JER 14:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀποδοχεῖον</span> <span class=\"thlex-translit\">(apodocheion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Sir50:3\">SIR 50:3</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λάκκος</span> <span class=\"thlex-translit\">(lakkos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jdt7:21\">JDT 7:21</a>, <a href=\"https://ref.ly/Jdt8:31\">JDT 8:31</a>, <a href=\"https://ref.ly/Sir50:3\">SIR 50:3</a>, <a href=\"https://ref.ly/2Macc10:37\">2MA 10:37</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">φρέαρ</span> <span class=\"thlex-translit\">(frear)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Macc7:19\">1MA 7:19</a>, <a href=\"https://ref.ly/2Macc1:19\">2MA 1:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>\n            <figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0417_cistern.jpg\" alt=\"Water cistern with plaster walls\"><figcaption class=\"thlex-caption\">Water cistern with plaster walls (© צילום:ד&quot;ר אבישי טייכר, CC BY 2.5, via Wikimedia Commons)</figcaption></figure>The cistern was a pit hollowed out of solid rock for the purpose of storing water. Cisterns could be 6 meters (20 feet) across and 6 meters (20 feet) deep or even larger. In earliest times they were hewn out of rock that did not allow water to seep through it. With the discovery how to make plaster, cisterns could be dug in many kinds of rock and then lined with plaster, which sealed any holes or cracks.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Usage:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In the land of Israel, almost all of the annual rain falls between the months of November and March. Cisterns served to store excess rainwater or water from springs that dried up in the summer. The stored water could be used during the dry months of the year.</p>\n<hr/>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>A cistern differed from a well in that a cistern received water that flowed to it from a source removed from it at some distance, while the water in a well accumulated from its immediate vicinity. It is not always clear from the context whether a well or a cistern is intended in the passages listed above; for example, in <a href=\"https://ref.ly/Neh9:25\">NEH 9:25</a><abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> have “wells,” while <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> have “cisterns.” Similar uncertainty exists for most of the above references to the Hebrew word <em>bor</em>. In some cases <em>bor</em> can refer to a “pit” that occurs naturally. This may be true of the <em>bor</em> into which Joseph was thrown by his brothers in <a href=\"https://ref.ly/Gen37:0\">GEN 37:0</a>. Some translations have “cistern” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr>, <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>), some say “well” (<abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), while others are noncommittal with “pit” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr>).</p>\n<p>It is possible to render “cistern” with a descriptive phrase such as “hollowed place in a rock for storing water.” In <a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a><abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> provides a helpful model for the clause “he dug cisterns” by expanding it as follows: “he had cisterns dug there to catch the rainwater.” In <a href=\"https://ref.ly/Jer2:13\">JER 2:13</a><abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> says “you’ve tried to collect water in cracked and leaking pits dug in the ground.”</p>\n<p>\n            <a href=\"https://ref.ly/Prov5:15\">PRO 5:15</a>: See the comments on this verse at <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"\" data-key=\"\" href=\"#\">3.8 Well&lt;REALIA:3.8&gt;</a>.</p>\n<p>\n            <a href=\"https://ref.ly/Eccl12:6\">ECC 12:6</a>: For the last clause in this verse, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> has “the wheel broken at the cistern.” This rendering is uncertain and translations differ. At the end of this verse the Hebrew text has two parallel clauses, which are literally “the jar will be shattered at the spring, and the wheel will be broken at the cistern.” Most translators and commentators understand the Hebrew word <em>galgal</em> (“wheel”) to refer to a kind of pulley that aided in lifting the water container at a well; for example, for the last clause <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> has “the pulley at the well is shattered” (similarly <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>, <abbr class=\"thlex-abbr\" title=\"Italian Common Language Version\">ITCL</abbr>). Scott points out that the parallelism demands that <em>galgal</em> correspond to <em>kad</em>, which is a clay pitcher or jar. However, in his own translation he has “the water wheel broken at the cistern” (page 254). <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> seems to reverse the last two clauses in order to follow the order of events: “the rope at the well will break, and the water jar will be shattered.” It is probably best to treat the “wheel” as a pulley. Where a pulley wheel is unknown, translators may follow the <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr> model. However, even if you follow <abbr class=\"thlex-abbr\" title=\"Good News Translation (1992)\">GNT</abbr>, a note may be necessary to explain that the rope was used to pull up a water container attached to it.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10023020",
+"start_ref_usfm": "2SA 23:20",
+"end_ref": "10023020",
+"end_ref_usfm": "2SA 23:20"
+},
+{
+"start_ref": "24002013",
+"start_ref_usfm": "JER 2:13",
+"end_ref": "24002013",
+"end_ref_usfm": "JER 2:13"
+},
+{
+"start_ref": "01037020",
+"start_ref_usfm": "GEN 37:20",
+"end_ref": "01037020",
+"end_ref_usfm": "GEN 37:20"
+},
+{
+"start_ref": "01037022",
+"start_ref_usfm": "GEN 37:22",
+"end_ref": "01037022",
+"end_ref_usfm": "GEN 37:22"
+},
+{
+"start_ref": "01037024",
+"start_ref_usfm": "GEN 37:24",
+"end_ref": "01037024",
+"end_ref_usfm": "GEN 37:24"
+},
+{
+"start_ref": "01037028",
+"start_ref_usfm": "GEN 37:28",
+"end_ref": "01037028",
+"end_ref_usfm": "GEN 37:28"
+},
+{
+"start_ref": "01037029",
+"start_ref_usfm": "GEN 37:29",
+"end_ref": "01037029",
+"end_ref_usfm": "GEN 37:29"
+},
+{
+"start_ref": "01040015",
+"start_ref_usfm": "GEN 40:15",
+"end_ref": "01040015",
+"end_ref_usfm": "GEN 40:15"
+},
+{
+"start_ref": "01041014",
+"start_ref_usfm": "GEN 41:14",
+"end_ref": "01041014",
+"end_ref_usfm": "GEN 41:14"
+},
+{
+"start_ref": "02012029",
+"start_ref_usfm": "EXO 12:29",
+"end_ref": "02012029",
+"end_ref_usfm": "EXO 12:29"
+},
+{
+"start_ref": "02021033",
+"start_ref_usfm": "EXO 21:33",
+"end_ref": "02021033",
+"end_ref_usfm": "EXO 21:33"
+},
+{
+"start_ref": "02021034",
+"start_ref_usfm": "EXO 21:34",
+"end_ref": "02021034",
+"end_ref_usfm": "EXO 21:34"
+},
+{
+"start_ref": "03011036",
+"start_ref_usfm": "LEV 11:36",
+"end_ref": "03011036",
+"end_ref_usfm": "LEV 11:36"
+},
+{
+"start_ref": "05006011",
+"start_ref_usfm": "DEU 6:11",
+"end_ref": "05006011",
+"end_ref_usfm": "DEU 6:11"
+},
+{
+"start_ref": "09013006",
+"start_ref_usfm": "1SA 13:6",
+"end_ref": "09013006",
+"end_ref_usfm": "1SA 13:6"
+},
+{
+"start_ref": "09019022",
+"start_ref_usfm": "1SA 19:22",
+"end_ref": "09019022",
+"end_ref_usfm": "1SA 19:22"
+},
+{
+"start_ref": "10023015",
+"start_ref_usfm": "2SA 23:15",
+"end_ref": "10023015",
+"end_ref_usfm": "2SA 23:15"
+},
+{
+"start_ref": "10023016",
+"start_ref_usfm": "2SA 23:16",
+"end_ref": "10023016",
+"end_ref_usfm": "2SA 23:16"
+},
+{
+"start_ref": "12010014",
+"start_ref_usfm": "2KI 10:14",
+"end_ref": "12010014",
+"end_ref_usfm": "2KI 10:14"
+},
+{
+"start_ref": "12018031",
+"start_ref_usfm": "2KI 18:31",
+"end_ref": "12018031",
+"end_ref_usfm": "2KI 18:31"
+},
+{
+"start_ref": "13011017",
+"start_ref_usfm": "1CH 11:17",
+"end_ref": "13011017",
+"end_ref_usfm": "1CH 11:17"
+},
+{
+"start_ref": "13011018",
+"start_ref_usfm": "1CH 11:18",
+"end_ref": "13011018",
+"end_ref_usfm": "1CH 11:18"
+},
+{
+"start_ref": "13011022",
+"start_ref_usfm": "1CH 11:22",
+"end_ref": "13011022",
+"end_ref_usfm": "1CH 11:22"
+},
+{
+"start_ref": "14026010",
+"start_ref_usfm": "2CH 26:10",
+"end_ref": "14026010",
+"end_ref_usfm": "2CH 26:10"
+},
+{
+"start_ref": "16009025",
+"start_ref_usfm": "NEH 9:25",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "19007016",
+"start_ref_usfm": "PSA 7:16",
+"end_ref": "19007016",
+"end_ref_usfm": "PSA 7:16"
+},
+{
+"start_ref": "19028001",
+"start_ref_usfm": "PSA 28:1",
+"end_ref": "19028001",
+"end_ref_usfm": "PSA 28:1"
+},
+{
+"start_ref": "19030004",
+"start_ref_usfm": "PSA 30:4",
+"end_ref": "19030004",
+"end_ref_usfm": "PSA 30:4"
+},
+{
+"start_ref": "19040003",
+"start_ref_usfm": "PSA 40:3",
+"end_ref": "19040003",
+"end_ref_usfm": "PSA 40:3"
+},
+{
+"start_ref": "19088005",
+"start_ref_usfm": "PSA 88:5",
+"end_ref": "19088005",
+"end_ref_usfm": "PSA 88:5"
+},
+{
+"start_ref": "19088007",
+"start_ref_usfm": "PSA 88:7",
+"end_ref": "19088007",
+"end_ref_usfm": "PSA 88:7"
+},
+{
+"start_ref": "19143007",
+"start_ref_usfm": "PSA 143:7",
+"end_ref": "19143007",
+"end_ref_usfm": "PSA 143:7"
+},
+{
+"start_ref": "20001012",
+"start_ref_usfm": "PRO 1:12",
+"end_ref": "20001012",
+"end_ref_usfm": "PRO 1:12"
+},
+{
+"start_ref": "20005015",
+"start_ref_usfm": "PRO 5:15",
+"end_ref": "20005015",
+"end_ref_usfm": "PRO 5:15"
+},
+{
+"start_ref": "20028017",
+"start_ref_usfm": "PRO 28:17",
+"end_ref": "20028017",
+"end_ref_usfm": "PRO 28:17"
+},
+{
+"start_ref": "21012006",
+"start_ref_usfm": "ECC 12:6",
+"end_ref": "21012006",
+"end_ref_usfm": "ECC 12:6"
+},
+{
+"start_ref": "23014015",
+"start_ref_usfm": "ISA 14:15",
+"end_ref": "23014015",
+"end_ref_usfm": "ISA 14:15"
+},
+{
+"start_ref": "23014019",
+"start_ref_usfm": "ISA 14:19",
+"end_ref": "23014019",
+"end_ref_usfm": "ISA 14:19"
+},
+{
+"start_ref": "23024022",
+"start_ref_usfm": "ISA 24:22",
+"end_ref": "23024022",
+"end_ref_usfm": "ISA 24:22"
+},
+{
+"start_ref": "23036016",
+"start_ref_usfm": "ISA 36:16",
+"end_ref": "23036016",
+"end_ref_usfm": "ISA 36:16"
+},
+{
+"start_ref": "23038018",
+"start_ref_usfm": "ISA 38:18",
+"end_ref": "23038018",
+"end_ref_usfm": "ISA 38:18"
+},
+{
+"start_ref": "23051001",
+"start_ref_usfm": "ISA 51:1",
+"end_ref": "23051001",
+"end_ref_usfm": "ISA 51:1"
+},
+{
+"start_ref": "24006007",
+"start_ref_usfm": "JER 6:7",
+"end_ref": "24006007",
+"end_ref_usfm": "JER 6:7"
+},
+{
+"start_ref": "24037016",
+"start_ref_usfm": "JER 37:16",
+"end_ref": "24037016",
+"end_ref_usfm": "JER 37:16"
+},
+{
+"start_ref": "24038006",
+"start_ref_usfm": "JER 38:6",
+"end_ref": "24038006",
+"end_ref_usfm": "JER 38:6"
+},
+{
+"start_ref": "24038007",
+"start_ref_usfm": "JER 38:7",
+"end_ref": "24038007",
+"end_ref_usfm": "JER 38:7"
+},
+{
+"start_ref": "24038009",
+"start_ref_usfm": "JER 38:9",
+"end_ref": "24038009",
+"end_ref_usfm": "JER 38:9"
+},
+{
+"start_ref": "24038010",
+"start_ref_usfm": "JER 38:10",
+"end_ref": "24038010",
+"end_ref_usfm": "JER 38:10"
+},
+{
+"start_ref": "24038011",
+"start_ref_usfm": "JER 38:11",
+"end_ref": "24038011",
+"end_ref_usfm": "JER 38:11"
+},
+{
+"start_ref": "24038013",
+"start_ref_usfm": "JER 38:13",
+"end_ref": "24038013",
+"end_ref_usfm": "JER 38:13"
+},
+{
+"start_ref": "24041007",
+"start_ref_usfm": "JER 41:7",
+"end_ref": "24041007",
+"end_ref_usfm": "JER 41:7"
+},
+{
+"start_ref": "24041009",
+"start_ref_usfm": "JER 41:9",
+"end_ref": "24041009",
+"end_ref_usfm": "JER 41:9"
+},
+{
+"start_ref": "25003053",
+"start_ref_usfm": "LAM 3:53",
+"end_ref": "25003053",
+"end_ref_usfm": "LAM 3:53"
+},
+{
+"start_ref": "25003055",
+"start_ref_usfm": "LAM 3:55",
+"end_ref": "25003055",
+"end_ref_usfm": "LAM 3:55"
+},
+{
+"start_ref": "26026020",
+"start_ref_usfm": "EZK 26:20",
+"end_ref": "26026020",
+"end_ref_usfm": "EZK 26:20"
+},
+{
+"start_ref": "26031014",
+"start_ref_usfm": "EZK 31:14",
+"end_ref": "26031014",
+"end_ref_usfm": "EZK 31:14"
+},
+{
+"start_ref": "26031016",
+"start_ref_usfm": "EZK 31:16",
+"end_ref": "26031016",
+"end_ref_usfm": "EZK 31:16"
+},
+{
+"start_ref": "26032018",
+"start_ref_usfm": "EZK 32:18",
+"end_ref": "26032018",
+"end_ref_usfm": "EZK 32:18"
+},
+{
+"start_ref": "26032023",
+"start_ref_usfm": "EZK 32:23",
+"end_ref": "26032023",
+"end_ref_usfm": "EZK 32:23"
+},
+{
+"start_ref": "26032024",
+"start_ref_usfm": "EZK 32:24",
+"end_ref": "26032024",
+"end_ref_usfm": "EZK 32:24"
+},
+{
+"start_ref": "26032025",
+"start_ref_usfm": "EZK 32:25",
+"end_ref": "26032025",
+"end_ref_usfm": "EZK 32:25"
+},
+{
+"start_ref": "26032029",
+"start_ref_usfm": "EZK 32:29",
+"end_ref": "26032029",
+"end_ref_usfm": "EZK 32:29"
+},
+{
+"start_ref": "26032030",
+"start_ref_usfm": "EZK 32:30",
+"end_ref": "26032030",
+"end_ref_usfm": "EZK 32:30"
+},
+{
+"start_ref": "38009011",
+"start_ref_usfm": "ZEC 9:11",
+"end_ref": "38009011",
+"end_ref_usfm": "ZEC 9:11"
+},
+{
+"start_ref": "24014003",
+"start_ref_usfm": "JER 14:3",
+"end_ref": "24014003",
+"end_ref_usfm": "JER 14:3"
+},
+{
+"start_ref": "72050003",
+"start_ref_usfm": "SIR 50:3",
+"end_ref": "72050003",
+"end_ref_usfm": "SIR 50:3"
+},
+{
+"start_ref": "69007021",
+"start_ref_usfm": "JDT 7:21",
+"end_ref": "69007021",
+"end_ref_usfm": "JDT 7:21"
+},
+{
+"start_ref": "69008031",
+"start_ref_usfm": "JDT 8:31",
+"end_ref": "69008031",
+"end_ref_usfm": "JDT 8:31"
+},
+{
+"start_ref": "79010037",
+"start_ref_usfm": "2MA 10:37",
+"end_ref": "79010037",
+"end_ref_usfm": "2MA 10:37"
+},
+{
+"start_ref": "78007019",
+"start_ref_usfm": "1MA 7:19",
+"end_ref": "78007019",
+"end_ref_usfm": "1MA 7:19"
+},
+{
+"start_ref": "79001019",
+"start_ref_usfm": "2MA 1:19",
+"end_ref": "79001019",
+"end_ref_usfm": "2MA 1:19"
+},
+{
+"start_ref": "01037000",
+"start_ref_usfm": "GEN 37:0",
+"end_ref": "01037000",
+"end_ref_usfm": "GEN 37:0"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 0.6556,
+"match_method": "scored",
+"preferred_label": "Pit"
+}
+]
+}
+}
+]
