@@ -1,0 +1,81 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "310010070141|מָזוֹר"
+            ],
+            [
+              "REALIA:1.4.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "310010110111|שְׁעָרָי",
+              "310010110112|ו"
+            ],
+            [
+              "REALIA:3.13.3.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "310010130032|שַׁעַר"
+            ],
+            [
+              "REALIA:3.13.3.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "310010110151|גוֹרָל"
+            ],
+            [
+              "REALIA:4.9"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "310010070121|לַחְמְ",
+              "310010070122|ךָ"
+            ],
+            [
+              "REALIA:9.4"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

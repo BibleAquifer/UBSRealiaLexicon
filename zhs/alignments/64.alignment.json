@@ -1,0 +1,49 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "64001013009|μέλανος"
+            ],
+            [
+              "REALIA:1.7.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "64001013011|καλάμου"
+            ],
+            [
+              "REALIA:1.7.3"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

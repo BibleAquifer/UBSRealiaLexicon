@@ -1,0 +1,169 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "49006017003|περικεφαλαίαν"
+            ],
+            [
+              "REALIA:2.9"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49006016005|θυρεὸν"
+            ],
+            [
+              "REALIA:2.10.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49006014012|θώρακα"
+            ],
+            [
+              "REALIA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49006016013|βέλη"
+            ],
+            [
+              "REALIA:2.14.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49002020010|ἀκρογωνιαίου"
+            ],
+            [
+              "REALIA:3.1.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49002014014|μεσότοιχον"
+            ],
+            [
+              "REALIA:3.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49002014016|φραγμοῦ"
+            ],
+            [
+              "REALIA:3.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49002021008|ναὸν"
+            ],
+            [
+              "REALIA:3.14.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49002016012|σταυροῦ"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49006020005|ἁλύσει"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49006015002|ὑποδησάμενοι"
+            ],
+            [
+              "REALIA:6.13"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49005018004|οἴνῳ"
+            ],
+            [
+              "REALIA:9.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49001013019|ἐσφραγίσθητε"
+            ],
+            [
+              "REALIA:10.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "49004030012|ἐσφραγίσθητε"
+            ],
+            [
+              "REALIA:10.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
