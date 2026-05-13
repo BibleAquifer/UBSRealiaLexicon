@@ -1,0 +1,89 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "52005008012|περικεφαλαίαν"
+            ],
+            [
+              "REALIA:2.9"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "52005008007|θώρακα"
+            ],
+            [
+              "REALIA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "52003011015|ὁδὸν"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "52002019008|στέφανος"
+            ],
+            [
+              "REALIA:6.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "52004016012|σάλπιγγι"
+            ],
+            [
+              "REALIA:7.3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "52004016012|σάλπιγγι"
+            ],
+            [
+              "REALIA:7.3.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

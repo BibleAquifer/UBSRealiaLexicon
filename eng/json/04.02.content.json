@@ -801,18 +801,18 @@
 "preferred_label": "Temple Altar"
 },
 {
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.6602,
-"match_method": "scored",
-"preferred_label": "Altar"
-},
-{
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "confidence": 0.6602,
 "match_method": "scored",
 "preferred_label": "Tabernacle Altar"
+},
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.6602,
+"match_method": "scored",
+"preferred_label": "Altar"
 }
 ]
 }
