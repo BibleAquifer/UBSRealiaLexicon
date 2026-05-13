@@ -1,0 +1,109 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "61001013010|σκηνώματι"
+            ],
+            [
+              "REALIA:3.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61001014008|σκηνώματός"
+            ],
+            [
+              "REALIA:3.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61002002010|ὁδὸς"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61002015003|ὁδὸν"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61002015007|ὁδῷ"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61002021008|ὁδὸν"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61002004010|σειραῖς"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "61001019012|λύχνῳ"
+            ],
+            [
+              "REALIA:5.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

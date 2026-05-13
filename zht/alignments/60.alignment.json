@@ -1,0 +1,129 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "60001018005|ἀργυρίῳ"
+            ],
+            [
+              "REALIA:1.6.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60002006010|ἀκρογωνιαῖον"
+            ],
+            [
+              "REALIA:3.1.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60002007017|κεφαλὴν"
+            ],
+            [
+              "REALIA:3.1.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60003019006|φυλακῇ"
+            ],
+            [
+              "REALIA:3.21.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60002024013|ξύλον"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60003003013|ἱματίων"
+            ],
+            [
+              "REALIA:6.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60005004010|στέφανον"
+            ],
+            [
+              "REALIA:6.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60003020013|κιβωτοῦ"
+            ],
+            [
+              "REALIA:8.1.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60003003014|κόσμος"
+            ],
+            [
+              "REALIA:10.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60003003010|χρυσίων"
+            ],
+            [
+              "REALIA:10.5"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
