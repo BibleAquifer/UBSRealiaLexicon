@@ -1,0 +1,139 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "54006001004|ζυγὸν"
+            ],
+            [
+              "REALIA:1.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54005018008|φιμώσεις"
+            ],
+            [
+              "REALIA:1.1.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54005018005|Βοῦν"
+            ],
+            [
+              "REALIA:1.1.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54003007016|παγίδα"
+            ],
+            [
+              "REALIA:1.4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54006009009|παγίδα"
+            ],
+            [
+              "REALIA:1.4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54003015017|στῦλος"
+            ],
+            [
+              "REALIA:3.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54002009021|ἱματισμῷ"
+            ],
+            [
+              "REALIA:6.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54001019012|ἐναυάγησαν"
+            ],
+            [
+              "REALIA:8.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54003008007|οἴνῳ"
+            ],
+            [
+              "REALIA:9.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54005023004|οἴνῳ"
+            ],
+            [
+              "REALIA:9.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "54002009017|χρυσίῳ"
+            ],
+            [
+              "REALIA:10.5"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

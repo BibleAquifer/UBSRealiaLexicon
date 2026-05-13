@@ -1,0 +1,209 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "59003003006|χαλινοὺς"
+            ],
+            [
+              "REALIA:1.2.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59005014016|ἐλαίῳ"
+            ],
+            [
+              "REALIA:1.15.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59005009014|θυρῶν"
+            ],
+            [
+              "REALIA:3.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002025016|ὁδῷ"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59005020008|ὁδοῦ"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002002005|συναγωγὴν"
+            ],
+            [
+              "REALIA:3.17"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002021016|θυσιαστήριον"
+            ],
+            [
+              "REALIA:4.2.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002003027|ὑποπόδιόν"
+            ],
+            [
+              "REALIA:5.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59001023020|ἐσόπτρῳ"
+            ],
+            [
+              "REALIA:5.14"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002002010|ἐσθῆτι"
+            ],
+            [
+              "REALIA:6.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002002018|ἐσθῆτι"
+            ],
+            [
+              "REALIA:6.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002003007|ἐσθῆτα"
+            ],
+            [
+              "REALIA:6.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59005002007|ἱμάτια"
+            ],
+            [
+              "REALIA:6.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59001012011|στέφανον"
+            ],
+            [
+              "REALIA:6.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59003004004|πλοῖα"
+            ],
+            [
+              "REALIA:8.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59003004015|πηδαλίου"
+            ],
+            [
+              "REALIA:8.1.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59005014016|ἐλαίῳ"
+            ],
+            [
+              "REALIA:9.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59002002008|χρυσοδακτύλιος"
+            ],
+            [
+              "REALIA:10.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

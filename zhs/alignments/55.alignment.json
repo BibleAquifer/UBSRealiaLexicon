@@ -1,0 +1,139 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "55002026007|παγίδος"
+            ],
+            [
+              "REALIA:1.4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55004013013|βιβλία"
+            ],
+            [
+              "REALIA:1.7.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55004013016|μεμβράνας"
+            ],
+            [
+              "REALIA:1.7.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55001016014|ἅλυσίν"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55002009005|δεσμῶν"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55002020008|σκεύη"
+            ],
+            [
+              "REALIA:5.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55002021009|σκεῦος"
+            ],
+            [
+              "REALIA:5.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55004013002|φαιλόνην"
+            ],
+            [
+              "REALIA:6.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55002005007|στεφανοῦται"
+            ],
+            [
+              "REALIA:6.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55004008007|στέφανος"
+            ],
+            [
+              "REALIA:6.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "55002019010|σφραγῖδα"
+            ],
+            [
+              "REALIA:10.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

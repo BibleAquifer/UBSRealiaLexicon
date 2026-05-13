@@ -1,0 +1,59 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "65001011005|ὁδῷ"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "65001006018|δεσμοῖς"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "65001023019|χιτῶνα"
+            ],
+            [
+              "REALIA:6.3"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

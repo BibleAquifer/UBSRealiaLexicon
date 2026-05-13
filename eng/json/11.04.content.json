@@ -1500,18 +1500,18 @@
 "resource": [],
 "acai": [
 {
-"id": "realia:MeasuringRod",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "scored",
-"preferred_label": "Measuring Rod"
-},
-{
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Measuring Reed"
+},
+{
+"id": "realia:MeasuringRod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Measuring Rod"
 }
 ]
 }
