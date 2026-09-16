@@ -1,0 +1,149 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "48005001011|ζυγῷ"
+            ],
+            [
+              "REALIA:1.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48003010023|βιβλίῳ"
+            ],
+            [
+              "REALIA:1.7.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48006017006|παρεχέτω"
+            ],
+            [
+              "REALIA:2.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48002009015|στῦλοι"
+            ],
+            [
+              "REALIA:3.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48003001013|ἐσταυρωμένος"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48005011016|σταυροῦ"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48005024007|ἐσταύρωσαν"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48006012013|σταυρῷ"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48006014010|σταυρῷ"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48006014020|ἐσταύρωται"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48002019011|συνεσταύρωμαι"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "48003013020|ξύλου"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
