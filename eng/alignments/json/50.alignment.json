@@ -1,0 +1,109 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "50004003027|βίβλῳ"
+            ],
+            [
+              "REALIA:1.7.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50001013012|πραιτωρίῳ"
+            ],
+            [
+              "REALIA:3.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50002008009|σταυροῦ"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50003018016|σταυροῦ"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50001007021|δεσμοῖς"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50001014010|δεσμοῖς"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50001017014|δεσμοῖς"
+            ],
+            [
+              "REALIA:3.21.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "50004001009|στέφανός"
+            ],
+            [
+              "REALIA:6.8"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

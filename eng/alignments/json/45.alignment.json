@@ -1,0 +1,219 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-realia",
+          "docid": "UBSRealiaLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "45011009012|θήραν"
+            ],
+            [
+              "REALIA:1.4.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011009015|σκάνδαλον"
+            ],
+            [
+              "REALIA:1.4.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011009009|παγίδα"
+            ],
+            [
+              "REALIA:1.4.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45008035021|μάχαιρα"
+            ],
+            [
+              "REALIA:2.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45013004019|μάχαιραν"
+            ],
+            [
+              "REALIA:2.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45003016006|ὁδοῖς"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45003017002|ὁδὸν"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011033017|ὁδοὶ"
+            ],
+            [
+              "REALIA:3.13.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45014010020|βήματι"
+            ],
+            [
+              "REALIA:3.19"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45006006008|συνεσταυρώθη"
+            ],
+            [
+              "REALIA:3.21.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011003007|θυσιαστήριά"
+            ],
+            [
+              "REALIA:4.2.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45001023010|εἰκόνος"
+            ],
+            [
+              "REALIA:4.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45003013001|τάφος"
+            ],
+            [
+              "REALIA:4.8.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45009010009|κοίτην"
+            ],
+            [
+              "REALIA:5.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45013013011|κοίταις"
+            ],
+            [
+              "REALIA:5.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011009006|τράπεζα"
+            ],
+            [
+              "REALIA:5.7"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45009021018|σκεῦος"
+            ],
+            [
+              "REALIA:5.18"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45014021008|οἶνον"
+            ],
+            [
+              "REALIA:9.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45004011005|σφραγῖδα"
+            ],
+            [
+              "REALIA:10.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
