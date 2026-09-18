@@ -723,18 +723,18 @@
 "resource": [],
 "acai": [
 {
-"id": "realia:MeasuringReed",
-"type": "realia",
-"confidence": 0.679,
-"match_method": "scored",
-"preferred_label": "Measuring Reed"
-},
-{
 "id": "realia:Thread",
 "type": "realia",
 "confidence": 0.679,
 "match_method": "scored",
 "preferred_label": "Thread"
+},
+{
+"id": "realia:MeasuringReed",
+"type": "realia",
+"confidence": 0.679,
+"match_method": "scored",
+"preferred_label": "Measuring Reed"
 }
 ]
 }
