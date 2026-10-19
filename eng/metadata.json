@@ -45,7 +45,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-19T09:36:19.907708"
+"dateCreated": "2026-10-19T10:27:24.736641"
 },
 "idAuthorities": {
 "aquifer": {
@@ -59,7 +59,7 @@
 "primary": {
 "aquifer": {
 "UBSRealiaLexicon": {
-"timestamp": "2026-10-19T09:36:19.907708"
+"timestamp": "2026-10-19T10:27:24.736641"
 }
 }
 },
