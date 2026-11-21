@@ -1373,7 +1373,7 @@
 "type": "realia",
 "confidence": 0.7135,
 "match_method": "scored",
-"preferred_label": "Tassel"
+"preferred_label": "繸子"
 }
 ]
 }
@@ -1464,7 +1464,7 @@
 "type": "realia",
 "confidence": 0.9636,
 "match_method": "scored",
-"preferred_label": "Train"
+"preferred_label": "衣襟"
 }
 ]
 }

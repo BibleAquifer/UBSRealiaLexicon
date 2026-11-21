@@ -203,7 +203,7 @@
 "type": "realia",
 "confidence": 0.8286,
 "match_method": "scored",
-"preferred_label": "Balance"
+"preferred_label": "天平"
 }
 ]
 }
@@ -2525,7 +2525,7 @@
 "type": "realia",
 "confidence": 0.6794,
 "match_method": "scored",
-"preferred_label": "Money"
+"preferred_label": "金錢"
 }
 ]
 }
@@ -2574,7 +2574,7 @@
 "type": "realia",
 "confidence": 0.6435,
 "match_method": "scored",
-"preferred_label": "Temple"
+"preferred_label": "聖殿"
 }
 ]
 }

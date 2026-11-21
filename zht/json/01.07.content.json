@@ -1613,7 +1613,7 @@
 "type": "realia",
 "confidence": 0.7205,
 "match_method": "scored",
-"preferred_label": "Scroll"
+"preferred_label": "書卷"
 }
 ]
 }
@@ -1662,14 +1662,14 @@
 "type": "realia",
 "confidence": 0.9,
 "match_method": "scored",
-"preferred_label": "Ink"
+"preferred_label": "墨"
 },
 {
 "id": "realia:WritingCase",
 "type": "realia",
 "confidence": 0.7,
 "match_method": "scored",
-"preferred_label": "Writing Case"
+"preferred_label": "墨盒子"
 }
 ]
 }
@@ -1718,14 +1718,14 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Pen"
+"preferred_label": "筆"
 },
 {
 "id": "realia:WritingCase",
 "type": "realia",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Writing Case"
+"preferred_label": "墨盒子"
 }
 ]
 }
@@ -1768,14 +1768,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Writing Case"
+"preferred_label": "墨盒子"
 },
 {
 "id": "realia:Linen",
 "type": "realia",
 "confidence": 0.58,
 "match_method": "scored",
-"preferred_label": "Linen"
+"preferred_label": "細麻布"
 }
 ]
 }
@@ -1818,7 +1818,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Stylus"
+"preferred_label": "鐵筆"
 }
 ]
 }
@@ -2088,7 +2088,7 @@
 "type": "realia",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Paper"
+"preferred_label": "紙"
 }
 ]
 }
@@ -2119,7 +2119,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Parchment"
+"preferred_label": "皮卷"
 }
 ]
 }

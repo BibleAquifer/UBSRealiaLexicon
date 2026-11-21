@@ -47,14 +47,14 @@
 "type": "flora",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Hammada"
+"preferred_label": "含生草"
 },
 {
 "id": "realia:Soap",
 "type": "realia",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Soap"
+"preferred_label": "肥皂"
 }
 ]
 }

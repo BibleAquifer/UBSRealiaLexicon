@@ -791,28 +791,28 @@
 "type": "realia",
 "confidence": 0.9619,
 "match_method": "scored",
-"preferred_label": "Stone Altar"
+"preferred_label": "石壇"
 },
 {
 "id": "realia:TempleAltar",
 "type": "realia",
 "confidence": 0.6737,
 "match_method": "scored",
-"preferred_label": "Temple Altar"
+"preferred_label": "祭壇"
 },
 {
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "confidence": 0.6602,
 "match_method": "scored",
-"preferred_label": "Tabernacle Altar"
+"preferred_label": "帳幕的壇"
 },
 {
 "id": "realia:Altar",
 "type": "realia",
 "confidence": 0.6602,
 "match_method": "scored",
-"preferred_label": "Altar"
+"preferred_label": "祭壇"
 }
 ]
 }
@@ -987,7 +987,7 @@
 "type": "realia",
 "confidence": 0.93,
 "match_method": "scored",
-"preferred_label": "Horns of Altar"
+"preferred_label": "壇角"
 }
 ]
 }
@@ -1846,28 +1846,28 @@
 "type": "realia",
 "confidence": 0.9712,
 "match_method": "scored",
-"preferred_label": "Tabernacle Altar"
+"preferred_label": "帳幕的壇"
 },
 {
 "id": "realia:TempleAltar",
 "type": "realia",
 "confidence": 0.8407,
 "match_method": "scored",
-"preferred_label": "Temple Altar"
+"preferred_label": "祭壇"
 },
 {
 "id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.6727,
 "match_method": "scored",
-"preferred_label": "Stone Altar"
+"preferred_label": "石壇"
 },
 {
 "id": "realia:Altar",
 "type": "realia",
 "confidence": 0.6502,
 "match_method": "scored",
-"preferred_label": "Altar"
+"preferred_label": "祭壇"
 }
 ]
 }
@@ -1970,7 +1970,7 @@
 "type": "realia",
 "confidence": 0.6676,
 "match_method": "scored",
-"preferred_label": "Grating"
+"preferred_label": "銅網"
 }
 ]
 }
@@ -2541,28 +2541,28 @@
 "type": "realia",
 "confidence": 0.8989,
 "match_method": "scored",
-"preferred_label": "Temple Altar"
+"preferred_label": "祭壇"
 },
 {
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "confidence": 0.6184,
 "match_method": "scored",
-"preferred_label": "Tabernacle Altar"
+"preferred_label": "帳幕的壇"
 },
 {
 "id": "realia:StoneAltar",
 "type": "realia",
 "confidence": 0.6139,
 "match_method": "scored",
-"preferred_label": "Stone Altar"
+"preferred_label": "石壇"
 },
 {
 "id": "realia:Altar",
 "type": "realia",
 "confidence": 0.5869,
 "match_method": "scored",
-"preferred_label": "Altar"
+"preferred_label": "祭壇"
 }
 ]
 }
@@ -2857,21 +2857,21 @@
 "type": "realia",
 "confidence": 0.6367,
 "match_method": "scored",
-"preferred_label": "Altar"
+"preferred_label": "祭壇"
 },
 {
 "id": "realia:HornsOfAltar",
 "type": "realia",
 "confidence": 0.6267,
 "match_method": "scored",
-"preferred_label": "Horns of Altar"
+"preferred_label": "壇角"
 },
 {
 "id": "realia:TabernacleAltar",
 "type": "realia",
 "confidence": 0.6068,
 "match_method": "scored",
-"preferred_label": "Tabernacle Altar"
+"preferred_label": "帳幕的壇"
 }
 ]
 }

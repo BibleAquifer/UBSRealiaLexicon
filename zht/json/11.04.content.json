@@ -57,7 +57,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Finger"
+"preferred_label": "指"
 }
 ]
 }
@@ -183,7 +183,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Span"
+"preferred_label": "虎口"
 }
 ]
 }
@@ -1012,7 +1012,7 @@
 "type": "realia",
 "confidence": 0.9851,
 "match_method": "scored",
-"preferred_label": "Cubit"
+"preferred_label": "肘"
 }
 ]
 }
@@ -1043,7 +1043,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Gomed"
+"preferred_label": "肘"
 }
 ]
 }
@@ -1128,21 +1128,21 @@
 "type": "realia",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Reed"
+"preferred_label": "量度的竿"
 },
 {
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 0.766,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量度的葦子"
 },
 {
 "id": "flora:Reed",
 "type": "flora",
 "confidence": 0.7015,
 "match_method": "scored",
-"preferred_label": "Reed"
+"preferred_label": "蘆葦"
 }
 ]
 }
@@ -1266,7 +1266,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Fathom"
+"preferred_label": "英尋"
 }
 ]
 }
@@ -1386,28 +1386,28 @@
 "type": "realia",
 "confidence": 0.9235,
 "match_method": "scored",
-"preferred_label": "Half a Mile"
+"preferred_label": "半英里"
 },
 {
 "id": "keyterm:HalfAMile",
 "type": "keyterm",
 "confidence": 0.7735,
 "match_method": "scored",
-"preferred_label": "Sabbath Journey"
+"preferred_label": "安息日可走的路程"
 },
 {
 "id": "place:OlivesMount",
 "type": "place",
 "confidence": 0.73,
 "match_method": "scored",
-"preferred_label": "Mount of Olives"
+"preferred_label": "橄欖山"
 },
 {
 "id": "place:Jerusalem",
 "type": "place",
 "confidence": 0.5935,
 "match_method": "scored",
-"preferred_label": "Jerusalem"
+"preferred_label": "耶路撒冷"
 }
 ]
 }
@@ -1438,7 +1438,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Mile"
+"preferred_label": "里"
 }
 ]
 }
@@ -1504,14 +1504,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Measuring Rod"
+"preferred_label": "量度的杖"
 },
 {
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量度的葦子"
 }
 ]
 }

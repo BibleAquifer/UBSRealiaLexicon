@@ -407,7 +407,7 @@
 "type": "realia",
 "confidence": 0.871,
 "match_method": "scored",
-"preferred_label": "Yoke"
+"preferred_label": "軛"
 }
 ]
 }
@@ -474,7 +474,7 @@
 "type": "realia",
 "confidence": 0.7714,
 "match_method": "scored",
-"preferred_label": "Goad"
+"preferred_label": "刺棍"
 }
 ]
 }
@@ -793,7 +793,7 @@
 "type": "realia",
 "confidence": 0.581,
 "match_method": "scored",
-"preferred_label": "Whip"
+"preferred_label": "鞭子"
 }
 ]
 }
@@ -860,7 +860,7 @@
 "type": "realia",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "To Muzzle"
+"preferred_label": "籠住嘴"
 }
 ]
 }
@@ -1130,7 +1130,7 @@
 "type": "realia",
 "confidence": 0.9,
 "match_method": "scored",
-"preferred_label": "Sickle"
+"preferred_label": "鐮刀"
 }
 ]
 }
@@ -1239,14 +1239,14 @@
 "type": "realia",
 "confidence": 0.7714,
 "match_method": "scored",
-"preferred_label": "Sheaf"
+"preferred_label": "禾捆"
 },
 {
 "id": "realia:Sickle",
 "type": "realia",
 "confidence": 0.6214,
 "match_method": "scored",
-"preferred_label": "Sickle"
+"preferred_label": "鐮刀"
 }
 ]
 }
@@ -1521,7 +1521,7 @@
 "type": "realia",
 "confidence": 0.959,
 "match_method": "scored",
-"preferred_label": "Threshing Floor"
+"preferred_label": "禾場"
 }
 ]
 }
@@ -1588,7 +1588,7 @@
 "type": "realia",
 "confidence": 0.7209,
 "match_method": "scored",
-"preferred_label": "Threshing-Sledge"
+"preferred_label": "打穀機"
 }
 ]
 }
@@ -1679,7 +1679,7 @@
 "type": "realia",
 "confidence": 0.7455,
 "match_method": "scored",
-"preferred_label": "Winnowing Fork"
+"preferred_label": "簸箕"
 }
 ]
 }
@@ -1728,7 +1728,7 @@
 "type": "realia",
 "confidence": 0.611,
 "match_method": "scored",
-"preferred_label": "Sieve"
+"preferred_label": "篩子"
 }
 ]
 }
@@ -1765,7 +1765,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Mattock"
+"preferred_label": "鶴嘴鋤"
 }
 ]
 }
@@ -1808,7 +1808,7 @@
 "type": "realia",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Hoe"
+"preferred_label": "鋤"
 }
 ]
 }
@@ -1845,7 +1845,7 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Fork"
+"preferred_label": "叉"
 }
 ]
 }
@@ -1966,7 +1966,7 @@
 "type": "realia",
 "confidence": 0.6015,
 "match_method": "scored",
-"preferred_label": "Axe"
+"preferred_label": "斧頭"
 }
 ]
 }
@@ -2015,7 +2015,7 @@
 "type": "realia",
 "confidence": 0.9,
 "match_method": "scored",
-"preferred_label": "Pruning Knife"
+"preferred_label": "修藤刀"
 }
 ]
 }
@@ -2202,14 +2202,14 @@
 "type": "realia",
 "confidence": 0.9704,
 "match_method": "scored",
-"preferred_label": "Winepress"
+"preferred_label": "壓酒池"
 },
 {
 "id": "realia:Must",
 "type": "realia",
 "confidence": 0.5544,
 "match_method": "scored",
-"preferred_label": "Must"
+"preferred_label": "新酒"
 }
 ]
 }
@@ -2288,14 +2288,14 @@
 "type": "realia",
 "confidence": 0.8222,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "樓"
 },
 {
 "id": "realia:Watch-tower",
 "type": "realia",
 "confidence": 0.5833,
 "match_method": "scored",
-"preferred_label": "Watch-Tower"
+"preferred_label": "望樓"
 }
 ]
 }
