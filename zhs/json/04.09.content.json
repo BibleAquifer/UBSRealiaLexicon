@@ -487,14 +487,14 @@
 "type": "keyterm",
 "confidence": 0.8447,
 "match_method": "scored",
-"preferred_label": "Lot"
+"preferred_label": "签（物品）"
 },
 {
 "id": "realia:Lot",
 "type": "realia",
 "confidence": 0.5883,
 "match_method": "scored",
-"preferred_label": "Lot"
+"preferred_label": "签"
 }
 ]
 }

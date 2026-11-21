@@ -817,7 +817,7 @@
 "type": "realia",
 "confidence": 0.7373,
 "match_method": "scored",
-"preferred_label": "Ship"
+"preferred_label": "船"
 }
 ]
 }
@@ -854,14 +854,14 @@
 "type": "realia",
 "confidence": 0.733,
 "match_method": "scored",
-"preferred_label": "Ship"
+"preferred_label": "船"
 },
 {
 "id": "flora:Cattails",
 "type": "flora",
 "confidence": 0.73,
 "match_method": "scored",
-"preferred_label": "Cattails"
+"preferred_label": "香蒲"
 }
 ]
 }
@@ -1113,7 +1113,7 @@
 "type": "realia",
 "confidence": 0.739,
 "match_method": "scored",
-"preferred_label": "Ship"
+"preferred_label": "船"
 }
 ]
 }
@@ -1156,7 +1156,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Mast"
+"preferred_label": "桅杆"
 }
 ]
 }
@@ -1199,7 +1199,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Sail"
+"preferred_label": "帆"
 }
 ]
 }
@@ -1248,7 +1248,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Anchor"
+"preferred_label": "锚"
 }
 ]
 }
@@ -1291,7 +1291,7 @@
 "type": "realia",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Oar"
+"preferred_label": "桨"
 }
 ]
 }
@@ -1334,7 +1334,7 @@
 "type": "realia",
 "confidence": 0.6327,
 "match_method": "scored",
-"preferred_label": "Rudder"
+"preferred_label": "舵"
 }
 ]
 }
@@ -1388,7 +1388,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Emblem"
+"preferred_label": "徽号"
 }
 ]
 }
@@ -1437,7 +1437,7 @@
 "type": "realia",
 "confidence": 0.7,
 "match_method": "scored",
-"preferred_label": "Deck"
+"preferred_label": "甲板"
 }
 ]
 }

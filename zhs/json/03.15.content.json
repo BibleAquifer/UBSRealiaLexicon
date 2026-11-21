@@ -97,7 +97,7 @@
 "type": "realia",
 "confidence": 0.5746,
 "match_method": "scored",
-"preferred_label": "Tent of Meeting"
+"preferred_label": "会幕"
 }
 ]
 }
@@ -230,14 +230,14 @@
 "type": "realia",
 "confidence": 0.8222,
 "match_method": "scored",
-"preferred_label": "Tent of Meeting"
+"preferred_label": "会幕"
 },
 {
 "id": "realia:Tent",
 "type": "realia",
 "confidence": 0.5612,
 "match_method": "scored",
-"preferred_label": "Tent"
+"preferred_label": "帐棚"
 }
 ]
 }
@@ -2056,7 +2056,7 @@
 "type": "realia",
 "confidence": 0.6121,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "圣幕"
 }
 ]
 }
@@ -2795,21 +2795,21 @@
 "type": "realia",
 "confidence": 0.6067,
 "match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "圣所"
 },
 {
 "id": "place:HolyPlace.2",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Holy Place"
+"preferred_label": "圣所"
 },
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
 "confidence": 0.5678,
 "match_method": "scored",
-"preferred_label": "Holy"
+"preferred_label": "圣洁"
 }
 ]
 }
@@ -3431,7 +3431,7 @@
 "type": "realia",
 "confidence": 0.7902,
 "match_method": "scored",
-"preferred_label": "Frame"
+"preferred_label": "木架"
 }
 ]
 }
@@ -4140,14 +4140,14 @@
 "type": "realia",
 "confidence": 0.8567,
 "match_method": "scored",
-"preferred_label": "Linen Strips"
+"preferred_label": "细麻幔幅"
 },
 {
 "id": "realia:GoatHairStrips",
 "type": "realia",
 "confidence": 0.7892,
 "match_method": "scored",
-"preferred_label": "Goat Hair Strips"
+"preferred_label": "山羊毛幔子"
 }
 ]
 }
@@ -4250,7 +4250,7 @@
 "type": "realia",
 "confidence": 0.9685,
 "match_method": "scored",
-"preferred_label": "Loop"
+"preferred_label": "扣环"
 }
 ]
 }
@@ -4335,14 +4335,14 @@
 "type": "realia",
 "confidence": 0.928,
 "match_method": "scored",
-"preferred_label": "Goat Hair Strips"
+"preferred_label": "山羊毛幔子"
 },
 {
 "id": "realia:LinenStrips",
 "type": "realia",
 "confidence": 0.6385,
 "match_method": "scored",
-"preferred_label": "Linen Strips"
+"preferred_label": "细麻幔幅"
 }
 ]
 }
@@ -5055,7 +5055,7 @@
 "type": "realia",
 "confidence": 0.7345,
 "match_method": "scored",
-"preferred_label": "Screen"
+"preferred_label": "门帘"
 }
 ]
 }
@@ -5230,7 +5230,7 @@
 "type": "realia",
 "confidence": 0.723,
 "match_method": "scored",
-"preferred_label": "Perimiter Curtain"
+"preferred_label": "院子的帷幔"
 }
 ]
 }

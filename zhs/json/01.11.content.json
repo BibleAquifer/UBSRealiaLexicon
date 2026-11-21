@@ -473,7 +473,7 @@
 "type": "realia",
 "confidence": 0.6467,
 "match_method": "scored",
-"preferred_label": "Kiln"
+"preferred_label": "窑"
 }
 ]
 }
@@ -510,7 +510,7 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Bellows"
+"preferred_label": "风箱"
 }
 ]
 }
@@ -547,7 +547,7 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Anvil"
+"preferred_label": "铁砧"
 }
 ]
 }

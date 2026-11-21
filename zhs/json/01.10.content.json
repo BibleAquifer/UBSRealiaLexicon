@@ -1379,14 +1379,14 @@
 "type": "realia",
 "confidence": 0.758,
 "match_method": "scored",
-"preferred_label": "Throne"
+"preferred_label": "宝座"
 },
 {
 "id": "place:HallOfTheThrone",
 "type": "place",
 "confidence": 0.602,
 "match_method": "scored",
-"preferred_label": "Hall of the Throne"
+"preferred_label": "宝座厅"
 }
 ]
 }
@@ -1807,14 +1807,14 @@
 "type": "realia",
 "confidence": 0.8092,
 "match_method": "scored",
-"preferred_label": "Crown"
+"preferred_label": "王冠"
 },
 {
 "id": "realia:Crown.2",
 "type": "realia",
 "confidence": 0.6615,
 "match_method": "scored",
-"preferred_label": "Crown"
+"preferred_label": "冠冕"
 }
 ]
 }
@@ -2001,14 +2001,14 @@
 "type": "realia",
 "confidence": 0.5981,
 "match_method": "scored",
-"preferred_label": "Rod"
+"preferred_label": "杖"
 },
 {
 "id": "realia:Staff",
 "type": "realia",
 "confidence": 0.5833,
 "match_method": "scored",
-"preferred_label": "Staff"
+"preferred_label": "杖"
 }
 ]
 }
@@ -2069,14 +2069,14 @@
 "type": "realia",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Anointing Flask"
+"preferred_label": "膏油瓶"
 },
 {
 "id": "realia:AnointingOil",
 "type": "realia",
 "confidence": 0.82,
 "match_method": "scored",
-"preferred_label": "Anointing Oil"
+"preferred_label": "膏油"
 }
 ]
 }
@@ -2299,7 +2299,7 @@
 "type": "realia",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Anointing Oil"
+"preferred_label": "膏油"
 }
 ]
 }

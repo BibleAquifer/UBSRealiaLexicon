@@ -325,7 +325,7 @@
 "type": "realia",
 "confidence": 0.8883,
 "match_method": "scored",
-"preferred_label": "Tent"
+"preferred_label": "帐棚"
 }
 ]
 }
@@ -541,7 +541,7 @@
 "type": "realia",
 "confidence": 0.8121,
 "match_method": "scored",
-"preferred_label": "Peg"
+"preferred_label": "橛子"
 }
 ]
 }

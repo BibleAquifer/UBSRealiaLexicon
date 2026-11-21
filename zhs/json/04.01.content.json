@@ -1171,14 +1171,14 @@
 "type": "realia",
 "confidence": 0.8479,
 "match_method": "scored",
-"preferred_label": "Ark of the Covenant"
+"preferred_label": "约柜"
 },
 {
 "id": "keyterm:CovenantBox",
 "type": "keyterm",
 "confidence": 0.8354,
 "match_method": "scored",
-"preferred_label": "Covenant Box"
+"preferred_label": "约柜"
 }
 ]
 }
@@ -1790,7 +1790,7 @@
 "type": "realia",
 "confidence": 0.8589,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "有翼活物"
 }
 ]
 }

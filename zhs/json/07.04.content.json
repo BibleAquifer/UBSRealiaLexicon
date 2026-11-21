@@ -178,7 +178,7 @@
 "type": "realia",
 "confidence": 0.92,
 "match_method": "scored",
-"preferred_label": "Cymbals"
+"preferred_label": "钹"
 }
 ]
 }
@@ -232,28 +232,28 @@
 "type": "realia",
 "confidence": 0.8335,
 "match_method": "scored",
-"preferred_label": "Shaker"
+"preferred_label": "摇响乐器"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
 "confidence": 0.6385,
 "match_method": "scored",
-"preferred_label": "LORD"
+"preferred_label": "耶和华"
 },
 {
 "id": "realia:Lute",
 "type": "realia",
 "confidence": 0.5935,
 "match_method": "scored",
-"preferred_label": "Lute"
+"preferred_label": "琵琶"
 },
 {
 "id": "person:Israel",
 "type": "person",
 "confidence": 0.589,
 "match_method": "scored",
-"preferred_label": "Israel"
+"preferred_label": "以色列"
 }
 ]
 }
@@ -284,14 +284,14 @@
 "type": "deity",
 "confidence": 0.5935,
 "match_method": "scored",
-"preferred_label": "LORD"
+"preferred_label": "耶和华"
 },
 {
 "id": "flora:JuniperTree",
 "type": "flora",
 "confidence": 0.589,
 "match_method": "scored",
-"preferred_label": "Phoenician Juniper"
+"preferred_label": "腓尼基桧"
 }
 ]
 }
@@ -436,7 +436,7 @@
 "type": "realia",
 "confidence": 0.6685,
 "match_method": "scored",
-"preferred_label": "Drum"
+"preferred_label": "鼓"
 }
 ]
 }

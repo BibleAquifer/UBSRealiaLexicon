@@ -47,7 +47,7 @@
 "type": "realia",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Brick Mold"
+"preferred_label": "砖模"
 }
 ]
 }
@@ -132,7 +132,7 @@
 "type": "realia",
 "confidence": 0.92,
 "match_method": "scored",
-"preferred_label": "Brick"
+"preferred_label": "砖"
 }
 ]
 }
@@ -283,7 +283,7 @@
 "type": "realia",
 "confidence": 0.642,
 "match_method": "scored",
-"preferred_label": "Plaster"
+"preferred_label": "石灰"
 }
 ]
 }
@@ -433,7 +433,7 @@
 "type": "realia",
 "confidence": 0.9325,
 "match_method": "scored",
-"preferred_label": "Stone Plane"
+"preferred_label": "石刨"
 }
 ]
 }
@@ -488,7 +488,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Plumb Line"
+"preferred_label": "准绳"
 }
 ]
 }
@@ -723,7 +723,7 @@
 "type": "realia",
 "confidence": 0.7372,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量苇"
 }
 ]
 }

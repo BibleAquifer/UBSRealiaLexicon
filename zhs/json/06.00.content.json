@@ -18,7 +18,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Clothing"
+"preferred_label": "衣服"
 }
 ]
 }

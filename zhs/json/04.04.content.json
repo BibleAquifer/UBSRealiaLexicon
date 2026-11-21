@@ -102,14 +102,14 @@
 "type": "realia",
 "confidence": 0.659,
 "match_method": "scored",
-"preferred_label": "Shovel"
+"preferred_label": "铲"
 },
 {
 "id": "realia:CookingPot",
 "type": "realia",
 "confidence": 0.634,
 "match_method": "scored",
-"preferred_label": "Cooking Pot"
+"preferred_label": "煮锅"
 }
 ]
 }
@@ -176,7 +176,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Fork"
+"preferred_label": "肉叉"
 }
 ]
 }
@@ -625,7 +625,7 @@
 "type": "realia",
 "confidence": 0.7369,
 "match_method": "scored",
-"preferred_label": "Shovel"
+"preferred_label": "铲"
 }
 ]
 }
@@ -704,7 +704,7 @@
 "type": "realia",
 "confidence": 0.784,
 "match_method": "scored",
-"preferred_label": "Shovel"
+"preferred_label": "铲"
 }
 ]
 }
@@ -777,7 +777,7 @@
 "type": "realia",
 "confidence": 0.7,
 "match_method": "scored",
-"preferred_label": "Censer"
+"preferred_label": "香炉"
 }
 ]
 }
@@ -1881,7 +1881,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Dish"
+"preferred_label": "盘"
 }
 ]
 }

@@ -917,7 +917,7 @@
 "type": "realia",
 "confidence": 0.5821,
 "match_method": "scored",
-"preferred_label": "Grave"
+"preferred_label": "坟墓"
 }
 ]
 }
@@ -1112,7 +1112,7 @@
 "type": "realia",
 "confidence": 0.589,
 "match_method": "scored",
-"preferred_label": "Aloes"
+"preferred_label": "沉香"
 }
 ]
 }
@@ -1155,7 +1155,7 @@
 "type": "realia",
 "confidence": 0.7195,
 "match_method": "scored",
-"preferred_label": "Bier"
+"preferred_label": "灵柩架"
 }
 ]
 }
@@ -1558,7 +1558,7 @@
 "type": "realia",
 "confidence": 0.6525,
 "match_method": "scored",
-"preferred_label": "Sackcloth"
+"preferred_label": "麻布"
 }
 ]
 }
