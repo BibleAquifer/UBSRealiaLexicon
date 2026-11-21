@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSRealiaLexicon",
-"date_created": "2026-10-19",
+"date_created": "2026-11-20",
 "language": "eng",
 "localizations": [
 "zhs",
@@ -45,7 +45,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-19T10:27:24.736641"
+"dateCreated": "2026-11-20T20:24:21.284324"
 },
 "idAuthorities": {
 "aquifer": {
@@ -59,7 +59,7 @@
 "primary": {
 "aquifer": {
 "UBSRealiaLexicon": {
-"timestamp": "2026-10-19T10:27:24.736641"
+"timestamp": "2026-11-20T20:24:21.284324"
 }
 }
 },

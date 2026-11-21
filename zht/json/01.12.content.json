@@ -155,7 +155,7 @@
 "type": "realia",
 "confidence": 0.92,
 "match_method": "scored",
-"preferred_label": "Hammer"
+"preferred_label": "錘子"
 }
 ]
 }
@@ -216,7 +216,7 @@
 "type": "realia",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Nail"
+"preferred_label": "釘子"
 }
 ]
 }
@@ -247,14 +247,14 @@
 "type": "realia",
 "confidence": 0.8515,
 "match_method": "scored",
-"preferred_label": "Chisel"
+"preferred_label": "鑿子"
 },
 {
 "id": "realia:House",
 "type": "realia",
 "confidence": 0.598,
 "match_method": "scored",
-"preferred_label": "House"
+"preferred_label": "房屋"
 }
 ]
 }
@@ -291,7 +291,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Awl"
+"preferred_label": "錐子"
 }
 ]
 }
@@ -322,7 +322,7 @@
 "type": "realia",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Saw"
+"preferred_label": "鋸"
 }
 ]
 }
@@ -353,21 +353,21 @@
 "type": "realia",
 "confidence": 0.8335,
 "match_method": "scored",
-"preferred_label": "Stylus"
+"preferred_label": "劃線筆"
 },
 {
 "id": "realia:Compass",
 "type": "realia",
 "confidence": 0.73,
 "match_method": "scored",
-"preferred_label": "Compass"
+"preferred_label": "圓尺"
 },
 {
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 0.5935,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量度的葦子"
 }
 ]
 }
@@ -398,14 +398,14 @@
 "type": "realia",
 "confidence": 0.748,
 "match_method": "scored",
-"preferred_label": "Compass"
+"preferred_label": "圓尺"
 },
 {
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 0.5845,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量度的葦子"
 }
 ]
 }

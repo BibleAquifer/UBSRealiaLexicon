@@ -514,14 +514,14 @@
 "type": "realia",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Stone Jar"
+"preferred_label": "石缸"
 },
 {
 "id": "realia:ClayJar",
 "type": "realia",
 "confidence": 0.7182,
 "match_method": "scored",
-"preferred_label": "Clay Jar"
+"preferred_label": "陶罐"
 }
 ]
 }
@@ -702,7 +702,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Clay Jar"
+"preferred_label": "陶罐"
 }
 ]
 }
@@ -733,14 +733,14 @@
 "type": "realia",
 "confidence": 0.679,
 "match_method": "scored",
-"preferred_label": "Thread"
+"preferred_label": "线"
 },
 {
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 0.679,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量苇"
 }
 ]
 }
@@ -836,7 +836,7 @@
 "type": "realia",
 "confidence": 0.829,
 "match_method": "scored",
-"preferred_label": "Alabaster Jar"
+"preferred_label": "玉瓶"
 }
 ]
 }
@@ -903,14 +903,14 @@
 "type": "realia",
 "confidence": 0.6409,
 "match_method": "scored",
-"preferred_label": "Money Box"
+"preferred_label": "钱箱"
 },
 {
 "id": "realia:Storeroom",
 "type": "realia",
 "confidence": 0.5748,
 "match_method": "scored",
-"preferred_label": "Storeroom"
+"preferred_label": "库房"
 }
 ]
 }
@@ -1331,7 +1331,7 @@
 "type": "realia",
 "confidence": 0.8121,
 "match_method": "scored",
-"preferred_label": "Basket"
+"preferred_label": "篮子"
 }
 ]
 }

@@ -53,7 +53,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Needle"
+"preferred_label": "針"
 }
 ]
 }
@@ -84,7 +84,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Broom"
+"preferred_label": "羅騰（植物）"
 }
 ]
 }
@@ -127,14 +127,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Peg"
+"preferred_label": "釘子"
 },
 {
 "id": "realia:Peg",
 "type": "realia",
 "confidence": 0.85,
 "match_method": "scored",
-"preferred_label": "Peg"
+"preferred_label": "橛子"
 }
 ]
 }
@@ -171,7 +171,7 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Birthstool"
+"preferred_label": "產凳"
 }
 ]
 }

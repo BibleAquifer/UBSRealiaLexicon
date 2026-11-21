@@ -163,14 +163,14 @@
 "type": "realia",
 "confidence": 0.7277,
 "match_method": "scored",
-"preferred_label": "Wine"
+"preferred_label": "酒"
 },
 {
 "id": "realia:StrongDrink",
 "type": "realia",
 "confidence": 0.5902,
 "match_method": "scored",
-"preferred_label": "Strong Drink"
+"preferred_label": "浓酒"
 }
 ]
 }

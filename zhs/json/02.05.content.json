@@ -445,7 +445,7 @@
 "type": "realia",
 "confidence": 0.6713,
 "match_method": "scored",
-"preferred_label": "Spear"
+"preferred_label": "矛"
 }
 ]
 }
@@ -482,14 +482,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Point of Spear"
+"preferred_label": "矛头"
 },
 {
 "id": "realia:Spear",
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Spear"
+"preferred_label": "矛"
 }
 ]
 }

@@ -81,7 +81,7 @@
 "type": "realia",
 "confidence": 0.662,
 "match_method": "scored",
-"preferred_label": "Pottery Wheel"
+"preferred_label": "輪盤"
 }
 ]
 }
@@ -325,7 +325,7 @@
 "type": "realia",
 "confidence": 0.6002,
 "match_method": "scored",
-"preferred_label": "Craftsman"
+"preferred_label": "工匠"
 }
 ]
 }
@@ -462,14 +462,14 @@
 "type": "realia",
 "confidence": 0.775,
 "match_method": "scored",
-"preferred_label": "Thread"
+"preferred_label": "線"
 },
 {
 "id": "realia:MeasuringReed",
 "type": "realia",
 "confidence": 0.677,
 "match_method": "scored",
-"preferred_label": "Measuring Reed"
+"preferred_label": "量度的葦子"
 }
 ]
 }
@@ -632,7 +632,7 @@
 "type": "realia",
 "confidence": 0.9652,
 "match_method": "scored",
-"preferred_label": "Spindle"
+"preferred_label": "紡錘"
 }
 ]
 }
@@ -687,14 +687,14 @@
 "type": "realia",
 "confidence": 0.866,
 "match_method": "scored",
-"preferred_label": "Weavers Beam"
+"preferred_label": "機軸"
 },
 {
 "id": "realia:Spear",
 "type": "realia",
 "confidence": 0.668,
 "match_method": "scored",
-"preferred_label": "Spear"
+"preferred_label": "槍"
 }
 ]
 }
@@ -737,7 +737,7 @@
 "type": "realia",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Shuttle"
+"preferred_label": "梭"
 }
 ]
 }
@@ -881,7 +881,7 @@
 "type": "realia",
 "confidence": 0.85,
 "match_method": "scored",
-"preferred_label": "Woven or Knitted Material"
+"preferred_label": "編織物"
 }
 ]
 }
@@ -1434,7 +1434,7 @@
 "type": "realia",
 "confidence": 0.9644,
 "match_method": "scored",
-"preferred_label": "Linen"
+"preferred_label": "細麻布"
 }
 ]
 }
@@ -1501,7 +1501,7 @@
 "type": "realia",
 "confidence": 0.7929,
 "match_method": "scored",
-"preferred_label": "Wool"
+"preferred_label": "羊毛"
 }
 ]
 }
@@ -1544,7 +1544,7 @@
 "type": "realia",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Silk"
+"preferred_label": "絲綢"
 }
 ]
 }
@@ -2157,14 +2157,14 @@
 "type": "realia",
 "confidence": 0.8571,
 "match_method": "scored",
-"preferred_label": "Purple Cloth"
+"preferred_label": "紫色布"
 },
 {
 "id": "realia:Linen",
 "type": "realia",
 "confidence": 0.5874,
 "match_method": "scored",
-"preferred_label": "Linen"
+"preferred_label": "細麻布"
 }
 ]
 }
@@ -2285,7 +2285,7 @@
 "type": "realia",
 "confidence": 0.842,
 "match_method": "scored",
-"preferred_label": "Embroidered Cloth"
+"preferred_label": "繡花布"
 }
 ]
 }
@@ -2334,7 +2334,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Patch"
+"preferred_label": "補釘"
 }
 ]
 }
@@ -2371,7 +2371,7 @@
 "type": "realia",
 "confidence": 0.9055,
 "match_method": "scored",
-"preferred_label": "Linen Cloth"
+"preferred_label": "大布"
 }
 ]
 }

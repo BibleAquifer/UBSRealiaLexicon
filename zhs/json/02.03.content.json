@@ -2893,7 +2893,7 @@
 "type": "realia",
 "confidence": 0.7336,
 "match_method": "scored",
-"preferred_label": "Sword"
+"preferred_label": "剑"
 }
 ]
 }
@@ -2972,7 +2972,7 @@
 "type": "realia",
 "confidence": 0.6872,
 "match_method": "scored",
-"preferred_label": "Sheath"
+"preferred_label": "刀鞘"
 }
 ]
 }

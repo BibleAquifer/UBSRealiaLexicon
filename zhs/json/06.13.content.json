@@ -259,7 +259,7 @@
 "type": "realia",
 "confidence": 0.5895,
 "match_method": "scored",
-"preferred_label": "Sandal"
+"preferred_label": "凉鞋"
 }
 ]
 }
@@ -320,7 +320,7 @@
 "type": "realia",
 "confidence": 0.8262,
 "match_method": "scored",
-"preferred_label": "Strap"
+"preferred_label": "皮带"
 }
 ]
 }

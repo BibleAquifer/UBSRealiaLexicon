@@ -371,7 +371,7 @@
 "type": "realia",
 "confidence": 0.9786,
 "match_method": "scored",
-"preferred_label": "Shekel"
+"preferred_label": "舍客勒"
 }
 ]
 }
@@ -498,7 +498,7 @@
 "type": "realia",
 "confidence": 0.8824,
 "match_method": "scored",
-"preferred_label": "Mina"
+"preferred_label": "彌那"
 }
 ]
 }
@@ -955,7 +955,7 @@
 "type": "realia",
 "confidence": 0.8444,
 "match_method": "scored",
-"preferred_label": "Talent"
+"preferred_label": "他連得"
 }
 ]
 }

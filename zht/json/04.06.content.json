@@ -1291,21 +1291,21 @@
 "type": "realia",
 "confidence": 0.6478,
 "match_method": "scored",
-"preferred_label": "Image"
+"preferred_label": "像"
 },
 {
 "id": "keyterm:DetestedThing",
 "type": "keyterm",
 "confidence": 0.5914,
 "match_method": "scored",
-"preferred_label": "Detested Thing"
+"preferred_label": "可憎之物"
 },
 {
 "id": "keyterm:Idol",
 "type": "keyterm",
 "confidence": 0.5828,
 "match_method": "scored",
-"preferred_label": "Idol"
+"preferred_label": "偶像"
 }
 ]
 }
@@ -1414,14 +1414,14 @@
 "type": "realia",
 "confidence": 0.8544,
 "match_method": "scored",
-"preferred_label": "Household Idols"
+"preferred_label": "家中的神像"
 },
 {
 "id": "deity:Teraphim",
 "type": "deity",
 "confidence": 0.7554,
 "match_method": "scored",
-"preferred_label": "Teraphim"
+"preferred_label": "神像"
 }
 ]
 }
@@ -1788,7 +1788,7 @@
 "type": "realia",
 "confidence": 0.8749,
 "match_method": "scored",
-"preferred_label": "Graven Image"
+"preferred_label": "雕刻的偶像"
 }
 ]
 }
@@ -1993,7 +1993,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Molten Image"
+"preferred_label": "鑄成的像"
 }
 ]
 }
@@ -2252,14 +2252,14 @@
 "type": "deity",
 "confidence": 0.9795,
 "match_method": "scored",
-"preferred_label": "Asherah"
+"preferred_label": "亞舍拉"
 },
 {
 "id": "realia:SacredPole",
 "type": "realia",
 "confidence": 0.9077,
 "match_method": "scored",
-"preferred_label": "Sacred Pole"
+"preferred_label": "木偶"
 }
 ]
 }
@@ -2296,7 +2296,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Sacred Cakes"
+"preferred_label": "供餅"
 }
 ]
 }
@@ -2531,7 +2531,7 @@
 "type": "realia",
 "confidence": 0.683,
 "match_method": "scored",
-"preferred_label": "Sacred Pillar"
+"preferred_label": "柱像"
 }
 ]
 }
@@ -2562,7 +2562,7 @@
 "type": "realia",
 "confidence": 0.9235,
 "match_method": "scored",
-"preferred_label": "Replica Temple"
+"preferred_label": "銀龕"
 }
 ]
 }

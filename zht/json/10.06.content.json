@@ -346,14 +346,14 @@
 "type": "flora",
 "confidence": 0.9034,
 "match_method": "scored",
-"preferred_label": "Myrrh"
+"preferred_label": "沒藥"
 },
 {
 "id": "realia:Myrrh",
 "type": "realia",
 "confidence": 0.7517,
 "match_method": "scored",
-"preferred_label": "Myrrh"
+"preferred_label": "沒藥"
 }
 ]
 }
@@ -408,14 +408,14 @@
 "type": "flora",
 "confidence": 0.7885,
 "match_method": "scored",
-"preferred_label": "Nard"
+"preferred_label": "哪噠"
 },
 {
 "id": "realia:OilOfNard",
 "type": "realia",
 "confidence": 0.76,
 "match_method": "scored",
-"preferred_label": "Oil of Nard"
+"preferred_label": "哪噠香膏"
 }
 ]
 }

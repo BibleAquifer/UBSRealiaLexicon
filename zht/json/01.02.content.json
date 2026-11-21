@@ -137,7 +137,7 @@
 "type": "realia",
 "confidence": 0.7439,
 "match_method": "scored",
-"preferred_label": "Sheepfold"
+"preferred_label": "羊圈"
 }
 ]
 }
@@ -234,7 +234,7 @@
 "type": "realia",
 "confidence": 0.7298,
 "match_method": "scored",
-"preferred_label": "Animal Pen"
+"preferred_label": "牲畜圈"
 }
 ]
 }
@@ -295,7 +295,7 @@
 "type": "realia",
 "confidence": 0.8155,
 "match_method": "scored",
-"preferred_label": "Manger"
+"preferred_label": "槽"
 }
 ]
 }
@@ -968,7 +968,7 @@
 "type": "realia",
 "confidence": 0.5668,
 "match_method": "scored",
-"preferred_label": "Rod"
+"preferred_label": "杖"
 }
 ]
 }
@@ -1100,7 +1100,7 @@
 "type": "realia",
 "confidence": 0.8154,
 "match_method": "scored",
-"preferred_label": "Bit and Bridle"
+"preferred_label": "嚼環和轡頭"
 }
 ]
 }

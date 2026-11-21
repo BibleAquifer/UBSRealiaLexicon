@@ -162,7 +162,7 @@
 "type": "realia",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Siege-Works"
+"preferred_label": "攻城工事"
 }
 ]
 }
@@ -253,7 +253,7 @@
 "type": "realia",
 "confidence": 0.7926,
 "match_method": "scored",
-"preferred_label": "Siege Ramp"
+"preferred_label": "攻城土壘"
 }
 ]
 }
@@ -302,7 +302,7 @@
 "type": "realia",
 "confidence": 0.611,
 "match_method": "scored",
-"preferred_label": "Siege Tower"
+"preferred_label": "攻城塔"
 }
 ]
 }
@@ -450,7 +450,7 @@
 "type": "realia",
 "confidence": 0.7143,
 "match_method": "scored",
-"preferred_label": "Battering-Ram"
+"preferred_label": "撞錘"
 }
 ]
 }

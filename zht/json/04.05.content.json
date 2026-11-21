@@ -178,7 +178,7 @@
 "type": "realia",
 "confidence": 0.749,
 "match_method": "scored",
-"preferred_label": "Tunic"
+"preferred_label": "內袍"
 }
 ]
 }
@@ -413,7 +413,7 @@
 "type": "realia",
 "confidence": 0.8857,
 "match_method": "scored",
-"preferred_label": "Robe"
+"preferred_label": "外袍"
 }
 ]
 }
@@ -468,7 +468,7 @@
 "type": "realia",
 "confidence": 0.653,
 "match_method": "scored",
-"preferred_label": "Jinglet"
+"preferred_label": "小鈴鐺"
 }
 ]
 }
@@ -757,14 +757,14 @@
 "type": "realia",
 "confidence": 0.9091,
 "match_method": "scored",
-"preferred_label": "Ephod"
+"preferred_label": "以弗得"
 },
 {
 "id": "person:Ephod",
 "type": "person",
 "confidence": 0.6091,
 "match_method": "scored",
-"preferred_label": "Ephod"
+"preferred_label": "以弗"
 }
 ]
 }
@@ -927,7 +927,7 @@
 "type": "realia",
 "confidence": 0.7807,
 "match_method": "scored",
-"preferred_label": "Breast-Piece"
+"preferred_label": "胸牌"
 }
 ]
 }
@@ -1000,7 +1000,7 @@
 "type": "realia",
 "confidence": 0.739,
 "match_method": "scored",
-"preferred_label": "Sash"
+"preferred_label": "腰帶"
 }
 ]
 }
@@ -1162,7 +1162,7 @@
 "type": "realia",
 "confidence": 0.7673,
 "match_method": "scored",
-"preferred_label": "Turban"
+"preferred_label": "冠冕"
 }
 ]
 }

@@ -479,7 +479,7 @@
 "type": "realia",
 "confidence": 0.7515,
 "match_method": "scored",
-"preferred_label": "Trap"
+"preferred_label": "機檻"
 }
 ]
 }
@@ -720,14 +720,14 @@
 "type": "realia",
 "confidence": 0.8111,
 "match_method": "scored",
-"preferred_label": "Net"
+"preferred_label": "網"
 },
 {
 "id": "realia:CastingNet",
 "type": "realia",
 "confidence": 0.6056,
 "match_method": "scored",
-"preferred_label": "Casting Net"
+"preferred_label": "撒網"
 }
 ]
 }
@@ -764,7 +764,7 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Cage"
+"preferred_label": "籠子"
 }
 ]
 }

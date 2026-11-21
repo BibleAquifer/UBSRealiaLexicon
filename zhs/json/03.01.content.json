@@ -199,7 +199,7 @@
 "type": "realia",
 "confidence": 0.5617,
 "match_method": "scored",
-"preferred_label": "House"
+"preferred_label": "房屋"
 }
 ]
 }
@@ -374,7 +374,7 @@
 "type": "realia",
 "confidence": 0.776,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "根基"
 }
 ]
 }
@@ -483,7 +483,7 @@
 "type": "realia",
 "confidence": 0.5975,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "房角石"
 }
 ]
 }
@@ -1784,7 +1784,7 @@
 "type": "realia",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Key"
+"preferred_label": "钥匙"
 }
 ]
 }
@@ -1827,7 +1827,7 @@
 "type": "realia",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Hinge"
+"preferred_label": "门轴"
 }
 ]
 }
@@ -1972,7 +1972,7 @@
 "type": "realia",
 "confidence": 0.94,
 "match_method": "scored",
-"preferred_label": "Doorpost"
+"preferred_label": "门框"
 }
 ]
 }
@@ -2654,7 +2654,7 @@
 "type": "realia",
 "confidence": 0.7385,
 "match_method": "scored",
-"preferred_label": "Window"
+"preferred_label": "窗户"
 }
 ]
 }
@@ -2925,7 +2925,7 @@
 "type": "realia",
 "confidence": 0.5993,
 "match_method": "scored",
-"preferred_label": "Housetop"
+"preferred_label": "屋顶"
 }
 ]
 }
@@ -2979,14 +2979,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Tile"
+"preferred_label": "瓦"
 },
 {
 "id": "realia:Housetop",
 "type": "realia",
 "confidence": 0.679,
 "match_method": "scored",
-"preferred_label": "Housetop"
+"preferred_label": "屋顶"
 }
 ]
 }
@@ -3562,7 +3562,7 @@
 "type": "realia",
 "confidence": 0.6256,
 "match_method": "scored",
-"preferred_label": "Room"
+"preferred_label": "房间"
 }
 ]
 }
@@ -3640,7 +3640,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Floor"
+"preferred_label": "地面"
 }
 ]
 }
@@ -4035,7 +4035,7 @@
 "type": "realia",
 "confidence": 0.8785,
 "match_method": "scored",
-"preferred_label": "Second Story"
+"preferred_label": "二楼"
 }
 ]
 }
@@ -4114,7 +4114,7 @@
 "type": "realia",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Inner Room"
+"preferred_label": "内室"
 }
 ]
 }
@@ -4211,7 +4211,7 @@
 "type": "realia",
 "confidence": 0.6333,
 "match_method": "scored",
-"preferred_label": "Bedroom"
+"preferred_label": "卧室"
 }
 ]
 }
@@ -4325,7 +4325,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Guest Room"
+"preferred_label": "客房"
 }
 ]
 }

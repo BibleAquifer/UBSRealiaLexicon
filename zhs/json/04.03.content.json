@@ -102,7 +102,7 @@
 "type": "realia",
 "confidence": 0.5675,
 "match_method": "scored",
-"preferred_label": "Tabernacle Altar"
+"preferred_label": "祭坛"
 }
 ]
 }
@@ -629,7 +629,7 @@
 "type": "realia",
 "confidence": 0.7514,
 "match_method": "scored",
-"preferred_label": "Lampstand"
+"preferred_label": "灯台"
 }
 ]
 }
@@ -690,7 +690,7 @@
 "type": "realia",
 "confidence": 0.7542,
 "match_method": "scored",
-"preferred_label": "Wick Trimmer"
+"preferred_label": "灯剪"
 }
 ]
 }

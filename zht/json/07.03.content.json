@@ -521,7 +521,7 @@
 "type": "realia",
 "confidence": 0.8085,
 "match_method": "scored",
-"preferred_label": "Rams Horn"
+"preferred_label": "羊角"
 }
 ]
 }
@@ -1014,7 +1014,7 @@
 "type": "realia",
 "confidence": 0.7542,
 "match_method": "scored",
-"preferred_label": "Trumpet"
+"preferred_label": "號筒"
 }
 ]
 }
@@ -1177,14 +1177,14 @@
 "type": "realia",
 "confidence": 0.7472,
 "match_method": "scored",
-"preferred_label": "Flute"
+"preferred_label": "笛"
 },
 {
 "id": "realia:Lute",
 "type": "realia",
 "confidence": 0.563,
 "match_method": "scored",
-"preferred_label": "Lute"
+"preferred_label": "琴"
 }
 ]
 }
@@ -1233,7 +1233,7 @@
 "type": "realia",
 "confidence": 0.9,
 "match_method": "scored",
-"preferred_label": "Bagpipe"
+"preferred_label": "風笛"
 }
 ]
 }

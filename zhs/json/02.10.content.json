@@ -233,7 +233,7 @@
 "type": "realia",
 "confidence": 0.7697,
 "match_method": "scored",
-"preferred_label": "Large Shield"
+"preferred_label": "大盾牌"
 }
 ]
 }
@@ -654,7 +654,7 @@
 "type": "realia",
 "confidence": 0.7905,
 "match_method": "scored",
-"preferred_label": "Small Shield"
+"preferred_label": "小盾牌"
 }
 ]
 }

@@ -1255,14 +1255,14 @@
 "type": "realia",
 "confidence": 0.9495,
 "match_method": "scored",
-"preferred_label": "Olive Oil"
+"preferred_label": "橄欖油"
 },
 {
 "id": "realia:AnointingOil",
 "type": "realia",
 "confidence": 0.9301,
 "match_method": "scored",
-"preferred_label": "Anointing Oil"
+"preferred_label": "膏油"
 }
 ]
 }

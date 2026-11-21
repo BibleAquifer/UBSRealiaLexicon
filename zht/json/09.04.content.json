@@ -2323,7 +2323,7 @@
 "type": "realia",
 "confidence": 0.6146,
 "match_method": "scored",
-"preferred_label": "Cake"
+"preferred_label": "餅"
 }
 ]
 }
@@ -3305,7 +3305,7 @@
 "type": "realia",
 "confidence": 0.8877,
 "match_method": "scored",
-"preferred_label": "Unleavened Bread"
+"preferred_label": "無酵餅"
 }
 ]
 }

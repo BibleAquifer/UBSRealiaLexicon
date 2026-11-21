@@ -1901,7 +1901,7 @@
 "type": "realia",
 "confidence": 0.6161,
 "match_method": "scored",
-"preferred_label": "Temple"
+"preferred_label": "聖殿"
 }
 ]
 }
@@ -2768,7 +2768,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Pinnacle"
+"preferred_label": "殿頂"
 }
 ]
 }
@@ -2985,7 +2985,7 @@
 "type": "realia",
 "confidence": 0.752,
 "match_method": "scored",
-"preferred_label": "Curtain"
+"preferred_label": "幔子"
 }
 ]
 }

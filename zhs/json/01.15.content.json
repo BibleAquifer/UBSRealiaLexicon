@@ -65,7 +65,7 @@
 "type": "realia",
 "confidence": 0.68,
 "match_method": "scored",
-"preferred_label": "Olive Oil"
+"preferred_label": "橄榄油"
 }
 ]
 }
@@ -108,7 +108,7 @@
 "type": "realia",
 "confidence": 0.5547,
 "match_method": "scored",
-"preferred_label": "Fig Cake"
+"preferred_label": "无花果饼"
 }
 ]
 }
@@ -139,14 +139,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Eye Salve"
+"preferred_label": "眼药"
 },
 {
 "id": "realia:Clothing",
 "type": "realia",
 "confidence": 0.58,
 "match_method": "scored",
-"preferred_label": "Clothing"
+"preferred_label": "衣服"
 }
 ]
 }
@@ -218,7 +218,7 @@
 "type": "realia",
 "confidence": 0.8425,
 "match_method": "scored",
-"preferred_label": "Myrrhed Wine"
+"preferred_label": "没药调和的酒"
 }
 ]
 }

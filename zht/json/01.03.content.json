@@ -117,7 +117,7 @@
 "type": "realia",
 "confidence": 0.9273,
 "match_method": "scored",
-"preferred_label": "Casting Net"
+"preferred_label": "撒網"
 }
 ]
 }
@@ -190,14 +190,14 @@
 "type": "realia",
 "confidence": 0.919,
 "match_method": "scored",
-"preferred_label": "Dragnet"
+"preferred_label": "拉網"
 },
 {
 "id": "realia:Net",
 "type": "realia",
 "confidence": 0.665,
 "match_method": "scored",
-"preferred_label": "Net"
+"preferred_label": "網"
 }
 ]
 }
@@ -317,7 +317,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Fishhook"
+"preferred_label": "魚鉤"
 }
 ]
 }
@@ -420,7 +420,7 @@
 "type": "realia",
 "confidence": 0.6189,
 "match_method": "scored",
-"preferred_label": "Harpoon"
+"preferred_label": "魚叉"
 }
 ]
 }

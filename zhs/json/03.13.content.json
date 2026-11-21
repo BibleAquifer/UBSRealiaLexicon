@@ -8231,7 +8231,7 @@
 "type": "realia",
 "confidence": 0.6465,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "瞭望楼"
 }
 ]
 }
@@ -10357,7 +10357,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Theater"
+"preferred_label": "戏院"
 }
 ]
 }
@@ -10412,7 +10412,7 @@
 "type": "realia",
 "confidence": 0.68,
 "match_method": "scored",
-"preferred_label": "Arena"
+"preferred_label": "运动场"
 }
 ]
 }

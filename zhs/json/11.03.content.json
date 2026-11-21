@@ -117,7 +117,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Seah"
+"preferred_label": "细亚"
 }
 ]
 }
@@ -328,7 +328,7 @@
 "type": "realia",
 "confidence": 0.8968,
 "match_method": "scored",
-"preferred_label": "Ephah"
+"preferred_label": "伊法"
 }
 ]
 }
@@ -413,7 +413,7 @@
 "type": "realia",
 "confidence": 0.88,
 "match_method": "scored",
-"preferred_label": "Homer"
+"preferred_label": "贺梅珥"
 }
 ]
 }
@@ -474,7 +474,7 @@
 "type": "realia",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Kor"
+"preferred_label": "柯珥"
 }
 ]
 }
@@ -535,7 +535,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Omer"
+"preferred_label": "俄梅珥"
 }
 ]
 }
@@ -590,7 +590,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Log"
+"preferred_label": "罗革"
 }
 ]
 }
@@ -729,7 +729,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Hin"
+"preferred_label": "欣"
 }
 ]
 }
@@ -802,7 +802,7 @@
 "type": "realia",
 "confidence": 0.95,
 "match_method": "scored",
-"preferred_label": "Bath"
+"preferred_label": "罢特"
 }
 ]
 }
@@ -907,7 +907,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Saton"
+"preferred_label": "斗"
 }
 ]
 }
@@ -950,7 +950,7 @@
 "type": "realia",
 "confidence": 0.7182,
 "match_method": "scored",
-"preferred_label": "Kor"
+"preferred_label": "石"
 }
 ]
 }

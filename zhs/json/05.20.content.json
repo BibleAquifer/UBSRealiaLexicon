@@ -419,7 +419,7 @@
 "type": "realia",
 "confidence": 0.775,
 "match_method": "scored",
-"preferred_label": "Bowl"
+"preferred_label": "碗"
 }
 ]
 }
@@ -498,7 +498,7 @@
 "type": "realia",
 "confidence": 0.7317,
 "match_method": "scored",
-"preferred_label": "Plate"
+"preferred_label": "盘子"
 }
 ]
 }
@@ -1057,7 +1057,7 @@
 "type": "realia",
 "confidence": 0.609,
 "match_method": "scored",
-"preferred_label": "Cup"
+"preferred_label": "杯"
 }
 ]
 }
@@ -1124,7 +1124,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Knife"
+"preferred_label": "刀"
 }
 ]
 }
